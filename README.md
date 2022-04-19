@@ -1,6 +1,6 @@
 # Trove newspaper totals
 
-This repository contains an automated git scraper that uses the Trove API to save information about the number of digitised newspaper articles currently available through Trove. It runs every week and updates two datasets:
+This repository contains an automated git scraper that uses the [Trove API](https://troveconsole.herokuapp.com/) to save information about the number of digitised newspaper articles currently available through [Trove](https://trove.nla.gov.au/). It runs every week and updates two datasets:
 
 * [total_articles_by_year.csv](data/total_articles_by_year.csv)
 * [total_articles_by_year_and_state.csv](data/total_articles_by_year_and_state.csv)
