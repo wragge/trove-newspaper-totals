@@ -20,6 +20,8 @@ jobs:
       with:
         path: 'requirements.txt'
     - name: Fetch latest data
+      env:
+        TROVE_API_KEY: ${{ secrets.TROVE_API_KEY }}
       run: python get_article_totals.py
     - name: Commit and push if it changed
       run: |-
