@@ -3,9 +3,9 @@
 This repository contains an automated git scraper that uses the Trove API to save information about the number of digitised newspaper articles currently available through Trove. It runs every week and updates two datasets:
 
 * [total_articles_by_year.csv](data/total_articles_by_year.csv)
-* [total_articles_by_year_and_state.csv](total_articles_by_year_and_state.csv)
+* [total_articles_by_year_and_state.csv](data/total_articles_by_year_and_state.csv)
 
-By retrieving all versions of these files from the commit history, you will be able to analyse changes in Trove over time.
+By retrieving all versions of these files from the commit history, you can analyse changes in Trove over time.
 
 ## Dataset details
 
