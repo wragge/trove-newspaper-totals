@@ -43,7 +43,7 @@ The harvesting code is available in `get_article_totals.py`. It uses the `year` 
 
 ## More datasets
 
-I have an incomplete run of similar datasets from 2011 onwards. I'm currently compiling these into a data package to support further analysis of how Trove has changed over time.
+I've also created a [repository of historical harvests](https://github.com/wragge/trove-newspaper-totals-historical), created between 2011 and 2022.
 
 ---
 
