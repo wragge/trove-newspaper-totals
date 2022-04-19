@@ -1,0 +1,6 @@
+*.pyc
+*.ipynb
+.ipynb_checkpoints
+data
+requirements-dev.*
+.env
