@@ -62,16 +62,16 @@ def get_facets(data):
         for term in data["response"]["zone"][0]["facets"]["facet"]["term"]:
 
             # Get the year and the number of results, and convert them to integers, before adding to our results
-            facets.append({"year": term["search"], "total": int(term["count"])})
+            facets.append({"term": term["search"], "total": int(term["count"])})
 
         # Sort facets by year
-        facets.sort(key=itemgetter("year"))
+        facets.sort(key=itemgetter("term"))
     except TypeError:
         pass
     return facets
 
 
-def get_facet_data(start_decade=180, end_decade=201, state=None):
+def get_year_totals(start_decade=180, end_decade=201, state=None):
     """
     Loop throught the decades from 'start_decade' to 'end_decade',
     getting the number of search results for each year from the year facet.
@@ -115,46 +115,93 @@ def get_facet_data(start_decade=180, end_decade=201, state=None):
         time.sleep(0.2)
 
     df = pd.DataFrame(facet_data)
+    df.columns = ['year', 'total']
     df = fill_missing_years(df)
     return df
 
-def get_states_data(start_decade=180, end_decade=202):
-    '''
-    Loop through a list of states getting the number of articles per year for each.
-    '''
+def get_state_totals(start_decade=180, end_decade=202):
     dfs = []
     for state in STATES:
-        facets = get_facet_data(state=state)
+        facets = get_year_totals(state=state)
         df = pd.DataFrame(facets)
-        # Fill in missing years
+        df.columns = ['year', 'total']
         df = fill_missing_years(df)
         df['state'] = state
         dfs.append(df)
         time.sleep(1)
     df_all = pd.concat(dfs)
-    # Order columns
     df_all = df_all[['state', 'year', 'total']]
     return df_all
 
+def get_newspaper_titles():
+    params = {
+        "key": API_KEY,
+        "encoding": "json"
+    }
+    response = s.get('https://api.trove.nla.gov.au/v2/newspaper/titles', params=params)
+    response.raise_for_status()
+    data = response.json()
+    df = pd.DataFrame(data['response']['records']['newspaper'])[['id', 'title', 'state', 'issn', 'startDate', 'endDate']]
+    df['id'] = df['id'].astype('Int64')
+    df.columns = ['title_id', 'title', 'state', 'issn', 'start_date', 'end_date']
+    return df
+
+def get_newspaper_totals():
+    params = {
+        "zone": "newspaper",
+        "key": API_KEY,
+        "encoding": "json",
+        "q": " ",
+        "facet": "title",
+        "n": 0  # We don't need any records, just the facets!
+    }
+
+    # Get the data from the API
+    data = get_results(params)
+    facet_data = get_facets(data)
+    df_totals = pd.DataFrame(facet_data)
+    df_totals.columns = ['title_id', 'total']
+    df_titles = get_newspaper_titles()
+    df = pd.merge(df_totals, df_titles, how='left', on='title_id')
+    # Some data is currently missing from the API newspapers endpoint
+    df.fillna('', inplace=True)
+    return df
+
+def get_category_totals():
+    params = {
+        "zone": "newspaper",
+        "key": API_KEY,
+        "encoding": "json",
+        "q": " ",
+        "facet": "category",
+        "n": 0  # We don't need any records, just the facets!
+    }
+
+    # Get the data from the API
+    data = get_results(params)
+    facet_data = get_facets(data)
+    df = pd.DataFrame(facet_data)
+    df.columns = ['category', 'total']
+    return df
+
 def fill_missing_years(df):
-    '''
-    Fills in any missing years in the current range.
-    Gives missing years a total value of 0.
-    '''
     df = df.set_index('year')
     df = df.reindex(range(df.index.min(), df.index.max() +1)).reset_index()
     df.fillna(0, inplace=True)
-    df.columns = ['year', 'total']
     df['year']= df['year'].astype('Int64')
     df['total']= df['total'].astype('Int64')
     return df
 
 def main():
     Path('data').mkdir(exist_ok=True)
-    df_totals = get_facet_data()
+    df_totals = get_year_totals()
     df_totals.to_csv(Path('data', f'total_articles_by_year.csv'), index=False)
-    df_states = get_states_data()
+    df_states = get_state_totals()
     df_states.to_csv(Path('data', f'total_articles_by_year_and_state.csv'), index=False)
+    df_newspapers = get_newspaper_totals()
+    df_newspapers.to_csv(Path('data', f'total_articles_by_newspaper.csv'), index=False)
+    df_categories = get_category_totals()
+    df_categories.to_csv(Path('data', f'total_articles_by_category.csv'), index=False)
 
 if __name__ == "__main__":
     main()
