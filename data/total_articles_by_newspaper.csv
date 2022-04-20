@@ -1,0 +1,1688 @@
+title_id,total,title,state,issn,start_date,end_date
+3,58090,The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842),New South Wales,18336310,1803-03-05,1842-10-20
+4,1923,The Hobart Town Gazette and Southern Reporter (Tas. : 1816 - 1821),Tasmania,18340946,1816-05-11,1821-01-13
+5,1556,Hobart Town Gazette and Van Diemen's Land Advertiser (Tas. : 1821 - 1825),Tasmania,18340954,1821-01-20,1825-08-12
+6,9386,The Perth Gazette and Western Australian Journal (WA : 1833 - 1847),Western Australia,18340938,1833-01-05,1847-12-25
+7,444692,"The South Australian Advertiser (Adelaide, SA : 1858 - 1889)",South Australia,1834092X,1858-07-12,1889-03-30
+8,377466,The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893),New South Wales,14403676,1843-01-07,1893-12-30
+9,132856,"Northern Territory Times and Gazette (Darwin, NT : 1873 - 1927)",Northern Territory,18340911,1873-11-07,1927-06-03
+10,3405189,"The Mercury (Hobart, Tas. : 1860 - 1954)",Tasmania,10399992,1860-07-02,1954-12-31
+11,3265867,The Canberra Times (ACT : 1926 - 1995),ACT,01576925,1926-09-03,1995-12-31
+12,1441736,"The Courier-Mail (Brisbane, Qld. : 1933 - 1954)",Queensland,13225235,1933-08-28,1954-12-31
+13,5182264,"The Argus (Melbourne, Vic. : 1848 - 1957)",Victoria,18339719,1848-09-15,1957-01-19
+14,18475,"The Moreton Bay Courier (Brisbane, Qld. : 1846 - 1861)",Queensland,1833556X,1846-06-20,1861-05-11
+15,20322,"The Courier (Brisbane, Qld. : 1861 - 1864)",Queensland,18335578,1861-05-14,1864-04-09
+16,2986438,The Brisbane Courier (Qld. : 1864 - 1933),Queensland,18335551,1864-04-11,1933-08-31
+18,5772,The Melbourne Argus (Vic. : 1846 - 1848),Victoria,18339700,1846-06-02,1848-09-12
+19,6072,The Hobart Town Courier (Tas. : 1827 - 1839),Tasmania,18354742,1827-10-20,1839-06-28
+20,1411,The Hobart Town Courier and Van Diemen's Land Gazette (Tas. : 1839 - 1840),Tasmania,18354750,1839-07-05,1840-10-02
+21,61961,"The Courier (Hobart, Tas. : 1840 - 1859)",Tasmania,18354769,1840-10-06,1859-05-31
+22,5603,The Hobart Town Gazette (Tas. : 1825 - 1833),Tasmania,18354777,1825-06-25,1833-02-22
+23,1196,"Colonial Times and Tasmanian Advertiser (Hobart, Tas. : 1825 - 1827)",Tasmania,18354718,1825-08-19,1827-10-12
+24,47942,"Colonial Times (Hobart, Tas. : 1828 - 1857)",Tasmania,18354734,1828-01-04,1857-08-22
+25,156350,"Northern Standard (Darwin, NT : 1921 - 1955)",Northern Territory,18355323,1921-02-19,1955-02-10
+26,13599,The Perth Gazette and Independent Journal of Politics and News (WA : 1848 - 1864),Western Australia,18355811,1848-01-01,1864-09-30
+27,762,"The West Australian Times (Perth, WA : 1863 - 1864)",Western Australia,1835582X,1863-10-01,1864-09-29
+28,8414,The Perth Gazette and West Australian Times (WA : 1864 - 1874),Western Australia,18355846,1864-10-07,1874-06-26
+29,9086,"The Western Australian Times (Perth, WA : 1874 - 1879)",Western Australia,18355838,1874-07-03,1879-11-14
+30,3360651,"The West Australian (Perth, WA : 1879 - 1954)",Western Australia,03126323,1879-11-18,1954-12-31
+31,6908,The Hobarton Mercury (Tas. : 1854 - 1857),Tasmania,18356710,1854-07-05,1857-01-30
+32,3196,The Hobart Town Mercury (Tas. : 1857),Tasmania,18356737,1857-02-02,1857-12-28
+33,18730,The Hobart Town Daily Mercury (Tas. : 1858 - 1860),Tasmania,18356729,1858-01-01,1860-06-30
+34,2222751,"The Advertiser (Adelaide, SA : 1889 - 1931)",South Australia,18356753,1889-04-01,1931-02-20
+35,5799634,The Sydney Morning Herald (NSW : 1842 - 1954),New South Wales,03126315,1842-08-01,1954-12-31
+36,22775,"Northern Territory Times (Darwin, NT : 1927 - 1932)",Northern Territory,18358667,1927-06-07,1932-06-28
+37,36814,The Sydney Herald (NSW : 1831 - 1842),New South Wales,18360807,1831-04-18,1842-07-30
+38,64194,"The Sunday Herald (Sydney, NSW : 1949 - 1953)",New South Wales,18360793,1949-01-23,1953-10-04
+39,21622,"The Sun-Herald (Sydney, NSW : 1953 - 1954)",New South Wales,13231987,1953-10-11,1954-12-26
+40,1065,"South Australian Gazette and Colonial Register (Adelaide, SA : 1836 - 1839)",South Australia,18367666,1836-06-18,1839-06-15
+41,1284842,"South Australian Register (Adelaide, SA : 1839 - 1900)",South Australia,18367674,1839-06-22,1901-02-28
+42,730943,"The Queenslander (Brisbane, Qld. : 1866 - 1939)",Queensland,18368190,1866-02-03,1939-02-22
+43,469479,Camperdown Chronicle (Vic. : 1877 - 1954),Victoria,14447541,1877-01-01,1954-12-31
+44,1766005,"The Advertiser (Adelaide, SA : 1931 - 1954)",South Australia,10394192,1931-10-01,1954-12-31
+45,46874,"Advertiser and Register (Adelaide, SA : 1931)",South Australia,18367682,1931-01-08,1931-09-30
+46,2092252,"Advocate (Burnie, Tas. : 1890 - 1954)",Tasmania,13210823,1919-01-03,1954-12-30
+47,58384,"Army News (Darwin, NT : 1941 - 1946)",Northern Territory,18355331,1941-10-26,1946-01-01
+48,14342,"Australasian Chronicle (Sydney, NSW : 1839 - 1843)",New South Wales,18373399,1839-08-02,1843-10-07
+49,5921,"The Australasian Sketcher with Pen and Pencil (Melbourne, Vic. : 1873 - 1889)",Victoria,18373429,1873-04-19,1889-12-26
+50,55405,"The Australian (Sydney, NSW : 1824 - 1848)",New South Wales,18373712,1824-10-14,1848-09-28
+51,78,The Australian Abo Call (National : 1938),National,14479060,1938-04-01,1938-09-01
+52,659104,"Australian Town and Country Journal (Sydney, NSW : 1870 - 1919)",New South Wales,18373666,1870-01-08,1919-06-25
+53,2109351,"Barrier Miner (Broken Hill, NSW : 1888 - 1954)",New South Wales,18373100,1889-03-01,1954-12-31
+54,1572,Bathurst Advocate (NSW : 1848 - 1849),New South Wales,18374026,1848-02-05,1849-09-22
+55,2079,Bathurst Free Press (NSW : 1849 - 1851),New South Wales,18374034,1849-10-06,1851-05-24
+56,223075,Bathurst Free Press and Mining Journal (NSW : 1851 - 1904),New South Wales,18374042,1851-05-28,1904-03-31
+57,18524,Bell's Life in Sydney and Sporting Chronicle (NSW : 1860 - 1870),New South Wales,1837364X,1860-10-13,1870-12-31
+58,27045,Bell's Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860),New South Wales,18373631,1845-01-04,1860-10-06
+59,155782,Burra Record (SA : 1878 - 1954),South Australia,18373437,1878-07-05,1954-12-21
+60,26483,Cairns Post (Qld. : 1884 - 1893),Queensland,18373135,1884-02-14,1893-05-20
+61,1918132,Cairns Post (Qld. : 1909 - 1954),Queensland,13228587,1909-07-05,1954-12-31
+62,42320,Cairns Morning Post (Qld. : 1907 - 1909),Queensland,18373143,1907-12-02,1909-07-03
+63,29493,"Centralian Advocate (Alice Springs, NT : 1947 - 1954)",Northern Territory,14471647,1947-05-24,1954-12-24
+64,326327,"Clarence and Richmond Examiner (Grafton, NSW : 1889 - 1915)",New South Wales,18373968,1889-07-27,1915-06-29
+65,101097,"Clarence and Richmond Examiner and New England Advertiser (Grafton, NSW : 1859 - 1889)",New South Wales,1837395X,1859-11-08,1889-12-31
+66,10092,"The Colonist (Sydney, NSW : 1835 - 1840)",New South Wales,18373933,1835-01-01,1840-12-31
+67,336526,"Empire (Sydney, NSW : 1850 - 1875)",New South Wales,18381057,1850-12-28,1875-02-09
+68,2867323,"Examiner (Launceston, Tas. : 1900 - 1954)",Tasmania,13210971,1900-01-01,1954-12-31
+69,545,"Federal Capital Pioneer (Canberra, ACT : 1924 - 1926)",ACT,18373062,1924-12-03,1926-08-20
+70,7689,"Illustrated Australian News (Melbourne, Vic. : 1876 - 1889)",Victoria,18373593,1876-01-19,1889-05-01
+71,1514,"Illustrated Australian News (Melbourne, Vic. : 1890 - 1896)",Victoria,18373623,1890-06-02,1892-12-01
+72,5704,"Illustrated Australian News for Home Readers (Melbourne, Vic. : 1867 - 1875)",Victoria,18373577,1867-07-20,1875-12-29
+73,245564,Kalgoorlie Western Argus (WA : 1896 - 1916),Western Australia,18373488,1896-02-13,1916-11-28
+74,650099,Launceston Examiner (Tas. : 1842 - 1899),Tasmania,18368204,1842-03-12,1899-12-30
+75,653515,"The Mail (Adelaide, SA : 1912 - 1954)",South Australia,18373674,1912-05-04,1954-12-18
+76,3041,"The Monitor (Sydney, NSW : 1826 - 1828)",New South Wales,18373844,1826-05-19,1828-08-11
+77,2282343,"Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)",Queensland,13227769,1878-01-03,1954-12-31
+78,7176,"Morning Chronicle (Sydney, NSW : 1843 - 1846)",New South Wales,18373402,1843-10-11,1846-07-08
+79,86082,"Morning Post (Cairns, Qld. : 1897 - 1907)",Queensland,18373119,1897-06-09,1907-11-30
+80,8397,"North Australian (Darwin, NT : 1883 - 1889)",Northern Territory,1835534X,1883-06-01,1889-05-25
+81,2215684,"Northern Star (Lismore, NSW : 1876 - 1954)",New South Wales,10366768,1876-05-13,1955-09-02
+83,3003,Queanbeyan Age and General Advertiser (NSW : 1864 - 1867),New South Wales,18374301,1864-05-19,1867-06-28
+84,66687,Queanbeyan Age (NSW : 1867 - 1904),New South Wales,1837428X,1867-07-05,1903-12-29
+86,31152,Queanbeyan Age (NSW : 1907 - 1915),New South Wales,18374298,1908-01-07,1914-12-25
+87,47464,The Queanbeyan Age and Queanbeyan Observer (NSW : 1915 - 1927),New South Wales,18374336,1915-01-05,1927-04-01
+88,96148,Queanbeyan Age (NSW : 1927 - 1954),New South Wales,13208381,1927-07-26,1939-12-22
+89,1947469,"The Register (Adelaide, SA : 1901 - 1929)",South Australia,18373860,1901-03-01,1928-12-31
+90,153465,"The Register News-Pictorial (Adelaide, SA : 1929 - 1931)",South Australia,18373887,1929-01-01,1931-02-20
+91,38493,Rockhampton Bulletin (Qld. : 1871 - 1878),Queensland,1837378X,1872-01-02,1878-01-01
+92,29726,Rockhampton Bulletin and Central Queensland Advertiser (Qld. : 1861 - 1871),Queensland,18373798,1861-07-09,1871-12-30
+93,943336,"Sunday Times (Perth, WA : 1902 - 1954)",Western Australia,14429527,1902-03-30,1955-02-27
+94,7993,Sydney Chronicle (NSW : 1846 - 1848),New South Wales,18373410,1846-07-11,1848-09-30
+95,26458,The Sydney Monitor (NSW : 1828 - 1838),New South Wales,18373836,1828-08-16,1838-10-03
+96,15429,The Sydney Monitor and Commercial Advertiser (NSW : 1838 - 1841),New South Wales,18373828,1838-10-03,1841-12-29
+97,1757382,Townsville Daily Bulletin (Qld. : 1907 - 1954),Queensland,08159726,1907-07-01,1955-01-31
+98,13616,"West Australian Sunday Times (Perth, WA : 1897 - 1902)",Western Australia,18373771,1897-12-19,1902-03-23
+99,1460,"Western Argus (Kalgoorlie, WA : 1894 - 1895)",Western Australia,18373496,1894-11-24,1895-12-19
+100,354982,"Western Argus (Kalgoorlie, WA : 1916 - 1938)",Western Australia,1837347X,1916-12-05,1938-06-28
+101,1035684,"Western Mail (Perth, WA : 1885 - 1954)",Western Australia,18373763,1885-12-19,1956-12-20
+102,241250,The Longreach Leader (Qld. : 1923 - 1954),Queensland,18373054,1923-01-05,1954-12-31
+103,2143,The Australian News for Home Readers (Vic. : 1864 - 1867),Victoria,18373542,1864-01-25,1867-06-28
+104,111,"Clarence and Richmond Examiner (Grafton, NSW : 1859)",New South Wales,18373941,1859-07-26,1859-09-06
+105,996,"Illustrated Australian News and Musical Times (Melbourne, Vic. : 1889 - 1890)",Victoria,18373615,1889-06-01,1890-05-01
+106,216938,Nambour Chronicle and North Coast Advertiser (Qld. : 1922 - 1954),Queensland,18397077,1922-12-22,1954-12-31
+107,4978,Illustrated Sydney News (NSW : 1853 - 1872),New South Wales,18365329,1853-10-08,1872-03-19
+108,437228,Gippsland Times (Vic. : 1861 - 1954),Victoria,18346456,1861-08-14,1954-12-23
+109,272710,Portland Guardian (Vic. : 1876 - 1953),Victoria,18346464,1876-07-04,1953-12-24
+110,58933,Portland Guardian and Normanby General Advertiser (Vic. : 1842 - 1843; 1854 - 1876),Victoria,08136149,1842-08-27,1876-06-30
+111,1122,"The North Australian and Northern Territory Government Gazette (Darwin, NT : 1889 - 1890)",Northern Territory,18373534,1889-06-01,1890-05-30
+112,395052,The Australian Women's Weekly (1933 - 1982),National,00050458,1933-06-10,1982-12-15
+113,13299,"The Age (Queanbeyan, NSW : 1904 - 1907)",New South Wales,18374344,1904-01-01,1907-12-31
+114,335,Braidwood Independent (NSW : 1867),New South Wales,18374328,1867-08-31,1867-10-16
+115,532368,The North Western Advocate and the Emu Bay Times (Tas. : 1899 - 1919),Tasmania,18379680,1899-01-04,1918-12-26
+116,16139,Emu Bay Times and North West and West Coast Advocate (Tas. : 1897 - 1899),Tasmania,18379699,1897-11-02,1899-11-11
+117,36707,Wellington Times and Agricultural and Mining Gazette (Tas. : 1890 - 1897),Tasmania,18379702,1890-10-01,1897-10-30
+118,56,Moonta Herald and Northern Territory Gazette (NT : 1869),Northern Territory,1837820X,1869-01-02,1869-02-24
+119,3964,Queanbeyan-Canberra Advocate (NSW : 1905 - 1927),New South Wales,18380816,1925-01-08,1927-03-31
+120,29110,Liverpool Herald (NSW : 1897 - 1907),New South Wales,18381065,1898-01-01,1912-05-16
+121,723,"The Children's Newspaper (Sydney, NSW : 1899 - 1900)",New South Wales,22090592,1899-01-30,1900-01-28
+122,2502,"Mercury (Fitzroy, Vic. : 1875 - 1877)",Victoria,18384048,1875-01-02,1877-03-17
+123,27846,Mercury and Weekly Courier (Vic. : 1878 - 1903),Victoria,18384056,1878-01-05,1903-02-21
+124,41372,"Yea Chronicle (Yea, Vic. : 1891 - 1920)",Victoria,18376924,1891-01-01,1920-12-23
+125,29,"Kilmore Free Press and Bourke and Dalhousie Advertiser (Kilmore, Vic. : 1865)",Victoria,18379559,1865-03-23,1865-03-23
+126,3480,"Kilmore Free Press and Counties of Bourke and Dalhousie Advertiser (Kilmore, Vic. : 1865 - 1868)",Victoria,18379567,1865-03-30,1867-12-26
+127,101836,"Kilmore Free Press (Kilmore, Vic. : 1870 - 1954)",Victoria,14452510,1870-01-06,1954-12-23
+128,1811,"The Broadford Courier and Reedy Creek Times (Broadford, Vic. : 1891)",Victoria,18379516,1891-02-28,1891-12-04
+129,3522,"The Broadford Courier (Broadford, Vic. : 1891 - 1893)",Victoria,18379524,1891-12-11,1893-08-24
+130,43761,"The Broadford Courier and Reedy Creek Times (Broadford, Vic. : 1893 - 1916)",Victoria,18379532,1893-09-01,1916-02-11
+131,5376,"The Broadford Courier (Broadford, Vic. : 1916 - 1920)",Victoria,18379540,1916-02-18,1920-12-24
+132,1851,"Morwell Advertiser and Weekly Chronicle (Morwell, Vic. : 1887 - 1888)",Victoria,18379621,1887-01-29,1888-06-30
+133,130880,"Morwell Advertiser (Morwell, Vic. : 1888 - 1954)",Victoria,1837963X,1888-07-07,1954-12-20
+134,3139,"Traralgon Record and Morwell, Mirboo,Toongabbie, Heyfield,Tyers and Callignee Advertiser (Traralgon, Vic. : 1883 - 1886)",Victoria,18379583,1883-12-14,1886-01-15
+135,169074,"Traralgon Record (Traralgon, Vic. : 1886 - 1932)",Victoria,18379591,1886-01-22,1932-12-22
+136,130445,"West Gippsland Gazette (Warragul, Vic. : 1898 - 1930)",Victoria,18379575,1898-07-05,1930-12-23
+137,30819,"Warragul Guardian and Buln Buln and Narracan Shire Advocate (Warragul, Vic. : 1879 - 1894)",Victoria,18380239,1879-10-16,1894-01-05
+138,3842,"Warragul Guardian and West Gippsland Advertiser (Warragul, Vic. : 1894)",Victoria,18380247,1894-01-09,1894-12-28
+139,25583,"Warragul Guardian (Warragul, Vic. : 1895 - 1900)",Victoria,18380255,1895-01-08,1900-12-28
+140,7921,Healesville Guardian (Vic. : 1893 - 1898),Victoria,18380263,1893-12-21,1898-01-29
+141,730,Healesville Guardian and Yarra Glen Advocate (Vic. : 1898),Victoria,18380271,1898-02-05,1898-08-13
+142,1945,Healesville Guardian and Yarra Glen Guardian (Vic. : 1898 - 1900),Victoria,1838028X,1898-08-20,1900-04-06
+143,72496,Healesville and Yarra Glen Guardian (Vic. : 1900 - 1942),Victoria,18380298,1900-04-20,1942-10-17
+144,13225,"Healesville Guardian (Lilydale, Vic. : 1942 - 1954)",Victoria,18380301,1942-10-24,1956-04-27
+145,37855,"Evelyn Observer, and South and East Bourke Record (Vic. : 1882 - 1902)",Victoria,1838031X,1882-06-09,1902-10-17
+146,33765,Evelyn Observer and Bourke East Record (Vic. : 1902 - 1917),Victoria,18380328,1902-10-24,1917-03-30
+147,6876,Eltham and Whittlesea Shires Advertiser and Diamond Creek Valley Advocate (Vic. : 1917 - 1922),Victoria,18380336,1917-04-06,1922-06-16
+148,43916,"Advertiser (Hurstbridge, Vic. : 1922 - 1939)",Victoria,18380344,1922-06-23,1939-12-22
+149,6499,Eltham and Whittlesea Shires Advertiser (Vic. : 1940 - 1942),Victoria,18380352,1940-01-12,1942-08-28
+150,9443,South Bourke Standard (Vic. : 1861 - 1873),Victoria,18384021,1861-05-31,1873-12-26
+151,22130,North Melbourne Advertiser (Vic. : 1873 - 1894),Victoria,18384013,1873-07-09,1894-04-27
+152,46924,Fitzroy City Press (Vic. : 1881 - 1920),Victoria,1838403X,1881-07-16,1920-06-04
+153,7106,Alexandra Times (Vic. : 1868 - 1877),Victoria,1325247X,1868-06-02,1877-06-30
+154,21,"Alexandra and Yea Standard, Thornton, Gobur and Acheron Express (Vic. : 1877)",Victoria,18376932,1877-07-07,1877-07-07
+155,39005,"Alexandra and Yea Standard, Gobur, Thornton and Acheron Express (Vic. : 1877 - 1908)",Victoria,18376940,1877-07-14,1908-02-14
+156,53312,"Alexandra and Yea Standard and Yarck, Gobur, Thornton and Acheron Express (Vic. : 1908 - 1949)",Victoria,13252488,1908-02-21,1949-06-24
+157,5385,"Alexandra Standard and Yarck, Gobur, Thornton, Taggerty and Acheron Express (Vic. : 1949 - 1954)",Victoria,13252496,1949-07-01,1954-12-24
+158,178,"The Leven Lever (Ulverstone, Tas. : 1919 - 1920)",Tasmania,18383769,1919-06-14,1920-12-11
+159,3564,Deloraine and Westbury Advertiser (Tas. : 1910 - 1912),Tasmania,18383750,1910-11-05,1912-10-26
+160,2712,"The Observer (Hobart, Tas. : 1845 - 1846)",Tasmania,18383777,1845-06-05,1846-03-31
+161,668,"The Australian Band of Hope Review, and Children's Friend (Sydney, NSW : 1856)",New South Wales,18388442,1856-01-05,1856-12-20
+162,471,"Australian Band of Hope Journal (Sydney, NSW : 1857 - 1857)",New South Wales,18388450,1857-01-03,1857-12-19
+163,482,"The Band of Hope Journal and Australian Home Companion (Sydney, NSW : 1858)",New South Wales,18388469,1858-01-02,1858-12-18
+164,1670,"The Australian Home Companion and Band of Hope Journal (Sydney, NSW : 1859 - 1861)",New South Wales,18388477,1859-01-01,1861-08-24
+165,57,Canberra Illustrated: A Quarterly Magazine (ACT : 1925),ACT,18388663,1925-11-01,1925-11-01
+166,1491,Canberra Community News (ACT : 1925 - 1927),ACT,18388671,1925-10-14,1927-12-16
+167,422,"The Federal Capital Pioneer Magazine (Canberra, ACT : 1926 - 1927)",ACT,1838868X,1926-10-15,1927-08-20
+168,154,Malvern and Caulfield Standard (Vic. : 1906),Victoria,18389023,1906-09-15,1906-10-27
+169,38088,Malvern Standard (Vic. : 1906 - 1931),Victoria,18389031,1906-11-03,1931-02-12
+170,163791,"The Cornwall Chronicle (Launceston, Tas. : 1835 - 1880)",Tasmania,18389015,1835-02-14,1880-08-30
+171,12667,"Southern Australian (Adelaide, SA : 1838 - 1844)",South Australia,18389007,1838-06-02,1844-11-01
+172,20553,"South Australian (Adelaide, SA : 1844 - 1851)",South Australia,1838899X,1844-11-05,1851-08-19
+173,170547,Geraldton Guardian (WA : 1906 - 1928),Western Australia,18390625,1906-10-02,1942-05-17
+174,2203,Adelaide Morning Chronicle (SA : 1852 - 1853),South Australia,18388981,1852-06-14,1853-03-29
+175,378672,The Albany Advertiser (WA : 1897 - 1954),Western Australia,22095918,1897-02-20,1954-04-02
+176,3586,"Hawkesbury Advocate (Windsor, NSW : 1899 - 1900)",New South Wales,18389341,1899-10-06,1900-12-07
+177,6844,"Hawkesbury Chronicle and Farmers Advocate (Windsor, NSW : 1881 - 1888)",New South Wales,1838935X,1881-05-28,1888-05-26
+178,1678,"Hawkesbury Courier and Agricultural and General Advertiser (Windsor, NSW : 1844 - 1846)",New South Wales,18389638,1844-07-11,1846-11-05
+179,13136,"Hawkesbury Herald (Windsor, NSW : 1902 - 1945)",New South Wales,18389376,1902-05-01,1945-06-27
+180,228445,"The Inquirer and Commercial News (Perth, WA : 1855 - 1901)",Western Australia,18389767,1855-07-04,1901-06-28
+181,9858,"Inquirer (Perth, WA : 1840 - 1855)",Western Australia,14401312,1840-08-05,1855-06-27
+182,3230,"The Leader (Liverpool, NSW : 1946 - 1949)",New South Wales,18387578,1946-08-15,1949-03-10
+183,16579,Liverpool News (NSW : 1937 - 1941),New South Wales,18387276,1937-04-15,1941-12-24
+184,5387,"The Australian, Windsor, Richmond, and Hawkesbury Advertiser (NSW : 1873 - 1899)",New South Wales,18389333,1873-09-27,1899-05-25
+185,1463692,The Ballarat Star (Vic. : 1865 - 1924),Victoria,18389864,1865-01-02,1924-09-13
+186,581273,"The Capricornian (Rockhampton, Qld. : 1875 - 1929)",Queensland,18389775,1875-01-02,1929-12-26
+187,431304,"The Central Queensland Herald (Rockhampton, Qld. : 1930 - 1956)",Queensland,18389783,1930-01-02,1956-11-29
+188,546610,The Dubbo Liberal and Macquarie Advocate (NSW : 1894 - 1954),New South Wales,18389805,1894-01-03,1954-12-31
+189,63017,"The Star (Ballarat, Vic. : 1855 - 1864)",Victoria,18389856,1855-09-22,1864-12-31
+190,159,Windsor Express and Richmond Advertiser (NSW : 1843 - 1844),New South Wales,18389384,1843-05-17,1844-05-09
+191,284473,"Worker (Brisbane, Qld. : 1890 - 1955)",Queensland,00438065,1890-03-01,1955-12-26
+192,228074,Windsor and Richmond Gazette (NSW : 1888 - 1965),New South Wales,08121885,1888-07-21,1961-05-03
+193,152694,Williamstown Chronicle (Vic. : 1856 - 1954),Victoria,18387144,1856-09-13,1954-12-23
+194,24474,"The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)",Victoria,18384773,1888-02-18,1902-01-04
+195,30949,Kerang Times and Swan Hill Gazette (Vic. : 1877 - 1889),Victoria,18384838,1877-09-14,1894-11-09
+196,14113,Kyabram Union (Vic. : 1886 - 1894),Victoria,18384811,1886-05-28,1894-03-09
+197,2060,The Kyabram Union and Rodney Shire Advocate (Vic. : 1894 - 1894),Victoria,1838482X,1894-03-16,1894-12-21
+198,844,"The Elsternwick Leader and District Record (Brighton, Vic. : 1887 - 1888)",Victoria,18384757,1887-08-06,1888-02-04
+199,32,"The Elsternwick Leader (Brighton, Vic. : 1888)",Victoria,18384765,1888-02-11,1888-02-11
+200,47,"The Elsternwick Leader and Caulfield and Balaclava Guardian (Brighton, Vic. : 1887)",Victoria,18384749,1887-07-23,1887-07-30
+201,17,"Elsternwick Leader and East Brighton, ... (Vic. : 1887)",Victoria,18384730,1887-07-16,1887-07-16
+202,12226,The Sunbury News (Vic. : 1900 - 1927),Victoria,18384862,1900-07-07,1910-12-24
+203,7915,The Sunbury News and Bulla and Melton Advertiser (Vic. : 1892 - 1900),Victoria,18384854,1892-11-26,1900-06-30
+204,141634,Wodonga and Towong Sentinel (Vic. : 1885 - 1954),Victoria,18387705,1885-09-05,1954-12-24
+205,38293,Mornington Standard (Vic. : 1889 - 1908),Victoria,18384781,1889-10-05,1908-07-04
+206,3615,Mornington and Dromana Standard (Vic. : 1908 - 1911),Victoria,1838479X,1908-07-11,1911-03-04
+207,43799,The Coburg Leader (Vic. : 1890 - 1913),Victoria,18387152,1890-08-06,1913-03-28
+208,83739,"South Bourke and Mornington Journal (Richmond, Vic. : 1877 - 1920; 1926 - 1927)",Victoria,18388213,1877-01-10,1927-08-25
+209,86281,The Maffra Spectator (Vic. : 1882 - 1920),Victoria,18387683,1882-02-02,1920-12-30
+210,11755,"Mornington Standard (Frankston, Vic. : 1911 - 1920)",Victoria,18384803,1911-03-11,1920-12-24
+211,41124,The Kerang Times (Vic. : 1889 - 1901),Victoria,18384846,1888-12-07,1901-03-26
+212,335,The Sunbury News (Vic. : 1892),Victoria,01566350,1892-06-18,1892-11-19
+213,32,Williamstown Trade Circular (Vic. : 1855 - 1856),Victoria,18387136,1855-06-02,1856-09-06
+214,577,"Oakleigh Leader and District Record (Brighton, Vic. : 1887 - 1888)",Victoria,18384064,1887-10-15,1888-02-04
+215,28648,"Oakleigh Leader (North Brighton, Vic. : 1888 - 1902)",Victoria,18384072,1888-02-11,1902-01-04
+216,53630,Benalla Ensign (Vic. : 1938 - 1954),Victoria,13268635,1938-02-18,1954-12-23
+217,341,"Euroa Advertiser and Violet Town, Longwood, Avenel, Strathbogie, Balmattam and Miepoll Gazette (Vic. : 1884)",Victoria,18387667,1884-03-15,1884-07-18
+218,91065,Euroa Advertiser (Vic. : 1884 - 1920),Victoria,18387675,1884-07-25,1920-12-24
+220,173556,Geraldton Guardian and Express (WA : 1929 - 1947),Western Australia,18390633,1929-01-03,1947-12-30
+221,21573,Geraldton Guardian (WA : 1948 - 1950),Western Australia,14433346,1948-01-03,1950-12-30
+222,83722,"The North Eastern Ensign (Benalla, Vic. : 1872 - 1938)",Victoria,13268627,1872-04-05,1938-02-11
+223,3229,The Benalla Ensign and Farmer's and Squatter's Journal (Vic. : 1869 - 1872),Victoria,18387659,1869-07-23,1872-03-30
+224,7631,"The Castlereagh (Gilgandra, NSW : 1905 - 1907)",New South Wales,18394841,1905-01-13,1907-12-20
+225,636732,The Horsham Times (Vic. : 1882 - 1954),Victoria,18388175,1882-01-17,1954-12-31
+227,151683,Warrnambool Standard (Vic. : 1914 - 1918),Victoria,08129762,1914-01-02,1918-12-31
+228,95536,The Mildura Cultivator (Vic. : 1888 - 1920),Victoria,18387691,1888-05-19,1920-09-29
+229,34373,The Ararat Advertiser (Vic. : 1914 - 1918),Victoria,18389120,1914-01-03,1918-12-31
+230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
+231,63627,"Independent (Footscray, Vic. : 1883 - 1922)",Victoria,18389201,1883-03-31,1922-12-23
+232,427514,The Ballarat Courier (Vic. : 1869 - 1884; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
+233,1997,"Frankston Standard (Frankston, Vic. : 1949)",Victoria,18388205,1949-08-04,1949-12-21
+234,2108,"Queenscliff Sentinel, Drysdale, ... (Vic. : 1882 - 1884)",Victoria,18387160,1882-12-02,1884-12-20
+235,1155,The Queenscliff Sentinel (Vic. : 1884 - 1885),Victoria,18387179,1884-12-27,1885-06-13
+236,62005,Frankston and Somerville Standard (Vic. : 1921 - 1939),Victoria,18388183,1921-01-07,1939-05-05
+237,37167,"Standard (Frankston, Vic. : 1939 - 1949)",Victoria,18388191,1939-05-12,1949-07-28
+238,63389,Werribee Shire Banner (Vic. : 1911 - 1952),Victoria,1838966X,1911-09-07,1952-12-25
+239,109184,"The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)",Victoria,18390986,1863-05-14,1918-12-26
+240,223490,Bairnsdale Advertiser and Tambo and Omeo Chronicle (Vic. : 1882 - 1918),Victoria,18389139,1882-02-14,1918-12-25
+241,218117,The Colac Herald (Vic. : 1875 - 1918),Victoria,18337325,1869-12-31,1918-12-30
+242,19138,"The Essendon Gazette and Keilor, Bulla and Broadmeadows Reporter (Moonee Ponds, Vic. : 1914 - 1918)",Victoria,18390978,1914-01-01,1918-12-19
+243,27942,"The Lilydale Express and Yarra Glen, Wandin Yallock, Upper Yarra, Healesville and Ringwood Chronicle (Vic. : 1898 - 1914)",Victoria,1839101X,1898-01-07,1914-06-19
+244,72673,"The Reporter (Box Hill, Vic. : 1889 - 1925)",Victoria,1839096X,1889-06-26,1925-03-27
+245,54235,Brighton Southern Cross (Vic. : 1896 - 1918),Victoria,18390943,1896-01-04,1918-12-21
+246,122970,The Bacchus Marsh Express (Vic. : 1866 - 1943),Victoria,18390951,1866-07-21,1943-08-21
+247,167067,The Prahran Telegraph (Vic. : 1889 - 1930),Victoria,18391028,1889-01-05,1930-08-30
+248,181468,"Record (Emerald Hill, Vic. : 1881 - 1954)",Victoria,18389694,1881-04-01,1954-12-22
+249,18113,The Casterton News and the Merino and Sandford Record (Vic. : 1914 - 1918),Victoria,18389198,1914-01-05,1918-12-30
+250,44447,The Lilydale Express (Vic. : 1886 - 1897 ; 1914 - 1926),Victoria,10362894,1886-06-30,1926-12-24
+251,73987,Sunshine Advocate (Vic. : 1924 - 1954),Victoria,10364439,1924-03-01,1954-12-23
+252,10711,"The Dawn (Sydney, NSW : 1888 - 1905)",New South Wales,18397468,1888-05-15,1905-07-01
+253,347482,"Mirror (Perth, WA : 1921 - 1956)",Western Australia,18396305,1921-04-17,1956-08-11
+254,227018,"Northern Times (Carnarvon, WA : 1905 - 1952)",Western Australia,08140170,1905-08-26,1952-06-05
+255,3283,"The Sunday Mirror (Perth, WA : 1920 - 1921)",Western Australia,18396313,1920-06-27,1921-04-10
+256,214586,"The Biz (Fairfield, NSW : 1928 - 1972)",New South Wales,18397352,1928-11-03,1972-06-15
+257,65268,"The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)",Queensland,18396755,1858-06-10,1880-12-22
+258,1231206,"The Northern Miner (Charters Towers, Qld. : 1874 - 1954)",Queensland,18396763,1874-05-30,1954-12-30
+259,308652,Warwick Examiner and Times (Qld. : 1867 - 1919),Queensland,1839681X,1867-03-08,1919-01-29
+260,10024,Warwick Argus and Tenterfield Chronicle (Qld. : 1866 - 1879),Queensland,18396828,1866-02-10,1879-08-21
+261,92495,Warwick Argus (Qld. : 1879 - 1901),Queensland,18396836,1879-08-26,1901-12-31
+262,11527,"The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)",Queensland,18396801,1856-01-01,1862-04-29
+263,4983,"North Australian and Queensland General Advertiser (Ipswich, Qld. : 1862 - 1863)",Queensland,18396798,1862-05-01,1863-09-12
+264,5314,"The North Australian (Brisbane, Qld. : 1863 - 1865)",Queensland,18397050,1863-09-15,1865-03-25
+265,14646,"The Western Champion (Blackall/Barcaldine, Qld. : 1879 - 1891)",Queensland,18397220,1879-07-26,1891-12-29
+266,135031,"The Western Champion and General Advertiser for the Central-Western Districts (Barcaldine, Qld. : 1892 - 1922)",Queensland,18396844,1892-01-26,1922-02-11
+267,73140,"The Western Champion (Barcaldine, Qld. : 1922 - 1937)",Queensland,18396852,1922-02-18,1937-02-13
+268,10367,"The Northern Mining Register (Charters Towers, Qld. : 1891 - 1892)",Queensland,18396771,1891-03-04,1892-06-08
+269,139853,"The North Queensland Register (Townsville, Qld. : 1892 - 1905)",Queensland,1849678X,1892-06-15,1905-12-18
+270,454556,Zeehan and Dundas Herald (Tas. : 1890 - 1922),Tasmania,18397158,1890-10-14,1922-05-31
+271,33928,"The Clipper (Hobart, Tas. : 1893 - 1909)",Tasmania,1839714X,1893-04-08,1909-12-25
+272,17139,Launceston Advertiser (Tas. : 1829 - 1846),Tasmania,18397166,1829-02-09,1846-12-31
+273,193,"Tasmanian and Port Dalrymple Advertiser (Launceston, Tas. : 1825)",Tasmania,18397174,1825-01-05,1825-05-18
+274,108047,"The Charleville Times (Brisbane, Qld. : 1896 - 1954)",Queensland,18397824,1896-05-16,1954-12-30
+275,3041598,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1951-12-31
+276,733101,"Border Watch (Mount Gambier, SA : 1861 - 1954)",South Australia,13295195,1861-04-26,1954-12-30
+277,3155,Adelaider Deutsche Zeitung (SA : 1851 - 1862),South Australia,1839812X,1851-04-02,1862-12-26
+278,20996,"Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)",South Australia,18398197,1860-12-15,1874-12-29
+279,44599,"Il Giornale Italiano (Sydney, NSW : 1932 - 1940)",New South Wales,18398529,1932-03-19,1940-06-05
+280,12009,"Meie Kodu = Our Home (Sydney, NSW : 1949 - 1956)",New South Wales,18398472,1949-08-19,1956-12-20
+281,726305,Singleton Argus (NSW : 1880 - 1954),New South Wales,13215434,1880-07-14,1954-12-24
+282,21868,The Singleton Argus and Upper Hunter General Advocate (NSW : 1874 - 1880),New South Wales,18398545,1874-07-15,1880-07-10
+283,32839,Geelong Advertiser and Intelligencer (Vic. : 1851 - 1856),Victoria,14401428,1851-12-22,1856-08-09
+284,17433,Geelong Advertiser (Vic. : 1847 - 1851),Victoria,1440141X,1847-10-29,1851-12-20
+285,5168,Geelong Advertiser and Squatters' Advocate (Vic. : 1845 - 1847),Victoria,14401401,1845-05-28,1847-10-26
+286,57683,Chronicle and North Coast Advertiser (Qld. : 1903 - 1922),Queensland,22001174,1903-07-31,1922-12-15
+287,62017,"South Australian Weekly Chronicle (Adelaide, SA : 1858 - 1867)",South Australia,22001026,1858-07-17,1867-12-28
+288,120008,"South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)",South Australia,22001042,1868-01-04,1881-04-09
+289,112106,"South Australian Weekly Chronicle (Adelaide, SA : 1881 - 1889)",South Australia,22001069,1881-04-16,1889-03-09
+290,122001,"South Australian Chronicle (Adelaide, SA : 1889 - 1895)",South Australia,22001093,1889-03-16,1895-09-28
+291,1214105,"Chronicle (Adelaide, SA : 1895 - 1954)",South Australia,22001131,1895-10-05,1954-12-30
+292,7442,Geelong Advertiser (Vic. : 1840 - 1845),Victoria,14401398,1840-11-21,1845-05-24
+293,23081,The Brunswick and Coburg Leader (Vic. : 1914 - 1926),Victoria,22002480,1914-01-02,1924-12-19
+294,58,Broadmeadows Camp Sentry (Vic. : 1917),Victoria,22000879,1917-07-27,1917-08-03
+295,10277,"Advertiser (Footscray, Vic. : 1914 - 1918)",Victoria,22000941,1914-01-10,1918-12-21
+296,76654,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1918)",Victoria,22000615,1893-10-03,1918-12-31
+297,96547,Kerang New Times (Vic. : 1901 - 1918),Victoria,22002510,1901-03-29,1918-12-24
+298,9721,Portland Observer and Normanby Advertiser (Vic. : 1914 - 1918),Victoria,22000925,1914-01-05,1918-12-23
+299,25612,St Arnaud Mercury (Vic. : 1914 - 1918),Victoria,22000771,1914-01-07,1918-12-28
+300,17759,Swan Hill Guardian and Lake Boga Advocate (Vic. : 1914 - 1918),Victoria,22000895,1914-01-05,1918-12-30
+301,24465,Wangaratta Chronicle (Vic. : 1914 - 1918),Victoria,22000798,1914-01-07,1918-12-28
+302,8731,Williamstown Advertiser (Vic. : 1914 - 1918),Victoria,22002502,1914-01-03,1918-12-21
+303,19303,Flemington Spectator (Vic. : 1914 - 1918),Victoria,22001115,1914-01-01,1918-12-19
+304,6004,Oakleigh and Caulfield Times Mulgrave and Ferntree Gully Guardian (Vic. : 1914 - 1918),Victoria,22001158,1914-01-10,1918-12-21
+305,55125,"Ouyen Mail (Vic. : 1915 - 1918, 1931 - 1941)",Victoria,22001468,1915-08-04,1941-12-24
+306,1546,Ouyen Mail and Central Mallee Advertiser (Vic. : 1914 - 1915),Victoria,22001441,1914-01-02,1915-07-28
+307,34055,Port Fairy Gazette (Vic. : 1914 - 1918),Victoria,22002529,1914-01-02,1946-12-28
+308,12222,Port Melbourne Standard (Vic. : 1914 - 1920),Victoria,22001298,1914-05-30,1920-02-28
+309,35956,Prahran Chronicle (Vic. : 1894 - 1906; 1914 - 1918),Victoria,22001735,1894-01-06,1918-12-21
+310,79178,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1895; 1902 - 1924),Victoria,22001573,1884-01-05,1922-12-23
+311,963548,"The Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954; 1998 - 2002)",Victoria,2200159X,1869-01-09,2002-12-30
+312,15153,"Dandenong Advertiser and Cranbourne, Berwick and Oakleigh Advocate (Vic. : 1914 - 1918)",Victoria,22001751,1914-01-01,1918-12-24
+313,8299,"Queenscliff Sentinel, Drysdale, Portarlington, Sorrento Advertiser (Vic. : 1914 - 1918)",Victoria,22002499,1914-01-03,1918-12-21
+314,47,"Suedaustralische Zeitung (Adelaide, SA : 1850 - 1851)",South Australia,22002545,1850-05-02,1851-04-14
+315,64055,"Bendigonian (Bendigo, Vic. : 1914 - 1918)",Victoria,18346448,1914-01-06,1918-12-27
+316,32839,"Gippsland Mercury (Sale, Vic. : 1914 - 1918)",Victoria,22001611,1914-01-06,1918-12-31
+317,66436,Maryborough and Dunolly Advertiser (Vic. : 1857 - 1867 ; 1914 - 1918),Victoria,22001557,1857-08-04,1918-12-30
+318,9302,Sandringham Southern Cross (Vic. : 1914 - 1918),Victoria,22001638,1914-01-03,1918-12-21
+319,738095,"Leader (Melbourne, Vic. : 1862 - 1918, 1935)",Victoria,22002219,1862-01-04,1935-06-29
+320,9757,"Berwick Shire News and Pakenham and Cranbourne Gazette (Berwick, Vic. : 1914 - 1917)",Victoria,13241419,1914-01-07,1917-04-11
+321,10689,"Great Southern Star (Leongatha, Vic. : 1914 - 1918)",Victoria,22000674,1914-01-06,1918-12-31
+322,397,Hawthorn and Camberwell Citizen (Vic. : 1914),Victoria,22001484,1914-01-02,1914-06-09
+323,7963,"Hawthorn, Kew, Camberwell Citizen (Vic. : 1914 - 1918)",Victoria,22001506,1914-05-01,1918-12-20
+324,4015,Heidelberg News and Greensborough and Diamond Creek Chronicle (Vic. : 1914 - 1916),Victoria,22001212,1914-01-03,1916-07-01
+325,3221,"Heidelberg News and Greensborough, Eltham and Diamond Creek Chronicle (Vic. : 1916 - 1918)",Victoria,22001255,1916-07-08,1918-12-21
+326,412836,"Ovens and Murray Advertiser (Beechworth, Vic. : 1855 - 1918)",Victoria,22001352,1855-01-13,1918-12-28
+327,4559,"Pakenham Gazette and Berwick Shire News (Pakenham East, Vic. : 1917 - 1918)",Victoria,22001336,1917-05-10,1918-12-20
+328,15084,Preston Leader (Vic. : 1914 - 1918),Victoria,22001190,1914-01-10,1918-12-21
+329,7733,Ringwood and Croydon Chronicle (Vic. : 1914 - 1918),Victoria,22001778,1914-08-07,1918-12-20
+330,20886,"Snowy River Mail (Orbost, Vic. : 1911 - 1918)",Victoria,22000739,1911-09-07,1918-12-20
+331,304735,Shepparton Advertiser (Vic. : 1914 - 1953),Victoria,22000658,1914-01-05,1953-06-26
+332,63597,Melton Express (Vic. : 1915 - 1943),Victoria,22000755,1915-01-09,1943-08-21
+333,10393,Moorabbin News (Vic. : 1914 - 1918),Victoria,22000690,1914-01-10,1918-12-21
+334,28411,"Seymour Express and Goulburn Valley, Avenel, Graytown, Nagambie, Tallarook and Yea Advertiser (Vic. : 1882 - 1891; 1914 - 1918)",Victoria,22000712,1882-01-06,1918-12-20
+335,62904,"Standard (Port Melbourne, Vic. : 1884 - 1914)",Victoria,22001271,1884-05-24,1914-05-23
+336,63597,"Queensland Figaro (Brisbane, Qld. : 1901 - 1936)",Queensland,22002855,1901-08-15,1936-10-17
+337,18214,"Queensland Figaro and Punch (Brisbane, Qld. : 1885 - 1889)",Queensland,22002847,1885-07-04,1889-11-02
+338,6007,"Queensland Figaro (Brisbane, Qld. : 1883 - 1885)",Queensland,22002839,1883-01-06,1885-06-27
+339,2072,Launceston Courier (Tas. : 1840 - 1843),Tasmania,14401436,1840-10-12,1843-03-27
+340,997,The Charleville Courier (Qld. : 1896 - 1898),Queensland,22003916,1896-05-16,1898-11-26
+341,649,"Southern Advertiser (Bunbury, WA : 1888)",Western Australia,22004238,1888-01-03,1888-08-14
+342,2340831,Kalgoorlie Miner (WA : 1895 - 1954),Western Australia,13226681,1895-09-14,1954-12-31
+343,11476,Coolgardie Miner (WA : 1913 - 1917),Western Australia,22004254,1913-03-01,1917-12-29
+344,74943,The Bunbury Herald and Blackwood Express (WA : 1919 - 1929),Western Australia,22004203,1919-08-16,1929-12-20
+345,129864,Bunbury Herald (WA : 1892 - 1919),Western Australia,22004181,1892-09-28,1919-08-13
+346,1246284,Bendigo Advertiser (Vic. : 1855 - 1918),Victoria,22004696,1855-09-01,1918-12-31
+347,625694,"Recorder (Port Pirie, SA : 1919 - 1954)",South Australia,2200436X,1919-01-25,1954-12-31
+348,142669,Port Pirie Recorder and North Western Mail (SA : 1898 - 1918),South Australia,22004327,1898-07-09,1918-01-22
+349,15978,Port Pirie Recorder (SA : 1918 - 1919),South Australia,22004343,1918-01-23,1919-01-24
+350,314441,"Nepean Times (Penrith, NSW : 1882 - 1962)",New South Wales,22004416,1882-03-03,1962-11-29
+351,655581,"The Cumberland Argus and Fruitgrowers Advocate (Parramatta, NSW : 1888 - 1950)",New South Wales,22004394,1888-09-22,1950-03-15
+352,3227,"Irrigation Record (Leeton, NSW : 1913 - 1917)",New South Wales,22004076,1913-02-15,1917-06-15
+353,13778,The Newcastle Chronicle and Hunter River District News (NSW : 1859 - 1866),New South Wales,22006893,1859-12-31,1866-07-25
+354,39930,The Newcastle Chronicle (NSW : 1866 - 1876),New South Wales,22006915,1866-07-28,1876-07-15
+355,11194,"Miners' Advocate and Northumberland Recorder (Newcastle, NSW : 1873 - 1876)",New South Wales,22006958,1873-12-20,1876-04-01
+356,3559146,Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954),New South Wales,22006966,1876-04-05,1954-12-31
+357,13499,"Globe (Sydney, NSW : 1885 - 1886)",New South Wales,22007016,1885-11-16,1886-06-30
+358,39199,"Globe (Sydney, NSW : 1911 - 1914)",New South Wales,22007032,1911-04-05,1914-10-17
+359,12798,"The Globe and Sunday Times War Pictorial (Sydney, NSW : 1914 - 1917)",New South Wales,22007059,1914-10-24,1917-06-25
+360,570,The Kiama Independent and Illawarra and Shoalhaven Advertiser (NSW : 1863),New South Wales,22007156,1863-07-21,1863-10-06
+361,220731,"The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)",New South Wales,22007172,1863-10-13,1947-04-02
+362,70937,The Kiama Reporter and Illawarra Journal (NSW : 1899 - 1947),New South Wales,22007229,1899-01-04,1947-05-07
+363,25587,Kiama Independent (NSW : 1947 - 1954),New South Wales,22007245,1947-04-02,1954-12-24
+364,22144,The Goulburn Herald and County of Argyle Advertiser (NSW : 1848 - 1859),New South Wales,22007113,1848-07-01,1859-12-31
+365,9390,Goulburn Herald (NSW : 1860 - 1864),New South Wales,2200727X,1860-01-04,1864-03-30
+366,56670,The Goulburn Herald and Chronicle (NSW : 1864 - 1881),New South Wales,22007296,1864-04-02,1881-03-30
+367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
+368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
+369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
+370,145571,Port Lincoln Times (SA : 1927 - 1954),South Australia,13215272,1927-08-05,1954-12-23
+371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
+372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
+373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
+374,323019,Western Star and Roma Advertiser (Qld. : 1875 - 1948),Queensland,22007393,1875-03-27,1948-10-29
+375,450161,"Sunday Mail (Brisbane, Qld. : 1926 - 1954)",Queensland,13225243,1926-10-03,1954-12-26
+376,845,Ipswich Herald and General Advertiser (Qld. : 1861),Queensland,22007458,1861-03-29,1861-08-30
+377,516978,"Queensland Times, Ipswich Herald and General Advertiser (Qld. : 1861 - 1908)",Queensland,22007474,1861-10-08,1908-12-31
+378,1862661,"Queensland Times (Ipswich, Qld. : 1909 - 1954)",Queensland,13295950,1909-01-01,1954-12-31
+379,185996,Queensland Country Life (Qld. : 1900 - 1954),Queensland,1321165X,1900-03-28,1954-12-30
+380,1051,Kiama Examiner (NSW : 1858 - 1859),New South Wales,22007792,1858-12-18,1859-12-10
+381,6683,"Examiner (Kiama, NSW : 1859 - 1862)",New South Wales,22007814,1859-12-17,1862-12-30
+382,12744,Wagga Wagga Express and Murrumbidgee District Advertiser (NSW : 1858 - 1859; 1866; 1872 - 1874),New South Wales,22007962,1858-10-30,1874-12-30
+383,31743,"The Telegraph, St Kilda, Prahran and South Yarra Guardian (Vic. : 1864 - 1888)",Victoria,22008055,1864-03-19,1888-12-29
+384,14015,North Melbourne Gazette (Vic. : 1894 - 1901),Victoria,2200808X,1894-06-08,1901-01-25
+385,36116,North Melbourne Courier and West Melbourne Advertiser (Vic. : 1895 - 1913),Victoria,22008101,1895-11-08,1913-10-31
+386,24560,"The Herald (Fremantle, WA : 1867 - 1886)",Western Australia,22008128,1867-02-02,1886-07-03
+387,1570,The Bowral Free Press (NSW : 1884),New South Wales,2200601X,1884-03-22,1884-11-01
+388,1378,Kiama Reporter (NSW : 1886 - 1887),New South Wales,22010181,1886-07-14,1887-08-06
+389,10234,"Reporter and Illawarra Journal (Kiama, NSW : 1887 - 1894)",New South Wales,2201019X,1887-08-10,1894-12-29
+390,18051,"The Yarragon, Trafalgar and Moe Settlement News (Vic. : 1904 - 1920)",Victoria,22010998,1904-03-03,1920-12-23
+391,237,The Bega Gazette and County of Auckland Advertiser (NSW : 1865),New South Wales,22012230,1865-02-25,1865-06-24
+392,18252,The Bega Gazette and Eden District or Southern Coast Advertiser (NSW : 1865 - 1899),New South Wales,22012257,1865-07-01,1899-12-30
+393,32519,The Cobargo Chronicle (NSW : 1898 - 1944),New South Wales,2201229X,1898-11-18,1944-09-15
+394,430,Twofold Bay and Maneroo Observer (NSW : 1860),New South Wales,22012273,1860-10-02,1860-12-24
+395,812266,"Daily Herald (Adelaide, SA : 1910 - 1924)",South Australia,22012516,1910-03-07,1924-06-16
+396,30549,"Herald (Adelaide, SA : 1899 - 1910)",South Australia,22012621,1899-01-07,1910-03-05
+397,246211,The Kadina and Wallaroo Times (SA : 1888 - 1954),South Australia,22012443,1888-08-01,1954-12-23
+398,220960,Kapunda Herald (SA : 1878 - 1951),South Australia,22012567,1878-03-12,1951-05-03
+399,21808,Kapunda Herald and Northern Intelligencer (SA : 1864 - 1878),South Australia,22012540,1864-10-29,1878-03-08
+400,49373,"Murray Pioneer (Renmark, SA : 1942 - 1950)",South Australia,22012494,1942-11-05,1950-12-28
+401,214957,"Murray Pioneer and Australian River Record (Renmark, SA : 1913 - 1942)",South Australia,22012486,1913-07-11,1942-10-29
+402,76560,Petersburg Times (SA : 1887 - 1919),South Australia,22012583,1887-08-12,1919-05-02
+403,29573,Renmark Pioneer (SA : 1892 - 1913),South Australia,2201246X,1892-04-16,1913-07-04
+404,71266,"The Times and Northern Advertiser, Peterborough, South Australia (SA : 1919 - 1950)",South Australia,22012605,1919-05-09,1950-12-22
+405,21169,"Wallaroo Times (Port Wallaroo, SA : 1882 - 1888)",South Australia,22012427,1882-01-04,1888-07-28
+406,47128,"The Wallaroo Times and Mining Journal (Port Wallaroo, SA : 1865 - 1881)",South Australia,22012400,1865-02-01,1881-12-31
+407,7789,"Weekly Herald (Adelaide, SA : 1894 - 1898)",South Australia,22012648,1894-10-12,1898-12-31
+408,28513,"Western Star (Roma) (Toowoomba, Qld. : 1948 - 1954)",Queensland,18367844,1948-11-05,1954-12-31
+409,17808,Gilgandra Weekly (NSW : 1915 - 1929),New South Wales,22013121,1915-10-22,1929-11-14
+410,46875,Gilgandra Weekly and Castlereagh (NSW : 1929 - 1942),New South Wales,22013148,1929-11-21,1942-10-08
+411,35325,Gilgandra Weekly (NSW : 1942 - 1955),New South Wales,22013164,1942-10-15,1955-12-21
+412,17870,Wagga Wagga Advertiser and Riverine Reporter (NSW : 1868 - 1875),New South Wales,22013180,1868-10-17,1875-03-24
+413,286609,Wagga Wagga Advertiser (NSW : 1875 - 1910),New South Wales,22013202,1875-05-05,1910-12-31
+414,20318,Argyle Liberal and District Recorder (NSW : 1903 - 1930),New South Wales,22013229,1903-10-13,1930-03-25
+415,81,Goulburn Chronicle and Southern Advertiser (NSW : 1860 - 1861),New South Wales,22013245,1860-03-28,1861-03-13
+416,26499,"Southern Argus (Goulburn, NSW : 1881 - 1885)",New South Wales,22013261,1881-06-11,1885-12-19
+417,3391,Taralga Echo (NSW : 1924 - 1927),New South Wales,22013288,1924-11-01,1927-11-04
+418,14765,"Southern Morning Herald (Goulburn, NSW : 1920 - 1923)",New South Wales,2201330X,1920-10-18,1923-12-31
+419,2643,Werriwa Times and Goulburn District News (NSW : 1901),New South Wales,22013326,1901-08-02,1901-12-23
+420,149234,Cowra Free Press (NSW : 1911 - 1937),New South Wales,22013385,1911-01-07,1937-05-31
+421,317252,The Forbes Advocate (NSW : 1911 - 1954),New South Wales,13289632,1911-12-08,1954-12-24
+422,68258,Forbes Times (NSW : 1899 - 1902; 1912 - 1920),New South Wales,22013415,1899-01-07,1920-03-31
+423,867519,"Leader (Orange, NSW : 1899 - 1945)",New South Wales,22013431,1899-01-04,1945-09-28
+424,104984,Molong Argus (NSW : 1896 - 1921),New South Wales,22013458,1896-01-24,1921-12-23
+425,255700,Molong Express and Western District Advertiser (NSW : 1887 - 1954),New South Wales,22013474,1887-10-08,1954-12-23
+426,349908,"Western Herald (Bourke, NSW : 1887 - 1970)",New South Wales,22013504,1887-10-26,1970-12-11
+427,43763,Canowindra Star and Eugowra News (NSW : 1903 - 1907; 1910 - 1911; 1914 - 1922),New South Wales,22013369,1903-07-17,1922-12-15
+428,7173,The Record and Emerald Hill and Sandridge Advertiser (Vic. : 1872 - 1881),Victoria,18389686,1872-08-08,1881-03-25
+429,292263,The Cessnock Eagle and South Maitland Recorder (NSW : 1913 - 1954),New South Wales,22014217,1913-11-21,1954-12-23
+430,123067,Narromine News and Trangie Advocate (NSW : 1898 - 1955),New South Wales,2201425X,1898-01-28,1955-01-18
+431,298843,Narandera Argus and Riverina Advertiser (NSW : 1893 - 1953),New South Wales,22014233,1893-12-30,1953-12-31
+432,113973,"Daily Observer (Tamworth, NSW : 1917 - 1920)",New South Wales,22013989,1917-01-01,1920-12-31
+433,11150,"The Northern Daily Leader (Tamworth, NSW : 1921)",New South Wales,10395059,1921-01-01,1921-05-26
+434,39921,Adelong and Tumut Express and Tumbarumba Post (NSW : 1900 - 1925),New South Wales,2201408X,1900-04-06,1925-12-24
+435,4345,"Adelong Argus, Tumut and Gundagai Advertiser (NSW : 1925)",New South Wales,22014101,1925-01-06,1925-10-01
+436,771137,The Albury Banner and Wodonga Express (NSW : 1860 - 1938),New South Wales,22014128,1860-07-07,1938-12-30
+437,71350,"The Newsletter: an Australian Paper for Australian People (Sydney, NSW : 1900 - 1919)",New South Wales,22014063,1900-09-15,1919-12-30
+438,8982,"The Mirror of Australia (Sydney, NSW : 1915 - 1917)",New South Wales,22014039,1915-07-30,1917-05-19
+439,88017,"Arrow (Sydney, NSW : 1916 - 1933)",New South Wales,22014144,1916-07-15,1933-03-10
+440,5155,"Democrat (Lithgow, NSW : 1915 - 1916)",New South Wales,22014012,1915-06-05,1916-06-17
+441,12361,"The Mirror (Sydney, NSW : 1917 - 1919)",New South Wales,22007091,1917-06-30,1919-09-21
+442,44751,"The Cumberland Argus (Parramatta, NSW : 1950 - 1962)",New South Wales,22008985,1950-03-22,1962-10-24
+443,35264,The Bega Budget (NSW : 1905 - 1920),New South Wales,22014926,1905-09-30,1920-12-25
+444,71160,The Blue Mountain Echo (NSW : 1909 - 1928),New South Wales,22014977,1909-03-06,1928-12-28
+445,361080,"The Border Morning Mail and Riverina Times (Albury, NSW : 1903 - 1920)",New South Wales,22015000,1903-11-05,1920-06-30
+446,31222,The Byron Bay Record (NSW : 1902 - 1924),New South Wales,22015027,1902-09-06,1924-04-12
+447,445956,"The Catholic Press (Sydney, NSW : 1895 - 1942)",New South Wales,22015043,1895-11-09,1942-02-26
+448,51568,The Cobar Herald (NSW : 1899 - 1914),New South Wales,2201506X,1899-01-07,1914-10-09
+449,33573,"Construction and Local Government Journal (Sydney, NSW : 1913 - 1930)",New South Wales,22015086,1913-11-10,1930-07-23
+450,24430,Delegate Argus and Border Post (NSW : 1895 - 1906),New South Wales,22018506,1895-10-16,1906-05-05
+451,674767,"The Farmer and Settler (Sydney, NSW : 1906 - 1955)",New South Wales,22015140,1906-02-07,1955-11-25
+452,161328,The Sydney Wool and Stock Journal (NSW : 1899 - 1917),New South Wales,22015167,1899-01-06,1917-03-30
+453,39711,The Tenterfield Intercolonial Courier and Fairfield and Wallangarra Advocate (NSW : 1900 - 1914),New South Wales,22015183,1900-01-05,1914-01-22
+454,12741,Tocumwal Guardian and Riverina Echo (NSW : 1913 - 1918),New South Wales,22015205,1913-03-28,1918-12-13
+455,25373,The Tumut Advocate and Farmers and Settlers' Adviser (NSW : 1903 - 1925),New South Wales,2201523X,1903-01-27,1925-09-29
+456,28417,The Urana Independent and Clear Hills Standard (NSW : 1913 - 1921),New South Wales,22015302,1913-03-14,1921-07-29
+457,9432,The Voice of the North (NSW : 1918 - 1933),New South Wales,22015345,1918-08-09,1933-05-10
+458,78135,"Watchman (Sydney, NSW : 1902 - 1926)",New South Wales,22015361,1902-02-01,1926-08-26
+459,196844,"Western Champion (Parkes, NSW : 1898 - 1934)",New South Wales,22015388,1898-01-07,1934-08-17
+460,1142743,"The Australasian (Melbourne, Vic. : 1864 - 1946)",Victoria,22014705,1864-10-01,1946-04-06
+461,1638297,"News (Adelaide, SA : 1923 - 1954)",South Australia,22014721,1923-07-24,1954-12-31
+462,12677,Boorowa News (NSW : 1951 - 1954),New South Wales,22014837,1951-01-20,1954-12-23
+463,194775,The Burrowa News (NSW : 1874 - 1951),New South Wales,22014683,1874-06-13,1951-01-26
+464,501490,"Freeman's Journal (Sydney, NSW : 1850 - 1932)",New South Wales,2201571X,1850-06-27,1932-10-20
+465,31537,The Wollondilly Press (NSW : 1906 - 1914),New South Wales,2201490X,1906-03-31,1914-06-27
+466,248908,"The World's News (Sydney, NSW : 1901 - 1955)",New South Wales,22014780,1901-12-21,1955-12-31
+467,152229,"The Wyalong Advocate and Mining, Agricultural and Pastoral Gazette (NSW : 1900 - 1928)",New South Wales,22014802,1900-11-07,1928-02-28
+468,94356,Young Witness (NSW : 1915 - 1923),New South Wales,22014853,1915-01-05,1923-11-03
+469,372687,The Muswellbrook Chronicle (NSW : 1898 - 1955),New South Wales,22015329,1898-01-01,1955-12-30
+470,504283,"The Land (Sydney, NSW : 1911 - 1954)",New South Wales,22015396,1911-01-27,1954-12-31
+471,5549,The Bathurst Post (NSW : 1881 - 1922),New South Wales,2201487X,1881-08-15,1922-03-15
+472,197407,The Braidwood Dispatch and Mining Journal (NSW : 1888 - 1954),New South Wales,22014896,1888-08-15,1954-12-24
+473,29725,The Corowa Chronicle (NSW : 1905 - 1928),New South Wales,22014942,1905-10-07,1928-01-25
+474,259523,The Grenfell Record and Lachlan District Advertiser (NSW : 1876 - 1951),New South Wales,22016678,1876-04-22,1951-12-27
+475,46727,The Carcoar Chronicle (NSW : 1878 - 1943),New South Wales,22015272,1878-03-16,1943-12-22
+476,19462,The Lyndhurst Shire Chronicle (NSW : 1897 - 1941; 1944 - 1954),New South Wales,22015280,1944-01-25,1954-12-22
+477,98415,"The Independent (Deniliquin, NSW : 1901 - 1946)",New South Wales,22015418,1901-01-04,1946-12-19
+478,561,Twofold Bay and Maneroo Telegraph (NSW : 1860),New South Wales,22015434,1860-06-19,1860-10-16
+479,282,Twofold Bay Telegraph (NSW : 1860),New South Wales,22015507,1860-10-19,1860-12-28
+480,503,Eden Free Press and Eden District Advertiser (NSW : 1899),New South Wales,22015469,1899-01-04,1899-06-28
+481,267030,The Tamworth Daily Observer (NSW : 1910 - 1916),New South Wales,22014330,1910-12-31,1916-12-30
+482,328988,The Bathurst Times (NSW : 1909 - 1925),New South Wales,22014195,1909-09-01,1925-12-31
+483,19736,The Campbelltown Herald (NSW : 1880 - 1919),New South Wales,22015256,1880-02-14,1919-10-11
+484,13877,Gippsland Guardian (Vic. : 1855 - 1868),Victoria,22013539,1855-10-05,1868-12-31
+485,86791,The Braidwood Review and District Advocate (NSW : 1915 - 1954),New South Wales,22016813,1915-11-30,1954-12-21
+486,118866,"The Gundagai Independent and Pastoral, Agricultural and Mining Advocate (NSW : 1898 - 1928)",New South Wales,22015736,1898-09-07,1928-08-16
+487,216786,"The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)",New South Wales,22015752,1868-01-18,1931-12-25
+488,142400,"The Hebrew Standard of Australasia (Sydney, NSW : 1895 - 1953)",New South Wales,22015779,1895-11-01,1953-10-09
+489,100418,The Hillston Spectator and Lachlan River Advertiser (NSW : 1898 - 1952),New South Wales,22015833,1898-01-01,1952-12-18
+490,72411,The Clarence River Advocate (NSW : 1898 - 1949),New South Wales,2201585X,1898-01-04,1949-09-22
+491,13009,"The International Socialist (Sydney, NSW : 1910 - 1920)",New South Wales,22015884,1910-04-30,1920-11-27
+492,1875917,The Maitland Daily Mercury (NSW : 1894 - 1939),New South Wales,22015914,1894-01-01,1939-12-23
+493,443801,The Maitland Weekly Mercury (NSW : 1894 - 1931),New South Wales,22016147,1894-01-06,1931-05-23
+494,214612,Moree Gwydir Examiner and General Advertiser (NSW : 1901 - 1940),New South Wales,22016163,1901-09-07,1940-12-19
+495,76720,Mullumbimby Star (NSW : 1906 - 1936),New South Wales,2201618X,1906-02-03,1936-03-25
+496,66284,"Northern Times (Newcastle, NSW : 1857 - 1918)",New South Wales,22016589,1857-01-03,1918-03-22
+497,17739,"People (Sydney, NSW : 1900 - 1919)",New South Wales,22014829,1900-12-29,1919-03-01
+498,54566,"The Raleigh Sun (Bellingen, NSW : 1898 - 1918)",New South Wales,22016619,1898-01-07,1918-06-01
+499,574431,"Referee (Sydney, NSW : 1886 - 1939)",New South Wales,22016635,1886-10-20,1939-08-31
+500,304418,The Richmond River Express and Casino Kyogle Advertiser (NSW : 1904 - 1929),New South Wales,22016651,1904-12-13,1929-12-31
+501,250171,The Richmond River Herald and Northern Districts Advertiser (NSW : 1886 - 1942),New South Wales,22016708,1886-07-09,1942-06-26
+502,247376,The Scrutineer and Berrima District Press (NSW : 1892 - 1948),New South Wales,22016007,1892-07-05,1948-09-04
+503,116848,The Shoalhaven Telegraph (NSW : 1881 - 1937),New South Wales,22016104,1881-10-20,1937-09-29
+504,40582,"The Southern Record and Advertiser (Candelo, NSW : 1910 - 1938)",New South Wales,22016120,1910-07-02,1938-04-29
+505,655166,"Sunday Times (Sydney, NSW : 1895 - 1930)",New South Wales,2201621X,1895-01-06,1930-06-01
+506,333199,The Sydney Stock and Station Journal (NSW : 1896 - 1924),New South Wales,22016236,1896-04-03,1924-02-26
+507,4115,"Direct Action (Sydney, NSW : 1914 - 1930)",New South Wales,22016252,1914-01-31,1930-11-29
+508,2419247,"Evening News (Sydney, NSW : 1869 - 1931)",New South Wales,22016279,1869-11-06,1931-03-21
+509,4001,"Labor News (Sydney, NSW : 1918 - 1924)",New South Wales,22016295,1918-10-12,1924-01-26
+510,200339,"The Manaro Mercury, and Cooma and Bombala Advertiser (NSW : 1862 - 1931)",New South Wales,22016325,1862-10-31,1931-12-24
+511,2189,The Moruya Times and South Coast Journal (NSW : 1888 - 1915),New South Wales,2201635X,1888-09-26,1915-09-22
+512,40184,The Murrurundi Times and Liverpool Plains Gazette (NSW : 1874 - 1907; 1926 - 1929),New South Wales,22016376,1874-08-08,1929-07-12
+513,30,The Newcastle Argus and District Advertiser (NSW : 1916),New South Wales,22016414,1916-07-15,1916-07-15
+514,23893,The Peak Hill Express (NSW : 1902 - 1952),New South Wales,22016449,1902-07-18,1952-02-01
+515,91184,The Picton Post (NSW : 1907 - 1954),New South Wales,22016465,1907-09-04,1954-11-24
+516,168385,The Port Macquarie News and Hastings River Advocate (NSW : 1882 - 1950),New South Wales,22016503,1882-07-08,1950-10-06
+517,15078,The Queanbeyan Leader (NSW : 1905 - 1916),New South Wales,22016511,1905-01-24,1916-04-27
+518,99304,The Shoalhaven News and South Coast Districts Advertiser (NSW : 1891 - 1937),New South Wales,22016546,1891-01-03,1937-09-25
+519,154573,"The Southern Mail (Bowral, NSW : 1889 - 1954)",New South Wales,22016562,1889-02-19,1954-12-24
+520,13345,"The Shoalhaven News, Nowra (NSW : 1937 - 1940)",New South Wales,22017291,1937-10-06,1940-12-25
+521,1305,"Bowral Free Press and Mittagong, Burrawang and Kangaloon Advocate (NSW : 1883 - 1884)",New South Wales,22005994,1883-07-07,1884-03-15
+522,52241,Bowral Free Press and Berrima District Intelligencer (NSW : 1884 - 1901),New South Wales,22006036,1884-11-05,1901-03-30
+523,2836,Bowral and Robertson Free Press (NSW : 1901),New South Wales,22006052,1901-04-03,1901-11-20
+524,18602,Bowral Free Press (NSW : 1901 - 1906),New South Wales,22006079,1901-11-23,1906-03-28
+527,3160,"Record (Emerald Hill, Vic. : 1868 - 1872)",Victoria,18389678,1868-08-06,1872-07-18
+528,53928,"The Arrow (Sydney, NSW : 1896 - 1912)",New South Wales,22017453,1896-03-07,1912-09-28
+529,18090,"Saturday Referee and the Arrow (Sydney, NSW : 1912 - 1916)",New South Wales,2201747X,1912-10-05,1916-07-08
+530,72383,Robertson Advocate (NSW : 1894 - 1923),New South Wales,22017402,1894-12-08,1923-12-28
+531,21818,Robertson Mail (NSW : 1924 - 1930),New South Wales,22017429,1924-01-04,1929-12-31
+532,62553,Delegate Argus (NSW : 1906 - 1943),New South Wales,22015108,1906-05-12,1943-06-24
+533,5897,Alpine Observer and North-Eastern Herald (Vic. : 1916 - 1918),Victoria,22018034,1916-11-03,1918-12-20
+534,39887,The Ballan Times (Vic. : 1899 - 1920),Victoria,22019375,1899-02-09,1920-12-23
+535,11376,Berringa Herald (Vic. : 1914 - 1918),Victoria,22019901,1914-01-10,1918-12-21
+536,15142,Birchip Advertiser and Watchem Sentinel (Vic. : 1914 - 1918),Victoria,22019103,1914-01-07,1918-12-25
+537,3759,Boort Standard and Quambatook Herald (Vic. : 1914 - 1915),Victoria,22017712,1914-01-08,1915-07-29
+538,15144,Bruthen and Tambo Times (Vic. : 1914 - 1919),Victoria,22019804,1914-01-14,1919-03-27
+539,3379,Bunyip Free Press and Berwick Shire Guardian (Vic. : 1914 - 1915),Victoria,22020128,1914-01-01,1915-12-16
+540,16750,Castlemaine Mail (Vic. : 1917 - 1918),Victoria,22017755,1917-10-01,1918-12-31
+541,14408,Chiltern and Howlong Times and Ovens Register (Vic. : 1914 - 1918),Victoria,22018263,1914-01-06,1918-04-05
+542,22412,Clunes Guardian and Gazette (Vic. : 1914 - 1918),Victoria,22019405,1914-01-01,1918-12-31
+543,1240,Cobden Times (Vic. : 1918),Victoria,22019626,1918-08-17,1918-12-21
+544,20947,Cobden Times and Heytesbury Advertiser (Vic. : 1914 - 1918),Victoria,22019642,1914-01-03,1918-08-14
+545,170308,Cobram Courier (Vic. : 1888 - 1954),Victoria,22017887,1888-09-12,1954-12-23
+546,6333,Cohuna Farmer's Weekly (Vic. : 1914 - 1918),Victoria,22019847,1914-01-02,1918-12-20
+547,19616,Coleraine Albion and Western Advertiser (Vic. : 1902; 1914 - 1918),Victoria,22019421,1902-04-18,1918-12-24
+548,8621,Corryong Courier (Vic. : 1914 - 1918),Victoria,22018301,1914-01-08,1918-12-19
+549,7009,Cressy and Lismore Pioneer and Western Plains Representative (Vic. : 1915 - 1918),Victoria,22019669,1915-01-07,1918-12-25
+550,16528,Creswick Advertiser (Vic. : 1914 - 1918),Victoria,22019448,1914-01-03,1918-12-31
+551,20070,"Daylesford Advocate, Yandoit, Glenlyon and Eganstown Chronicle (Vic. : 1914 - 1918)",Victoria,22019464,1914-01-03,1918-12-31
+552,8490,Donald Times (Vic. : 1915 - 1918),Victoria,22019146,1915-12-03,1918-12-31
+553,28533,Dookie and Katamatite Recorder (Vic. : 1902 - 1920),Victoria,22017909,1902-08-29,1920-12-23
+554,8667,Dunmunkle Standard (Vic. : 1914 - 1918),Victoria,22019138,1914-01-09,1918-12-20
+555,9933,"Federal Standard (Chiltern, Vic. : 1914 - 1918)",Victoria,2201828X,1914-01-09,1918-12-27
+556,1590,Foster and Toora Mirror and South Gippsland Shire Advocate (Vic. : 1914),Victoria,22018964,1914-01-08,1914-08-06
+557,12593,Foster Mirror and South Gippsland Shire Advocate (Vic. : 1914 - 1918),Victoria,22018980,1914-08-13,1918-12-24
+558,1570220,Geelong Advertiser (Vic. : 1859 - 1929),Victoria,22019944,1859-01-01,1929-03-04
+559,17476,"Gippsland Independent, Buln Buln, Warragul, Berwick, Poowong and Jeetho Shire Advocate (Vic. : 1914 - 1918)",Victoria,22018948,1914-01-09,1918-12-26
+560,14913,Gippsland Standard and Alberton Shire Representative (Vic. : 1914 - 1918),Victoria,22018662,1914-01-07,1918-12-24
+561,9991,Gippslander and Mirboo Times (Vic. : 1914 - 1918),Victoria,22019006,1914-01-08,1918-12-26
+562,10288,Gisborne Gazette (Vic. : 1914 - 1918),Victoria,22017771,1914-01-09,1918-12-27
+563,2986,"Glengarry, Toongabbie and Cowwarr Journal and Central Gippsland Reporter (Vic. : 1914)",Victoria,22018093,1914-01-06,1914-12-31
+564,18440,"Gordon, Egerton and Ballan Advertiser (Vic. : 1914 - 1918)",Victoria,22019480,1913-05-23,1918-12-20
+565,120062,"Great Southern Advocate (Korumburra, Vic. : 1889 - 1906, 1914 - 1919, 1921 - 1940)",Victoria,22019022,1889-09-13,1940-12-19
+566,8145,Grenville Standard (Vic. : 1915 - 1918),Victoria,22019987,1915-01-09,1918-12-21
+567,518019,Hamilton Spectator (Vic. : 1870 - 1918),Victoria,22019545,1870-01-08,1918-12-31
+568,5843,Heyfield Herald (Vic. : 1914 - 1918),Victoria,2201859X,1914-01-08,1918-12-26
+569,6602,Hopetoun Courier and Mallee Pioneer (Vic. : 1914 - 1918),Victoria,22019170,1914-01-09,1918-12-20
+570,13136,Inglewood Advertiser (Vic. : 1914 - 1918),Victoria,2201778X,1914-01-06,1918-12-31
+571,1624,Jamieson and Woodspoint Chronicle and Upper Goulburn Advertiser (Vic. : 1914 - 1916),Victoria,22018050,1914-01-09,1916-11-10
+572,748,"Kooweerup Sun, Lang Lang Guardian and Cranbourne Shire Record (Vic. : 1918)",Victoria,22019227,1918-07-17,1918-12-18
+573,6323,Koroit Sentinel and Tower Hill Advocate (Vic. : 1914 - 1918),Victoria,22019685,1914-01-03,1918-12-21
+574,4482,Korong Vale Lance and North West Advertiser (Vic. : 1914 - 1915),Victoria,22017801,1914-01-03,1915-07-24
+575,62568,Kyneton Guardian (Vic. : 1870 - 1881; 1914 - 1918),Victoria,22017828,1870-11-16,1918-12-31
+576,8862,Lancefield Mercury and West Bourke Agricultural Record (Vic. : 1914 - 1918),Victoria,22017844,1914-01-02,1918-12-27
+577,5659,Lang Lang Guardian (Vic. : 1914 - 1918),Victoria,22018794,1914-01-07,1918-07-12
+578,13050,"Lismore, Derrinallum and Cressy Advertiser (Vic. : 1914 - 1918)",Victoria,22019707,1914-01-07,1918-12-23
+579,6250,Maldon News (Vic. : 1916 - 1918),Victoria,22020160,1916-06-02,1918-11-06
+580,8106,Malvern Courier and Caulfield Mirror (Vic. : 1914 - 1917),Victoria,22018190,1914-01-09,1917-03-30
+581,19644,Mortlake Dispatch (Vic. : 1914 - 1918),Victoria,22019715,1914-01-07,1918-12-21
+582,541338,Mount Alexander Mail (Vic. : 1854 - 1917),Victoria,22017747,1854-05-13,1917-09-29
+583,17014,"Murchison Advertiser and Murchison, Toolamba, Mooroopna and Dargalong Express (Vic. : 1914 - 1918)",Victoria,22017976,1914-01-02,1918-12-20
+584,15305,Myrtleford Mail and Whorouly Witness (Vic. : 1914 - 1918),Victoria,22018077,1914-01-08,1918-12-19
+585,70910,Nagambie Times (Vic. : 1882 - 1920),Victoria,22017925,1882-02-10,1920-12-24
+586,81678,The Narracan Shire Advocate (Vic. : 1889 - 1923),Victoria,22018115,1889-04-06,1923-06-15
+587,9719,"Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1914 - 1918)",Victoria,22017941,1914-01-06,1918-12-24
+588,24013,Nhill Free Press (Vic. : 1914 - 1918),Victoria,2201926X,1914-01-06,1918-12-31
+589,17274,Northcote Leader (Vic. : 1914 - 1918),Victoria,22020144,1914-01-10,1918-12-21
+590,1874,Northern District Standard (Vic. : 1915 - 1916),Victoria,22017720,1915-08-05,1916-03-30
+591,120452,Numurkah Leader (Vic. : 1895 - 1948),Victoria,2201795X,1895-04-10,1948-12-24
+592,21179,Omeo Standard and Mining Gazette (Vic. : 1914 - 1918),Victoria,22019820,1914-01-06,1918-12-31
+593,31653,Penshurst Free Press (Vic. : 1901 - 1918),Victoria,22019588,1901-07-05,1918-12-28
+594,11688,Pitfield Banner and Hollybush Times (Vic. : 1914 - 1918),Victoria,22019936,1914-01-10,1918-12-21
+595,6346,Powlett Express and Victorian State Coalfields Advertiser (Vic. : 1915 - 1918),Victoria,2201912X,1915-01-08,1918-12-20
+596,150602,"Punch (Melbourne, Vic. : 1900 - 1918; 1925)",Victoria,22018158,1900-05-10,1925-12-10
+597,8140,Quambatook Times (Vic. : 1914 - 1918),Victoria,2201988X,1914-01-07,1918-12-25
+598,16528,Rainbow Argus (Vic. : 1914 - 1918),Victoria,22019286,1914-01-03,1918-12-20
+599,14489,Richmond Australian (Vic. : 1912 - 1916),Victoria,22019359,1912-01-06,1916-11-25
+600,8353,Riponshire Advocate (Vic. : 1914 - 1918),Victoria,22019391,1914-01-03,1918-12-28
+601,21504,Rochester Express (Vic. : 1914 - 1918),Victoria,22018751,1914-01-06,1918-12-21
+602,7303,Rosedale Courier (Vic. : 1914 - 1918),Victoria,2201862X,1914-01-01,1918-12-19
+603,10195,"Rupanyup Spectator and Lubeck, Banyena, Rich Avon and Lallat Advertiser (Vic. : 1914 - 1918)",Victoria,22019294,1914-01-15,1918-12-19
+604,32577,Rutherglen Sun and Chiltern Valley Advertiser (Vic. : 1914 - 1918),Victoria,22018328,1914-01-06,1918-12-31
+605,22752,Shepparton News (Vic. : 1914 - 1918),Victoria,22020187,1914-01-05,1918-12-30
+606,28405,Stawell News and Pleasant Creek Chronicle (Vic. : 1914 - 1918),Victoria,22019324,1914-01-01,1918-12-28
+607,10319,Stratford Sentinel and Briagolong Express (Vic. : 1911 - 1916),Victoria,22018646,1911-10-20,1916-06-16
+608,9305,Talbot Leader (Vic. : 1914 - 1918),Victoria,2201960X,1914-01-03,1918-12-28
+609,29825,Terang Express (Vic. : 1914 - 1918),Victoria,22019782,1914-01-06,1918-12-31
+610,7842,The Independent (Benalla) (Vic. : 1914 - 1918),Victoria,22020209,1914-07-14,1918-12-20
+611,8937,Toora and Welshpool Ensign and South Gippsland Observer (Vic. : 1914 - 1918),Victoria,22019049,1914-01-09,1918-12-24
+612,10270,Trafalgar and Yarragon Times (Vic. : 1914 - 1918),Victoria,22019065,1914-01-16,1918-12-27
+613,29266,Truth (Melbourne ed.) (Vic. : 1914 - 1918),Victoria,22018174,1914-01-03,1918-12-28
+614,21878,Tungamah and Lake Rowan Express and St. James Gazette (Vic. : 1914 - 1918),Victoria,22017992,1914-01-08,1918-12-19
+615,9439,Ultima and Chillingollah Star (Vic. : 1914 - 1918),Victoria,22018247,1914-01-09,1918-12-27
+616,19342,Upper Murray and Mitta Herald (Vic. : 1914 - 1918),Victoria,22018573,1914-01-08,1918-12-19
+617,49658,The Violet Town Sentinel (Vic. : 1894 - 1946),Victoria,22018018,1894-07-06,1946-12-24
+618,35191,Warracknabeal Herald (Vic. : 1914 - 1918),Victoria,22020217,1914-01-02,1918-12-24
+619,9456,Wedderburn Express and Korongshire Advertiser (Vic. : 1914 - 1918),Victoria,22017860,1914-01-09,1918-12-20
+620,10056,Weekly News (Yarraville) (Vic. : 1914 - 1918),Victoria,22018131,1914-04-04,1918-12-21
+621,1363731,"Weekly Times (Melbourne, Vic. : 1869 - 1954)",Victoria,22021159,1869-09-11,1954-12-29
+622,11037,West Wimmera Mail and Natimuk Advertiser (Vic. : 1914 - 1918),Victoria,22019243,1914-01-09,1918-12-27
+623,1837,"Sunday News (Sydney, NSW : 1919)",New South Wales,22022007,1919-04-27,1919-06-29
+624,119,"Intelligence (Bowral, NSW : 1884)",New South Wales,22022937,1884-10-08,1884-10-29
+625,757,Adelong and Tumut Express (NSW : 1925),New South Wales,22021345,1925-10-09,1925-12-24
+626,45,Clear Hills Standard and Daysdale and Saverneke Times (NSW : 1914),New South Wales,22022147,1914-06-20,1914-06-20
+627,8660,Albury Banner Wodonga Express and Riverina Stock Journal (NSW : 1941),New South Wales,22023372,1941-01-03,1941-09-12
+628,8627,"Daily Witness (Young, NSW : 1923 - 1924)",New South Wales,22023380,1923-11-05,1924-06-20
+629,853,The Maitland Mercury (NSW : 1939),New South Wales,22023410,1939-12-26,1939-12-30
+630,23611,"Construction and Real Estate Journal (Sydney, NSW : 1930 - 1938)",New South Wales,22020470,1930-07-30,1938-05-11
+631,4509,The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881),New South Wales,22023828,1879-02-27,1881-10-13
+632,224436,The West Wyalong Advocate (NSW : 1928 - 1954),New South Wales,22023402,1928-03-02,1954-12-30
+633,7559,Tocumwal Guardian and Finley Free Press (NSW : 1908 - 1913),New South Wales,22022120,1908-02-14,1913-03-21
+634,8458,Tocumwal Guardian and Riverina Stock Journal (NSW : 1919 - 1922),New South Wales,22022163,1919-01-10,1922-12-22
+635,320412,"Barrier Daily Truth (Broken Hill, NSW : 1908; 1941 - 1954)",New South Wales,22023585,1908-11-02,1954-12-31
+636,15119,Bombala Times and Manaro and Coast Districts General Advertiser (NSW : 1899 - 1905),New South Wales,22023593,1899-01-06,1905-12-29
+637,51790,The Bombala Times (NSW : 1912 - 1938),New South Wales,18323782,1912-01-05,1938-12-23
+638,104127,Camden News (NSW : 1895 - 1954),New South Wales,22023658,1895-06-13,1954-12-30
+639,635410,Cootamundra Herald (NSW : 1877 - 1954),New South Wales,22023577,1877-01-30,1954-12-31
+641,1292615,"Daily Commercial News and Shipping List (Sydney, NSW : 1891 - 1954)",New South Wales,22023666,1891-04-13,1954-12-31
+643,399654,Dungog Chronicle : Durham and Gloucester Advertiser (NSW : 1894 - 1954),New South Wales,13215477,1894-01-05,1954-12-24
+644,201166,The Gloucester Advocate (NSW : 1905 - 1954),New South Wales,22023852,1905-07-22,1954-12-21
+645,126184,Jerilderie Herald and Urana Advertiser (NSW : 1898 - 1958),New South Wales,22023674,1898-01-07,1958-12-18
+646,73281,The Lockhart Review and Oaklands Advertiser (NSW : 1910 - 1954),New South Wales,22023526,1910-11-22,1954-12-21
+647,195625,"The Methodist (Sydney, NSW : 1892 - 1954)",New South Wales,22023682,1892-01-02,1954-12-25
+648,820884,Mudgee Guardian and North-Western Representative (NSW : 1890 - 1954),New South Wales,22023690,1890-05-05,1954-12-30
+649,213073,"The Murrumbidgee Irrigator (Leeton, NSW : 1915 - 1954)",New South Wales,2202364X,1915-04-23,1954-12-30
+650,1603520,"National Advocate (Bathurst, NSW : 1889 - 1954)",New South Wales,22023704,1889-09-28,1954-12-31
+651,1613894,The Newcastle Sun (NSW : 1918 - 1954),New South Wales,22023631,1918-03-23,1954-12-31
+652,296851,"The North Western Courier (Narrabri, NSW : 1913 - 1955)",New South Wales,22023712,1913-01-07,1955-05-26
+653,220256,"The Northern Champion (Taree, NSW : 1913 - 1954)",New South Wales,22023720,1913-02-22,1954-12-30
+654,66769,Raymond Terrace Examiner and Lower Hunter and Port Stephens Advertiser (NSW : 1912 - 1955),New South Wales,22023739,1912-06-14,1955-12-22
+655,134443,"Riverina Recorder (Balranald, Moulamein, NSW : 1887 - 1944)",New South Wales,22023747,1887-01-05,1944-12-23
+656,350985,"The Riverine Grazier (Hay, NSW : 1873 - 1954)",New South Wales,22023615,1873-10-29,1954-12-31
+657,340804,The Scone Advocate (NSW : 1887 - 1954),New South Wales,22023755,1887-10-07,1954-12-21
+658,38545,"Southern Star (Bega, NSW : 1900 - 1923)",New South Wales,22023437,1900-06-06,1923-09-26
+659,134221,The Tumut and Adelong Times (NSW : 1864 - 1867; 1899 - 1950),New South Wales,22023445,1864-12-29,1950-12-19
+660,439513,Wellington Times (NSW : 1899 - 1954),New South Wales,22023623,1899-05-18,1954-12-20
+661,52784,"Western Age (Dubbo, NSW : 1914 - 1932)",New South Wales,22023534,1914-11-04,1932-08-12
+662,9774,"Western Age (Dubbo, NSW : 1933 - 1936)",New South Wales,22023933,1933-04-28,1936-03-27
+663,127945,"Western Grazier (Wilcannia, NSW : 1896 - 1951)",New South Wales,22023569,1896-01-01,1951-06-29
+664,160477,The Gundagai Independent (NSW : 1928 - 1954),New South Wales,22023364,1928-08-20,1954-12-23
+665,483,Student Notes/Canberra University College Students Association (ACT : 1947 - 1950),ACT,22024158,1947-05-23,1950-05-10
+666,21633,"Woroni (Canberra, ACT : 1950 - 2007)",ACT,13262793,1950-06-14,2007-11-01
+667,133740,"Huon Times (Franklin, Tas. : 1910 - 1933)",Tasmania,22024077,1910-02-19,1933-12-07
+668,37472,Huon and Derwent Times (Tas. : 1933 - 1942),Tasmania,22024093,1933-12-14,1942-03-26
+669,438874,"Illawarra Mercury (Wollongong, NSW : 1856 - 1950)",New South Wales,22024034,1856-01-07,1950-01-05
+670,134172,"Illawarra Daily Mercury (Wollongong, NSW : 1950 - 1954)",New South Wales,22024050,1950-01-09,1954-12-31
+671,37288,Balmain Observer and Western Suburbs Advertiser (NSW : 1884 - 1907),New South Wales,22024018,1884-08-09,1907-12-21
+672,136147,"South Coast Bulletin (Southport, Qld. : 1929 - 1954)",Queensland,22023992,1929-01-05,1954-12-29
+673,3898,Mullumbimby Star and Byron Bay-Bangalow Advocate (NSW : 1936),New South Wales,22023453,1936-04-03,1936-12-24
+674,14491,The Bathurst Daily Argus (NSW : 1909),New South Wales,22023399,1909-01-01,1909-08-31
+675,1529,"The Scrutineer (Moss Vale, NSW : 1892)",New South Wales,22023429,1892-01-12,1892-07-01
+676,16576,"Country Life Stock and Station Journal (Sydney, NSW : 1924 - 1925)",New South Wales,22025103,1924-03-04,1925-04-28
+678,4772,"National Leader (Brisbane, Qld. : 1916 - 1918)",Queensland,2202512X,1916-09-15,1918-12-13
+679,1149,"The Leader (Brisbane, Qld. : 1918 - 1919)",Queensland,22025146,1918-12-20,1919-12-01
+680,10313,The Richmond River Express and Tweed Advertiser (NSW : 1903 - 1904),New South Wales,22023356,1903-01-06,1904-12-09
+681,4829,Tamworth Observer and Northern Advertiser (NSW : 1910),New South Wales,22025197,1910-07-01,1910-12-23
+682,3823,The Tenterfield Courier and District Advocate (NSW : 1914),New South Wales,22024921,1914-02-05,1914-12-31
+683,779,"The Elector (Sydney, NSW : 1900)",New South Wales,22024905,1900-02-17,1900-09-08
+684,3533,The Mining Record and Grenfell General Advertiser (NSW : 1867 - 1876),New South Wales,22023879,1867-06-15,1876-04-15
+685,26,The English and Chinese Advertiser (Vic. : 1856 - 1858),Victoria,22025227,1856-10-25,1858-08-07
+686,53,The Branxton Advocate: Greta and Rothbury Recorder (NSW : 1916),New South Wales,22025944,1916-03-04,1916-03-04
+687,1610399,"Daily Advertiser (Wagga Wagga, NSW : 1911 - 1954)",New South Wales,13228110,1911-01-04,1954-12-31
+688,5863,Gosford Times and Gosford and Wollombi Express (NSW : 1892 - 1906),New South Wales,22025901,1892-09-23,1906-05-18
+689,178501,The Gosford Times and Wyong District Advocate (NSW : 1906 - 1954),New South Wales,22025928,1906-05-25,1954-12-30
+690,17437,The Shipping Gazette and Sydney General Trade List (NSW : 1844 - 1860),New South Wales,14403897,1844-03-23,1860-12-31
+691,336620,South Coast Times and Wollongong Argus (NSW : 1900 - 1954),New South Wales,22025987,1900-01-06,1954-12-30
+692,304742,"Sydney Sportsman (Surry Hills, NSW : 1900 - 1954)",New South Wales,22025863,1900-10-03,1954-12-29
+693,122,Sydney General Trade List (NSW : 1828 - 1829),New South Wales,22026088,1828-05-17,1829-07-30
+694,4519,Sydney General Trade List (NSW : 1834 - 1842),New South Wales,22026142,1834-02-01,1842-12-31
+695,241,"Sydney General Trade List, and Mercantile Advertiser (NSW : 1829 - 1830)",New South Wales,2202610X,1829-10-15,1830-02-19
+696,22,"Sydney General Trade List, Mercantile Chronicle and Advertiser (NSW : 1830)",New South Wales,22026126,1830-04-29,1830-04-29
+697,48535,Sydney Mail (NSW : 1860 - 1871),New South Wales,22026002,1860-07-07,1871-02-25
+698,490505,The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912),New South Wales,22026029,1871-03-04,1912-03-27
+699,451407,"Truth (Sydney, NSW : 1894 - 1954)",New South Wales,2202588X,1894-01-07,1954-12-26
+700,34506,The Ulladulla and Milton Times (NSW : 1891 - 1917),New South Wales,22026061,1891-06-13,1917-07-07
+701,258172,Wagga Wagga Express (NSW : 1879 - 1917),New South Wales,22025847,1879-01-01,1917-06-30
+702,242128,The Wingham Chronicle and Manning River Observer (NSW : 1898 - 1954),New South Wales,22025960,1898-01-01,1954-12-23
+703,130838,Sydney Mail (NSW : 1912 - 1938),New South Wales,22026045,1912-04-03,1938-12-28
+704,74454,"Guang yi hua bao = The Chinese Australian Herald (Sydney, NSW : 1894 - 1923)",New South Wales,22026223,1894-09-01,1923-08-25
+705,55040,"Chinese Times (Melbourne, Vic. : 1902 - 1922)",Victoria,22026592,1902-02-05,1922-07-22
+706,15,"The Chinese Advertiser (Ballarat, Vic. : 1856)",Victoria,22027154,1856-06-14,1856-06-28
+707,324,Weekly Times Annual (Vic. : 1914 - 1918),Victoria,22027580,1914-11-07,1918-11-02
+708,560,The Gloucester Examiner and Lower Hunter Advertiser (NSW : 1912),New South Wales,22028692,1912-02-02,1912-06-07
+709,428,"The Australian Producer's Home Journal (Sydney, NSW : 1910)",New South Wales,22030018,1910-07-27,1910-11-22
+710,100072,"Catholic Freeman's Journal (Sydney, NSW : 1932 - 1942)",New South Wales,22028943,1932-10-27,1942-02-26
+711,86091,"Catholic Weekly (Sydney, NSW : 1942 - 1954)",New South Wales,18330460,1942-03-05,1954-12-30
+712,37834,Jewish Herald (Vic. : 1879 - 1920),Victoria,2202896X,1879-12-12,1920-10-01
+713,239324,"Table Talk (Melbourne, Vic. : 1885 - 1939)",Victoria,22028986,1885-06-26,1939-09-14
+714,272491,The Mount Barker Courier and Onkaparinga and Gumeracha Advertiser (SA : 1880 - 1954),South Australia,22029133,1880-10-01,1954-12-22
+715,337678,The Narracoorte Herald (SA : 1875 - 1954),South Australia,22029036,1875-12-14,1954-12-23
+716,97338,The Yackandandah Times (Vic. : 1890 - 1931),Victoria,22030646,1890-08-16,1931-05-29
+717,194395,Benalla Standard (Vic. : 1901 - 1931),Victoria,22030549,1901-01-04,1931-12-25
+718,1173,The Port Adelaide Gazette (SA : 1930),South Australia,22030433,1930-01-10,1930-05-02
+719,18,"The Port Adelaide Post Shipping Gazette, Farmers and Commercial Register (Port Adelaide, SA : 1876)",South Australia,22030417,1876-07-22,1876-07-22
+720,3827,"The Bega Standard and Candelo, Merimbula, Pambula, Eden, Wolumla, and General Advertiser (NSW : 1876 - 1884)",New South Wales,2203045X,1876-01-01,1884-10-15
+721,12497,The Blayney Advocate and Carcoar Herald (NSW : 1898 - 1904),New South Wales,22030476,1898-01-01,1904-12-31
+722,86736,"The Broadcaster (Fairfield, NSW : 1935 - 1978)",New South Wales,22030395,1935-01-31,1978-05-23
+723,3768,The Canowindra Star (NSW : 1900 - 1902),New South Wales,22030506,1900-04-06,1902-03-28
+724,13247,"The Cumberland Free Press (Parramatta, NSW : 1895 - 1897)",New South Wales,22030689,1895-06-22,1897-06-26
+725,42068,"The Hay Standard and Advertiser for Balranald, Wentworth, Maude...(Hay, NSW : 1871 - 1873; 1880 - 1881; 1890 - 1900)",New South Wales,22030581,1871-11-01,1900-11-28
+726,7955,"Riverina Times, Hay Standard and Journal of Water Conservation (Hay, NSW : 1900 - 1902)",New South Wales,22030565,1900-11-29,1902-09-29
+727,59,The Temora Advertiser (NSW : 1939),New South Wales,22030603,1939-09-22,1939-09-22
+728,1253,Temora Herald and Mining Journal (NSW : 1882 - 1883),New South Wales,22030484,1882-04-21,1883-04-06
+729,3,The Temora Telegraph and Mining Advocate (NSW : 1880),New South Wales,2203062X,,
+730,34298,"The Wyalong Star and Temora and Barmedman Advertiser (West Wyalong, NSW : 1894 - 1895; 1899 - 1906)",New South Wales,22030662,1894-04-20,1906-06-05
+731,1846519,"Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)",Queensland,22029052,1860-11-21,1947-04-24
+732,269044,Maryborough Chronicle (Qld. : 1947 - 1954),Queensland,22029141,1947-04-25,1954-12-31
+733,522359,"The Northern Herald (Cairns, Qld. : 1913 - 1939)",Queensland,22029079,1913-04-11,1939-12-30
+734,85147,"Eastern Districts Chronicle (York, WA : 1877 - 1927)",Western Australia,22030115,1877-10-31,1927-01-07
+735,210732,"Great Southern Herald (Katanning, WA : 1901 - 1954)",Western Australia,14469944,1901-10-05,1954-12-24
+736,86429,Norseman Times (WA : 1898 - 1920),Western Australia,22030158,1898-01-08,1920-09-28
+737,43116,"The Pilbarra Goldfield News (Marble Bar, WA : 1897 - 1923)",Western Australia,22030174,1897-02-19,1923-03-20
+738,144902,"South Western Advertiser (Perth, WA : 1910 - 1954)",Western Australia,22029028,1910-11-23,1954-12-30
+739,116172,"The South-Western News (Busselton, WA : 1903 - 1954)",Western Australia,22030190,1903-10-26,1954-12-30
+740,115818,Toodyay Herald (WA : 1912 - 1954),Western Australia,22029001,1912-03-16,1954-05-27
+741,186419,"Westralian Worker (Perth, WA : 1900 - 1951)",Western Australia,22030212,1900-09-07,1951-06-22
+742,1822622,"Daily Telegraph (Launceston, Tas. : 1883 - 1928)",Tasmania,22029117,1883-06-18,1928-03-28
+743,204222,"North-Eastern Advertiser (Scottsdale, Tas. : 1909 - 1954)",Tasmania,22029095,1909-12-17,1954-12-31
+744,4315,Canowindra Star and Woodstock Recorder (NSW : 1902 - 1903),New South Wales,22030522,1902-04-04,1903-07-10
+745,736,"The Hummer (Wagga Wagga, NSW : 1891 - 1892)",New South Wales,22030700,1891-10-19,1892-09-17
+746,223745,"The Australian Worker (Sydney, NSW : 1913 - 1950)",New South Wales,2202915X,1913-11-06,1950-12-20
+747,86933,"The Worker (Wagga, NSW : 1892 - 1913)",New South Wales,22028927,1892-09-24,1913-10-30
+748,2523,"The People and the Collectivist (Sydney, NSW : 1900)",New South Wales,22032584,1900-01-06,1900-12-22
+749,646,Sandringham News (Vic. : 1918),Victoria,22033173,1918-08-09,1918-12-20
+750,14485,Camberwell and Hawthorn Advertiser (Vic. : 1914 - 1918),Victoria,2203319X,1914-01-03,1918-12-20
+751,55039,Echuca and Moama Advertiser and Farmers' Gazette (Vic. : 1914 - 1918),Victoria,22033211,1914-01-01,1918-12-31
+752,22969,Kyabram Free Press and Rodney and Deakin Shire Advocate (Vic. : 1914 - 1918),Victoria,22033238,1914-01-06,1918-12-24
+753,20823,Kyabram Guardian (Vic. : 1914 - 1918),Victoria,22033254,1914-01-06,1918-12-24
+754,42998,Ararat Chronicle and Willaura and Lake Bolac Districts Recorder (Vic. : 1914 - 1918),Victoria,22033270,1914-01-03,1918-12-28
+755,12138,Avoca Free Press and Farmers' and Miners' Journal (Vic. : 1900; 1914 - 1918),Victoria,22033297,1900-09-01,1918-12-28
+756,66135,Avoca Mail (Vic. : 1863 - 1900; 1915 - 1918),Victoria,22033300,1863-12-11,1918-12-31
+757,6910,Bealiba Times (Vic. : 1915 - 1918),Victoria,22033327,1915-01-08,1918-12-27
+758,8078,Dunolly and Betbetshire Express and County of Gladstone Advertiser (Vic. : 1915 - 1918),Victoria,22033343,1915-01-01,1918-12-31
+759,4291,Willaura Farmer (Vic. : 1914 - 1916),Victoria,22033351,1914-01-09,1916-06-29
+760,1367,Birregurra Times (Vic. : 1918),Victoria,22033378,1918-07-09,1918-12-24
+761,25963,Camperdown Herald (Vic. : 1914 - 1918),Victoria,22033394,1914-01-10,1918-12-28
+762,7630,Heytesbury Reformer and Cobden and Camperdown Advertiser (Vic. : 1914 - 1918),Victoria,22033416,1914-01-06,1918-12-20
+763,47925,Colac Reformer (Vic. : 1914 - 1918),Victoria,22033432,1914-01-03,1918-12-31
+764,2065,Port Fairy Times and Macarthur News (Vic. : 1917 - 1918),Victoria,22033440,1917-03-22,1918-02-21
+765,13204,"Every Week (Bairnsdale, Vic. : 1914 - 1918)",Victoria,22033459,1914-07-09,1918-12-31
+766,15002,Kerang Observer (Vic. : 1914 - 1918),Victoria,22033475,1914-01-07,1918-12-25
+767,13452,Casterton Free Press and Glenelg Shire Advertiser (Vic. : 1915 - 1918),Victoria,22033491,1915-01-11,1918-12-30
+768,9157,The Romsey Examiner (Vic. : 1914 - 1918),Victoria,22033505,1914-01-02,1918-12-20
+769,6206,Woodend Star (Vic. : 1915 - 1918),Victoria,22033521,1915-01-09,1918-12-21
+770,13387,Euroa Gazette (Vic. : 1915 - 1918),Victoria,2203353X,1915-01-05,1918-12-24
+771,13645,"Numurkah Standard and Wunghnu, Cobram, Yarroweyah and Strathmerton Advocate (Vic. : 1914 - 1918)",Victoria,22033556,1914-01-07,1918-03-27
+772,8381,"Seaside News (Cheltenham, Vic. : 1915 - 1918)",Victoria,22033572,1915-01-09,1918-12-21
+773,3716,Morwell and Yinnar Gazette (Vic. : 1914 - 1916),Victoria,22033602,1914-01-09,1916-04-05
+774,10156,Footscray Chronicle (Vic. : 1914 - 1918),Victoria,22033629,1914-01-03,1918-12-21
+775,9755,"Graphic of Australia (Melbourne, Vic. : 1916 - 1918)",Victoria,22033645,1916-01-21,1918-12-31
+776,2130,"Public Opinion (Melbourne, Vic. : 1914 - 1915)",Victoria,22033661,1914-01-01,1915-01-28
+777,37941,The Mildura Telegraph and Darling and Lower Murray Advocate (Vic. : 1913 - 1920),Victoria,22033688,1913-05-09,1920-09-28
+778,404,Ouyen and North West Express (Vic. : 1918),Victoria,2203370X,1918-10-19,1918-12-21
+779,4097,Kilmore Advertiser (Vic. : 1915 - 1918),Victoria,22033726,1915-01-23,1918-12-21
+780,5844,Brunswick and Coburg Star (Vic. : 1914 - 1916),Victoria,22033742,1914-01-16,1916-11-17
+781,6116,Malvern News (Vic. : 1914 - 1916),Victoria,22033769,1914-01-03,1916-11-25
+782,15638,South Gippsland Shire Echo (Vic. : 1914 - 1918),Victoria,22033785,1914-02-06,1918-06-21
+783,739,Walhalla Chronicle (Vic. : 1914),Victoria,22033807,1914-01-09,1914-05-29
+784,1407,Walhalla Chronicle and Moondarra Advertiser (Vic. : 1914 - 1915),Victoria,22033823,1914-06-05,1915-07-30
+785,512,Beulah Record and Mallee Advocate (Vic. : 1914),Victoria,2203384X,1914-01-09,1914-06-26
+786,4707,Beulah Standard and Mallee and Wimmera Advertiser (Vic. : 1916 - 1918),Victoria,22033866,1916-01-06,1918-12-19
+787,11601,Dimboola Banner and Wimmera and Mallee Advertiser (Vic. : 1914 - 1918),Victoria,22033882,1914-01-13,1918-12-13
+788,12067,Minyip Guardian and Sheep Hills Advocate (Vic. : 1915 - 1918),Victoria,22033904,1915-01-05,1918-12-24
+789,5675,Sea Lake Times and Berriwillock Advertiser (Vic. : 1914 - 1918),Victoria,22033920,1914-01-03,1918-12-19
+790,8171,Woomelang Sun and Lascelles and Ouyen Advocate (Vic. : 1914 - 1918),Victoria,22033947,1914-01-09,1918-12-20
+791,15193,Mount Wycheproof Ensign and East Wimmera Advocate (Vic. : 1914 - 1918),Victoria,22033963,1914-01-09,1918-12-24
+792,685842,"Advocate (Melbourne, Vic. : 1868 - 1954)",Victoria,2203398X,1868-02-01,1954-12-30
+793,24286,"Tribune (Melbourne, Vic. : 1914 - 1918)",Victoria,22034005,1914-01-03,1918-12-26
+794,27361,"Spectator and Methodist Chronicle (Melbourne, Vic. : 1914 - 1929)",Victoria,22034021,1914-01-02,1918-12-25
+795,200816,"Labor Call (Melbourne, Vic. : 1906 - 1953)",Victoria,22034048,1906-11-01,1953-09-24
+796,14898,"Stock and Land (Melbourne, Vic. : 1914 - 1918)",Victoria,22034056,1914-07-01,1918-12-24
+797,3505,"Norden (Melbourne, Vic. : 1914 - 1918)",Victoria,22034072,1914-01-24,1918-12-14
+798,16641,"Sporting Judge (Melbourne, Vic. : 1914 - 1918)",Victoria,22034099,1914-01-03,1918-12-21
+799,302,"Vigilante (Melbourne, Vic. : 1918)",Victoria,22034102,1918-07-01,1918-12-01
+800,23680,"Winner (Melbourne, Vic. : 1914 - 1917)",Victoria,22034129,1914-07-29,1917-12-26
+801,3155,"Man on the Land (Gosford, NSW : 1936 - 1938)",New South Wales,22034498,1936-08-04,1938-05-24
+802,110,Blayney West Macquarie (NSW : 1949),New South Wales,22034897,1949-02-09,1949-10-05
+803,6697,Illustrated Sydney News and New South Wales Agriculturalist and Grazier (NSW : 1872 - 1881),New South Wales,22035397,1872-04-13,1881-11-26
+804,18781,Illustrated Sydney News (NSW : 1881 - 1894),New South Wales,22035419,1881-12-24,1894-02-10
+805,5381,"The Banner (Melbourne, Vic. : 1853 - 1854)",Victoria,22032436,1853-08-19,1854-09-22
+806,821128,The Bendigo Independent (Vic. : 1891 - 1918),Victoria,22032452,1891-01-01,1918-11-30
+807,6493,"The Farmer's Journal and Gardener's Chronicle (Melbourne, Vic. : 1862 - 1864)",Victoria,22032517,1862-01-11,1864-09-23
+808,3327,"The Victorian Farmers Journal and Gardeners Chronicle (Melbourne, Vic. : 1860 - 1862)",Victoria,22032495,1860-07-07,1862-01-04
+809,5340734,"The Age (Melbourne, Vic. : 1854 - 1954)",Victoria,03126307,1854-10-17,1954-12-31
+810,24,"Upper Hunter Courier (Murrurundi, NSW : 1871)",New South Wales,22036113,1871-08-15,1871-08-15
+811,52139,Gnowangerup Star and Tambellup-Ongerup Gazette (WA : 1915 - 1944),Western Australia,22037241,1915-08-28,1944-07-29
+812,21983,Goomalling-Dowerin Mail (WA : 1911 - 1916),Western Australia,22037772,1911-01-06,1916-08-11
+813,9735,Goomalling-Dowerin Mail (WA : 1916 - 1922),Western Australia,22037799,1916-12-01,1922-05-12
+814,67899,"Great Southern Leader (Pingelly, WA : 1907 - 1934)",Western Australia,22037225,1907-08-09,1934-11-02
+815,96410,Merredin Mercury and Central Districts Index (WA : 1912 - 1954),Western Australia,22037187,1912-08-14,1954-12-30
+816,54793,"The Midlands Advertiser (Moora, WA : 1907 - 1930)",Western Australia,22037306,1907-09-27,1930-03-21
+817,67120,Mount Magnet Miner and Lennonville Leader (WA : 1896 - 1926),Western Australia,22037209,1896-06-13,1926-07-17
+818,32003,Northam Courier (WA : 1909 - 1922),Western Australia,22037756,1909-11-16,1922-05-12
+819,133798,"Southern Times (Bunbury, WA : 1888 - 1916)",Western Australia,22037284,1888-08-28,1916-12-30
+820,31375,Wickepin Argus (WA : 1910 - 1934),Western Australia,22037268,1910-11-26,1934-12-20
+821,628224,Adelaide Observer (SA : 1843 - 1904),South Australia,22037659,1843-07-01,1904-12-31
+822,107581,"Leader (Angaston, SA : 1918 - 1954)",South Australia,2203756X,1918-07-24,1954-12-16
+823,662005,"Observer (Adelaide, SA : 1905 - 1931)",South Australia,22037640,1905-01-07,1931-02-19
+824,27197,"Quiz and the Lantern (Adelaide, SA : 1890 - 1900)",South Australia,22037586,1890-06-13,1900-05-10
+825,1199,"Quiz (Adelaide, SA : 1889 - 1890)",South Australia,22037721,1889-08-31,1890-06-06
+826,287236,"Southern Cross (Adelaide, SA : 1889 - 1954)",South Australia,22037624,1889-07-05,1954-12-24
+827,99907,"Transcontinental (Port Augusta, SA : 1914 - 1954)",South Australia,22037667,1914-11-07,1951-06-08
+828,133847,"West Coast Sentinel (Streaky Bay, SA : 1912 - 1954)",South Australia,22037683,1912-06-28,1950-12-20
+829,207395,"Le Courrier Australien (Sydney, NSW : 1892 - 2011)",New South Wales,22038264,1892-04-30,2011-04-01
+830,31083,The Victor Harbor Times and Encounter Bay and Lower Murray Pilot (SA : 1912 - 1930),South Australia,22038175,1912-08-23,1930-05-09
+831,2584,Times Victor Harbour and Encounter Bay and Lower Murray Pilot (SA : 1930 - 1932),South Australia,22038191,1930-05-16,1932-04-08
+832,160722,Victor Harbour Times (SA : 1932 - 1986),South Australia,22038213,1932-04-15,1986-12-31
+833,64305,Cloncurry Advocate (Qld. : 1931 - 1953),Queensland,22037837,1931-01-10,1953-12-01
+834,858035,Darling Downs Gazette (Qld. : 1881 - 1922),Queensland,22036873,1881-01-05,1922-06-30
+835,29703,Mackay Mercury and South Kennedy Advertiser (Qld. : 1867 - 1887),Queensland,22037853,1867-03-20,1887-05-10
+836,80734,Mackay Mercury (Qld. : 1887 - 1905),Queensland,2203787X,1887-05-12,1905-12-30
+837,1878654,"Daily Mercury (Mackay, Qld. : 1906 - 1954)",Queensland,13295942,1906-01-10,1954-12-31
+838,1311,"Nashville Times, Gympie and Mary River Mining Gazette (Qld. : 1868)",Queensland,2203742X,1868-02-15,1868-10-15
+839,382974,Gympie Times and Mary River Mining Gazette (Qld. : 1868 - 1919),Queensland,22036912,1868-10-17,1919-12-30
+840,6946185,"The Telegraph (Brisbane, Qld. : 1872 - 1947)",Queensland,2203790X,1872-10-01,1947-12-31
+841,30842,"Quiz (Adelaide, SA : 1900 - 1909)",South Australia,22037608,1900-05-17,1909-12-24
+842,84,Logan and Albert Advocate (Qld. : 1893 - 1900),Queensland,22039996,1893-09-23,1900-09-15
+843,1066,"Logan and Albert Bulletin (Southport, Qld. : 1896 - 1901; 1909; 1921; 1922; 1928)",Queensland,22039724,1896-08-29,1928-06-23
+844,9339,"Camp Chronicle (Midland Junction, WA : 1915 - 1918)",Western Australia,22038159,1915-12-09,1918-08-01
+845,3881,The Norseman Pioneer (WA : 1896 - 1897),Western Australia,22038396,1896-04-25,1897-12-18
+846,509,Norseman Esperance Guardian and Dundas Goldfields Advertiser (WA : 1896),Western Australia,2203837X,1896-01-18,1896-04-11
+847,3720,"Chronicle, South Yarra Gazette, Toorak Times and Malvern Standard (Vic. : 1892 - 1893)",Victoria,22039643,1892-01-02,1893-12-30
+848,312,Gippsland Chronicle and Crooked River and Stringer's Creek Advertiser (Vic. : 1866),Victoria,22039163,1866-07-21,1866-10-13
+850,14654,"Logan Witness (Beenleigh, Qld. : 1878 - 1893)",Queensland,22039708,1878-02-09,1893-06-10
+851,6498,"Humpybong Weekly and Advertiser (Redcliffe, Qld. : 1927 - 1932)",Queensland,22039120,1927-03-10,1932-11-10
+852,7579,Dayboro Times and Moreton Mail (Qld. : 1937 - 1940; 1945 - 1954),Queensland,22039147,1937-01-30,1954-12-18
+853,1371,The Hillston News (NSW : 1882 - 1883),New South Wales,22039783,1882-11-04,1883-09-08
+854,170939,"The St George Call (Kogarah, NSW : 1904 - 1957)",New South Wales,2203966X,1904-01-09,1957-04-25
+855,29012,The Temora Star (NSW : 1881 - 1883; 1899 - 1906; 1914; 1925; 1933),New South Wales,22038418,1881-09-07,1933-02-13
+856,143726,"Times (Victor Harbor, SA : 1987 - 1999)",South Australia,22040722,1987-01-07,1999-12-31
+857,101423,"Circular Head Chronicle (Stanley, Tas. : 1906 - 1954)",Tasmania,22036997,1906-07-18,1954-12-22
+858,166,"Critic (Hobart, Tas. : 1892 - 1893)",Tasmania,22040587,1892-10-15,1893-04-01
+859,47979,"Critic (Hobart, Tas. : 1907 - 1924)",Tasmania,22037055,1907-01-05,1924-09-19
+860,549851,"Daily Post (Hobart, Tas. : 1908 - 1918)",Tasmania,22037012,1908-05-27,1918-06-29
+861,267017,"World (Hobart, Tas. : 1918 - 1924)",Tasmania,22037039,1918-07-01,1924-05-31
+862,32175,"Devon Herald (Latrobe, Tas. : 1877 - 1889)",Tasmania,22037071,1877-12-08,1889-03-29
+863,216,"Guardian, or, True Friend of Tasmania (Hobart, Tas. : 1847)",Tasmania,22037128,1847-05-22,1847-08-07
+864,13729,"Hobarton Guardian, or, True Friend of Tasmania (Hobart, Tas. : 1847 - 1854)",Tasmania,22037144,1847-08-11,1854-07-01
+865,10290,"Tasmanian Morning Herald (Hobart, Tas. : 1865 - 1866)",Tasmania,22037160,1865-10-02,1866-12-31
+866,561194,"Tasmanian News (Hobart, Tas. : 1883 - 1911)",Tasmania,22037098,1883-11-17,1911-11-17
+867,380,"Van Diemen's Land Chronicle (Hobart, Tas. : 1841)",Tasmania,22037675,1841-07-23,1841-12-24
+868,1168,"Land (Hobart, Tas. : 1924 - 1925)",Tasmania,22041389,1924-09-26,1925-01-02
+869,1482,"Trumpeter General (Hobart, Tas. : 1833 - 1834)",Tasmania,22041583,1833-11-29,1834-12-26
+870,3383,"Champion (Melbourne, Vic. : 1895 - 1897)",Victoria,22037446,1895-06-22,1897-05-29
+871,6499,Good Neighbour (ACT : 1950 - 1969),ACT,22037322,1950-08-01,1969-10-01
+872,6972,"Woman Voter (Melbourne, Vic. : 1911 - 1919)",Victoria,22037462,1911-03-06,1919-12-18
+873,1151,"Free Lance (Melbourne, Vic. : 1896)",Victoria,2203823X,1896-04-23,1896-10-17
+874,99215,Melbourne Punch (Vic. : 1855 - 1900),Victoria,22038256,1855-08-02,1900-05-03
+875,744378,"Sporting Globe (Melbourne, Vic. : 1922 - 1954)",Victoria,22037470,1922-07-22,1954-12-29
+876,15356,Bundarra and Tingha Advocate (NSW : 1900 - 1906),New South Wales,22042741,1900-12-08,1906-12-29
+877,287390,"The Manning River Times and Advocate for the Northern Coast Districts of New South Wales (Taree, NSW : 1898 - 1954)",New South Wales,22042822,1898-01-01,1954-12-22
+878,111814,"North West Champion (Moree, NSW : 1915 - 1954)",New South Wales,22042849,1915-06-08,1954-12-30
+879,143063,The Don Dorrigo Gazette and Guy Fawkes Advocate (NSW : 1910 - 1954),New South Wales,22043322,1910-01-08,1954-12-22
+880,13237,The Inverell Argus (NSW : 1899 - 1904),New South Wales,22043004,1899-01-06,1904-12-31
+881,195950,"The Macleay Chronicle (Kempsey, NSW : 1899 - 1952)",New South Wales,22043047,1899-01-05,1952-07-30
+882,22258,Tingha Advocate and North-Western Journal (NSW : 1916 - 1932),New South Wales,22043063,1916-01-07,1932-06-24
+883,17500,The Uralla Times and District Advocate (NSW : 1915 - 1923),New South Wales,2204308X,1915-01-02,1923-07-26
+884,116310,The Uralla Times (NSW : 1923 - 1954),New South Wales,22043101,1923-08-02,1954-12-23
+885,45,"Justice (Narrabri, NSW : 1891)",New South Wales,22042911,1891-12-05,1891-12-05
+886,7120,The Gwydir Examiner and Moree General Advertiser (NSW : 1898 - 1899),New South Wales,22042873,1898-01-01,1899-09-02
+887,321,The Moree Examiner and General Advertiser (NSW : 1899),New South Wales,2204289X,1899-09-05,1899-09-30
+888,147551,Guyra Argus (NSW : 1902 - 1954),New South Wales,22042938,1902-07-30,1954-12-23
+889,54172,The Henty Observer and Culcairn Shire Register (NSW : 1914 - 1950),New South Wales,22043551,1914-02-21,1950-09-01
+890,11971,"The Observer (Henty, NSW : 1950 - 1954)",New South Wales,22042768,1950-09-08,1954-12-24
+891,766142,"The Week (Brisbane, Qld. : 1876 - 1934)",Queensland,22045058,1876-01-01,1934-06-27
+892,1090476,Warwick Daily News (Qld. : 1919 -1954),Queensland,22045066,1919-02-01,1954-12-31
+893,1261049,"Daily Standard (Brisbane, Qld. : 1912 - 1936)",Queensland,22045082,1912-12-28,1936-07-07
+894,33136,"Farmers' Advocate (Melbourne, Vic. : 1917 - 1924)",Victoria,22037349,1917-01-26,1924-06-27
+895,18196,"Countryman (Melbourne, Vic. : 1924 - 1929)",Victoria,22037365,1924-07-04,1929-12-20
+896,81313,Pinnaroo and Border Times (SA : 1911 - 1954),South Australia,22045171,1911-03-17,1954-12-23
+897,23573,"Pinnaroo Country News (Lameroo, SA : 1908 - 1922)",South Australia,22045449,1908-06-05,1922-03-31
+898,6063,"Gadfly (Adelaide, SA : 1906 - 1909)",South Australia,22045252,1906-02-14,1909-02-24
+899,184720,Bowen Independent (Qld. : 1911 - 1954),Queensland,1832892X,1911-01-03,1954-12-24
+900,103839,Pittsworth Sentinel (Qld. : 1919 - 1954),Queensland,22045104,1919-01-01,1954-12-24
+901,136708,The Dandenong Journal (Vic. : 1927 - 1954),Victoria,22044884,1927-09-01,1954-12-22
+902,139917,Glen Innes Examiner and General Advertiser (NSW : 1874 - 1908),New South Wales,22047484,1874-10-12,1908-07-17
+903,611148,Glen Innes Examiner (NSW : 1908 - 1954),New South Wales,22047336,1908-07-21,1954-12-31
+904,601161,"The Inverell Times (NSW : 1899 - 1907, 1909 - 1954)",New South Wales,22047344,1899-01-07,1954-12-31
+905,5970,"The Chaser (Glebe, NSW : 1999 - 2005)",New South Wales,22047735,1999-05-09,2005-02-04
+906,8786,Katoomba Times (NSW : 1889 - 1894),New South Wales,22045945,1889-05-25,1894-06-15
+907,20084,"The Mountaineer (Katoomba, NSW : 1894 - 1908)",New South Wales,22045996,1894-09-07,1908-12-24
+908,3227,"Blue Mountain Gazette (Katoomba, NSW : 1903 - 1904)",New South Wales,22045961,1903-01-09,1904-12-30
+909,75390,The Katoomba Daily (NSW : 1920 - 1939),New South Wales,22046038,1920-12-18,1939-02-17
+910,2241,"Blue Mountains Daily (Katoomba, NSW : 1939)",New South Wales,22048510,1939-02-18,1939-05-09
+911,11460,"The Blue Mountain Star (Katoomba, NSW : 1929 - 1931)",New South Wales,22046054,1929-01-05,1931-02-07
+912,594,"Blackheath Beacon (Katoomba, NSW : 1930 - 1931)",New South Wales,22046151,1930-11-14,1931-03-27
+913,663,"The Blackheath Bulletin (Katoomba, NSW : 1926; 1929 - 1931)",New South Wales,22046194,1926-05-25,1931-02-05
+914,476,"The Chronicle (Katoomba, NSW : 1929)",New South Wales,22046224,1929-08-15,1929-10-10
+915,54,"The Hospital Saturday News (Katoomba, NSW : 1930)",New South Wales,22046259,1930-04-19,1930-04-19
+916,1171,"The Independent (Katoomba, NSW : 1930 - 1931)",New South Wales,22046275,1930-05-14,1931-03-05
+917,112,"The Record of the Blue Mountains (Katoomba, NSW : 1924)",New South Wales,22047719,1924-02-01,1924-02-01
+918,22,"The Enterprise (Katoomba, NSW : 1913)",New South Wales,22046305,1913-09-03,1913-09-03
+919,21,"The Mountain Daily (Katoomba, NSW : 1919 - 1920)",New South Wales,22046453,1919-07-26,1920-02-07
+920,5705,"The Blue Mountains Times (Katoomba, NSW : 1931 - 1937)",New South Wales,2204647X,1931-10-16,1937-11-12
+921,26039,"The Blue Mountains Advertiser (Katoomba, NSW : 1940 - 1954)",New South Wales,22046496,1940-01-19,1954-12-30
+922,26114,The Walcha Witness and Vernon County Record (NSW : 1895 - 1906),New South Wales,22047263,1895-06-15,1906-12-29
+923,7413,The Walcha News and Southern New England Advocate (NSW : 1904 - 1907; 1927),New South Wales,2204728X,1904-10-08,1927-03-11
+924,60692,"The Kangaroo Island Courier (Kingscote, SA : 1907 - 1951)",South Australia,22047050,1907-11-02,1951-05-25
+925,42724,The Laura Standard (SA : 1889 - 1917),South Australia,22047077,1889-04-11,1917-07-27
+926,54348,Laura Standard and Crystal Brook Courier (SA : 1917 - 1948),South Australia,22047093,1917-08-03,1948-12-24
+927,17227,Hamilton Spectator and Grange District Advertiser (Vic. : 1860 - 1870),Victoria,22047123,1860-06-02,1870-01-05
+928,1143,"The Labor Vanguard (Perth, WA : 1911; 1916)",Western Australia,22046860,1911-08-12,1916-08-17
+929,1834,"Sparks' Fortnightly (Perth, WA : 1916 - 1919)",Western Australia,22046887,1916-12-09,1919-04-26
+930,84,"The All British (Perth, WA : 1916)",Western Australia,22046909,1916-03-31,1916-04-14
+931,2010,"Harvey Chronicle (Pinjarra, WA : 1915 - 1916)",Western Australia,22046925,1915-09-10,1916-11-03
+932,64913,"Nor-West Echo (Broome, WA : 1912 - 1930)",Western Australia,2204695X,1912-06-22,1930-05-31
+933,164821,"Collie Mail (Perth, WA : 1908 - 1954)",Western Australia,22047190,1908-08-01,1954-12-30
+934,274713,"The Eastern Recorder (Kellerberrin, WA : 1909 - 1954)",Western Australia,22047034,1909-10-27,1954-12-30
+935,121,The Melbourne Advertiser (Vic. : 1838),Victoria,22047468,1838-01-01,1838-02-19
+936,7228,Port Phillip Patriot and Melbourne Advertiser (Vic. : 1839 - 1845),Victoria,22047492,1839-02-06,1845-09-30
+937,16209,The Port Phillip Patriot and Morning Advertiser (Vic. : 1845 - 1848),Victoria,22047506,1845-10-01,1848-10-07
+938,553,The Melbourne Daily News and Port Phillip Patriot (Vic. : 1848),Victoria,22047549,1848-10-09,1848-11-16
+939,15329,The Melbourne Daily News (Vic. : 1848 - 1851),Victoria,22047581,1848-11-17,1851-12-31
+940,82,Illustrated Australian Mail (Vic. : 1861 - 1862),Victoria,22047611,1861-12-20,1862-02-22
+941,8270,"The Britannia and Trades' Advocate (Hobart Town, Tas. : 1846 - 1851)",Tasmania,22045570,1846-01-01,1851-07-03
+942,530892,"Truth (Brisbane, Qld. : 1900 - 1954)",Queensland,22046410,1900-09-16,1954-12-26
+943,585943,"The Evening News (Rockhampton, Qld. : 1924 - 1941)",Queensland,22046437,1924-10-01,1941-07-31
+944,1645,"The Colonist and Van Diemen's Land Commercial and Agricultural Advertiser (Hobart Town, Tas. : 1832 - 1834)",Tasmania,22045678,1832-07-06,1834-07-22
+945,6531,"The True Colonist Van Diemen's Land Political Despatch, and Agricultural and Commercial... (Hobart Town, Tas. : 1834 - 1844)",Tasmania,22045694,1834-08-05,1844-12-26
+946,32692,"The Tasmanian (Launceston, Tas. : 1871 - 1879)",Tasmania,22045813,1871-01-21,1879-12-27
+947,144124,"The Tasmanian (Launceston, Tas. : 1881 - 1895)",Tasmania,2204583X,1881-01-01,1895-12-28
+948,20001,"The Tasmanian Daily News (Hobart Town, Tas. : 1855 - 1858)",Tasmania,22046070,1855-05-14,1858-06-01
+949,343287,"The North West Post (Formby, Tas. : 1887 - 1916)",Tasmania,22046097,1887-04-02,1916-12-30
+950,26559,"The Tasmanian Tribune (Hobart Town, Tas. : 1872 - 1876)",Tasmania,22046321,1872-04-08,1876-07-01
+951,27648,"Tribune (Hobart, Tas. : 1876 - 1879)",Tasmania,22046348,1876-07-03,1879-10-31
+952,31701,"The Colonist (Launceston, Tas. : 1888 - 1891)",Tasmania,22046216,1888-01-21,1891-03-28
+953,278,The Church of England Messenger for the Diocese of Melbourne (Vic. : 1869),Victoria,22044744,1869-01-28,1869-12-30
+954,2380,"The Church of England Messenger (Melbourne, Vic. : 1870 - 1876)",Victoria,22044809,1870-01-29,1876-03-09
+955,5135,The Church of England Messenger and Ecclesiastical Gazette for the Diocese of Melbourne and Ballarat (Vic. : 1876 - 1889),Victoria,22044825,1876-04-13,1889-02-01
+956,7032,The Church of England Messenger for Victoria and Ecclesiastical Gazette for the Diocese of Melbourne (Vic. : 1889 - 1905),Victoria,22044841,1889-03-01,1905-09-01
+957,425,"Church of England Messenger (Melbourne, Vic. : 1905)",Victoria,2204745X,1905-09-22,1905-12-29
+958,2204,The Melbourne Leader (Vic. : 1861),Victoria,22044949,1861-01-12,1861-12-28
+959,19039,"Bell's Life in Victoria and Sporting Chronicle (Melbourne, Vic. : 1857 - 1868)",Victoria,22044868,1857-01-03,1868-01-04
+960,36609,"The Snowy River Mail and Tambo and Croajingolong Gazette (Orbost, Vic. : 1890 - 1911)",Victoria,22044906,1890-08-09,1911-08-31
+961,20225,"The Tocsin (Melbourne, Vic. : 1897 - 1906)",Victoria,22044944,1897-10-02,1906-10-25
+962,9639,The Walcha News (NSW : 1932 - 1935),New South Wales,22047301,1932-12-16,1935-12-20
+963,441,Port Adelaide News and Commercial and Shipping Gazette (SA : 1878),South Australia,22047921,1878-03-30,1878-10-12
+964,10087,Port Adelaide News (SA : 1878 - 1883),South Australia,22047956,1878-10-19,1883-12-07
+965,26315,Port Adelaide News and Lefevre's Peninsula Advertiser (SA : 1883 - 1897),South Australia,22047980,1883-12-11,1897-01-15
+966,962242,"Evening Journal (Adelaide, SA : 1869 - 1912)",South Australia,22048103,1869-01-02,1912-09-10
+967,352996,"The Journal (Adelaide, SA : 1912 - 1923)",South Australia,22048146,1912-09-11,1923-07-23
+968,58574,"Saturday Journal (Adelaide, SA : 1923 - 1929)",South Australia,22048189,1923-07-28,1929-04-06
+969,118693,"The Pioneer (Yorketown, SA : 1898 - 1954)",South Australia,22048200,1898-01-21,1954-12-24
+970,26295,The Millicent Times (SA : 1891 - 1905),South Australia,2204826X,1891-07-11,1905-12-23
+971,215464,"The South Eastern Times (Millicent, SA : 1906 - 1954)",South Australia,22048294,1906-01-06,1954-12-24
+972,57874,Whyalla News (SA : 1940 - 1954),South Australia,22047964,1940-04-05,1954-12-23
+973,216518,The Beverley Times (WA : 1905 - 1977),Western Australia,22048537,1905-07-22,1977-08-11
+974,20861,The Black Range Courier and Sandstone Observer (WA : 1907 - 1915),Western Australia,22048707,1907-01-05,1915-10-27
+975,409062,"The Evening Star (Boulder, WA : 1898 - 1921)",Western Australia,22048383,1898-03-21,1921-02-26
+976,38186,"Laverton and Beria Mercury (Laverton, WA : 1899 - 1921)",Western Australia,22048723,1899-09-16,1921-07-16
+977,25126,Meekatharra Miner (WA : 1909 - 1918),Western Australia,2204874X,1909-08-07,1918-07-06
+978,34696,The Moora Herald and Midland Districts Advocate (WA : 1914 - 1930),Western Australia,22048685,1914-01-02,1930-03-28
+979,37487,"The Southern Argus and Wagin-Arthur Express (Perth, WA : 1905 - 1924)",Western Australia,22048634,1905-04-05,1924-10-24
+980,49785,The Southern Cross Times (WA : 1900 - 1920),Western Australia,22048650,1900-10-27,1920-12-18
+981,143767,"The Swan Express (Midland Junction, WA : 1900 - 1954)",Western Australia,22048596,1900-12-01,1954-12-22
+982,145179,"Truth (Perth, WA : 1903 - 1931)",Western Australia,22048553,1903-07-25,1931-03-29
+983,263162,The Armidale Chronicle (NSW : 1894 - 1929),New South Wales,22047530,1894-09-01,1929-08-31
+984,375,Adelaide Chronicle and South Australian Advertiser (SA : 1839 - 1840),South Australia,22048006,1839-12-10,1840-05-20
+985,812626,The Armidale Express and New England General Advertiser (NSW : 1856 - 1861; 1863 - 1889; 1891 - 1954),New South Wales,2204793X,1856-04-05,1954-12-31
+986,1937,Adelaide Chronicle and South Australian Literary Record (SA : 1840 - 1842),South Australia,22048022,1840-05-27,1842-05-18
+987,8877,"South Australian Gazette and Mining Journal (Adelaide, SA : 1847 - 1852)",South Australia,22048049,1847-10-09,1852-03-13
+988,4703,Port Augusta Dispatch (SA : 1877 - 1880),South Australia,22048081,1877-08-18,1880-08-06
+989,164222,Coffs Harbour Advocate (NSW : 1907 - 1942; 1946 - 1954),New South Wales,22047697,1907-02-12,1954-12-31
+990,13893,Port Augusta Dispatch and Flinders' Advertiser (SA : 1880 - 1884),South Australia,2204812X,1880-08-13,1884-10-17
+991,1539,Port Augusta Dispatch (SA : 1884),South Australia,22048162,1884-10-20,1885-03-16
+992,7962,The Uralla News (NSW : 1904 - 1907),New South Wales,22047565,1904-04-29,1907-12-25
+993,71112,"The Port Augusta Dispatch, Newcastle and Flinders Chronicle (SA : 1885 - 1916)",South Australia,22048235,1885-03-18,1916-04-21
+994,12454,The Port Pirie Standard and Barrier Advertiser (SA : 1889 - 1898),South Australia,22048286,1889-01-04,1898-07-05
+995,455,"The Australian Communist (Sydney, NSW : 1920 - 1921)",New South Wales,22048421,1920-12-24,1921-04-29
+996,60,"Citizen Soldier (Sydney, NSW : 1942)",New South Wales,22048812,1942-08-21,1942-11-02
+997,1891,"Communist (Sydney, NSW : 1921 - 1923)",New South Wales,22048456,1921-05-06,1923-06-15
+998,202,"Communist Review (Sydney, NSW : 1941 - 1943)",New South Wales,22048839,1941-07-01,1943-06-01
+999,15031,"The Maritime Worker (Melbourne, Vic. : 1938 - 1954)",Victoria,22048405,1938-04-01,1954-11-23
+1000,6,"Party (Sydney, NSW : 1942)",New South Wales,22048871,1942-06-01,1942-06-01
+1001,160,"Party Builder (Sydney, NSW : 1942)",New South Wales,22048855,1942-07-01,1942-11-01
+1002,172811,"Tribune (Sydney, NSW : 1939 - 1991)",New South Wales,22048790,1939-09-01,1991-04-03
+1003,56914,"The Workers' Weekly (Sydney, NSW : 1923 - 1939)",New South Wales,22048618,1923-06-22,1939-08-29
+1004,2460,"South Australian Gazette and Colonial Register (Adelaide, SA : 1845 - 1847)",South Australia,22049126,1845-07-05,1847-10-02
+1005,1505279,"Daily Examiner (Grafton, NSW : 1915 - 1954)",New South Wales,22049282,1915-07-01,1954-12-31
+1006,228136,Manilla Express (NSW : 1899 - 1954),New South Wales,22049320,1899-01-14,1954-12-14
+1007,1131910,"Tweed Daily (Murwillumbah, NSW : 1914 - 1949)",New South Wales,22049302,1914-01-01,1949-04-16
+1008,32,"Out Of Work (Sydney, NSW : 1922)",New South Wales,22049592,1922-06-16,1922-07-07
+1009,3508,"Yilgarn Merredin Times (Southern Cross, WA : 1921 - 1923)",Western Australia,22049509,1921-01-08,1923-06-23
+1010,29760,The Southern Cross Times (WA : 1923 - 1940),Western Australia,2204955X,1923-06-30,1940-08-03
+1011,155,"The Bee of Australia (Sydney, NSW : 1844)",New South Wales,14403668,1844-10-19,1844-12-07
+1012,4443,"The Colonial Observer (Sydney, NSW : 1841 - 1844)",New South Wales,1327662X,1841-10-07,1844-12-26
+1013,8449,"Commercial Journal and Advertiser (Sydney, NSW : 1835 - 1840)",New South Wales,14401894,1835-07-06,1840-12-30
+1014,800,"Free Press and Commercial Journal (Sydney, NSW : 1841)",New South Wales,14401908,1841-01-06,1841-06-30
+1015,2576,Sydney Free Press (NSW : 1841 - 1842),New South Wales,14401916,1841-07-03,1842-06-30
+1016,1046,"Commercial Journal and General Advertiser (Sydney, NSW : 1845)",New South Wales,14401924,1845-04-05,1845-08-02
+1017,298,"The Examiner (Sydney, NSW : 1845)",New South Wales,14401932,1845-08-09,1845-11-01
+1018,1753,Parramatta Chronicle and Cumberland General Advertiser (NSW : 1843 - 1845),New South Wales,14403439,1843-12-30,1845-09-27
+1019,259,"The Cumberland Times and Western Advertiser (Sydney, NSW : 1845)",New South Wales,14403447,1845-10-04,1845-12-27
+1020,831,"The Dispatch (Sydney, NSW : 1843 - 1844)",New South Wales,1440253X,1843-11-04,1844-12-28
+1021,558,"The Guardian (Sydney, NSW : 1844)",New South Wales,14403765,1844-03-16,1844-10-05
+1022,508,"The Hunter River Gazette; and Journal of Agriculture, Commerce, Politics, and News (West Maitland, NSW : 1841 - 1842)",New South Wales,13299611,1841-12-11,1842-06-25
+1023,855,The Melbourne Weekly Courier (Vic. : 1844 - 1845),Victoria,14403684,1844-01-06,1845-03-28
+1024,2071,The Melbourne Courier (Vic. : 1845 - 1846),Victoria,14403692,1845-06-16,1846-03-11
+1025,1565,Melbourne Times (Vic. : 1842 - 1843),Victoria,1440219X,1842-04-09,1843-12-08
+1026,1358,"The New South Wales Examiner (Sydney, NSW : 1842)",New South Wales,14402203,1842-04-02,1842-10-10
+1027,368,The Omnibus and Sydney Spectator (NSW : 1841 - 1843),New South Wales,14402130,1841-10-02,1843-04-01
+1028,286,"The Satirist and Sporting Chronicle (Sydney, NSW : 1843)",New South Wales,14403463,1843-02-04,1843-04-15
+1029,4279,"The Sentinel (Sydney, NSW : 1845 - 1848)",New South Wales,14403951,1845-01-08,1848-09-28
+1030,768,"The South Australian Colonist and Settlers' Weekly Record of British, Foreign and Colonial Intelligence (London, England : 1840)",International,1461426X,1840-03-10,1840-09-22
+1031,996,"The Star and Working Man's Guardian (Parramatta, NSW : 1844 - 1845)",New South Wales,13276654,1844-03-02,1845-09-27
+1032,360,"The Star (Sydney, NSW : 1845 - 1846)",New South Wales,14433540,1845-10-04,1846-05-23
+1033,405,"The Sun and New South Wales Independent Press (Sydney, NSW : 1843)",New South Wales,14403609,1843-01-28,1843-05-27
+1034,528,The Sydney Record (NSW : 1843 - 1844),New South Wales,14403617,1843-10-07,1844-03-30
+1035,1575,"The Teetotal Advocate (Launceston, Tas. : 1843)",Tasmania,14403625,1843-04-03,1843-12-30
+1036,1627,"The Teetotaller and General Newspaper (Sydney, NSW : 1842 - 1843)",New South Wales,14403331,1842-01-08,1843-09-27
+1037,1200,"The Temperance Advocate and Australasian Commercial and Agricultural Intelligencer (Sydney, NSW : 1840 - 1841)",New South Wales,14401487,1840-10-07,1841-12-29
+1038,20,"The True Sun and New South Wales Independent Press (Sydney, NSW : 1844)",New South Wales,14403633,1844-02-28,1844-02-28
+1039,44,"The Voice of Jacob. or, the Hebrews' Monthly Miscellany (Sydney, NSW : 1842)",New South Wales,1440334X,1842-05-27,1842-09-05
+1040,2406,"The Weekly Register of Politics, Facts and General Literature (Sydney, NSW : 1843 - 1845)",New South Wales,14402548,1843-07-29,1845-12-27
+1041,9569,"The Tasmanian Colonist (Hobart Town, Tas. : 1851 - 1855)",Tasmania,22051023,1851-07-07,1855-07-30
+1042,21,"Society (Sydney, NSW : 1887)",New South Wales,22050833,1887-01-29,1887-01-29
+1043,14,"Seamen's Strike Bulletin (Melbourne, Vic. : 1919)",Victoria,2205085X,,
+1044,169766,"Dutch Australian Weekly (Sydney, NSW : 1951 - 1993)",New South Wales,22051902,1951-10-05,1993-07-19
+1045,46560,"Dutch Weekly (Sydney, NSW : 1993 - 2004)",New South Wales,22051937,1993-08-02,2004-10-25
+1046,12,"The Derwent Star and Van Diemen's Land Intelligencer (Hobart, Tas. : 1810 - 1812)",Tasmania,22052054,1810-04-03,1812-02-07
+1047,38,"The Van Diemen's Land Gazette and General Advertiser (Hobart, Tas. : 1814)",Tasmania,22052135,1814-05-21,1814-09-10
+1048,2406,"The Dead Bird (Sydney, NSW : 1889 - 1891)",New South Wales,22052283,1889-05-16,1891-01-31
+1049,8644,"The Bird O' Freedom (Sydney, NSW : 1891 - 1896)",New South Wales,22052305,1891-02-07,1896-02-29
+1050,42826,"The Protestant Standard (Sydney, NSW : 1869 - 1895)",New South Wales,22052402,1869-05-15,1895-07-27
+1051,7690,"The Australian Workman (Sydney, NSW : 1890 - 1897)",New South Wales,22053859,1890-09-22,1897-09-25
+1052,126379,"The Lorgnette (Melbourne, Vic. : 1878 - 1898)",Victoria,22052801,1878-07-01,1898-12-01
+1053,573,"The Colonial Mining Journal, Railway and Share Gazette (Vic. : 1858 - 1859)",Victoria,22052852,1858-09-02,1859-08-04
+1054,1232,"The Colonial Mining Journal, Railway and Share Gazette and Illustrated Record (Melbourne, Vic. : 1859 - 1861)",Victoria,22052879,1859-09-01,1861-08-08
+1055,456544,Brisbane Telegraph (Qld. : 1948 - 1954),Queensland,22051449,1948-01-01,1954-12-31
+1056,17775,The Toowoomba Chronicle and Queensland Advertiser (Qld. : 1861 - 1875),Queensland,22051473,1861-07-11,1875-11-20
+1057,174637,Toowoomba Chronicle and Darling Downs General Advertiser (Qld. : 1875 - 1902),Queensland,22052038,1875-11-23,1902-06-28
+1058,712601,"The Daily Mail (Brisbane, Qld. : 1903; 1916 - 1926)",Queensland,22051619,1903-10-03,1926-10-31
+1059,2242,"Johnstone River Advocate (Geraldton, Qld. : 1906 - 1908)",Queensland,22051511,1906-12-06,1908-08-19
+1060,66673,Johnstone River Advocate and Innisfail News (Qld. : 1928 - 1941),Queensland,22051538,1928-08-28,1941-05-16
+1061,170751,"The Evening Advocate (Innisfail, Qld. : 1941 - 1954)",Queensland,22051554,1941-05-19,1954-12-31
+1062,18296,Dalby Herald and Western Queensland Advertiser (Qld. : 1866 - 1879),Queensland,22051570,1866-01-11,1879-12-27
+1063,212002,The Dalby Herald (Qld. : 1910 - 1954),Queensland,1446134X,1910-05-14,1954-12-31
+1064,214993,The Beaudesert Times (Qld. : 1908 - 1954),Queensland,22051384,1908-10-10,1955-12-30
+1065,3818,The St. George Standard and Balonne Advertiser (Qld. : 1878 - 1879; 1902 - 1904),Queensland,22051341,1878-07-17,1904-12-23
+1066,130692,"Balonne Beacon (St. George, Qld. : 1909 - 1954)",Queensland,22051295,1909-01-02,1955-12-29
+1067,321011,"The Evening Telegraph (Charters Towers, Qld. : 1901 - 1921)",Queensland,22051279,1901-03-04,1921-08-10
+1068,23750,"Northern Argus (Rockhampton, Qld. : 1865 - 1874)",Queensland,22051228,1865-07-24,1874-12-31
+1069,126701,"The Daily Northern Argus (Rockhampton, Qld. : 1875 - 1896)",Queensland,2205118X,1875-01-01,1896-12-31
+1070,367230,The Bundaberg Mail and Burnett Advertiser (Qld. : 1892 - 1917),Queensland,22051651,1892-12-12,1917-12-11
+1071,212072,The Bundaberg Mail (Qld. : 1917 - 1925),Queensland,22051678,1917-12-12,1925-06-30
+1072,6497,"Telegraph (Launceston, Tas. : 1881 - 1883)",Tasmania,22052658,1881-07-02,1883-06-15
+1073,109882,"Voice (Hobart, Tas. : 1931 - 1953)",Tasmania,22052186,1931-01-03,1953-12-26
+1074,5993,"The North Western Chronicle (Latrobe, Tas. : 1887 - 1888)",Tasmania,22052224,1887-07-04,1888-05-25
+1075,9978,"The North Coast Standard (Latrobe, Tas. : 1890 - 1894)",Tasmania,22052674,1890-11-26,1894-08-10
+1076,708,"Deloraine - Westbury Advocate (Ulverstone, Tas. : 1893 - 1894)",Tasmania,22052690,1893-10-07,1894-07-07
+1077,7051,"The Coastal News and North Western Advertiser (Ulverstone, Tas. : 1890 - 1893)",Tasmania,22052593,1890-09-20,1893-12-29
+1078,175619,"King Island News (Currie, King Island : 1912 - 1986",Tasmania,22052569,1912-08-09,1986-08-13
+1079,87409,"The Blackwood Times (Greenbushes, WA : 1905 - 1955)",Western Australia,22051767,1905-05-03,1955-02-25
+1080,17905,"The Australian (Perth, WA : 1917 - 1923)",Western Australia,22051783,1917-08-29,1923-04-20
+1081,22969,The Narrogin Observer and Williams District Representative (WA : 1905 - 1930),Western Australia,22051813,1905-08-26,1918-12-28
+1082,126910,The Narrogin Observer (WA : 1918 - 1955),Western Australia,22051821,1919-01-04,1955-04-28
+1083,299212,The Northam Advertiser (WA : 1895 - 1955),Western Australia,22052151,1895-06-01,1955-05-27
+1084,2741,The Avon Gazette and Kellerberrin News (WA : 1914 - 1916),Western Australia,22051953,1914-07-10,1915-12-25
+1085,27923,The Avon Gazette and York Times (WA : 1916 - 1930),Western Australia,22051996,1916-01-15,1930-08-01
+1086,108109,"The W.A. Record (Perth, WA : 1888 - 1922)",Western Australia,22051880,1888-07-19,1922-04-01
+1087,53699,"The Southern Districts Advocate (Katanning, WA : 1913 - 1936)",Western Australia,22052208,1913-10-25,1936-08-31
+1088,27029,The Leonora Miner (WA : 1910 - 1928),Western Australia,22052267,1910-03-19,1928-11-03
+1089,30622,The Pingelly Leader (WA : 1906 - 1925),Western Australia,22052321,1906-08-03,1925-10-01
+1090,71152,Pingelly-Brookton Leader (WA : 1925 - 1954),Western Australia,2205250X,1925-10-08,1954-12-22
+1091,204092,"The Sun (Kalgoorlie, WA : 1898 - 1929)",Western Australia,22052526,1898-10-16,1929-10-13
+1092,21838,The Adelaide Express (SA : 1863 - 1866),South Australia,22053093,1863-12-02,1866-12-29
+1093,1348238,"The Express and Telegraph (Adelaide, SA : 1867 - 1922)",South Australia,22053115,1867-01-02,1922-11-03
+1094,23140,"The Express (Adelaide, SA : 1922 - 1923)",South Australia,22053131,1922-11-06,1923-07-23
+1095,25699,"The Pennant (Penola, SA : 1946 - 1955)",South Australia,22053042,1946-07-25,1955-12-21
+1096,8510,The Terowie Enterprise (SA : 1884 - 1891),South Australia,22053026,1884-08-08,1891-12-18
+1097,10294,"The Central Advocate (Balaklava, SA : 1903 - 1909)",South Australia,22052941,1903-09-25,1909-09-10
+1098,65123,"The Wooroora Producer (Balaklava, SA : 1909 - 1940)",South Australia,22052968,1909-09-17,1940-06-27
+1099,14701,"The Producer (Balaklava, SA : 1940 - 1950)",South Australia,22052984,1940-07-04,1950-12-07
+1100,64909,Adelaide Times (SA : 1848 - 1858),South Australia,2205300X,1848-10-02,1858-05-08
+1101,12350,Ariah Park News (NSW : 1923 - 1928),New South Wales,22054200,1923-04-05,1928-12-20
+1102,72521,Wagga Wagga Express (NSW : 1930 - 1939),New South Wales,22054227,1930-09-06,1939-06-17
+1103,1653,Geraldton Advocate and Johnstone River Guardian (Qld. : 1895 - 1896),Queensland,22054278,1895-01-04,1896-01-01
+1104,7737,"Filmnews (Sydney, NSW : 1975 - 1995)",New South Wales,22054294,1975-02-01,1995-07-01
+1105,559,"The Australian (Perth, WA : 1907 - 1908)",Western Australia,22053255,1907-04-18,1908-12-23
+1106,47979,Bruce Rock Post and Corrigin and Narembeen Guardian (WA : 1924 - 1948),Western Australia,22054073,1924-05-16,1948-10-28
+1107,10249,Bruce Rock Post and Corrigin Guardian (WA : 1917 - 1924),Western Australia,22054057,1917-03-02,1924-05-09
+1108,18806,"Bruce Rock-Corrigin Post, Narembeen-Kondinin Guardian (WA : 1948 - 1954)",Western Australia,22054138,1948-11-04,1954-12-30
+1109,9139,"Call and Bailey's Weekly (Perth, WA : 1940 - 1945)",Western Australia,22053964,1940-12-19,1945-06-21
+1110,8141,"Call and WA Sportsman (Perth, WA : 1918 - 1920)",Western Australia,2205345X,1918-09-13,1920-04-23
+1111,50031,"Call (Perth, WA : 1920 - 1927)",Western Australia,22053476,1920-04-30,1927-12-16
+1112,22060,"Call (Perth, WA : 1945 - 1953)",Western Australia,22054006,1945-06-28,1953-07-30
+1113,29869,"Call News-Pictorial (Perth, WA : 1927 - 1931)",Western Australia,22053514,1927-12-22,1931-09-03
+1114,121686,Daily Telegraph and North Murchison and Pilbarra Gazette (WA : 1920 - 1947),Western Australia,22053980,1920-03-25,1947-01-31
+1115,6397,"The Daily Telegraph (Meekatharra, WA : 1918 - 1947)",Western Australia,22053948,1918-07-12,1920-03-18
+1116,13098,"The Fremantle Herald (WA : 1913 - 1915, 1919 - 1921)",Western Australia,22053336,1913-04-18,1921-05-06
+1117,208900,The Geraldton Express (WA : 1906 - 1928),Western Australia,22054030,1906-01-02,1928-12-31
+1118,22522,Gnowangerup Times (WA : 1912 - 1918),Western Australia,22054154,1912-10-12,1918-03-30
+1119,829,"Local Option Advocate (Perth, WA : 1919 - 1927)",Western Australia,22053352,1919-06-01,1927-12-30
+1120,30166,Murchison Advocate (WA : 1898 - 1912),Western Australia,22053271,1898-09-03,1912-02-01
+1121,27055,"New Call and Bailey's Weekly (Perth, WA : 1934 - 1940)",Western Australia,22053557,1934-05-17,1940-12-12
+1122,15776,"New Call (Perth, WA : 1931 - 1934)",Western Australia,22053530,1931-09-10,1934-05-10
+1123,7625,Nungarin Trayning Mail and Kununoppin Advertiser (WA : 1917 - 1922),Western Australia,22053727,1917-07-10,1922-03-10
+1124,5567,"Primary Producer (Perth, WA : 1916 - 1921)",Western Australia,22053417,1916-09-29,1921-07-29
+1125,3953,"The Reformer (Perth, WA : 1906 - 1919)",Western Australia,22053379,1906-08-31,1919-04-01
+1126,97546,"South Western Times (Bunbury, WA : 1917 - 1929)",Western Australia,22053395,1917-01-04,1929-12-31
+1127,51292,Tambellup Times (WA : 1912 - 1924),Western Australia,22054170,1912-10-12,1924-08-09
+1128,27053,"Victorian Express (Geraldton, WA : 1878 - 1894)",Western Australia,22053298,1878-09-18,1894-10-26
+1129,11526,"W.A. Sportsman (Perth, WA : 1914 - 1918)",Western Australia,22053433,1914-05-29,1918-09-06
+1130,6382,The Westonian (WA : 1915 - 1920),Western Australia,22053700,1915-04-24,1920-12-24
+1131,241,York Advocate (WA : 1915),Western Australia,2205331X,1915-10-02,1915-11-06
+1132,26178,Western Tiers (Tas. : 1980 - 2004),Tasmania,22054316,1980-04-01,2004-01-20
+1133,47380,Goulburn Valley Stock and Property Journal (Vic. : 1916 - 1942),Victoria,22054332,1916-01-05,1942-12-23
+1134,180075,"The Daily Express (Wagga Wagga, NSW : 1919 - 1930)",New South Wales,22056882,1919-11-01,1930-08-30
+1137,11959,Port Phillip Gazette (Vic. : 1838 - 1845),Victoria,22054472,1838-10-27,1845-08-23
+1138,12127,Port Phillip Gazette and Settler's Journal (Vic. : 1845 - 1850),Victoria,22054499,1845-08-27,1850-12-21
+1139,491,Port Phillip Gazette (Vic. : 1851),Victoria,22054545,1851-01-04,1851-03-15
+1141,139561,"Sportsman (Melbourne, Vic. : 1882 - 1904)",Victoria,22054626,1882-02-08,1904-05-03
+1142,437,Swan River Guardian (WA : 1836 - 1838),Western Australia,22057099,1836-10-13,1838-02-22
+1143,89342,"Eyre's Peninsula Tribune (Cowell, SA : 1910 - 1950)",South Australia,13215280,1911-03-10,1950-12-21
+1144,133809,"The Areas' Express (Booyoolee, SA : 1877 - 1948)",South Australia,22053778,1877-05-26,1948-12-24
+1145,2088,The Illustrated Adelaide News (SA : 1875 - 1880),South Australia,22053794,1875-01-01,1880-09-01
+1146,2061,Frearson's Monthly Illustrated Adelaide News (SA : 1880 - 1884),South Australia,22053816,1880-10-01,1884-12-01
+1147,6406,"The Pictorial Australian (Adelaide, SA : 1885 - 1895)",South Australia,22053832,1885-01-01,1895-10-01
+1148,5455,"The Irish Harp and Farmers' Herald (Adelaide, SA : 1869 - 1873)",South Australia,22053891,1869-05-29,1873-11-28
+1149,2676,"Harp and Southern Cross (Adelaide, SA : 1873 - 1875)",South Australia,22053913,1873-12-05,1875-12-24
+1150,95439,"Australische Zeitung (Adelaide, SA : 1875 - 1916)",South Australia,22053875,1875-01-05,1916-03-15
+1151,70,"The Northern Sportsman (Innisfail, Qld. : 1928)",Queensland,22058869,1928-08-31,1928-08-31
+1152,884,Millthorpe Post (NSW : 1900 - 1901),New South Wales,22075410,1900-12-08,1901-04-13
+1153,197259,Lachlander and Condobolin and Western Districts Recorder (NSW : 1899 - 1952),New South Wales,22056335,1899-01-06,1952-07-08
+1154,82304,Murrumburrah Signal and County of Harden Advocate (NSW : 1881 - 1947),New South Wales,22055967,1881-08-06,1947-01-09
+1155,89349,Nambucca and Bellinger News (NSW : 1911 - 1945),New South Wales,22056467,1911-11-24,1945-03-23
+1156,10638,Nambucca News (NSW : 1909 - 1911),New South Wales,22056440,1909-01-08,1911-11-17
+1157,76063,The Nowra Leader (NSW : 1909 - 1939),New South Wales,22055940,1909-09-03,1939-12-22
+1158,17559,The Twofold Bay Magnet : and South Coast and Southern Monaro Advertiser (NSW : 1908 - 1919),New South Wales,22055835,1908-06-05,1919-05-10
+1159,114795,Warialda Standard and Northern Districts' Advertiser (NSW : 1900 - 1954),New South Wales,2205670X,1900-04-10,1954-12-22
+1160,288,The Warialda Watchman (NSW : 1899),New South Wales,22057323,1899-01-12,1899-02-16
+1161,120528,"Critic (Adelaide, SA : 1897-1924)",South Australia,22057137,1897-09-25,1924-05-28
+1162,114055,"Border Chronicle (Bordertown, SA : 1908 - 1950)",South Australia,22057161,1908-06-13,1950-12-21
+1163,1161,Port Adelaide News (SA : 1904),South Australia,22057609,1904-01-09,1904-10-01
+1164,74355,Port Adelaide News (SA :1913 - 1933),South Australia,22057668,1913-08-15,1933-08-31
+1165,131824,Quorn Mercury (SA : 1895 - 1954),South Australia,22057439,1895-05-03,1954-12-23
+1166,112094,Australian Christian Commonwealth (SA : 1901 - 1940),South Australia,22057552,1901-01-04,1940-06-28
+1167,32659,Christian Colonist (SA : 1878 - 1894),South Australia,2205751X,1878-10-04,1894-07-20
+1168,94430,Blyth Agriculturist (SA : 1908 - 1954),South Australia,22057366,1908-11-06,1954-12-22
+1169,45719,Glenelg Guardian (SA : 1914 - 1936),South Australia,22057455,1914-10-08,1936-09-02
+1170,158693,"Sport (Adelaide, SA : 1911 - 1948)",South Australia,22057285,1911-04-01,1948-10-30
+1171,6333,Yorke's Peninsula Advertiser and Miners' News (SA : 1872 - 1874),South Australia,22057692,1872-10-04,1874-12-29
+1172,11189,Yorke's Peninsula Advertiser and Miners' and Farmers' Journal (SA : 1875 - 1878),South Australia,22057714,1875-01-01,1878-07-09
+1173,93544,Yorke's Peninsula Advertiser (SA : 1878 - 1922),South Australia,22057730,1878-07-12,1922-07-28
+1174,85427,Coolgardie Miner (WA : 1935 - 1954),Western Australia,22057498,1935-04-12,1954-12-30
+1175,18762,"Hamersley News (Perth, WA : 1969 - 1987)",Western Australia,2205927X,1969-03-20,1987-07-01
+1176,693099,Lithgow Mercury (NSW : 1898 - 1954),New South Wales,13289667,1898-01-07,1954-12-31
+1177,199014,Crookwell Gazette (NSW : 1885 - 1954),New South Wales,22059679,1885-10-16,1954-12-22
+1178,1016525,"The Australian Star (Sydney, NSW : 1887 - 1909)",New South Wales,22059466,1887-12-01,1909-03-11
+1179,80221,"The Star (Sydney, NSW : 1909 - 1910)",New South Wales,22059504,1909-03-12,1910-06-30
+1180,3261665,"The Sun (Sydney, NSW : 1910 - 1954)",New South Wales,22059520,1910-07-01,1954-12-31
+1181,77748,"The Sunday Sun (Sydney, NSW : 1903 - 1910)",New South Wales,22059830,1903-04-05,1910-12-18
+1182,264,"The Sun : Sunday Edition (Sydney, NSW : 1910)",New South Wales,22060251,1910-12-25,1910-12-25
+1183,315029,Dubbo Dispatch and Wellington Independent (NSW : 1887 - 1932),New South Wales,22060227,1887-02-08,1932-08-12
+1184,108186,"Tung Wah Times (Sydney, NSW : 1901 - 1936)",New South Wales,22059377,1901-01-02,1936-12-26
+1185,11302,"Tung Wah News (Sydney, NSW : 1898 - 1902)",New South Wales,22059296,1898-06-29,1902-06-18
+1186,78581,"Chinese Republic News (Sydney, NSW : 1914 - 1937)",New South Wales,22059393,1914-02-21,1937-12-25
+1187,55094,"Tharunka (Kensington, NSW : 1953 - 2010)",New South Wales,22061703,1953-03-02,2010-10-01
+1188,52794,"Construction (Sydney, NSW : 1938 - 1954)",New South Wales,22062475,1938-05-18,1954-12-29
+1189,2652,"Jamboree Daily (Frankston, Vic. : 1934; 1949; 1955; 1964; 1976; 1992; 2007)",Victoria,22062688,1934-12-28,2007-01-13
+1190,4234162,"The Herald (Melbourne, Vic. : 1861 - 1954)",Victoria,22062459,1861-01-01,1954-12-31
+1191,14,"The Sun News Pictorial (Melbourne, Vic. : 1956 Supplement)",Victoria,22062351,1956-01-07,1956-01-07
+1192,287,"The Echo (Fremantle, WA : 1905)",Western Australia,2206219X,1905-08-19,1905-09-30
+1193,3753,"The Empire (Fremantle, WA : 1907 - 1908)",Western Australia,22062211,1907-05-18,1908-09-05
+1194,4303,The Fremantle Mail (WA : 1903 - 1904),Western Australia,22062238,1903-09-16,1904-04-02
+1195,26476,"The Mail (Fremantle, WA : 1904 - 1905)",Western Australia,22062254,1904-04-05,1905-07-28
+1196,561,Fremantle Mercury (WA : 1932 - 1933),Western Australia,22062270,1932-11-30,1933-02-09
+1197,3339,"The Golden Gate (Fremantle, WA : 1911 - 1912)",Western Australia,22062297,1911-07-29,1912-08-16
+1198,1796,"The Messenger (Fremantle, WA : 1895)",Western Australia,22062327,1895-03-07,1895-12-20
+1199,677,"The Possum (Perth, WA : 1887 - 1888)",Western Australia,22062521,1887-07-30,1888-01-28
+1200,2562,"The W.A. Bulletin (Fremantle, WA : 1888 - 1890)",Western Australia,22062548,1888-02-04,1890-08-02
+1201,105,"The Possum (Fremantle, WA : 1890)",Western Australia,22062599,1890-10-21,1890-12-06
+1202,7108,The Broad Arrow Standard (WA : 1896 - 1899),Western Australia,22062432,1896-08-26,1899-02-04
+1203,3516,"The Hannan's Herald (Kalgoorlie, WA : 1895 - 1896)",Western Australia,22062416,1895-09-16,1896-09-26
+1204,10408,The Malcolm Chronicle and Leonora Advertiser (WA : 1897 - 1905),Western Australia,22062394,1897-12-03,1905-04-21
+1205,141,"Westralian Clarion (Kalgoorlie, WA : 1903)",Western Australia,22062378,1903-10-27,1903-11-24
+1206,26107,"The Gippsland Farmers' Journal and Traralgon, Heyfield and Rosedale News (Vic. : 1887 - 1893)",Victoria,22062629,1887-01-27,1893-09-29
+1207,42,The Coolangatta Chronicle (Qld. : 1926),Queensland,2206172X,1926-09-13,1926-09-13
+1208,48750,"The Border Star (Coolangatta, Qld. : 1929 - 1942)",Queensland,22061746,1929-02-23,1942-01-30
+1209,36,Southport and Nerang Bulletin (Qld. : 1893),Queensland,22062173,1893-09-23,1893-09-23
+1210,5449,"The South Coast Express (Surfers Paradise, Qld. : 1949 - 1951)",Queensland,22061797,1949-09-08,1951-08-17
+1211,7325,"South Coast News (Southport, Qld. : 1952 - 1954)",Queensland,22062149,1952-09-13,1954-12-31
+1212,5389,"Southern Queensland Bulletin (Southport, Qld. : 1888 - 1891)",Queensland,22061835,1888-01-14,1891-12-26
+1213,55297,The Proserpine Guardian (Qld. : 1935 - 1954),Queensland,22061770,1935-02-16,1954-12-24
+1215,4175,,,,,
+1216,359736,,,,,
+1218,96998,The Young Chronicle (NSW : 1902 - 1910; 1913 - 1915; 1924 - 1934; 1936 - 1940),New South Wales,22066500,1902-03-08,1940-12-20
+1219,237352,Casino and Kyogle Courier and North Coast Advertiser (NSW : 1904 - 1932),New South Wales,22066527,1904-12-17,1932-05-04
+1220,421153,"Macleay Argus (Kempsey, NSW : 1885 - 1907; 1909 - 1910; 1912 - 1913; 1915 - 1916; 1918 - 1954)",New South Wales,22066535,1885-10-24,1954-12-31
+1221,284424,The Kyogle Examiner (NSW : 1912; 1914 - 1915; 1917 - 1954),New South Wales,22066586,1912-01-06,1954-12-31
+1222,88586,The Queanbeyan Observer (NSW : 1894 - 1908; 1910 - 1915),New South Wales,22066594,1894-11-02,1915-04-02
+1223,17619,Quirindi Herald and District News (NSW : 1906 - 1907; 1913 - 1923),New South Wales,22066616,1906-01-05,1923-05-25
+1224,407233,The Corowa Free Press (NSW : 1875 - 1954),New South Wales,22066233,1875-10-08,1954-12-24
+1225,184861,"The Propeller (Hurstville, NSW : 1911 - 1954)",New South Wales,2206625X,1911-03-10,1954-12-30
+1226,279072,The Grafton Argus and Clarence River General Advertiser (NSW : 1874 - 1875; 1879 - 1882; 1888; 1892; 1899 - 1922),New South Wales,22066276,1874-10-02,1922-03-31
+1227,3045,"Weekly Supplement to Building (Sydney, NSW : 1908 - 1909)",New South Wales,22066292,1908-02-18,1909-08-31
+1228,14884,"Construction : Weekly Supplement to Building (Sydney, NSW : 1909 - 1914)",New South Wales,22020454,1909-09-07,1914-12-28
+1229,249651,"Smith's Weekly (Sydney, NSW : 1919 - 1950)",New South Wales,22066314,1919-03-01,1950-10-28
+1230,9514,"The Tasmanian (Hobart Town, Tas. : 1827 - 1839)",Tasmania,22068856,1827-10-18,1839-09-27
+1231,1693,"Tasmanian Weekly Dispatch (Hobart Town, Tas. : 1839 - 1841)",Tasmania,22068767,1839-10-04,1841-06-25
+1232,7239,"The Austral-Asiatic Review, Tasmanian and Australian Advertiser (Hobart Town, Tas. : 1837 - 1844)",Tasmania,22068813,1837-10-10,1844-10-10
+1233,875,"The Austral-Asiatic Review (Hobart Town, Tas. : 1833)",Tasmania,2206883X,1833-02-26,1833-12-31
+1234,781,"The Tasmanian and Austral-Asiatic Review (Hobart Town, Tas. : 1844 - 1845)",Tasmania,22068783,1844-10-17,1845-06-26
+1235,498,"Colonial Advocate, and Tasmanian Monthly Review and Register (Hobart Town, Tas. : 1828)",Tasmania,22068023,1828-03-01,1828-10-01
+1236,279,"The Cornwall Press and Commercial Advertiser (Launceston, Tas. : 1829)",Tasmania,2206804X,1829-02-17,1829-06-23
+1237,3994,"The Independent (Launceston, Tas. : 1831 - 1835)",Tasmania,22068163,1831-03-28,1835-01-31
+1238,1236,"Bent's News and Tasmanian Three-Penny Register (Hobart Town, Tas. : 1836 - 1837)",Tasmania,22067736,1836-01-09,1837-10-07
+1239,344,The Hobart Town Chronicle (Tas. : 1833),Tasmania,22067639,1833-02-26,1833-07-02
+1240,101,"The People's Horn Boy (Hobart Town, Tas. : 1834)",Tasmania,22067655,1834-08-22,1834-12-13
+1241,1011,"Bent's News and Tasmanian Register (Hobart Town, Tas. : 1837 - 1838)",Tasmania,22067752,1837-10-14,1838-12-28
+1242,1703,"Morning Star and Commercial Advertiser (Hobart Town, Tas. : 1834 - 1835)",Tasmania,22067671,1834-11-28,1835-10-23
+1243,365,The Colonial Record (Launceston Tas. : 1839),Tasmania,22067795,1839-03-11,1839-06-24
+1244,1778,"The Irish Exile and Freedom's Advocate (Hobart Town, Tas. : 1850 - 1851)",Tasmania,22068201,1850-01-26,1851-04-12
+1245,3665,"The People's Advocate or True Friend of Tasmania (Launceston, Tas. : 1855 - 1856)",Tasmania,22068589,1855-04-12,1856-12-29
+1246,871,"Tasmanian Weekly News (Hobart Town, Tas. : 1858)",Tasmania,22068945,1858-02-06,1858-05-29
+1247,1660,"The Tasmanian Telegraph (Hobart Town, Tas. : 1858 - 1859)",Tasmania,22068961,1858-06-19,1859-04-16
+1248,814,"Bell's Life in Tasmania (Hobart Town, Tas. : 1859)",Tasmania,2206771X,1859-07-12,1859-12-28
+1249,1334,"The Weekly Times (Hobart Town, Tas. : 1863)",Tasmania,22069399,1863-03-14,1863-12-12
+1250,140,"Telegraph (Hobart Town, Tas. : 1867)",Tasmania,22069410,1867-01-11,1867-01-16
+1251,83363,"The Mount Lyell Standard and Strahan Gazette (Queenstown, Tas. : 1896 - 1902)",Tasmania,22068562,1896-11-28,1902-12-22
+1252,704,"The Banner (Strahan, Tas. : 1901)",Tasmania,22067604,1901-01-02,1901-03-02
+1253,3141,"The Midland News (Oatlands, Tas. : 1902 - 1904)",Tasmania,22069607,1902-05-17,1904-03-12
+1256,9979,"The Northern Standard (Ulverstone, Tas. : 1921 - 1923)",Tasmania,22068465,1921-12-31,1923-07-28
+1257,70584,"The News (Hobart, Tas. : 1924 - 1925)",Tasmania,22068449,1924-05-30,1925-12-26
+1258,286,"Tasmanian Punch (Hobart Town, Tas. : 1866)",Tasmania,22069038,1866-07-21,1866-12-29
+1259,568,"Hobart Town Punch (Hobart Town, Tas. : 1867 - 1868)",Tasmania,22069062,1867-01-12,1868-02-15
+1260,184,"Fun or The Tasmanian Charivari (Hobart Town, Tas. : 1867)",Tasmania,22069100,1867-04-13,1867-09-28
+1261,1072,"Tasmanian Punch (Hobart Town, Tas. : 1869 - 1870; 1877 - 1878)",Tasmania,22069283,1869-12-04,1879-03-29
+1262,32,"Hobart Town Punch (Hobart Town, Tas. : 1878)",Tasmania,22069305,1878-06-01,1878-07-13
+1263,25610,"The Tasmanian Times (Hobart Town, Tas. : 1867 - 1870)",Tasmania,22068511,1867-05-18,1870-12-31
+1264,16388,"Cornwall Advertiser (Launceston, Tas. : 1870 - 1877)",Tasmania,22068082,1870-10-04,1877-10-12
+1265,2892,"Tasmanian Evening Herald (Launceston, Tas. : 1878)",Tasmania,22068104,1878-01-01,1878-11-30
+1266,31111,"Weekly Examiner (Launceston, Tas. : 1872 - 1878)",Tasmania,22068538,1872-01-06,1878-12-28
+1268,4471,"The Federalist (Launceston, Tas. : 1898 - 1899)",Tasmania,22068120,1898-07-09,1899-07-08
+1269,13008,"The Tasmanian Democrat (Launceston, Tas. : 1891 - 1898)",Tasmania,2206849X,1891-09-26,1898-07-01
+1270,13250,The Albany Mail and King George's Sound Advertiser (WA : 1883 - 1889),Western Australia,22069089,1883-01-01,1889-08-28
+1271,40915,The Collie Miner (WA : 1900 - 1916),Western Australia,22069143,1900-06-02,1916-10-28
+1272,3241,Coolgardie Mining Review (WA : 1895 - 1897),Western Australia,2206916X,1895-12-28,1897-05-08
+1273,46446,"The Goldfields Morning Chronicle (Coolgardie, WA : 1896 - 1898)",Western Australia,22069186,1896-07-06,1898-10-27
+1274,9939,"Group Settlement Chronicle and Margaret-Augusta Mail (Busselton, WA : 1923 - 1930)",Western Australia,22069208,1923-12-04,1930-10-07
+1275,27815,"The Magnet Mirror and Murchison Reflector (Meekatharra, WA : 1928 - 1935)",Western Australia,22069224,1928-01-05,1935-01-10
+1276,52559,"The Manganese Record, Peak Hill, Nullagine and Marble Bar Gazette (Meekatharra, WA : 1928 - 1941)",Western Australia,22069240,1928-09-22,1941-07-11
+1277,42521,The Menzies Miner (WA : 1896 - 1901),Western Australia,22069267,1896-01-11,1901-09-14
+1278,18018,The Mt. Leonora Miner (WA : 1899 - 1910),Western Australia,22069321,1899-07-08,1910-03-05
+1279,255799,"The Murchison Times and Day Dawn Gazette (Cue, WA : 1894 - 1925)",Western Australia,22069488,1894-08-15,1925-12-05
+1280,68483,"The Yalgoo Observer and Murchison Chronicle (Meekatharra, WA : 1923 - 1941)",Western Australia,22069348,1923-06-07,1941-07-11
+1281,72,"The St. James and Devenish Herald (Dookie, Vic. : 1905)",Victoria,22071202,1905-04-13,1905-12-22
+1282,12,"Bent's Monthly Advertiser (Hobart, Tas. : 1828)",Tasmania,22071229,1828-03-01,1828-04-01
+1283,498,"Berita Repoeblik (Djakarta, Indonesia : 1945 - 1946)",International,2207208X,1945-11-17,1946-11-15
+1284,928143,"The Labor Daily (Sydney, NSW : 1924 - 1938)",New South Wales,22074821,1924-01-23,1938-12-01
+1285,91686,"Daily News (Sydney, NSW : 1938 - 1940)",New South Wales,22074848,1938-12-02,1940-07-26
+1287,5745,The San Remo Times and Phillip Island and Bass Valley Advertiser (Vic. : 1896 - 1898),Victoria,NDP00058,1896-02-07,1898-11-18
+1296,73615,The Sydney Daily Telegraph (NSW : 1879 -1883),New South Wales,22074880,1879-07-01,1883-12-29
+1297,3154966,"The Daily Telegraph (Sydney, NSW : 1883 - 1930)",New South Wales,22074902,1883-12-31,1930-01-31
+1298,26053,"Moreton Mail (Qld. : 1886 - 1899, 1930 - 1935)",Queensland,22075496,1886-01-09,1935-10-18
+1299,25,The Burrangong Chronicle and Young and Lachlan District Advertiser (NSW : 1901),New South Wales,22075836,1901-12-25,1901-12-25
+1300,2678,"The Railway and Tramway Co-operator (Sydney, NSW : 1909 - 1910)",New South Wales,22075437,1909-07-14,1910-10-20
+1301,36073,"Co-operator (Sydney, NSW : 1910 - 1917)",New South Wales,22075453,1910-10-27,1917-08-02
+1302,674,"All Grades Advocate (Sydney, NSW : 1917)",New South Wales,2207547X,1917-07-12,1917-12-13
+1303,1096,"The Gateway (Port Adelaide, SA : 1946)",South Australia,2207225X,1946-08-30,1946-11-29
+1304,4157,Port Adelaide District Pictorial (SA : 1952 - 1954),South Australia,22072292,1952-03-14,1954-01-14
+1305,1284,"The Citizen (Port Adelaide, SA : 1938-1940)",South Australia,22072225,1938-11-30,1940-05-31
+1306,563,Seaport News Review (SA : 1954),South Australia,22072314,1954-01-21,1954-04-29
+1307,1446,"The Progressive Times (Largs North, SA : 1949 - 1951)",South Australia,22072276,1949-05-16,1951-02-01
+1309,125,"The Western Weekly News (Port Lincoln, SA : 1902-1904)",South Australia,2208133X,1902-04-19,1904-03-23
+1310,3063,"The Red Star (Perth, WA : 1932 - 1936)",Western Australia,22082557,1932-04-08,1936-04-17
+1311,29652,"The Workers Star (Perth, WA : 1936 - 1951)",Western Australia,22082581,1936-04-24,1950-12-19
+1312,168752,"Mount Barker and Denmark Record (Albany, WA : 1929 - 1949)",Western Australia,22082484,1929-12-10,1949-06-13
+1313,110022,The Mullewa Mail (WA : 1921 - 1947),Western Australia,22083111,1921-01-07,1947-12-12
+1314,77117,"The Dowerin Guardian and Amery Line Advocate (Wyalkatchem, WA : 1927 - 1954)",Western Australia,22082506,1928-01-07,1954-12-23
+1315,72558,"The Weekly Gazette (Goomalling, WA : 1924 - 1946)",Western Australia,22082530,1924-02-22,1946-02-08
+1316,2954,"The Weekly Advance (Granville, NSW : 1892 - 1893)",New South Wales,22082816,1892-02-05,1893-01-27
+1317,1893,Granville Independent and Parramatta Advertiser (NSW : 1900 - 1901),New South Wales,22082832,1900-09-14,1901-03-29
+1318,3526,Auburn News and Granville Electorate Gazetteer (NSW : 1903 - 1905),New South Wales,22082867,1903-09-19,1905-12-30
+1319,745,The Auburn and Lidcombe Advance (NSW : 1925 - 1939),New South Wales,22082883,1925-12-10,1939-12-14
+1320,25,Auburn and District News (NSW : 1929),New South Wales,22082905,1929-11-28,1929-11-28
+1321,121,"Express (Granville, NSW : 1933 - 1935)",New South Wales,22082921,1933-06-22,1935-05-02
+1322,24422,"The Socialist (Melbourne, Vic. : 1906 - 1923)",Victoria,22083375,1906-04-02,1923-05-01
+1323,2324,"Nasza droga (Adelaide, SA : 1952 - 1954)",South Australia,22081313,1952-12-24,1954-12-24
+1324,185430,The Kyneton Observer (Vic. : 1856 - 1900),Victoria,22083340,1857-08-11,1900-12-29
+1325,154334,"The Evening Echo (Ballarat, Vic. : 1914 - 1918)",Victoria,22081550,1914-01-02,1918-12-31
+1329,744,"South Australian Record (London, England : 1837 - 1840)",International,22089578,1837-11-08,1840-02-15
+1330,429,"South Australian Record and Australasian Chronicle (London, England : 1840)",International,22089888,1840-02-22,1840-05-02
+1331,984,"South Australian Record and Australasian and South African Chronicle (London, England : 1840 - 1841)",International,22089918,1840-05-09,1841-04-17
+1332,6092,"Australasian Sketcher (Adelaide,SA : 1874 - 1885)",South Australia,22089616,1874-12-26,1885-12-16
+1333,17652,Saturday Mail (SA : 1912 - 1917),South Australia,22089632,1912-05-04,1917-03-03
+1334,4468,Gawler Times (SA : 1869 - 1873),South Australia,22089659,1869-03-05,1873-06-27
+1335,9786,Gawler Standard (SA : 1878 - 1885),South Australia,22089691,1878-01-11,1885-02-27
+1336,355,Adelaide Independent and Cabinet of Amusement (SA : 1841),South Australia,22089705,1841-08-05,1841-11-18
+1337,482,Examiner (SA : 1853),South Australia,22089721,1853-04-16,1853-07-08
+1338,731,Free Press (SA : 1895),South Australia,22089748,1895-01-19,1895-08-03
+1339,472,South Australian Free Press (SA : 1853 - 1854),South Australia,22089942,1853-10-29,1854-04-08
+1340,4205,Illustrated Adelaide Post (SA : 1867 - 1874),South Australia,22089594,1867-03-23,1874-12-01
+1341,18084,Northern Suburbs Weekly (SA : 1952 - 1961),South Australia,22090711,1952-10-02,1961-12-20
+1342,71000,"Daily Pictorial (Sydney, NSW : 1930 - 1931)",New South Wales,22089985,1930-02-01,1931-02-15
+1346,9418,Sawtell Guardian (NSW : 1970 - 1976),New South Wales,22087508,1970-12-03,1976-03-26
+1347,1603281,"The Daily Telegraph (Sydney, NSW : 1931 - 1954)",New South Wales,22090002,1931-02-16,1954-12-31
+1348,12066,The Mosman Mail (NSW : 1898 - 1906),New South Wales,22086668,1898-09-01,1906-12-29
+1349,191998,The Yass Courier (NSW : 1857 - 1929),New South Wales,22087257,1857-06-20,1929-03-28
+1354,111375,The Burrangong Argus (NSW : 1865 - 1913),New South Wales,22087524,1865-04-01,1913-02-08
+1365,12684,"The Western Port Times and Phillip Island and Bass Valley Advertiser (Granville, Vic. : 1898 - 1904)",Victoria,NDP00059,1898-12-09,1904-06-24
+1366,190880,Yass Tribune-Courier (NSW : 1929 - 1954),New South Wales,22087273,1929-04-04,1955-12-29
+1367,34052,Yass Evening Tribune (NSW : 1899 - 1928),New South Wales,22086978,1899-01-05,1928-09-10
+1368,69260,"The Cumberland Mercury (Parramatta, NSW : 1875 - 1895)",New South Wales,2209086X,1875-01-09,1895-04-27
+1373,2963,"Papuan Times (Kwato, Papua New Guinea : 1951 - 1954)",International,22093311,1951-02-02,1954-09-02
+1374,8730,"Papuan Times (Port Moresby, Papua New Guinea : 1911 - 1916)",International,22038280,1911-01-28,1916-12-13
+1375,45962,"Papuan Courier (Port Moresby, Papua New Guinea : 1917 - 1942)",International,22038302,1917-01-31,1942-01-23
+1376,417472,Papua New Guinea Post-Courier (Port Moresby : 1969 - 1981),International,22087427,1969-06-30,1981-06-30
+1377,48070,Guinea Gold (Papua New Guinea : 1942 - 1945),International,22061134,1942-11-19,1945-12-22
+1378,4786,"Il Canguro = The Kangaroo (Perth, WA : 1955 - 1957)",Western Australia,22090754,1955-05-06,1957-04-08
+1379,455,"Sunday Times Edizione Italiana (Perth, WA : 1958 - 1959)",Western Australia,22092927,1958-12-21,1959-08-30
+1380,2493,"Stampa Italiana = The Italian Press (Perth, WA : 1931 - 1932)",Western Australia,2209301X,1931-12-03,1932-09-09
+1381,511,"The Voice of Freedom = Elefthera Phoni (Perth, WA : 1956 - 1957)",Western Australia,22092943,1956-07-20,1957-05-09
+1382,881,"Vesnik (Perth, WA : 1975 - 1994)",Western Australia,22092986,1975-04-01,1994-12-01
+1383,860,"Chung Wah News (Perth, WA : 1981 - 1987)",Western Australia,22093087,1981-10-01,1984-11-01
+1384,2601,"Echo : Polski Tygodnik Niezalezny (Perth, WA : 1950 - 1952)",Western Australia,22090738,1950-12-16,1952-06-15
+1385,1455,"Der Australische Spiegel = The Australian Mirror (Perth, WA : 1952)",Western Australia,22090770,1952-07-04,1952-12-17
+1386,4498,"Japanese Perth Times (Subiaco, WA : 1989 - 1996)",Western Australia,22093060,1989-11-01,1996-09-01
+1387,1579,"Eco Italiano (Perth, WA : 1958 - 1959)",Western Australia,22093168,1958-06-04,1959-02-11
+1388,1383,"La Rondine (Perth, WA : 1970 - 1974; 1983 - 1984)",Western Australia,22093184,1970-03-01,1984-12-01
+1389,448,"Hellenic Echo (Perth, WA : 1967 - 1968)",Western Australia,22093214,1967-12-15,1968-03-21
+1390,431,"Mediterranean Voice (Perth, WA : 1971 - 1972)",Western Australia,2209296X,1971-12-01,1972-07-01
+1391,322903,The Tribune (Philippines : 1932 - 1945),International,22092226,1932-01-03,1945-02-03
+1392,1260,"The Spectator (Sydney, NSW : 1846)",New South Wales,22092072,1846-01-24,1846-12-23
+1393,200,"The Spectator (Sydney, NSW : 1892)",New South Wales,22092099,1892-05-08,1892-06-12
+1394,136275,Avon Argus and Cunderdin-Meckering-Tammin Mail (WA : 1925 - 1954),Western Australia,22094490,1925-01-09,1954-12-30
+1395,63251,Ballidu-Wongan Budget (WA : 1927 - 1941),Western Australia,22094512,1927-09-24,1941-02-21
+1396,4567,Blackwood Chronicle and South-West Mining News (WA : 1904 - 1907),Western Australia,2209458X,1904-02-06,1907-05-25
+1397,12885,Bonnie Rock-Lake Brown-Mukinbudin Leader (WA : 1934 - 1939),Western Australia,2209461X,1934-03-07,1939-01-27
+1398,59888,Bridgetown Advocate (WA : 1938 - 1950),Western Australia,22094636,1938-06-02,1950-06-01
+1399,1008,Bullfinch Budget (WA : 1910 - 1911),Western Australia,22094687,1910-12-03,1911-04-22
+1400,636,Bulong Bulletin and Mining Register (WA : 1897 - 1898),Western Australia,22094725,1897-10-06,1898-02-05
+1401,2875,"Central Districts Advertiser and Agriculture and Mining Journal (Northam, WA : 1893 - 1895)",Western Australia,22094741,1893-11-25,1895-05-25
+1402,2527,"The Central Districts Advocate (Goomalling, WA : 1922 - 1924)",Western Australia,22094792,1922-02-18,1924-02-02
+1403,2798,The Collie Times (WA : 1935),Western Australia,22094814,1935-02-14,1935-12-19
+1404,54563,Coolgardie Pioneer (WA : 1895 - 1901),Western Australia,22094830,1895-03-27,1901-03-30
+1405,3753,Corrigin Broadcaster and Peoples Weekly (WA : 1930 - 1933),Western Australia,22094849,1930-09-24,1933-10-26
+1406,1675,"Daily Advertiser (Geraldton, WA : 1890 - 1893)",Western Australia,22094881,1890-08-25,1893-04-19
+1407,871,"Dampier Despatch (Broome, WA : 1904 - 1905)",Western Australia,2209492X,1904-04-02,1905-09-30
+1408,24071,Day Dawn Chronicle (WA : 1902 - 1909),Western Australia,22094946,1902-05-14,1909-06-26
+1409,1901,"Democrat (Perth, WA : 1904 - 1905)",Western Australia,22094962,1904-06-18,1905-07-01
+1410,717,Dumbleyung-Lake Grace-Newdegate Cultivator and Kukerin and Moulyinning Producer (WA : 1930),Western Australia,22095004,1930-02-17,1930-06-30
+1411,15228,East Murchison News (WA : 1901 - 1911),Western Australia,22095098,1901-01-12,1911-12-22
+1412,10095,Esperance Times (WA : 1896 - 1898),Western Australia,2209511X,1896-09-12,1898-11-05
+1413,11253,"Farmers Observer (Narembeen, WA : 1933 - 1935)",Western Australia,22095152,1933-12-01,1935-11-01
+1414,70220,Geraldton Advertiser (WA : 1893 - 1905),Western Australia,22094903,1893-04-24,1905-12-29
+1415,33685,Geraldton Guardian (WA : 1950 - 1954),Western Australia,22095160,1950-10-17,1954-12-28
+1416,1670,Geraldton Observer (WA : 1880 - 1881),Western Australia,22095187,1880-08-31,1881-10-25
+1417,15774,Gnowangerup Star (WA : 1941 - 1954),Western Australia,22095209,1941-06-21,1954-12-25
+1418,3843,Greenbushes Advocate and Donnybrook and Bridgetown Advertiser (WA : 1899 - 1902),Western Australia,22095225,1899-09-23,1902-03-22
+1419,97260,Harvey Murray Times (WA : 1931 - 1955),Western Australia,22095241,1931-07-24,1955-04-29
+1420,17923,"Hedland Advocate (Port Hedland, WA : 1906 - 1912)",Western Australia,22095268,1906-03-03,1912-05-25
+1421,50059,"Herald (Coolgardie, WA : 1899 - 1901)",Western Australia,22095292,1899-03-28,1901-02-23
+1422,7680,Lake Grace Newdegate Cultivator and Dumbleyung and Kukerin Producer (WA : 1925 - 1930),Western Australia,22094989,1925-08-10,1930-02-10
+1423,1218,Murchison Magnet and Mullewa Mercury (WA : 1926 - 1927),Western Australia,22095802,1926-07-24,1927-01-15
+1424,64219,Nelson Advocate (WA : 1926 - 1938),Western Australia,22094660,1926-02-12,1938-05-27
+1425,43696,Wongan-Ballidu Budget (WA : 1941 - 1954),Western Australia,22094539,1941-02-28,1954-08-19
+1426,46716,"Wheatbelt Tribune and Koorda Record (Wyalkatchem, WA : 1940 - 1954)",Western Australia,22095608,1940-09-20,1954-12-30
+1427,16731,Mullewa Magnet and Perenjori-Morawa Advertiser (WA : 1927 - 1931),Western Australia,22095780,1927-01-22,1931-01-17
+1428,87911,"The Irwin Index (Mingenew, WA : 1926 - 1956)",Western Australia,22095624,1926-08-07,1954-12-25
+1429,5557,The Albany Observer (WA : 1890 - 1891),Western Australia,22096205,1890-05-06,1891-03-24
+1430,48870,The Albany Despatch (WA : 1919 - 1927),Western Australia,22096183,1919-01-13,1927-12-22
+1431,2268,York Gazette and Quairading and Dangin Herald (WA : 1930 - 1931),Western Australia,22096140,1930-08-08,1931-10-09
+1432,82808,York Chronicle (WA : 1927 - 1954),Western Australia,22096167,1927-01-14,1954-12-30
+1433,13265,The Wyalkatchem Wheatsheaf and Bencubbin Banner (WA : 1922 - 1930),Western Australia,22096078,1922-03-14,1930-08-26
+1434,23804,Wiluna Chronicle and East Murchison Advocate (WA : 1924 - 1931),Western Australia,22096116,1924-06-14,1931-01-17
+1435,29789,"The Western Australian Goldfields Courier (Coolgardie, WA : 1894 - 1898)",Western Australia,22096043,1894-09-15,1898-10-29
+1436,4080,The Southern Cross Miner (WA : 1899 - 1902),Western Australia,22096027,1899-11-04,1902-04-12
+1437,2653,The Southern Cross Herald (WA : 1894 - 1896),Western Australia,22095993,1894-07-13,1896-05-01
+1438,18228,"South Western Tribune (Bunbury, WA : 1930 - 1932)",Western Australia,22095969,1930-01-04,1932-01-30
+1439,177290,"South Western Times (Bunbury, WA : 1932 - 1954)",Western Australia,22095977,1932-02-03,1954-12-31
+1440,312,The Pingelly Express (WA : 1905 - 1906),Western Australia,22095942,1905-12-02,1906-03-10
+1441,69889,The Perenjori Pioneer (WA : 1930 - 1947),Western Australia,22095896,1930-08-02,1947-04-04
+1442,16454,"Northern Public Opinion and Mining and Pastoral News (Roebourne, WA : 1894 - 1902)",Western Australia,2209587X,1894-12-01,1902-07-25
+1443,35695,"North-Eastern Wheatbelt Tribune (Wyalkatchem, WA : 1926 - 1940)",Western Australia,22095586,1926-08-16,1940-09-13
+1444,24490,Newcastle Herald and Toodyay District Chronicle (WA : 1902 - 1912),Western Australia,22095853,1902-05-10,1912-03-09
+1445,4392,Narrogin Advocate and Southern Districts Courier (WA : 1904 - 1906),Western Australia,22095829,1904-01-20,1906-03-10
+1446,23107,Narembeen Observer (WA : 1928 - 1933),Western Australia,22095136,1928-02-03,1933-11-24
+1447,3046,Mount Morgans Miner (WA : 1900; 1901 - 1903),Western Australia,22095748,1900-09-01,1903-09-26
+1448,4846,Mount Morgans Mercury (WA : 1906 - 1909),Western Australia,22095764,1906-01-03,1909-07-07
+1449,1779,"Morning Post (Geraldton, WA : 1895 - 1896)",Western Australia,22095721,1895-04-01,1896-06-17
+1450,36592,"Morgans Courier (Mount Morgan, WA : 1904 - 1911)",Western Australia,22095705,1904-06-04,1911-12-23
+1451,96892,"Midlands Advocate (Perth, WA : 1930 - 1954)",Western Australia,22095683,1930-04-03,1954-12-30
+1452,109474,Manjimup Mail and Jardee-Pemberton-Northcliffe Press (WA : 1927 - 1950),Western Australia,22095640,1927-07-01,1950-06-01
+1453,12154,Koorda Record (WA : 1934 - 1939),Western Australia,2209556X,1934-06-01,1939-01-27
+1454,39155,Kookynie Press (WA : 1903 - 1911),Western Australia,22095470,1903-06-20,1911-12-23
+1455,2253,Kookynie Advocate and Northern Goldfields News (WA : 1903 - 1904),Western Australia,22095454,1903-08-15,1904-03-05
+1456,1267,Kondinin Wheatlander and Kulin and Karlgarin Gazette (WA : 1926 - 1927),Western Australia,22095438,1926-10-05,1927-06-28
+1457,7976,Kanowna Herald (WA : 1898),Western Australia,22095411,1898-05-05,1898-11-01
+1458,720,Kanowna Democrat and North East Coolgardie Advertiser (WA : 1896 - 1897),Western Australia,2209539X,1896-08-15,1897-12-01
+1459,6439,Kalgoorlie and Boulder Standard (WA : 1897 - 1898),Western Australia,22095373,1897-12-23,1898-05-21
+1460,27,Bullfinch Miner and Yilgarn Advocate (WA : 1910),Western Australia,22094709,1910-11-12,1910-11-12
+1461,375,"Bent's News and New South Wales Advertiser (Sydney, NSW : 1839)",New South Wales,2209623X,1839-04-13,1839-07-27
+1462,560,"Hill's Life in New South Wales (Sydney, NSW : 1832)",New South Wales,22096701,1832-07-06,1832-12-28
+1463,101,Sydney Journal and Daily Advertiser (NSW : 1847),New South Wales,22096728,1847-08-03,1847-08-11
+1464,27721,Sydney Punch (NSW : 1864 - 1888),New South Wales,22096744,1864-05-27,1888-09-29
+1465,258,"The Alfred (Sydney, NSW : 1835)",New South Wales,22096760,1835-01-06,1835-02-27
+1466,488,"The Australian Sportsman (Sydney, NSW : 1848)",New South Wales,22096795,1848-09-09,1848-12-30
+1467,396,"The Citizen (Sydney, NSW : 1846 - 1847)",New South Wales,22096817,1846-08-29,1847-04-03
+1468,745,"The Currency Lad (Sydney, NSW : 1832-1833)",New South Wales,22096833,1832-08-25,1833-05-18
+1469,392,"The Daily News and Evening Chronicle (Sydney, NSW : 1848)",New South Wales,22096906,1848-10-02,1848-11-28
+1470,248,"The Gleaner (Sydney, NSW : 1827)",New South Wales,22096868,1827-04-05,1827-09-29
+1471,16380,"The People's Advocate and New South Wales Vindicator (Sydney, NSW : 1848-1856)",New South Wales,22096884,1848-12-02,1856-12-27
+1472,2373,The Sydney Daily Advertiser (NSW : 1848),New South Wales,22096957,1848-06-01,1848-10-23
+1473,772,The Sydney Standard and Colonial Advocate (NSW : 1839),New South Wales,22096973,1839-01-07,1839-09-30
+1474,2705,The Sydney Times (NSW : 1834-1838),New South Wales,2209699X,1834-08-15,1838-07-02
+1475,300,The Sydney Weekly Transcript (NSW : 1846),New South Wales,22097015,1846-01-31,1846-05-16
+1477,1544,"The Portonian (Port Adelaide, SA : 1871 - 1873)",South Australia,22094091,1871-08-12,1873-12-27
+1478,125,Port Augusta and Stirling Illustrated News (SA : 1901),South Australia,2209413X,1901-02-02,1901-08-15
+1479,8184,"Messenger (Port Adelaide, SA : 1951 - 1954)",South Australia,22094156,1951-03-01,1954-12-23
+1480,11334,"Mosman, Neutral and Middle Harbour Resident (NSW : 1904 - 1907, 1916 - 1919)",New South Wales,22096914,1904-07-30,1919-02-01
+1481,611636,Toowoomba Chronicle and Darling Downs Gazette (Qld. : 1922 - 1933),Queensland,22090835,1922-11-01,1933-12-30
+1482,303980,Toowoomba Chronicle (Qld. : 1917 - 1922),Queensland,22090819,1917-01-02,1922-10-31
+1483,73793,The Elmore Standard (Vic. : 1882 - 1920,Victoria,2209668X,1882-01-06,1912-09-28
+1484,63,"The Egotist (Adelaide, SA : 1839)",South Australia,22099352,1839-05-14,1839-06-25
+1485,41,Port Lincoln Herald (SA : 1839 - 1840),South Australia,22099379,1839-04-10,1840-05-19
+1486,3534,"Tribune (SA edition, published in Sydney : 1951 - 1964)",South Australia,22099220,1959-03-18,1963-06-12
+1487,131,Western People and Tumby Bay Times (SA : 1912),South Australia,22099255,1912-06-19,1912-07-03
+1488,1669,Bangkok Recorder (Thailand : 1865 - 1867),International,22099964,1865-01-16,1867-01-16
+1489,171389,"Torres News (Thursday Island, Qld. : 1957-2015)",Queensland,26518678,1957-03-19,2015-12-21
+1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
+1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
+1492,554607,"Border Morning Mail (Albury, NSW : 1938 - 1949)",New South Wales,26519291,1938-01-01,1949-12-31
+1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
+1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
+1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
+1496,290,"Weekly Free Press, and Port Phillip Commercial Advertiser (Vic. : 1841)",Victoria,26520354,1841-07-03,1841-09-25
+1497,8841,"Northern Times (Carnarvon, WA : 1952 - 1954)",Western Australia,22008330,1952-06-12,1954-12-30
+1498,2830,"A Voz de Timor (Dili, East Timor : 1970 - 1975)",International,2652080X,1970-06-11,1975-08-09
+1500,29322,"The Bananacoast Opinion (Coffs Harbour, NSW : 1973 - 1978)",New South Wales,26520370,1973-06-19,1978-10-25
+1501,41515,"Nota (Hawks Nest and Tea Gardens, NSW : 1970 - 1999)",New South Wales,26520311,1970-04-01,1999-08-19
+1502,35201,"The Express, Melton (Vic. 1943 - 1954)",Victoria,26520273,1943-08-28,1954-12-18
+1503,8035,"The Arena (Melbourne, Vic. : 1900 - 1903)",Victoria,NDP00001,1900-09-06,1903-02-05
+1504,4010,"The Arena-Sun (Melbourne, Vic. : 1903 - 1904)",Victoria,NDP00002,1903-02-12,1904-03-03
+1505,13813,"The Wheatbelt Wheatsheaf and Dampier Advocate (Merredin, WA : 1930 - 1939)",Western Australia,22096094,1930-09-02,1939-10-31
+1506,44,"The Yellow Flag and Torrens Island Terror (Adelaide, SA : 1901)",South Australia,NDP00050,1901-05-30,1901-06-07
+1513,38196,"Blackwood-Warren Sentinel (Bridgetown, WA : 1950 - 1954)",Western Australia,NDP00005,1950-06-08,1954-12-30
+1514,7176,"Cathedral Chronicle (Geraldton, WA : 1931 - 1954)",Western Australia,NDP00006,1931-02-01,1954-11-01
+1515,5853,"Clare's Weekly (Perth, WA : 1897 - 1899)",Western Australia,NDP00007,1897-08-27,1899-07-15
+1516,17563,"Coastal Districts Star (Perth, WA : 1952 - 1954)",Western Australia,NDP00008,1952-12-04,1954-12-30
+1517,32302,Corrigin Chronicle and Kunjin-Bullaring Representative (WA : 1925 - 1943),Western Australia,NDP00009,1925-01-08,1943-11-25
+1518,14610,"Dampier Herald and Bencubbin Chronicle (Wyalkatchem, W.A. : 1937 - 1943)",Western Australia,NDP00010,1937-10-21,1943-07-09
+1519,14199,"The Dawn (Perth, WA : 1921 - 1949)",Western Australia,NDP00011,1921-01-12,1949-08-01
+1520,2335,"The Argonaut (Perth, WA : 1899 - 1900)",Western Australia,NDP00004,1899-07-22,1900-03-17
+1521,41039,"The Advertiser (Fremantle, WA : 1921 - 1932)",Western Australia,NDP00003,1921-05-13,1932-10-06
+1522,31460,"Evening Courier (Fremantle, WA : 1902 - 1903)",Western Australia,NDP00012,1902-07-18,1903-10-16
+1523,159397,"The Evening Mail (Fremantle, WA : 1905 - 1910)",Western Australia,NDP00013,1905-07-29,1910-06-30
+1524,3002,"The Evening Times (Fremantle, WA : 1888)",Western Australia,NDP00014,1888-01-02,1888-07-13
+1525,1074,"The Express (Perth, WA : 1872 - 1873)",Western Australia,NDP00015,1872-03-14,1873-07-17
+1526,2937,"The Express (Perth, WA : 1905 - 1907)",Western Australia,NDP00016,1905-10-21,1907-03-27
+1527,3266,"The Express (Fremantle, WA : 1870-1871)",Western Australia,NDP00017,1870-01-03,1871-01-28
+1528,4128,Fremantle Courier (WA : 1902),Western Australia,NDP00018,1902-05-13,1902-07-17
+1529,10126,"The Fremantle Times (WA : 1919 - 1921, 1932)",Western Australia,NDP00019,1919-02-07,1932-12-22
+1530,53858,"The Golden Age (Coolgardie, WA : 1894 - 1898)",Western Australia,NDP00020,1894-10-02,1898-10-27
+1531,10653,"The Guardian : Suburban and Municipal Recorder (Claremont, WA : 1903 - 1908)",Western Australia,NDP00021,1903-05-02,1908-04-04
+1532,2557,Kalamunda and District News (WA : 1952 - 1954),Western Australia,NDP00022,1952-05-22,1954-03-25
+1533,739,The Kendenup Index (WA : 1921 - 1923),Western Australia,NDP00023,1921-06-01,1923-03-19
+1534,33117,Kondinin-Kulin Kourier and Karlgarin Advocate (WA : 1926 - 1941),Western Australia,NDP00024,1926-10-30,1941-08-29
+1535,25057,"The Leader (Perth, WA : 1923 - 1928)",Western Australia,NDP00025,1923-11-30,1928-12-07
+1536,166,"Liberty (Fremantle, WA : 1891 - 1892)",Western Australia,NDP00026,1891-05-02,1892-02-13
+1537,26547,"Listening Post (Perth, WA : 1921 - 1954)",Western Australia,NDP00027,1921-12-20,1954-12-01
+1538,4355,"The Magpie (Perth, WA : 1923)",Western Australia,NDP00028,1923-02-17,1923-11-23
+1539,96853,Manjimup and Warren Times (WA : 1927 - 1954),Western Australia,NDP00029,1927-06-30,1954-12-30
+1540,15915,"The Miners' Daily News (Menzies, WA : 1896 - 1898)",Western Australia,NDP00030,1896-10-31,1898-08-08
+1541,17690,"The Mirror (Perth, WA : 1907 - 1910)",Western Australia,NDP00031,1907-02-02,1910-12-30
+1542,55074,"The Murchison Times (Cue, WA : 1924 - 1937)",Western Australia,NDP00032,1924-01-04,1937-08-14
+1543,15707,Murchison Times and Cue-Big Bell-Reedy Advocate (WA : 1937 - 1942),Western Australia,NDP00033,1937-08-21,1942-03-28
+1544,79991,"The Northern Grazier and Miner (Leonora, WA : 1929 - 1944)",Western Australia,NDP00034,1929-03-02,1944-07-22
+1545,1696,"The People (Perth, WA : 1891 - 1892)",Western Australia,NDP00035,1891-03-07,1892-05-14
+1546,17037,"The Phillips River Times (Ravensthorpe, WA : 1908 - 1911)",Western Australia,NDP00036,1904-12-31,1911-05-25
+1547,472,"Pink Penny (Perth, WA : 1909)",Western Australia,NDP00037,1909-07-02,1909-09-18
+1548,2699,"Sunday Chronicle (Perth, WA : 1897 - 1899)",Western Australia,NDP00038,1897-08-29,1899-01-01
+1549,4404,"The Sunday Press (Perth, WA : 1902 - 1903)",Western Australia,NDP00039,1902-12-07,1903-09-13
+1550,13354,"The Swan and Canning Leader (Victoria Park, WA : 1928 - 1929)",Western Australia,NDP00040,1929-01-04,1931-06-12
+1551,9391,"The Swan and Canning Times and Hills Gazette (Perth, WA : 1926 - 1928)",Western Australia,NDP00041,1926-12-03,1928-12-07
+1552,22753,"The Swan Leader (Victoria Park, WA : 1931 - 1937)",Western Australia,NDP00042,1931-06-19,1937-06-25
+1553,15553,"The Umpire (Fremantle, WA : 1896 - 1903)",Western Australia,NDP00043,1897-10-30,1903-01-11
+1554,457,"The W.A. Table Talk (Perth, WA : 1921)",Western Australia,NDP00044,1921-03-12,1921-05-21
+1555,104403,"The Wagin Argus and Arthur, Dumbleyung, Lake Grace Express (WA : 1924 - 1954)",Western Australia,NDP00045,1924-10-31,1954-12-23
+1556,14931,"The Weekly Herald (Fremantle, WA : 1922 - 1926)",Western Australia,NDP00046,1922-02-24,1926-08-06
+1557,38456,"Weekly Judge (Perth, WA : 1919 - 1931)",Western Australia,NDP00047,1919-01-03,1931-03-06
+1558,2423,"Western Women (Perth, WA : 1914 - 1919)",Western Australia,NDP00048,1914-08-01,1919-01-01
+1559,59866,The Wiluna Miner (WA : 1931 - 1947),Western Australia,NDP00049,1931-01-24,1947-01-31
+1560,152,"The Christian Herald (Perth, WA : 1882)",Western Australia,NDP00060,1882-01-24,1882-09-25
+1561,155,"The Temperance Advocate (Perth, WA : 1882)",Western Australia,NDP00061,1882-01-02,1882-09-16
+1562,200,"The Swan, Helena Vale and Guildford Advertiser (WA : 1897)",Western Australia,NDP00062,1897-06-12,1897-10-16
+1563,154,Once a Week (Perth : 1889),Western Australia,NDP00063,1889-03-23,1889-05-18
+1564,10932,The Northern Producer and Morawa and Perenjori Advertiser (WA : 1928 - 1930),Western Australia,NDP00064,1928-03-03,1930-07-26
+1565,72445,The Northern Producer and Morawa and District Advertiser (WA : 1930 - 1947),Western Australia,NDP00065,1930-08-09,1947-04-04
+1566,21507,"Dampier Herald (Wyalkatchem, W.A. : 1928 - 1937)",Western Australia,NDP00066,1928-04-04,1937-10-14
+1567,32873,"Dampier Herald and Nungarin Standard (Wyalkatchem, W.A.: 1943 - 1954)",Western Australia,NDP00067,1944-01-07,1954-12-30
+1568,101252,"North-Eastern Courier (Perth, WA : 1923 - 1955)",Western Australia,NDP00068,1923-07-20,1955-09-29
+1569,65,"The Great North-West (Perth, WA : 1904)",Western Australia,NDP00069,1904-12-01,1904-12-01
+1570,1885,The Moe Register and Narracan Shire Advocate (Vic. : 1888 - 1889),Victoria,NDP00070,1888-07-14,1889-03-30
+1574,254,"Progress (North Fitzroy, Vic. : 1889 - 1890)",Victoria,NDP00074,1889-10-01,1890-08-01
+1575,17871,Box Hill Reporter (Vic. : 1925 - 1930),Victoria,NDP00075,1925-04-03,1930-12-26
+1576,339,"Die Deutsche Post für die Australischen Colonien = The German Australian Post (Adelaide, SA : 1848 - 1851)",South Australia,NDP00076,1848-07-20,1850-09-12
+1577,14,"Deutsche Zeitung für Sud-Australien = German Times for South Australia (Tanunda, SA : 1851)",South Australia,NDP00077,1851-03-14,1851-03-21
+1578,142646,"The Catholic Advocate (Brisbane, Qld. : 1911 - 1934; 1936 - 1938)",Queensland,NDP00078,1911-06-17,1938-03-31
+1579,1432,The Mildura and Merbein Sun (Vic. : 1921),Victoria,NDP00079,1921-01-08,1921-10-29
+1580,1419,The Merbein Irrigationist and Murray Valley Soldiers' Gazette (Vic. : 1919 - 1920),Victoria,NDP00080,1919-11-12,1920-09-29
+1581,521,The Mildura Irrigationist and Murray River Agricultural Times (Vic. : 1888),Victoria,NDP00081,1888-02-08,1888-05-23
+1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
+1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
+1584,4026,,,,,
+1585,525502,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",Victoria,NDP00085,1920-10-02,1934-05-31
+1586,17152,The Nowra Colonist (NSW : 1899 - 1904),New South Wales,NDP00086,1899-01-04,1904-12-29
+1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
+1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
+1589,3338,"The Shoalhaven News, Ulladulla and Southern Coast Districts Advertiser (NSW : 1871 - 1873)",New South Wales,NDP00089,1871-06-24,1873-10-11
+1590,293,"The Shoalhaven News, Broughton Creek, Kiama and Ulladulla Advertiser (NSW : 1873)",New South Wales,NDP00090,1873-10-18,1873-12-25
+1591,14088,"Die Brucke = The Bridge (Sydney, NSW : 1934 - 1939)",New South Wales,NDP00091,1934-02-24,1939-09-02
+1592,62861,"To Ethnico Vema = Greek National Tribune (Arncliffe, NSW : 1931 - 1954)",New South Wales,NDP00092,1931-03-11,1954-12-15
+1593,11607,"Vil'na Dumka = Free Thought (Sydney, NSW : 1949 - 1954)",New South Wales,NDP00093,1949-07-10,1956-11-25
+1594,9060,"Musu Pastoge = Our Haven (Sydney, NSW : 1950 - 1954)",New South Wales,NDP00094,1950-02-22,1956-12-19
+1595,38986,"Italo-Australian (Sydney, NSW : 1927 - 1940)",New South Wales,NDP00095,1927-07-06,1940-06-08
+1596,197,"L'Italo-Australiano = The Italo-Australian (Surry Hills, NSW : 1885)",New South Wales,NDP00096,1885-01-12,1885-07-01
+1597,6106,"L'Italo-Australiano = The Italo-Australian (Sydney, NSW : 1905 - 1909)",New South Wales,NDP00097,1905-03-11,1909-01-30
+1598,2167,"Oceania (Sydney, NSW : 1913 - 1915)",New South Wales,NDP00098,1913-07-12,1915-02-13
+1599,951,"Uniamoci (Sydney, NSW : 1903 - 1904)",New South Wales,NDP00099,1903-07-18,1904-08-27
+1600,14518,"Deutsch-Australische Post : Wochenschrift = German-Australian Post : Weekly (Sydney, NSW : 1893 - 1906)",New South Wales,NDP00100,1893-03-20,1906-05-12
+1601,5470,"Il Risveglio = The Awakening (Sydney, NSW : 1944 - 1954)",New South Wales,NDP00101,1944-11-30,1956-03-01
+1602,4697,"Italian Bulletin of Australia (Sydney, NSW : 1922 - 1928, 1935 - 1940)",New South Wales,NDP00102,1922-11-01,1940-05-01
+1603,1775,"Italian Bulletin of Commerce (Sydney, NSW : 1929 - 1935)",New South Wales,NDP00103,1929-01-01,1935-06-01
+1604,364,"Revue Australienne : Journal des Interets Francais en Australie ... (Sydney, NSW : 1873 - 1874)",New South Wales,NDP00104,1873-12-01,1874-08-01
+1605,2113,"The Irish Citizen (Sydney, NSW : 1871 - 1872)",New South Wales,NDP00105,1871-12-02,1872-08-31
+1606,68798,"The Australian Advertiser (Albany, WA : 1888 - 1897)",Western Australia,NDP00107,1888-06-04,1897-02-18
+1607,94381,The Boyup Brook Bulletin (WA : 1930 - 1950),Western Australia,NDP00108,1930-07-04,1950-06-01
+1608,10124,Broome Chronicle and Nor'West Advertiser (WA : 1908 - 1912),Western Australia,NDP00109,1908-06-13,1912-06-01
+1609,1565,The Bunbury Monitor (WA : 1934),Western Australia,NDP00110,1934-06-01,1934-11-23
+1610,1553,"The Bunbury Star (Collie, WA : 1935-1936)",Western Australia,NDP00111,1935-10-05,1936-03-31
+1611,4130,"The Carnamah-Three Springs Times and Arrino Advertiser (Moora, WA : 1932 - 1933)",Western Australia,NDP00112,1932-07-08,1933-05-19
+1612,1942,"The Coalfields Star (Collie, WA : 1934)",Western Australia,NDP00113,1934-05-18,1934-09-28
+1613,396,The Coolgardie Review (WA : 1895),Western Australia,NDP00114,1895-08-03,1895-09-28
+1614,1270,The Corrigin Sun (WA : 1929 - 1930),Western Australia,NDP00115,1930-01-09,1930-07-31
+1615,16211,Cue-Big Bell Chronicle and Reedy Recorder (WA : 1937 - 1942),Western Australia,NDP00116,1937-12-10,1942-03-13
+1616,18657,"The Denmark Post (Albany, WA : 1949 - 1954)",Western Australia,NDP00117,1949-06-17,1954-12-30
+1617,9,The Derby News (WA : 1887),Western Australia,NDP00118,1887-03-12,1887-03-12
+1618,7521,Esperance Chronicle and Dundas and Norseman Advertiser (WA : 1895 - 1898),Western Australia,NDP00119,1896-01-03,1898-09-17
+1619,594,"The Esperance Echo (Kalgoorlie, WA : 1929)",Western Australia,NDP00120,1929-06-06,1929-10-03
+1621,8310,"The Evening News (Boulder, WA : 1921 - 1922)",Western Australia,NDP00122,1921-07-25,1922-03-31
+1622,56242,The Geraldton Express and Murchison and Yalgo Goldfields Chronicler (WA : 1896 - 1905),Western Australia,NDP00123,1896-11-06,1905-12-29
+1623,7850,Geraldton Express and Murchison Goldfields News (WA : 1894 - 1896),Western Australia,NDP00124,1894-11-02,1896-10-30
+1624,27029,The York Leader and Quairading and Dangin Herald (WA : 1935 - 1947),Western Australia,NDP00125,1935-04-05,1947-04-04
+1625,28847,Geraldton Murchison Telegraph (WA : 1892 - 1899),Western Australia,NDP00126,1892-07-05,1898-12-29
+1626,64470,"The Goldfields Observer (Kalgoorlie, WA : 1930 - 1939)",Western Australia,NDP00127,1930-09-21,1939-01-01
+1627,29221,Goomalling Gazette (WA : 1946 - 1954),Western Australia,NDP00128,1946-02-15,1954-08-19
+1628,30770,Greenough Sun (WA : 1947 - 1954),Western Australia,NDP00129,1947-12-19,1954-12-30
+1629,31867,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1956)",Western Australia,NDP00130,1946-05-03,1956-03-23
+1630,28725,"The Inland Watch (Leonora, WA : 1937 - 1943)",Western Australia,NDP00131,1937-05-15,1943-10-23
+1631,21747,Kojonup Courier (WA : 1951 - 1958),Western Australia,NDP00132,1951-04-19,1958-05-15
+1632,10856,Kulin Advocate and Dudinin-Jitarning Harrismith Recorder (WA : 1934 - 1940),Western Australia,NDP00133,1934-04-28,1940-02-01
+1633,1678,The Lake Grace and Districts Leader (WA : 1933 - 1934),Western Australia,NDP00134,1933-10-25,1934-08-08
+1634,19718,Leonora News (WA : 1944 - 1950),Western Australia,NDP00135,1946-03-01,1950-12-21
+1635,5837,"Margaret River News (Busselton, WA : 1939 - 1941)",Western Australia,NDP00136,1939-05-04,1941-12-25
+1636,5548,Menzies Weekly Times (WA : 1897 - 1898),Western Australia,NDP00137,1897-10-30,1898-07-23
+1637,8180,"The Miner (Norseman, WA : 1896 - 1897)",Western Australia,NDP00138,1896-05-06,1897-12-31
+1638,879,"The Miner's Right (Boulder, WA : 1897)",Western Australia,NDP00139,1897-09-07,1897-12-08
+1639,844,The Mount Barker-Denmark Sentinel and Cranbrook Chronicle (WA : 1930),Western Australia,NDP00140,1930-01-15,1930-06-25
+1640,33377,The Mount Magnet Leader and Youanmi Miner (WA : 1935 - 1947),Western Australia,NDP00141,1935-01-25,1947-01-24
+1641,24,The Mount Margaret Mercury (WA : 1897),Western Australia,NDP00142,1897-11-27,1897-12-04
+1644,9931,The Nannup Review (WA : 1939 - 1941),Western Australia,NDP00145,1939-02-24,1941-05-29
+1645,7892,"Norseman Advertiser (Coolgardie, WA : 1935 - 1936)",Western Australia,NDP00146,1935-01-19,1936-05-09
+1646,109,Norseman Sentinel and Princess Royal Watchdog (WA : 1903),Western Australia,NDP00147,1903-05-09,1903-08-06
+1647,87632,The Norseman-Esperance News (WA : 1936 - 1954),Western Australia,NDP00148,1936-05-16,1957-06-27
+1648,17372,The North Coolgardie Herald and Menzies Times (WA : 1896 - 1898),Western Australia,NDP00149,1896-10-03,1898-12-30
+1649,88542,"The North Coolgardie Herald and Miners Daily News (Menzies, WA : 1899 - 1904)",Western Australia,NDP00150,1899-01-02,1904-05-30
+1650,37515,"The North Coolgardie Herald (Menzies, WA : 1904 - 1911)",Western Australia,NDP00151,1904-06-01,1911-12-23
+1651,84702,"The North Midland Times (Moora, WA : 1933 - 1954)",Western Australia,NDP00152,1933-05-26,1954-12-30
+1652,2619,Northam Advertiser and Toodyay Times (WA : 1954),Western Australia,NDP00153,1954-07-09,1954-11-26
+1653,48001,Northam News (WA : 1947 - 1954),Western Australia,NDP00154,1947-09-10,1954-12-29
+1654,2202,"The Northern Mining Register and Murchison Goldfields Gazette (Mount Magnet, WA : 1896 - 1897)",Western Australia,NDP00155,1896-05-16,1897-11-27
+1655,5207,"Nor'West Times and Northern Advocate (Roebourne, WA : 1891 - 1894)",Western Australia,NDP00156,1891-08-08,1894-10-31
+1656,11346,The Nungarin Standard (WA : 1934 - 1939),Western Australia,NDP00157,1934-05-10,1939-01-26
+1657,52777,The Pemberton Post (WA : 1937 - 1950),Western Australia,NDP00158,1937-10-01,1950-06-01
+1658,52769,"The Preston Mail and District Advocate (Collie, WA : 1932 - 1954)",Western Australia,NDP00160,1932-03-19,1946-06-29
+1659,14689,"The Reliance Weekly (Narrogin, WA : 1952 - 1954)",Western Australia,NDP00161,1952-01-10,1954-12-23
+1660,59,"The Southern Cross (Perth, WA : 1893)",Western Australia,NDP00162,1893-01-04,1893-01-11
+1661,85249,The Southern Cross News (WA : 1935 - 1957),Western Australia,NDP00163,1935-11-08,1957-06-27
+1662,89469,"The Southern Sentinel (Mount Barker, WA : 1934 - 1954)",Western Australia,NDP00164,1934-03-02,1954-12-30
+1663,8242,"Sporting Life : Dryblower's Journal (Kalgoorlie, WA : 1905 - 1906)",Western Australia,NDP00165,1905-04-15,1907-01-26
+1664,362,"Sunday Figaro (Kalgoorlie, WA : 1904)",Western Australia,NDP00166,1904-08-07,1904-09-04
+1665,544,"The Tothersider (Coolgardie, WA : 1897)",Western Australia,NDP00167,1897-04-03,1897-08-28
+1666,4129,"The W.A. Sportsman (Kalgoorlie, WA : 1901 - 1902)",Western Australia,NDP00168,1901-05-11,1902-11-15
+1667,3537,"The Weekly News (Broome, WA : 1931 - 1934)",Western Australia,NDP00169,1931-11-18,1934-02-14
+1668,503,The Wyndham Gazette (WA : 1930),Western Australia,NDP00159,1930-05-10,1930-12-09
+1669,2102,Air Force News (National : 1941),National,NDP00170,1941-03-22,1941-12-20
+1671,22376,RAAF News (National : 1960 - 1997),National,NDP00172,1941-03-22,1997-09-01
+1672,32551,Air Force News (National : 1997 - 2020),National,NDP00173,1997-10-01,2020-03-19
+1673,1999,Noosa Advocate (Qld. : 1911 - 1929),Queensland,NDP00174,1911-03-03,1929-06-07
+1674,13323,Noosa Advocate and Cooroora Advertiser (Qld. : 1929 - 1934),Queensland,NDP00175,1929-06-14,1934-01-31
+1675,28941,Noosa News (Qld. : 1968 - 1974),Queensland,NDP00176,1968-12-05,1974-12-26
+1677,1585,"The News, Shoalhaven, Broughton Creek, Ulladulla and South Coast Advertiser (NSW : 1875)",New South Wales,NDP00177,1875-01-02,1875-07-31
+1678,2699,"The News, Shoalhaven, Broughton Creek and Ulladulla Advertiser (NSW : 1875 - 1877)",New South Wales,NDP00178,1875-08-07,1877-02-24
+1679,1296,"The Shoalhaven News, Broughton Creek and Ulladulla Advertiser (NSW : 1877)",New South Wales,NDP00179,1877-03-03,1877-12-22
+1680,55691,"The Coromandel (Blackwood, SA : 1945 - 1970)",South Australia,NDP00180,1945-08-04,1970-08-13
+1681,9900,"The Coromandel Times (Blackwood, SA : 1970 - 1976)",South Australia,NDP00181,1970-08-20,1976-03-18
+1683,1919,"The Prospecter (Fitzroy, SA : 1978 - 1984)",South Australia,NDP00183,1978-12-01,1984-12-01
+1684,23798,"The Australian Jewish Herald (Melbourne, Vic. : 1920 - 1933)",Victoria,NDP00186,1920-10-15,1933-10-12
+1685,723789,"The Australian Jewish News (Melbourne, Vic. : 1935 - 1999)",Victoria,NDP00187,1935-05-24,1999-12-24
+1686,3816,"Australier Leben = Australian Life (Melbourne, Vic. : 1931 - 1933)",Victoria,NDP00188,1931-01-16,1933-10-20
+1687,19725,"The Westralian Judean (Perth, WA : 1924 - 1925; 1929 - 1955)",Western Australia,NDP00189,1924-11-01,1955-09-01
+1688,59,"The Australian Hebrew Times (Sydney, NSW : 1894)",New South Wales,NDP00190,1894-01-05,1894-02-09
+1689,128,"The Dialectic : Jewish Monthly (Fitzroy, Vic. : 1875)",Victoria,NDP00191,1875-05-01,1875-11-01
+1690,45,"The Australian Zionist Pioneer (Sydney, NSW : 1929)",New South Wales,NDP00192,1929-11-01,1929-11-01
+1691,2027,"The Australasian Hebrew (Sydney, NSW : 1895 - 1896)",New South Wales,NDP00193,1895-11-22,1896-11-13
+1692,25716,"The Australian Jewish Chronicle (Sydney, NSW : 1922 - 1931)",New South Wales,NDP00194,1922-03-09,1931-02-25
+1693,71686,"The Sydney Jewish News (Sydney, N.S.W : 1939 - 1954)",New South Wales,NDP00195,1939-06-16,1954-12-31
+1694,268379,"The Australian Jewish Times (Sydney, NSW : 1953 - 1990)",New South Wales,NDP00196,1953-10-16,1990-04-06
+1695,192991,"The Australian Jewish News (Sydney, NSW : 1990 - 2008)",New South Wales,NDP00197,1990-04-06,2008-12-26
+1696,92124,"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",Victoria,NDP00198,1935-05-23,1955-12-30
+1697,36453,Cowra Guardian and Lachlan Agricultural Recorder (NSW : 1898 - 1907),New South Wales,NDP00199,1898-01-01,1907-12-28
+1698,58889,The Campbelltown News (NSW : 1920 - 1953),New South Wales,NDP00200,1920-01-02,1953-01-06
+1699,6248,Campbelltown Ingleburn News (NSW : 1953 - 1954),New South Wales,NDP00201,1953-01-13,1954-12-28
+1700,11597,"Port Lincoln, Tumby and West Coast Recorder (SA : 1904 - 1909)",South Australia,NDP00202,1904-07-22,1909-10-06
+1701,7089,"The Sun (Kalgoorlie, WA : 1939)",Western Australia,NDP00203,1939-01-08,1939-11-26
+1702,104481,"West Coast Recorder (Port Lincoln, SA : 1909 - 1942)",South Australia,NDP00204,1909-10-13,1942-12-21
+1703,36163,"The Express, Bacchus Marsh (Vic. : 1943 - 1954)",Victoria,NDP00205,1943-08-28,1954-12-18
+1704,1892,"West Bourke and South Grant Guardian (Bacchus Marsh, Vic. : 1869 - 1870)",Victoria,NDP00206,1869-02-06,1870-12-17
+1706,2995,"The Australian Israelite (Melbourne, Vic. : 1871 - 1875)",Victoria,NDP00208,1871-06-30,1875-05-07
+1707,11865,"The Jewish Weekly News (Melbourne, Vic. : 1933 - 1935)",Victoria,NDP00209,1933-10-27,1935-05-17
+1708,6257,"Daylight (Adelaide, SA : 1919 - 1928)",South Australia,NDP00210,1919-02-05,1928-12-31
+1709,8461,"The Western Mail (Ceduna, SA : 1928 - 1930)",South Australia,NDP00211,1928-07-13,1930-12-25
+1710,1919,The Examiner (SA : 1841 - 1843),South Australia,NDP00212,1841-11-25,1843-06-24
+1711,885,"The Northern Districts Courier (North Adelaide, SA : 1925 - 1927)",South Australia,NDP00213,1925-08-15,1927-12-17
+1712,257,"Northern District Times (North Adelaide, SA : 1937 - 1938)",South Australia,NDP00214,1937-10-21,1938-02-17
+1713,2836,"The Mountaineer (Ferntree Gully, Vic. : 1920 - 1921)",Victoria,NDP00215,1920-08-27,1921-12-16
+1714,1388,"The Pilot (Upper Ferntree Gully, Vic. : 1921 - 1922)",Victoria,NDP00216,1921-09-24,1922-09-09
+1715,68178,"Fern Tree Gully News (Upper Ferntree Gully, Vic. : 1923-1947)",Victoria,NDP00217,1923-05-26,1947-02-21
+1716,8809,"Fern Tree Gully and District Times (Boronia, Vic. : 1953-1954)",Victoria,NDP00218,1953-05-28,1954-12-30
+1724,17847,The Bligh Watchman and Coonabarabran Gazette (NSW : 1898 - 1910),New South Wales,NDP00226,1898-01-05,1910-08-09
+1725,47953,"The North-Western Watchman (Coonabarabran, NSW : 1936 - 1949)",New South Wales,NDP00227,1936-01-30,1949-04-21
+1726,1917,"Now (Potts Point, NSW : 1968 - 1975)",New South Wales,NDP00228,1968-04-03,1975-07-01
+1729,426,"The Miner's Right (Perth, WA : 1894)",Western Australia,NDP00231,1894-05-25,1894-09-01
+1730,2157,"The Bungendore Mirror and Lake George Advertiser (Queanbeyan, NSW : 1887 - 1888) ",New South Wales,NDP00234,1887-10-08,1888-08-11
+1731,35136,Kimba Dispatch (SA. : 1927 - 1941),South Australia,NDP00235,1927-09-02,1941-05-09
+1732,5599,"The Challenger (Port Lincoln, SA. : 1932 - 1934)",South Australia,NDP00236,1932-05-28,1934-10-01
+1733,33,The Morwell Advocate and Boolara and Mirboo Chronicle (Vic. : 1886),Victoria,18379605,1886-10-30,1886-10-30
+1734,208,"The Morwell Advocate and Narracan, Boolara and Mirboo Chronicle (Vic. : 1886)",Victoria,18379613,1886-11-06,1886-12-18
+1735,42777,"The Narracan Shire Advocate and Yallourn Brown Coal Mine, Walhalla and Thorpdale Lines Echo (Moe, Vic. : 1923 - 1943)",Victoria,NDP00233,1923-06-22,1943-12-31
+1736,2209,"The Advertiser (Hobart, Tas. :  1837 - 1840)",Tasmania,NDP00237,1837-10-13,1840-09-29
+1737,96605,The Hobart Town Advertiser (Tas. : 1839 - 1861),Tasmania,NDP00238,1839-04-05,1861-12-30
+1738,33108,"The Advertiser (Hobart, Tas. :  1861 - 1865)",Tasmania,NDP00239,1861-12-31,1865-09-30
+1739,14789,Hobart Town Advertiser : Weekly Edt. (Tas. : 1859 - 1865),Tasmania,NDP00240,1859-04-02,1865-09-30
+1740,57,The Hobart Town Herald (Tas. :  1845),Tasmania,NDP00241,1845-06-13,1845-07-11
+1741,50,"The Herald of Tasmania (Hobart, Tas. : 1845)",Tasmania,NDP00248,1845-07-18,1845-07-25
+1742,103,"The Hobart Town Herald, or, Southern reporter (Tas. : 1846)",Tasmania,NDP00242,1846-03-25,1846-04-04
+1743,434,The Hobart Town Herald and abstinence advocate (Tas. : 1846 - 1847),Tasmania,NDP00243,1846-12-19,1847-03-17
+1744,560,The Hobart Town Herald (Tas. : 1880),Tasmania,NDP00244,1880-09-21,1880-11-04
+1745,3056,The Hobart Herald (Tas. : 1880 - 1882),Tasmania,NDP00245,1880-11-06,1882-03-31
+1747,180509,"Saturday Evening Express (Launceston, Tas. : 1924 - 1954)",Tasmania,NDP00247,1924-02-02,1954-12-18
+1748,19231,The Cronulla-Sutherland Advocate (NSW : 1927 - 1939),New South Wales,NDP00249,1927-01-06,1939-08-10
+1749,43721,"The Observer (Cronulla, NSW : 1939 - 1954)",New South Wales,NDP00250,1939-08-11,1954-12-23
+1752,819,Perth Daily Telegraph (WA : 1922),Western Australia,NDP00253,1922-09-08,1922-09-23
+1753,796,,,,,
+1754,110,,,,,
+1756,235,"Suburban Life (Perth, WA : 1939)",Western Australia,NDP00257,1939-08-10,1939-08-31
+1757,1170,,,,,
+1758,1187,,,,,
+1759,1273,"WA Amateur Sports (Perth, WA : 1931 - 1932)",Western Australia,NDP00260,1931-07-03,1932-07-22
+1760,37561,,,,,
+1762,14698,Kyneton Guardian and Woodend and Malmsbury Chronicle (Vic. : 1863 - 1870),Victoria,NDP00263,1863-01-03,1870-11-12
+1763,4344,"The Ballan Times and Gordon, Egerton, Wallace, Millbrook and Blackwood Advertiser (Vic. : 1890 - 1893)",Victoria,NDP00264,1890-05-03,1893-08-18
+1764,2687,"The Ballan Times and Blackwood, Blakeville and Myrniong Standard (Vic. : 1893 - 1895)",Victoria,NDP00265,1893-08-24,1895-01-31
+1765,5057,"The Ballan Times and Egerton, Gordon, Blakeville and Myrniong Standard (Vic. : 1895 - 1899)",Victoria,NDP00266,1895-02-07,1899-02-02
+1766,52,Nagambie Herald and Goulburn Valley Advertiser (Vic. : 1873),Victoria,NDP00267,1873-03-21,1873-04-04
+1767,795,"The Nagambie Herald and Avenel, Murchison and Goulburn Valley Advertiser (Vic. : 1873)",Victoria,NDP00268,1873-04-10,1873-11-04
+1768,9004,The Tarrangower Times and Maldon District Advertiser (Vic. : 1858 - 1862),Victoria,NDP00269,1858-06-15,1862-07-18
+1769,23686,The Tarrangower Times and Maldon and Newstead Advertiser (Vic. : 1862 - 1873),Victoria,NDP00270,1862-07-22,1873-06-11
+1770,45331,"The Tarrangower Times and Maldon, Newstead, Baringhup, Laancoorie and Muckleford Advertiser (Vic. : 1873 - 1894)",Victoria,NDP00271,1873-06-14,1894-08-04
+1771,18064,The Tarrangower Times and Maldon Advertiser (Vic. : 1894 - 1900),Victoria,NDP00272,1894-08-08,1900-12-29
+1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
+1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
+1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22

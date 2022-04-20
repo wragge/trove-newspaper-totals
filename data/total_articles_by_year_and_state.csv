@@ -475,24 +475,24 @@ New South Wales,1866,76146
 New South Wales,1867,74418
 New South Wales,1868,75610
 New South Wales,1869,84162
-New South Wales,1870,103003
-New South Wales,1871,102849
-New South Wales,1872,116174
+New South Wales,1870,103002
+New South Wales,1871,102848
+New South Wales,1872,116173
 New South Wales,1873,115123
-New South Wales,1874,128252
-New South Wales,1875,130626
-New South Wales,1876,131717
+New South Wales,1874,128251
+New South Wales,1875,130624
+New South Wales,1876,131716
 New South Wales,1877,133827
 New South Wales,1878,151460
 New South Wales,1879,181558
 New South Wales,1880,189390
 New South Wales,1881,199728
 New South Wales,1882,203789
-New South Wales,1883,211475
+New South Wales,1883,211474
 New South Wales,1884,249631
 New South Wales,1885,278435
 New South Wales,1886,309746
-New South Wales,1887,310200
+New South Wales,1887,310199
 New South Wales,1888,362279
 New South Wales,1889,414863
 New South Wales,1890,467293
@@ -502,7 +502,7 @@ New South Wales,1893,522284
 New South Wales,1894,557144
 New South Wales,1895,603076
 New South Wales,1896,627160
-New South Wales,1897,618279
+New South Wales,1897,618278
 New South Wales,1898,723536
 New South Wales,1899,876007
 New South Wales,1900,950416
@@ -515,14 +515,14 @@ New South Wales,1906,1136544
 New South Wales,1907,1199727
 New South Wales,1908,1140967
 New South Wales,1909,1181786
-New South Wales,1910,1241746
-New South Wales,1911,1387497
+New South Wales,1910,1241745
+New South Wales,1911,1387495
 New South Wales,1912,1448131
 New South Wales,1913,1474973
 New South Wales,1914,1537971
 New South Wales,1915,1549386
 New South Wales,1916,1406413
-New South Wales,1917,1321818
+New South Wales,1917,1321817
 New South Wales,1918,1244728
 New South Wales,1919,1289170
 New South Wales,1920,1182990
@@ -535,7 +535,7 @@ New South Wales,1926,1473899
 New South Wales,1927,1540078
 New South Wales,1928,1544005
 New South Wales,1929,1654899
-New South Wales,1930,1602061
+New South Wales,1930,1602060
 New South Wales,1931,1469290
 New South Wales,1932,1441174
 New South Wales,1933,1501023
@@ -606,7 +606,7 @@ New South Wales,1997,20029
 New South Wales,1998,27791
 New South Wales,1999,38701
 New South Wales,2000,37042
-New South Wales,2001,34653
+New South Wales,2001,34652
 New South Wales,2002,34668
 New South Wales,2003,16226
 New South Wales,2004,14970
@@ -1265,71 +1265,71 @@ Victoria,1866,101250
 Victoria,1867,108848
 Victoria,1868,106578
 Victoria,1869,112047
-Victoria,1870,126436
-Victoria,1871,122474
-Victoria,1872,121296
+Victoria,1870,126437
+Victoria,1871,122475
+Victoria,1872,121297
 Victoria,1873,142655
-Victoria,1874,137092
-Victoria,1875,150847
-Victoria,1876,150191
+Victoria,1874,137093
+Victoria,1875,150849
+Victoria,1876,150192
 Victoria,1877,160997
 Victoria,1878,173153
 Victoria,1879,179631
 Victoria,1880,187014
 Victoria,1881,193661
 Victoria,1882,256770
-Victoria,1883,264913
-Victoria,1884,260031
+Victoria,1883,264914
+Victoria,1884,272847
 Victoria,1885,254591
 Victoria,1886,279103
-Victoria,1887,316072
+Victoria,1887,316073
 Victoria,1888,324161
 Victoria,1889,324835
-Victoria,1890,347450
-Victoria,1891,372371
-Victoria,1892,366733
+Victoria,1890,348372
+Victoria,1891,375041
+Victoria,1892,368698
 Victoria,1893,372054
-Victoria,1894,384388
-Victoria,1895,398338
-Victoria,1896,393467
-Victoria,1897,403797
+Victoria,1894,385365
+Victoria,1895,401116
+Victoria,1896,394715
+Victoria,1897,403798
 Victoria,1898,433872
 Victoria,1899,457283
-Victoria,1900,480720
+Victoria,1900,483611
 Victoria,1901,519615
-Victoria,1902,544113
-Victoria,1903,552747
+Victoria,1902,546618
+Victoria,1903,555402
 Victoria,1904,577274
 Victoria,1905,584397
 Victoria,1906,597411
 Victoria,1907,616498
 Victoria,1908,636625
 Victoria,1909,655778
-Victoria,1910,702629
-Victoria,1911,660292
+Victoria,1910,702630
+Victoria,1911,660294
 Victoria,1912,701395
 Victoria,1913,679886
 Victoria,1914,1250419
 Victoria,1915,1315560
 Victoria,1916,1183698
-Victoria,1917,1100242
+Victoria,1917,1100243
 Victoria,1918,1044638
-Victoria,1919,435165
-Victoria,1920,416901
-Victoria,1921,444163
-Victoria,1922,478357
-Victoria,1923,500727
-Victoria,1924,544742
+Victoria,1919,438260
+Victoria,1920,420685
+Victoria,1921,444240
+Victoria,1922,480599
+Victoria,1923,502929
+Victoria,1924,545383
 Victoria,1925,529806
 Victoria,1926,524894
 Victoria,1927,549263
 Victoria,1928,572036
 Victoria,1929,541735
-Victoria,1930,529481
+Victoria,1930,529482
 Victoria,1931,490665
-Victoria,1932,442906
-Victoria,1933,476849
-Victoria,1934,542248
+Victoria,1932,459969
+Victoria,1933,498190
+Victoria,1934,561829
 Victoria,1935,555380
 Victoria,1936,555036
 Victoria,1937,547210
@@ -1337,9 +1337,9 @@ Victoria,1938,539818
 Victoria,1939,510436
 Victoria,1940,424068
 Victoria,1941,366323
-Victoria,1942,278139
-Victoria,1943,241398
-Victoria,1944,261235
+Victoria,1942,280800
+Victoria,1943,243462
+Victoria,1944,263605
 Victoria,1945,277890
 Victoria,1946,348892
 Victoria,1947,353122
@@ -1396,7 +1396,7 @@ Victoria,1997,12783
 Victoria,1998,11961
 Victoria,1999,11517
 Victoria,2000,49
-Victoria,2001,42
+Victoria,2001,43
 Victoria,2002,113
 Victoria,2003,0
 Victoria,2004,0
