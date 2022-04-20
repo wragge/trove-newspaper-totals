@@ -1,0 +1,116 @@
+{
+  "profile": "tabular-data-package",
+  "name": "trove-newspaper-totals",
+  "title": "Trove newspaper totals",
+  "description": "Weekly harvests of the number of digitised newspaper articles available from Trove.",
+  "resources": [
+    {
+      "path": "data/total_articles_by_category.csv",
+      "name": "total_articles_by_category",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "category"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_newspaper.csv",
+      "name": "total_articles_by_newspaper",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "title_id"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          },
+          {
+            "type": "string",
+            "name": "title"
+          },
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "string",
+            "name": "issn"
+          },
+          {
+            "type": "date",
+            "name": "start_date"
+          },
+          {
+            "type": "date",
+            "name": "end_date"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year_and_state.csv",
+      "name": "total_articles_by_year_and_state",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year.csv",
+      "name": "total_articles_by_year",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    }
+  ]
+}
