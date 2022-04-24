@@ -5,6 +5,27 @@
   "description": "Weekly harvests of the number of digitised newspaper articles available from Trove.",
   "resources": [
     {
+      "path": "data/total_articles_by_activity.csv",
+      "name": "total_articles_by_activity",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "harvest_type"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
       "path": "data/total_articles_by_category.csv",
       "name": "total_articles_by_category",
       "profile": "tabular-data-resource",
