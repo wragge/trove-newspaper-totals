@@ -1516,7 +1516,7 @@ title_id,total,title,state,issn,start_date,end_date
 1581,521,The Mildura Irrigationist and Murray River Agricultural Times (Vic. : 1888),Victoria,NDP00081,1888-02-08,1888-05-23
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
-1584,4026,,,,,
+1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
 1585,525502,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",Victoria,NDP00085,1920-10-02,1934-05-31
 1586,17152,The Nowra Colonist (NSW : 1899 - 1904),New South Wales,NDP00086,1899-01-04,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
@@ -1622,7 +1622,7 @@ title_id,total,title,state,issn,start_date,end_date
 1693,71686,"The Sydney Jewish News (Sydney, N.S.W : 1939 - 1954)",New South Wales,NDP00195,1939-06-16,1954-12-31
 1694,268379,"The Australian Jewish Times (Sydney, NSW : 1953 - 1990)",New South Wales,NDP00196,1953-10-16,1990-04-06
 1695,192991,"The Australian Jewish News (Sydney, NSW : 1990 - 2008)",New South Wales,NDP00197,1990-04-06,2008-12-26
-1696,92124,"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",Victoria,NDP00198,1935-05-23,1955-12-30
+1696,129798,"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",Victoria,NDP00198,1935-05-23,1961-12-29
 1697,36453,Cowra Guardian and Lachlan Agricultural Recorder (NSW : 1898 - 1907),New South Wales,NDP00199,1898-01-01,1907-12-28
 1698,58889,The Campbelltown News (NSW : 1920 - 1953),New South Wales,NDP00200,1920-01-02,1953-01-06
 1699,6248,Campbelltown Ingleburn News (NSW : 1953 - 1954),New South Wales,NDP00201,1953-01-13,1954-12-28
@@ -1666,13 +1666,13 @@ title_id,total,title,state,issn,start_date,end_date
 1748,19231,The Cronulla-Sutherland Advocate (NSW : 1927 - 1939),New South Wales,NDP00249,1927-01-06,1939-08-10
 1749,43721,"The Observer (Cronulla, NSW : 1939 - 1954)",New South Wales,NDP00250,1939-08-11,1954-12-23
 1752,819,Perth Daily Telegraph (WA : 1922),Western Australia,NDP00253,1922-09-08,1922-09-23
-1753,796,,,,,
-1754,110,,,,,
+1753,796,"Sports News (Perth, WA : 1953) ",Western Australia,NDP00254,1953-04-25,1953-06-20
+1754,110,"Social Wealth  (Perth, WA : 1934)",Western Australia,NDP00255,1934-01-01,1934-10-01
 1756,235,"Suburban Life (Perth, WA : 1939)",Western Australia,NDP00257,1939-08-10,1939-08-31
-1757,1170,,,,,
-1758,1187,,,,,
+1757,1170,Victoria Park News (WA : 1949 - 1950) ,Western Australia,NDP00258,1949-08-25,1950-03-31
+1758,1187,"W.A. Shipping and Commercial News (Fremantle, WA  : 1922 - 1923)",Western Australia,NDP00259,1922-06-02,1922-12-18
 1759,1273,"WA Amateur Sports (Perth, WA : 1931 - 1932)",Western Australia,NDP00260,1931-07-03,1932-07-22
-1760,37561,,,,,
+1760,37561,"Dalgety's Review (Perth, WA : 1926 - 1948)",Western Australia,NDP00261,1935-01-03,1948-05-27
 1762,14698,Kyneton Guardian and Woodend and Malmsbury Chronicle (Vic. : 1863 - 1870),Victoria,NDP00263,1863-01-03,1870-11-12
 1763,4344,"The Ballan Times and Gordon, Egerton, Wallace, Millbrook and Blackwood Advertiser (Vic. : 1890 - 1893)",Victoria,NDP00264,1890-05-03,1893-08-18
 1764,2687,"The Ballan Times and Blackwood, Blakeville and Myrniong Standard (Vic. : 1893 - 1895)",Victoria,NDP00265,1893-08-24,1895-01-31
