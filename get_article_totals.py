@@ -46,6 +46,11 @@ def get_results(params):
     data = response.json()
     return data
 
+def get_total_results(params):
+    data = get_results(params)
+    total = data['response']['zone'][0]['records']['total']
+    return total
+
 def get_facets(data):
     """
     Loop through facets in Trove API response, saving terms and counts.
@@ -184,6 +189,32 @@ def get_category_totals():
     df.columns = ['category', 'total']
     return df
 
+def get_total_articles():
+    params = {
+        "zone": "newspaper",
+        "key": API_KEY,
+        "encoding": "json",
+        "q": " ",
+        "n": 0  # We don't need any records, just the facets!
+    }
+    return get_total_results(params)
+
+def get_overall_totals():
+    totals = []
+    totals.append({'harvest_type': 'all', 'total': get_total_articles()})
+    params = {
+        "zone": "newspaper",
+        "key": API_KEY,
+        "encoding": "json",
+        "n": 0  # We don't need any records, just the facets!
+    }
+    for activity in ['corrections', 'tags', 'comments']:
+        params['q'] = f'has:{activity}'
+        total = get_total_results(params)
+        totals.append({'harvest_type': params['q'], 'total': total})
+    df = pd.DataFrame(totals)
+    return df
+
 def fill_missing_years(df):
     df = df.set_index('year')
     df = df.reindex(range(df.index.min(), df.index.max() +1)).reset_index()
@@ -194,6 +225,8 @@ def fill_missing_years(df):
 
 def main():
     Path('data').mkdir(exist_ok=True)
+    df_overall_totals = get_overall_totals()
+    df_overall_totals.to_csv(Path('data', f'total_articles_by_activity.csv'), index=False)
     df_totals = get_year_totals()
     df_totals.to_csv(Path('data', f'total_articles_by_year.csv'), index=False)
     df_states = get_state_totals()
