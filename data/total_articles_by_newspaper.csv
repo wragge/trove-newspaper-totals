@@ -266,7 +266,7 @@ title_id,total,title,state,issn,start_date,end_date
 272,17139,Launceston Advertiser (Tas. : 1829 - 1846),Tasmania,18397166,1829-02-09,1846-12-31
 273,193,"Tasmanian and Port Dalrymple Advertiser (Launceston, Tas. : 1825)",Tasmania,18397174,1825-01-05,1825-05-18
 274,108047,"The Charleville Times (Brisbane, Qld. : 1896 - 1954)",Queensland,18397824,1896-05-16,1954-12-30
-275,3041598,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1951-12-31
+275,3080894,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1952-09-30
 276,733101,"Border Watch (Mount Gambier, SA : 1861 - 1954)",South Australia,13295195,1861-04-26,1954-12-30
 277,3155,Adelaider Deutsche Zeitung (SA : 1851 - 1862),South Australia,1839812X,1851-04-02,1862-12-26
 278,20996,"Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)",South Australia,18398197,1860-12-15,1874-12-29
@@ -284,7 +284,7 @@ title_id,total,title,state,issn,start_date,end_date
 290,122001,"South Australian Chronicle (Adelaide, SA : 1889 - 1895)",South Australia,22001093,1889-03-16,1895-09-28
 291,1214105,"Chronicle (Adelaide, SA : 1895 - 1954)",South Australia,22001131,1895-10-05,1954-12-30
 292,7442,Geelong Advertiser (Vic. : 1840 - 1845),Victoria,14401398,1840-11-21,1845-05-24
-293,23081,The Brunswick and Coburg Leader (Vic. : 1914 - 1926),Victoria,22002480,1914-01-02,1924-12-19
+293,28620,The Brunswick and Coburg Leader (Vic. : 1914 - 1926),Victoria,22002480,1914-01-02,1926-12-17
 294,58,Broadmeadows Camp Sentry (Vic. : 1917),Victoria,22000879,1917-07-27,1917-08-03
 295,10277,"Advertiser (Footscray, Vic. : 1914 - 1918)",Victoria,22000941,1914-01-10,1918-12-21
 296,76654,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1918)",Victoria,22000615,1893-10-03,1918-12-31
@@ -301,7 +301,7 @@ title_id,total,title,state,issn,start_date,end_date
 307,34055,Port Fairy Gazette (Vic. : 1914 - 1918),Victoria,22002529,1914-01-02,1946-12-28
 308,12222,Port Melbourne Standard (Vic. : 1914 - 1920),Victoria,22001298,1914-05-30,1920-02-28
 309,35956,Prahran Chronicle (Vic. : 1894 - 1906; 1914 - 1918),Victoria,22001735,1894-01-06,1918-12-21
-310,79178,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1895; 1902 - 1924),Victoria,22001573,1884-01-05,1922-12-23
+310,90279,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1895; 1902 - 1924),Victoria,22001573,1884-01-05,1924-12-20
 311,963548,"The Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954; 1998 - 2002)",Victoria,2200159X,1869-01-09,2002-12-30
 312,15153,"Dandenong Advertiser and Cranbourne, Berwick and Oakleigh Advocate (Vic. : 1914 - 1918)",Victoria,22001751,1914-01-01,1918-12-24
 313,8299,"Queenscliff Sentinel, Drysdale, Portarlington, Sorrento Advertiser (Vic. : 1914 - 1918)",Victoria,22002499,1914-01-03,1918-12-21
@@ -861,11 +861,11 @@ title_id,total,title,state,issn,start_date,end_date
 873,1151,"Free Lance (Melbourne, Vic. : 1896)",Victoria,2203823X,1896-04-23,1896-10-17
 874,99215,Melbourne Punch (Vic. : 1855 - 1900),Victoria,22038256,1855-08-02,1900-05-03
 875,744378,"Sporting Globe (Melbourne, Vic. : 1922 - 1954)",Victoria,22037470,1922-07-22,1954-12-29
-876,15356,Bundarra and Tingha Advocate (NSW : 1900 - 1906),New South Wales,22042741,1900-12-08,1906-12-29
+876,15356,Bundarra and Tingha Advocate (NSW : 1900 - 1929),New South Wales,22042741,1900-12-08,1906-12-29
 877,287390,"The Manning River Times and Advocate for the Northern Coast Districts of New South Wales (Taree, NSW : 1898 - 1954)",New South Wales,22042822,1898-01-01,1954-12-22
 878,111814,"North West Champion (Moree, NSW : 1915 - 1954)",New South Wales,22042849,1915-06-08,1954-12-30
 879,143063,The Don Dorrigo Gazette and Guy Fawkes Advocate (NSW : 1910 - 1954),New South Wales,22043322,1910-01-08,1954-12-22
-880,13237,The Inverell Argus (NSW : 1899 - 1904),New South Wales,22043004,1899-01-06,1904-12-31
+880,13237,The Inverell Argus (NSW : 1885; 1894; 1899; 1902 - 1904; 1910; 1914; 1921-1922; 1924),New South Wales,22043004,1899-01-06,1904-12-31
 881,195950,"The Macleay Chronicle (Kempsey, NSW : 1899 - 1952)",New South Wales,22043047,1899-01-05,1952-07-30
 882,22258,Tingha Advocate and North-Western Journal (NSW : 1916 - 1932),New South Wales,22043063,1916-01-07,1932-06-24
 883,17500,The Uralla Times and District Advocate (NSW : 1915 - 1923),New South Wales,2204308X,1915-01-02,1923-07-26
@@ -1517,7 +1517,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,525502,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",Victoria,NDP00085,1920-10-02,1934-05-31
+1585,629692,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",Victoria,NDP00085,1920-10-02,1935-09-11
 1586,17152,The Nowra Colonist (NSW : 1899 - 1904),New South Wales,NDP00086,1899-01-04,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
@@ -1622,7 +1622,7 @@ title_id,total,title,state,issn,start_date,end_date
 1693,71686,"The Sydney Jewish News (Sydney, N.S.W : 1939 - 1954)",New South Wales,NDP00195,1939-06-16,1954-12-31
 1694,268379,"The Australian Jewish Times (Sydney, NSW : 1953 - 1990)",New South Wales,NDP00196,1953-10-16,1990-04-06
 1695,192991,"The Australian Jewish News (Sydney, NSW : 1990 - 2008)",New South Wales,NDP00197,1990-04-06,2008-12-26
-1696,129798,"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",Victoria,NDP00198,1935-05-23,1961-12-29
+1696,169608,"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",Victoria,NDP00198,1935-05-23,1968-03-29
 1697,36453,Cowra Guardian and Lachlan Agricultural Recorder (NSW : 1898 - 1907),New South Wales,NDP00199,1898-01-01,1907-12-28
 1698,58889,The Campbelltown News (NSW : 1920 - 1953),New South Wales,NDP00200,1920-01-02,1953-01-06
 1699,6248,Campbelltown Ingleburn News (NSW : 1953 - 1954),New South Wales,NDP00201,1953-01-13,1954-12-28
@@ -1671,7 +1671,7 @@ title_id,total,title,state,issn,start_date,end_date
 1756,235,"Suburban Life (Perth, WA : 1939)",Western Australia,NDP00257,1939-08-10,1939-08-31
 1757,1170,Victoria Park News (WA : 1949 - 1950) ,Western Australia,NDP00258,1949-08-25,1950-03-31
 1758,1187,"W.A. Shipping and Commercial News (Fremantle, WA  : 1922 - 1923)",Western Australia,NDP00259,1922-06-02,1922-12-18
-1759,1273,"WA Amateur Sports (Perth, WA : 1931 - 1932)",Western Australia,NDP00260,1931-07-03,1932-07-22
+1759,1273,"WA Amateur Sports Gazette (Perth, WA : 1931 - 1932)",Western Australia,NDP00260,1931-07-03,1932-07-22
 1760,37561,"Dalgety's Review (Perth, WA : 1926 - 1948)",Western Australia,NDP00261,1935-01-03,1948-05-27
 1762,14698,Kyneton Guardian and Woodend and Malmsbury Chronicle (Vic. : 1863 - 1870),Victoria,NDP00263,1863-01-03,1870-11-12
 1763,4344,"The Ballan Times and Gordon, Egerton, Wallace, Millbrook and Blackwood Advertiser (Vic. : 1890 - 1893)",Victoria,NDP00264,1890-05-03,1893-08-18
@@ -1681,8 +1681,8 @@ title_id,total,title,state,issn,start_date,end_date
 1767,795,"The Nagambie Herald and Avenel, Murchison and Goulburn Valley Advertiser (Vic. : 1873)",Victoria,NDP00268,1873-04-10,1873-11-04
 1768,9004,The Tarrangower Times and Maldon District Advertiser (Vic. : 1858 - 1862),Victoria,NDP00269,1858-06-15,1862-07-18
 1769,23686,The Tarrangower Times and Maldon and Newstead Advertiser (Vic. : 1862 - 1873),Victoria,NDP00270,1862-07-22,1873-06-11
-1770,45331,"The Tarrangower Times and Maldon, Newstead, Baringhup, Laancoorie and Muckleford Advertiser (Vic. : 1873 - 1894)",Victoria,NDP00271,1873-06-14,1894-08-04
-1771,18064,The Tarrangower Times and Maldon Advertiser (Vic. : 1894 - 1900),Victoria,NDP00272,1894-08-08,1900-12-29
+1770,51332,"The Tarrangower Times and Maldon, Newstead, Baringhup, Laancoorie and Muckleford Advertiser (Vic. : 1873 - 1894)",Victoria,NDP00271,1873-06-14,1894-08-04
+1771,23520,The Tarrangower Times and Maldon Advertiser (Vic. : 1894 - 1900),Victoria,NDP00272,1894-08-08,1900-12-29
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
 1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22
