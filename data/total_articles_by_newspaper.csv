@@ -266,7 +266,7 @@ title_id,total,title,state,issn,start_date,end_date
 272,17139,Launceston Advertiser (Tas. : 1829 - 1846),Tasmania,18397166,1829-02-09,1846-12-31
 273,193,"Tasmanian and Port Dalrymple Advertiser (Launceston, Tas. : 1825)",Tasmania,18397174,1825-01-05,1825-05-18
 274,108047,"The Charleville Times (Brisbane, Qld. : 1896 - 1954)",Queensland,18397824,1896-05-16,1954-12-30
-275,3080894,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1952-09-30
+275,3107625,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1953-03-31
 276,733101,"Border Watch (Mount Gambier, SA : 1861 - 1954)",South Australia,13295195,1861-04-26,1954-12-30
 277,3155,Adelaider Deutsche Zeitung (SA : 1851 - 1862),South Australia,1839812X,1851-04-02,1862-12-26
 278,20996,"Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)",South Australia,18398197,1860-12-15,1874-12-29
@@ -1196,8 +1196,8 @@ title_id,total,title,state,issn,start_date,end_date
 1211,7325,"South Coast News (Southport, Qld. : 1952 - 1954)",Queensland,22062149,1952-09-13,1954-12-31
 1212,5389,"Southern Queensland Bulletin (Southport, Qld. : 1888 - 1891)",Queensland,22061835,1888-01-14,1891-12-26
 1213,55297,The Proserpine Guardian (Qld. : 1935 - 1954),Queensland,22061770,1935-02-16,1954-12-24
-1215,4175,,,,,
-1216,359736,,,,,
+1215,4175,"The Golden Age (Queanbeyan, NSW : 1860 - 1864)",New South Wales,22064893,1860-09-15,1864-05-12
+1216,359736,Coolgardie Miner (WA : 1894 - 1911),Western Australia,22057471,1894-04-14,1911-06-16
 1218,96998,The Young Chronicle (NSW : 1902 - 1910; 1913 - 1915; 1924 - 1934; 1936 - 1940),New South Wales,22066500,1902-03-08,1940-12-20
 1219,237352,Casino and Kyogle Courier and North Coast Advertiser (NSW : 1904 - 1932),New South Wales,22066527,1904-12-17,1932-05-04
 1220,421153,"Macleay Argus (Kempsey, NSW : 1885 - 1907; 1909 - 1910; 1912 - 1913; 1915 - 1916; 1918 - 1954)",New South Wales,22066535,1885-10-24,1954-12-31
@@ -1517,7 +1517,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,629692,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",Victoria,NDP00085,1920-10-02,1935-09-11
+1585,718177,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",Victoria,NDP00085,1920-10-02,1937-04-30
 1586,17152,The Nowra Colonist (NSW : 1899 - 1904),New South Wales,NDP00086,1899-01-04,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
@@ -1622,7 +1622,7 @@ title_id,total,title,state,issn,start_date,end_date
 1693,71686,"The Sydney Jewish News (Sydney, N.S.W : 1939 - 1954)",New South Wales,NDP00195,1939-06-16,1954-12-31
 1694,268379,"The Australian Jewish Times (Sydney, NSW : 1953 - 1990)",New South Wales,NDP00196,1953-10-16,1990-04-06
 1695,192991,"The Australian Jewish News (Sydney, NSW : 1990 - 2008)",New South Wales,NDP00197,1990-04-06,2008-12-26
-1696,169608,"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",Victoria,NDP00198,1935-05-23,1968-03-29
+1696,171986,"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",Victoria,NDP00198,1935-05-23,1968-08-02
 1697,36453,Cowra Guardian and Lachlan Agricultural Recorder (NSW : 1898 - 1907),New South Wales,NDP00199,1898-01-01,1907-12-28
 1698,58889,The Campbelltown News (NSW : 1920 - 1953),New South Wales,NDP00200,1920-01-02,1953-01-06
 1699,6248,Campbelltown Ingleburn News (NSW : 1953 - 1954),New South Wales,NDP00201,1953-01-13,1954-12-28
@@ -1672,7 +1672,7 @@ title_id,total,title,state,issn,start_date,end_date
 1757,1170,Victoria Park News (WA : 1949 - 1950) ,Western Australia,NDP00258,1949-08-25,1950-03-31
 1758,1187,"W.A. Shipping and Commercial News (Fremantle, WA  : 1922 - 1923)",Western Australia,NDP00259,1922-06-02,1922-12-18
 1759,1273,"WA Amateur Sports Gazette (Perth, WA : 1931 - 1932)",Western Australia,NDP00260,1931-07-03,1932-07-22
-1760,37561,"Dalgety's Review (Perth, WA : 1926 - 1948)",Western Australia,NDP00261,1935-01-03,1948-05-27
+1760,44371,"Dalgety's Review (Perth, WA : 1926 - 1948)",Western Australia,NDP00261,1926-09-16,1948-05-27
 1762,14698,Kyneton Guardian and Woodend and Malmsbury Chronicle (Vic. : 1863 - 1870),Victoria,NDP00263,1863-01-03,1870-11-12
 1763,4344,"The Ballan Times and Gordon, Egerton, Wallace, Millbrook and Blackwood Advertiser (Vic. : 1890 - 1893)",Victoria,NDP00264,1890-05-03,1893-08-18
 1764,2687,"The Ballan Times and Blackwood, Blakeville and Myrniong Standard (Vic. : 1893 - 1895)",Victoria,NDP00265,1893-08-24,1895-01-31
