@@ -266,7 +266,7 @@ title_id,total,title,state,issn,start_date,end_date
 272,17139,Launceston Advertiser (Tas. : 1829 - 1846),Tasmania,18397166,1829-02-09,1846-12-31
 273,193,"Tasmanian and Port Dalrymple Advertiser (Launceston, Tas. : 1825)",Tasmania,18397174,1825-01-05,1825-05-18
 274,108047,"The Charleville Times (Brisbane, Qld. : 1896 - 1954)",Queensland,18397824,1896-05-16,1954-12-30
-275,3107625,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1953-03-31
+275,3160168,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1954-07-31
 276,733101,"Border Watch (Mount Gambier, SA : 1861 - 1954)",South Australia,13295195,1861-04-26,1954-12-30
 277,3155,Adelaider Deutsche Zeitung (SA : 1851 - 1862),South Australia,1839812X,1851-04-02,1862-12-26
 278,20996,"Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)",South Australia,18398197,1860-12-15,1874-12-29
@@ -1517,7 +1517,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,718177,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",Victoria,NDP00085,1920-10-02,1937-04-30
+1585,740493,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",Victoria,NDP00085,1920-10-02,1937-10-30
 1586,17152,The Nowra Colonist (NSW : 1899 - 1904),New South Wales,NDP00086,1899-01-04,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
