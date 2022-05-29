@@ -81,7 +81,7 @@ title_id,total,title,state,issn,start_date,end_date
 84,66687,Queanbeyan Age (NSW : 1867 - 1904),New South Wales,1837428X,1867-07-05,1903-12-29
 86,31152,Queanbeyan Age (NSW : 1907 - 1915),New South Wales,18374298,1908-01-07,1914-12-25
 87,47464,The Queanbeyan Age and Queanbeyan Observer (NSW : 1915 - 1927),New South Wales,18374336,1915-01-05,1927-04-01
-88,96148,Queanbeyan Age (NSW : 1927 - 1954),New South Wales,13208381,1927-07-26,1939-12-22
+88,126861,Queanbeyan Age (NSW : 1927 - 1954),New South Wales,13208381,1927-07-26,1944-12-22
 89,1947469,"The Register (Adelaide, SA : 1901 - 1929)",South Australia,18373860,1901-03-01,1928-12-31
 90,153465,"The Register News-Pictorial (Adelaide, SA : 1929 - 1931)",South Australia,18373887,1929-01-01,1931-02-20
 91,38493,Rockhampton Bulletin (Qld. : 1871 - 1878),Queensland,1837378X,1872-01-02,1878-01-01
@@ -266,7 +266,7 @@ title_id,total,title,state,issn,start_date,end_date
 272,17139,Launceston Advertiser (Tas. : 1829 - 1846),Tasmania,18397166,1829-02-09,1846-12-31
 273,193,"Tasmanian and Port Dalrymple Advertiser (Launceston, Tas. : 1825)",Tasmania,18397174,1825-01-05,1825-05-18
 274,108047,"The Charleville Times (Brisbane, Qld. : 1896 - 1954)",Queensland,18397824,1896-05-16,1954-12-30
-275,3160168,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1954-07-31
+275,3170182,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1954-09-30
 276,733101,"Border Watch (Mount Gambier, SA : 1861 - 1954)",South Australia,13295195,1861-04-26,1954-12-30
 277,3155,Adelaider Deutsche Zeitung (SA : 1851 - 1862),South Australia,1839812X,1851-04-02,1862-12-26
 278,20996,"Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)",South Australia,18398197,1860-12-15,1874-12-29
@@ -865,7 +865,7 @@ title_id,total,title,state,issn,start_date,end_date
 877,287390,"The Manning River Times and Advocate for the Northern Coast Districts of New South Wales (Taree, NSW : 1898 - 1954)",New South Wales,22042822,1898-01-01,1954-12-22
 878,111814,"North West Champion (Moree, NSW : 1915 - 1954)",New South Wales,22042849,1915-06-08,1954-12-30
 879,143063,The Don Dorrigo Gazette and Guy Fawkes Advocate (NSW : 1910 - 1954),New South Wales,22043322,1910-01-08,1954-12-22
-880,13237,The Inverell Argus (NSW : 1885; 1894; 1899; 1902 - 1904; 1910; 1914; 1921-1922; 1924),New South Wales,22043004,1899-01-06,1904-12-31
+880,13416,The Inverell Argus (NSW : 1885; 1894; 1899; 1902 - 1904; 1910; 1914; 1921-1922; 1924),New South Wales,22043004,1899-01-06,1922-10-06
 881,195950,"The Macleay Chronicle (Kempsey, NSW : 1899 - 1952)",New South Wales,22043047,1899-01-05,1952-07-30
 882,22258,Tingha Advocate and North-Western Journal (NSW : 1916 - 1932),New South Wales,22043063,1916-01-07,1932-06-24
 883,17500,The Uralla Times and District Advocate (NSW : 1915 - 1923),New South Wales,2204308X,1915-01-02,1923-07-26
@@ -1685,4 +1685,8 @@ title_id,total,title,state,issn,start_date,end_date
 1771,23520,The Tarrangower Times and Maldon Advertiser (Vic. : 1894 - 1900),Victoria,NDP00272,1894-08-08,1900-12-29
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
+1775,798,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1931)",New South Wales,NDP00232,1930-10-15,1931-11-11
 1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22
+1782,262,The Tingha Spectator and North Western Journal (NSW : 1913),New South Wales,NDP00281,1913-01-10,1913-12-05
+1783,657,The Tingha Miner and North Western Advocate (NSW: 1906; 1908),New South Wales,NDP00282,1906-03-03,1908-06-20
+1784,392,Boggy Camp Tingha and Bora Creek (NSW : 1899),New South Wales,NDP00283,1899-08-19,1899-11-18
