@@ -266,7 +266,7 @@ title_id,total,title,state,issn,start_date,end_date
 272,17139,Launceston Advertiser (Tas. : 1829 - 1846),Tasmania,18397166,1829-02-09,1846-12-31
 273,193,"Tasmanian and Port Dalrymple Advertiser (Launceston, Tas. : 1825)",Tasmania,18397174,1825-01-05,1825-05-18
 274,108047,"The Charleville Times (Brisbane, Qld. : 1896 - 1954)",Queensland,18397824,1896-05-16,1954-12-30
-275,3249105,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1955-08-31
+275,3268967,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1955-12-31
 276,733101,"Border Watch (Mount Gambier, SA : 1861 - 1954)",South Australia,13295195,1861-04-26,1954-12-30
 277,3155,Adelaider Deutsche Zeitung (SA : 1851 - 1862),South Australia,1839812X,1851-04-02,1862-12-26
 278,20996,"Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)",South Australia,18398197,1860-12-15,1874-12-29
@@ -1665,15 +1665,17 @@ title_id,total,title,state,issn,start_date,end_date
 1747,180509,"Saturday Evening Express (Launceston, Tas. : 1924 - 1954)",Tasmania,NDP00247,1924-02-02,1954-12-18
 1748,19231,The Cronulla-Sutherland Advocate (NSW : 1927 - 1939),New South Wales,NDP00249,1927-01-06,1939-08-10
 1749,43721,"The Observer (Cronulla, NSW : 1939 - 1954)",New South Wales,NDP00250,1939-08-11,1954-12-23
+1751,1678,,,,,
 1752,819,Perth Daily Telegraph (WA : 1922),Western Australia,NDP00253,1922-09-08,1922-09-23
 1753,796,"Sports News (Perth, WA : 1953) ",Western Australia,NDP00254,1953-04-25,1953-06-20
 1754,110,"Social Wealth  (Perth, WA : 1934)",Western Australia,NDP00255,1934-01-01,1934-10-01
-1755,64,,,,,
+1755,64,"The Sruss-Sruss (Crawley, WA : 1931 - 1932)",Western Australia,NDP00256,1931-01-01,1931-01-01
 1756,235,"Suburban Life (Perth, WA : 1939)",Western Australia,NDP00257,1939-08-10,1939-08-31
 1757,1170,Victoria Park News (WA : 1949 - 1950) ,Western Australia,NDP00258,1949-08-25,1950-03-31
 1758,1187,"W.A. Shipping and Commercial News (Fremantle, WA  : 1922 - 1923)",Western Australia,NDP00259,1922-06-02,1922-12-18
 1759,1273,"WA Amateur Sports Gazette (Perth, WA : 1931 - 1932)",Western Australia,NDP00260,1931-07-03,1932-07-22
-1760,54349,"Dalgety's Review (Perth, WA : 1926 - 1948)",Western Australia,NDP00261,1926-09-16,1948-05-27
+1760,65171,"Dalgety's Review (Perth, WA : 1926 - 1948)",Western Australia,NDP00261,1926-09-16,1948-05-27
+1761,1815,,,,,
 1762,14698,Kyneton Guardian and Woodend and Malmsbury Chronicle (Vic. : 1863 - 1870),Victoria,NDP00263,1863-01-03,1870-11-12
 1763,4344,"The Ballan Times and Gordon, Egerton, Wallace, Millbrook and Blackwood Advertiser (Vic. : 1890 - 1893)",Victoria,NDP00264,1890-05-03,1893-08-18
 1764,2687,"The Ballan Times and Blackwood, Blakeville and Myrniong Standard (Vic. : 1893 - 1895)",Victoria,NDP00265,1893-08-24,1895-01-31
@@ -1686,11 +1688,15 @@ title_id,total,title,state,issn,start_date,end_date
 1771,23520,The Tarrangower Times and Maldon Advertiser (Vic. : 1894 - 1900),Victoria,NDP00272,1894-08-08,1900-12-29
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
+1775,3951,,,,,
 1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22
 1780,32,Inverell Business Guide (NSW : 1938),New South Wales,NDP00280,1938-04-22,1938-08-05
 1781,798,"The Bundarra Times (Uralla, NSW : 1930-1931)",New South Wales,NDP00279,1930-10-15,1931-11-11
 1782,262,The Tingha Spectator and North Western Journal (NSW : 1913),New South Wales,NDP00281,1913-01-10,1913-12-05
 1783,657,The Tingha Miner and North Western Advocate (NSW: 1906; 1908),New South Wales,NDP00282,1906-03-03,1908-06-20
 1784,392,Boggy Camp Tingha and Bora Creek (NSW : 1899),New South Wales,NDP00283,1899-08-19,1899-11-18
-1797,1557,"The Manning River News and Advocate for the Northern Coast Districts of New South Wales (Tinonee, NSW : 1865 - 1873)",New South Wales,NDP00297,1873-04-12,1873-12-13
-1800,5785,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1913-01-10,1922-12-15
+1789,7366,,,,,
+1795,4042,,,,,
+1797,14909,"The Manning River News and Advocate for the Northern Coast Districts of New South Wales (Tinonee, NSW : 1865 - 1873)",New South Wales,NDP00297,1865-04-15,1873-12-13
+1799,21042,,,,,
+1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
