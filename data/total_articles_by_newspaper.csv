@@ -861,7 +861,7 @@ title_id,total,title,state,issn,start_date,end_date
 873,1151,"Free Lance (Melbourne, Vic. : 1896)",Victoria,2203823X,1896-04-23,1896-10-17
 874,99215,Melbourne Punch (Vic. : 1855 - 1900),Victoria,22038256,1855-08-02,1900-05-03
 875,744378,"Sporting Globe (Melbourne, Vic. : 1922 - 1954)",Victoria,22037470,1922-07-22,1954-12-29
-876,15356,Bundarra and Tingha Advocate (NSW : 1900 - 1929),New South Wales,22042741,1900-12-08,1906-12-29
+876,18047,Bundarra and Tingha Advocate (NSW : 1900 - 1929),New South Wales,22042741,1900-12-08,1929-05-30
 877,287390,"The Manning River Times and Advocate for the Northern Coast Districts of New South Wales (Taree, NSW : 1898 - 1954)",New South Wales,22042822,1898-01-01,1954-12-22
 878,111814,"North West Champion (Moree, NSW : 1915 - 1954)",New South Wales,22042849,1915-06-08,1954-12-30
 879,143063,The Don Dorrigo Gazette and Guy Fawkes Advocate (NSW : 1910 - 1954),New South Wales,22043322,1910-01-08,1954-12-22
@@ -1425,7 +1425,7 @@ title_id,total,title,state,issn,start_date,end_date
 1480,11334,"Mosman, Neutral and Middle Harbour Resident (NSW : 1904 - 1907, 1916 - 1919)",New South Wales,22096914,1904-07-30,1919-02-01
 1481,611636,Toowoomba Chronicle and Darling Downs Gazette (Qld. : 1922 - 1933),Queensland,22090835,1922-11-01,1933-12-30
 1482,303980,Toowoomba Chronicle (Qld. : 1917 - 1922),Queensland,22090819,1917-01-02,1922-10-31
-1483,73793,The Elmore Standard (Vic. : 1882 - 1920,Victoria,2209668X,1882-01-06,1912-09-28
+1483,82845,The Elmore Standard (Vic. : 1882 - 1920,Victoria,2209668X,1882-01-06,1914-08-22
 1484,63,"The Egotist (Adelaide, SA : 1839)",South Australia,22099352,1839-05-14,1839-06-25
 1485,41,Port Lincoln Herald (SA : 1839 - 1840),South Australia,22099379,1839-04-10,1840-05-19
 1486,3534,"Tribune (SA edition, published in Sydney : 1951 - 1964)",South Australia,22099220,1959-03-18,1963-06-12
@@ -1587,7 +1587,7 @@ title_id,total,title,state,issn,start_date,end_date
 1655,5207,"Nor'West Times and Northern Advocate (Roebourne, WA : 1891 - 1894)",Western Australia,NDP00156,1891-08-08,1894-10-31
 1656,11346,The Nungarin Standard (WA : 1934 - 1939),Western Australia,NDP00157,1934-05-10,1939-01-26
 1657,52777,The Pemberton Post (WA : 1937 - 1950),Western Australia,NDP00158,1937-10-01,1950-06-01
-1658,52769,"The Preston Mail and District Advocate (Collie, WA : 1932 - 1954)",Western Australia,NDP00160,1932-03-19,1946-06-29
+1658,58355,"The Preston Mail and District Advocate (Collie, WA : 1932 - 1954)",Western Australia,NDP00160,1932-03-19,1953-12-30
 1659,14689,"The Reliance Weekly (Narrogin, WA : 1952 - 1954)",Western Australia,NDP00161,1952-01-10,1954-12-23
 1660,59,"The Southern Cross (Perth, WA : 1893)",Western Australia,NDP00162,1893-01-04,1893-01-11
 1661,85249,The Southern Cross News (WA : 1935 - 1957),Western Australia,NDP00163,1935-11-08,1957-06-27
@@ -1688,17 +1688,23 @@ title_id,total,title,state,issn,start_date,end_date
 1771,23520,The Tarrangower Times and Maldon Advertiser (Vic. : 1894 - 1900),Victoria,NDP00272,1894-08-08,1900-12-29
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
-1775,36734,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1931)",New South Wales,NDP00232,1891-10-23,1927-12-21
+1775,63774,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1931)",New South Wales,NDP00232,1891-10-23,1931-12-23
 1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22
 1780,32,Inverell Business Guide (NSW : 1938),New South Wales,NDP00280,1938-04-22,1938-08-05
 1781,798,"The Bundarra Times (Uralla, NSW : 1930-1931)",New South Wales,NDP00279,1930-10-15,1931-11-11
 1782,262,The Tingha Spectator and North Western Journal (NSW : 1913),New South Wales,NDP00281,1913-01-10,1913-12-05
 1783,657,The Tingha Miner and North Western Advocate (NSW: 1906; 1908),New South Wales,NDP00282,1906-03-03,1908-06-20
 1784,392,Boggy Camp Tingha and Bora Creek (NSW : 1899),New South Wales,NDP00283,1899-08-19,1899-11-18
-1785,2685,"Baileys Sporting and Dramatic Weekly (Perth, WA : 1931 - 1933)",Western Australia,NDP00284,1931-05-02,1931-12-26
-1789,20439,"The Farmers' Weekly (Perth, WA : 1947 - 1955)",Western Australia,NDP00288,1951-01-04,1953-12-31
-1790,7610,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1946)",Western Australia,NDP00289,1942-05-21,1944-08-10
+1785,3439,"Baileys Sporting and Dramatic Weekly (Perth, WA : 1931 - 1933)",Western Australia,NDP00284,1931-05-02,1933-02-25
+1786,1718,"Baileys Weekly (Perth, WA : 1933 - 1934)",Western Australia,NDP00285,1934-01-04,1934-05-10
+1788,22514,"The Guardian (Perth, WA : 1937 - 1957)",Western Australia,NDP00287,1939-07-14,1954-12-18
+1789,43729,"The Farmers' Weekly (Perth, WA : 1947 - 1955)",Western Australia,NDP00288,1947-07-17,1954-12-30
+1790,12900,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1946)",Western Australia,NDP00289,1942-05-21,1946-04-25
+1792,269,,,,,
+1793,5138,"The Weekly Guardian (Subiaco, WA : 1933 - 1934)",Western Australia,NDP00292,1933-04-29,1934-12-21
 1795,4042,"The W.A. Family Sphere (Perth, WA : 1919 - 1920)",Western Australia,NDP00294,1919-08-15,1920-12-31
+1796,669,,,,,
 1797,14909,"The Manning River News and Advocate for the Northern Coast Districts of New South Wales (Tinonee, NSW : 1865 - 1873)",New South Wales,NDP00297,1865-04-15,1873-12-13
+1798,206,"W.A. Sporting Record and Dramatic Review (Perth, WA : 1932)",Western Australia,NDP00296,1932-06-29,1932-07-21
 1799,35096,Coonabarabran Times (NSW : 1950-1954),New South Wales,NDP00298,1950-03-16,1954-12-30
 1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
