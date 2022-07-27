@@ -1,5 +1,4 @@
 *.pyc
-*.ipynb
+Untitled*.ipynb
 .ipynb_checkpoints
-requirements-dev.*
 .env
