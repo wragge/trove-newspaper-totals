@@ -2,6 +2,8 @@
 
 [![Frictionless](https://github.com/wragge/trove-newspaper-totals/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=wragge&repo=trove-newspaper-totals&flow=frictionless)
 
+**View a summary of the harvested data in the [Trove Newspapers Data Dashboard](https://wragge.github.io/trove-newspaper-totals/).**
+
 This repository contains an automated git scraper that uses the [Trove API](https://troveconsole.herokuapp.com/) to save information about the number of digitised newspaper articles currently available through [Trove](https://trove.nla.gov.au/). It runs every week and updates two datasets:
 
 * [total_articles_by_year.csv](data/total_articles_by_year.csv)
@@ -64,7 +66,7 @@ The dataset is saved as a CSV file containing the following columns:
 
 ## Method
 
-The harvesting code is available in `get_article_totals.py`. It uses facets to fetch the number of articles available fromS Trove. For more information and examples see [Visualise the total number of newspaper articles in Trove by year and state](https://glam-workbench.net/trove-newspapers/#visualise-the-total-number-of-newspaper-articles-in-trove-by-year-and-state) in the GLAM Workbench.
+The harvesting code is available in `get_article_totals.py`. It uses facets to fetch the number of articles available from Trove. For more information and examples see [Visualise the total number of newspaper articles in Trove by year and state](https://glam-workbench.net/trove-newspapers/#visualise-the-total-number-of-newspaper-articles-in-trove-by-year-and-state) in the GLAM Workbench.
 
 ## More datasets
 
