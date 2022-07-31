@@ -185,7 +185,7 @@ title_id,total,title,state,issn,start_date,end_date
 189,63017,"The Star (Ballarat, Vic. : 1855 - 1864)",Victoria,18389856,1855-09-22,1864-12-31
 190,159,Windsor Express and Richmond Advertiser (NSW : 1843 - 1844),New South Wales,18389384,1843-05-17,1844-05-09
 191,284473,"Worker (Brisbane, Qld. : 1890 - 1955)",Queensland,00438065,1890-03-01,1955-12-26
-192,228074,Windsor and Richmond Gazette (NSW : 1888 - 1965),New South Wales,08121885,1888-07-21,1961-05-03
+192,253359,Windsor and Richmond Gazette (NSW : 1888 - 1965),New South Wales,08121885,1888-07-21,1965-12-22
 193,152694,Williamstown Chronicle (Vic. : 1856 - 1954),Victoria,18387144,1856-09-13,1954-12-23
 194,24474,"The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)",Victoria,18384773,1888-02-18,1902-01-04
 195,30949,Kerang Times and Swan Hill Gazette (Vic. : 1877 - 1889),Victoria,18384838,1877-09-14,1894-11-09
@@ -361,7 +361,7 @@ title_id,total,title,state,issn,start_date,end_date
 367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
-370,145571,Port Lincoln Times (SA : 1927 - 1954),South Australia,13215272,1927-08-05,1954-12-23
+370,145571,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,1954-12-23
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -1064,7 +1064,7 @@ title_id,total,title,state,issn,start_date,end_date
 1076,708,"Deloraine - Westbury Advocate (Ulverstone, Tas. : 1893 - 1894)",Tasmania,22052690,1893-10-07,1894-07-07
 1077,7051,"The Coastal News and North Western Advertiser (Ulverstone, Tas. : 1890 - 1893)",Tasmania,22052593,1890-09-20,1893-12-29
 1078,175619,"King Island News (Currie, King Island : 1912 - 1986",Tasmania,22052569,1912-08-09,1986-08-13
-1079,87409,"The Blackwood Times (Greenbushes, WA : 1905 - 1955)",Western Australia,22051767,1905-05-03,1955-02-25
+1079,93432,"The Blackwood Times (Greenbushes, WA : 1905 - 1955)",Western Australia,22051767,1905-05-03,1955-02-25
 1080,17905,"The Australian (Perth, WA : 1917 - 1923)",Western Australia,22051783,1917-08-29,1923-04-20
 1081,22969,The Narrogin Observer and Williams District Representative (WA : 1905 - 1930),Western Australia,22051813,1905-08-26,1918-12-28
 1082,126910,The Narrogin Observer (WA : 1918 - 1955),Western Australia,22051821,1919-01-04,1955-04-28
@@ -1699,8 +1699,9 @@ title_id,total,title,state,issn,start_date,end_date
 1786,5602,"Baileys Weekly (Perth, WA : 1933 - 1934)",Western Australia,NDP00285,1933-03-04,1934-05-10
 1787,3496,"The Daily Guardian (Perth, WA : 1937)",Western Australia,NDP00286,1937-08-04,1937-09-04
 1788,41908,"The Guardian (Perth, WA : 1937 - 1957)",Western Australia,NDP00287,1939-07-14,1954-12-18
-1789,43729,"The Farmers' Weekly (Perth, WA : 1947 - 1955)",Western Australia,NDP00288,1947-07-17,1954-12-30
-1790,39781,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1946)",Western Australia,NDP00289,1935-02-22,1946-04-25
+1789,47818,"The Farmers' Weekly (Perth, WA : 1947 - 1955)",Western Australia,NDP00288,1947-07-17,1954-12-30
+1790,50992,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1946)",Western Australia,NDP00289,1931-05-01,1946-04-25
+1791,322,,,,,
 1792,269,"The Elswood Observer (Cottesloe, WA : 1931)",Western Australia,NDP00291,1931-06-18,1931-08-06
 1793,5138,"The Weekly Guardian (Subiaco, WA : 1933 - 1934)",Western Australia,NDP00292,1933-04-29,1934-12-21
 1795,4042,"The W.A. Family Sphere (Perth, WA : 1919 - 1920)",Western Australia,NDP00294,1919-08-15,1920-12-31
