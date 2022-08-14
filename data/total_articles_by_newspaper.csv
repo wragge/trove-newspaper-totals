@@ -1064,7 +1064,7 @@ title_id,total,title,state,issn,start_date,end_date
 1076,708,"Deloraine - Westbury Advocate (Ulverstone, Tas. : 1893 - 1894)",Tasmania,22052690,1893-10-07,1894-07-07
 1077,7051,"The Coastal News and North Western Advertiser (Ulverstone, Tas. : 1890 - 1893)",Tasmania,22052593,1890-09-20,1893-12-29
 1078,175619,"King Island News (Currie, King Island : 1912 - 1986",Tasmania,22052569,1912-08-09,1986-08-13
-1079,119641,"The Blackwood Times (Greenbushes, WA : 1905 - 1955)",Western Australia,22051767,1905-05-03,1955-02-25
+1079,148388,"The Blackwood Times (Greenbushes, WA : 1905 - 1955)",Western Australia,22051767,1905-05-03,1955-02-25
 1080,17905,"The Australian (Perth, WA : 1917 - 1923)",Western Australia,22051783,1917-08-29,1923-04-20
 1081,22969,The Narrogin Observer and Williams District Representative (WA : 1905 - 1930),Western Australia,22051813,1905-08-26,1918-12-28
 1082,126910,The Narrogin Observer (WA : 1918 - 1955),Western Australia,22051821,1919-01-04,1955-04-28
@@ -1076,7 +1076,7 @@ title_id,total,title,state,issn,start_date,end_date
 1088,27029,The Leonora Miner (WA : 1910 - 1928),Western Australia,22052267,1910-03-19,1928-11-03
 1089,30622,The Pingelly Leader (WA : 1906 - 1925),Western Australia,22052321,1906-08-03,1925-10-01
 1090,71152,Pingelly-Brookton Leader (WA : 1925 - 1954),Western Australia,2205250X,1925-10-08,1954-12-22
-1091,204092,"The Sun (Kalgoorlie, WA : 1898 - 1929)",Western Australia,22052526,1898-10-16,1929-10-13
+1091,207137,"The Sun (Kalgoorlie, WA : 1898 - 1929)",Western Australia,22052526,1898-10-16,1929-10-13
 1092,21838,The Adelaide Express (SA : 1863 - 1866),South Australia,22053093,1863-12-02,1866-12-29
 1093,1348238,"The Express and Telegraph (Adelaide, SA : 1867 - 1922)",South Australia,22053115,1867-01-02,1922-11-03
 1094,23140,"The Express (Adelaide, SA : 1922 - 1923)",South Australia,22053131,1922-11-06,1923-07-23
@@ -1690,6 +1690,7 @@ title_id,total,title,state,issn,start_date,end_date
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
 1775,63774,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1954)",New South Wales,NDP00232,1891-10-23,1931-12-23
 1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22
+1779,1028,,,,,
 1780,32,Inverell Business Guide (NSW : 1938),New South Wales,NDP00280,1938-04-22,1938-08-05
 1781,798,"The Bundarra Times (Uralla, NSW : 1930-1931)",New South Wales,NDP00279,1930-10-15,1931-11-11
 1782,262,The Tingha Spectator and North Western Journal (NSW : 1913),New South Wales,NDP00281,1913-01-10,1913-12-05
@@ -1698,7 +1699,7 @@ title_id,total,title,state,issn,start_date,end_date
 1785,8282,"Baileys Sporting and Dramatic Weekly (Perth, WA : 1931 - 1933)",Western Australia,NDP00284,1931-05-02,1933-02-25
 1786,5602,"Baileys Weekly (Perth, WA : 1933 - 1934)",Western Australia,NDP00285,1933-03-04,1934-05-10
 1787,3496,"The Daily Guardian (Perth, WA : 1937)",Western Australia,NDP00286,1937-08-04,1937-09-04
-1788,41908,"The Guardian (Perth, WA : 1937 - 1957)",Western Australia,NDP00287,1939-07-14,1954-12-18
+1788,42893,"The Guardian (Perth, WA : 1937 - 1957)",Western Australia,NDP00287,1938-01-01,1954-12-18
 1789,47818,"The Farmers' Weekly (Perth, WA : 1947 - 1955)",Western Australia,NDP00288,1947-07-17,1954-12-30
 1790,56960,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1946)",Western Australia,NDP00289,1931-05-01,1946-04-25
 1791,322,"The Western Suburban News (Subiaco, WA : 1913)",Western Australia,NDP00290,1913-08-29,1913-12-12
@@ -1712,3 +1713,4 @@ title_id,total,title,state,issn,start_date,end_date
 1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
 1805,145,The Maylands & Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
+1807,10897,,,,,
