@@ -1689,7 +1689,8 @@ title_id,total,title,state,issn,start_date,end_date
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
 1775,63774,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1954)",New South Wales,NDP00232,1891-10-23,1931-12-23
-1776,3664,"The Jewish Post (Melbourne, Vic. : 1949 - 1966)",Victoria,NDP00276,1955-01-07,1955-12-30
+1776,39849,"The Jewish Post (Melbourne, Vic. : 1949 - 1966)",Victoria,NDP00276,1950-01-05,1966-05-06
+1777,1403,,,,,
 1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22
 1779,1901,"Australian Jewish Forum (Crows Nest, NSW. : 1941 - 1949)",New South Wales,NDP00278,1941-02-01,1949-05-01
 1780,32,Inverell Business Guide (NSW : 1938),New South Wales,NDP00280,1938-04-22,1938-08-05
@@ -1700,18 +1701,25 @@ title_id,total,title,state,issn,start_date,end_date
 1785,8282,"Baileys Sporting and Dramatic Weekly (Perth, WA : 1931 - 1933)",Western Australia,NDP00284,1931-05-02,1933-02-25
 1786,5602,"Baileys Weekly (Perth, WA : 1933 - 1934)",Western Australia,NDP00285,1933-03-04,1934-05-10
 1787,3496,"The Daily Guardian (Perth, WA : 1937)",Western Australia,NDP00286,1937-08-04,1937-09-04
-1788,42893,"The Guardian (Perth, WA : 1937 - 1957)",Western Australia,NDP00287,1938-01-01,1954-12-18
+1788,48793,"The Guardian (Perth, WA : 1937 - 1957)",Western Australia,NDP00287,1937-09-11,1954-12-18
 1789,47818,"The Farmers' Weekly (Perth, WA : 1947 - 1955)",Western Australia,NDP00288,1947-07-17,1954-12-30
 1790,56960,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1946)",Western Australia,NDP00289,1931-05-01,1946-04-25
 1791,322,"The Western Suburban News (Subiaco, WA : 1913)",Western Australia,NDP00290,1913-08-29,1913-12-12
 1792,269,"The Elswood Observer (Cottesloe, WA : 1931)",Western Australia,NDP00291,1931-06-18,1931-08-06
 1793,5138,"The Weekly Guardian (Subiaco, WA : 1933 - 1934)",Western Australia,NDP00292,1933-04-29,1934-12-21
+1794,435,,,,,
 1795,4042,"The W.A. Family Sphere (Perth, WA : 1919 - 1920)",Western Australia,NDP00294,1919-08-15,1920-12-31
 1796,669,"The W.A. Freeman's Journal (Irish-Australian Press) (Perth, WA : 1902)",Western Australia,NDP00295,1902-05-10,1902-09-06
 1797,14909,"The Manning River News and Advocate for the Northern Coast Districts of New South Wales (Tinonee, NSW : 1865 - 1873)",New South Wales,NDP00297,1865-04-15,1873-12-13
 1798,206,"W.A. Sporting Record and Dramatic Review (Perth, WA : 1932)",Western Australia,NDP00296,1932-06-29,1932-07-21
 1799,35096,Coonabarabran Times (NSW : 1950-1954),New South Wales,NDP00298,1950-03-16,1954-12-30
 1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
+1801,15817,,,,,
+1802,5577,,,,,
 1805,145,The Maylands & Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
-1807,10897,"The Groper (Perth, WA : 1930 - 1937)",Western Australia,NDP00306,1930-10-04,1935-12-21
+1807,18983,"The Groper (Perth, WA : 1930 - 1937)",Western Australia,NDP00306,1930-10-04,1937-07-31
+1808,7675,,,,,
+1809,1586,,,,,
+1810,621,,,,,
+1817,2655,,,,,
