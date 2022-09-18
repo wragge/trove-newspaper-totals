@@ -259,11 +259,11 @@ National,1960,11104
 National,1961,10839
 National,1962,10551
 National,1963,9997
-National,1964,8825
+National,1964,10178
 National,1965,10160
 National,1966,10050
 National,1967,9718
-National,1968,9463
+National,1968,11020
 National,1969,11058
 National,1970,10790
 National,1971,10184
@@ -279,7 +279,7 @@ National,1980,10850
 National,1981,11188
 National,1982,10004
 National,1983,2649
-National,1984,719
+National,1984,2565
 National,1985,741
 National,1986,916
 National,1987,798
@@ -288,9 +288,9 @@ National,1989,869
 National,1990,833
 National,1991,618
 National,1992,633
-National,1993,681
+National,1993,2228
 National,1994,656
-National,1995,728
+National,1995,2664
 National,1996,686
 National,1997,724
 National,1998,898
@@ -301,11 +301,11 @@ National,2002,1902
 National,2003,1767
 National,2004,1751
 National,2005,1688
-National,2006,1390
+National,2006,3352
 National,2007,1463
 National,2008,1455
-National,2009,1535
-National,2010,1657
+National,2009,3588
+National,2010,3857
 National,2011,1741
 National,2012,1510
 National,2013,1453
@@ -901,14 +901,14 @@ South Australia,1952,251222
 South Australia,1953,271802
 South Australia,1954,281563
 South Australia,1955,16272
-South Australia,1956,6491
-South Australia,1957,6433
+South Australia,1956,13273
+South Australia,1957,13160
 South Australia,1958,13575
 South Australia,1959,14821
 South Australia,1960,16563
-South Australia,1961,13186
-South Australia,1962,5668
-South Australia,1963,4922
+South Australia,1961,16307
+South Australia,1962,14690
+South Australia,1963,9218
 South Australia,1964,10252
 South Australia,1965,14357
 South Australia,1966,4787
@@ -937,7 +937,7 @@ South Australia,1988,12044
 South Australia,1989,11985
 South Australia,1990,11460
 South Australia,1991,11594
-South Australia,1992,16640
+South Australia,1992,26250
 South Australia,1993,12973
 South Australia,1994,12952
 South Australia,1995,11334
@@ -962,7 +962,7 @@ Tasmania,1823,199
 Tasmania,1824,434
 Tasmania,1825,1209
 Tasmania,1826,1338
-Tasmania,1827,1337
+Tasmania,1827,1412
 Tasmania,1828,2280
 Tasmania,1829,2430
 Tasmania,1830,3271
@@ -1186,7 +1186,7 @@ Victoria,1880,195186
 Victoria,1881,202471
 Victoria,1882,264651
 Victoria,1883,272137
-Victoria,1884,279481
+Victoria,1884,280467
 Victoria,1885,261114
 Victoria,1886,289010
 Victoria,1887,325096

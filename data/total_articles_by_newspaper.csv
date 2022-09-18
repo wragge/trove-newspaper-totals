@@ -18,7 +18,7 @@ title_id,total,title,state,issn,start_date,end_date
 20,1411,The Hobart Town Courier and Van Diemen's Land Gazette (Tas. : 1839 - 1840),Tasmania,18354750,1839-07-05,1840-10-02
 21,61961,"The Courier (Hobart, Tas. : 1840 - 1859)",Tasmania,18354769,1840-10-06,1859-05-31
 22,5603,The Hobart Town Gazette (Tas. : 1825 - 1833),Tasmania,18354777,1825-06-25,1833-02-22
-23,1196,"Colonial Times and Tasmanian Advertiser (Hobart, Tas. : 1825 - 1827)",Tasmania,18354718,1825-08-19,1827-10-12
+23,1271,"Colonial Times and Tasmanian Advertiser (Hobart, Tas. : 1825 - 1827)",Tasmania,18354718,1825-08-19,1827-12-28
 24,47942,"Colonial Times (Hobart, Tas. : 1828 - 1857)",Tasmania,18354734,1828-01-04,1857-08-22
 25,156350,"Northern Standard (Darwin, NT : 1921 - 1955)",Northern Territory,18355323,1921-02-19,1955-02-10
 26,13599,The Perth Gazette and Independent Journal of Politics and News (WA : 1848 - 1864),Western Australia,18355811,1848-01-01,1864-09-30
@@ -237,7 +237,7 @@ title_id,total,title,state,issn,start_date,end_date
 243,27942,"The Lilydale Express and Yarra Glen, Wandin Yallock, Upper Yarra, Healesville and Ringwood Chronicle (Vic. : 1898 - 1914)",Victoria,1839101X,1898-01-07,1914-06-19
 244,72673,"The Reporter (Box Hill, Vic. : 1889 - 1925)",Victoria,1839096X,1889-06-26,1925-03-27
 245,54235,Brighton Southern Cross (Vic. : 1896 - 1918),Victoria,18390943,1896-01-04,1918-12-21
-246,122970,The Bacchus Marsh Express (Vic. : 1866 - 1943),Victoria,18390951,1866-07-21,1943-08-21
+246,123956,The Bacchus Marsh Express (Vic. : 1866 - 1943),Victoria,18390951,1866-07-21,1943-08-21
 247,167067,The Prahran Telegraph (Vic. : 1889 - 1930),Victoria,18391028,1889-01-05,1930-08-30
 248,181468,"Record (Emerald Hill, Vic. : 1881 - 1954)",Victoria,18389694,1881-04-01,1954-12-22
 249,18113,The Casterton News and the Merino and Sandford Record (Vic. : 1914 - 1918),Victoria,18389198,1914-01-05,1918-12-30
@@ -361,7 +361,7 @@ title_id,total,title,state,issn,start_date,end_date
 367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
-370,201961,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,1992-04-30
+370,241519,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,1992-12-30
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -861,7 +861,7 @@ title_id,total,title,state,issn,start_date,end_date
 873,1151,"Free Lance (Melbourne, Vic. : 1896)",Victoria,2203823X,1896-04-23,1896-10-17
 874,99215,Melbourne Punch (Vic. : 1855 - 1900),Victoria,22038256,1855-08-02,1900-05-03
 875,744378,"Sporting Globe (Melbourne, Vic. : 1922 - 1954)",Victoria,22037470,1922-07-22,1954-12-29
-876,18047,Bundarra and Tingha Advocate (NSW : 1900 - 1929),New South Wales,22042741,1900-12-08,1929-05-30
+876,18047,Bundarra and Tingha Advocate (NSW : 1900 - 1907; 1910 - 1911; 1915 - 1916; 1918 - 1924; 1926 - 1929),New South Wales,22042741,1900-12-08,1929-05-30
 877,287390,"The Manning River Times and Advocate for the Northern Coast Districts of New South Wales (Taree, NSW : 1898 - 1954)",New South Wales,22042822,1898-01-01,1954-12-22
 878,111814,"North West Champion (Moree, NSW : 1915 - 1954)",New South Wales,22042849,1915-06-08,1954-12-30
 879,143063,The Don Dorrigo Gazette and Guy Fawkes Advocate (NSW : 1910 - 1954),New South Wales,22043322,1910-01-08,1954-12-22
@@ -1714,8 +1714,8 @@ title_id,total,title,state,issn,start_date,end_date
 1798,206,"W.A. Sporting Record and Dramatic Review (Perth, WA : 1932)",Western Australia,NDP00296,1932-06-29,1932-07-21
 1799,35096,Coonabarabran Times (NSW : 1950-1954),New South Wales,NDP00298,1950-03-16,1954-12-30
 1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
-1801,31937,Australian Army (National : 1959 -1980),National,NDP00300,1959-09-10,1980-09-25
-1802,6097,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,1983-12-15
+1801,34847,Australian Army (National : 1959 -1980),National,NDP00300,1959-09-10,1980-09-25
+1802,17641,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,2010-12-09
 1805,145,The Maylands & Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
 1807,18983,"The Groper (Perth, WA : 1930 - 1937)",Western Australia,NDP00306,1930-10-04,1937-07-31
