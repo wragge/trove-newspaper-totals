@@ -155,7 +155,7 @@ title_id,total,title,state,issn,start_date,end_date
 159,3564,Deloraine and Westbury Advertiser (Tas. : 1910 - 1912),Tasmania,18383750,1910-11-05,1912-10-26
 160,2712,"The Observer (Hobart, Tas. : 1845 - 1846)",Tasmania,18383777,1845-06-05,1846-03-31
 161,668,"The Australian Band of Hope Review, and Children's Friend (Sydney, NSW : 1856)",New South Wales,18388442,1856-01-05,1856-12-20
-162,471,"Australian Band of Hope Journal (Sydney, NSW : 1857 - 1857)",New South Wales,18388450,1857-01-03,1857-12-19
+162,471,"Australian Band of Hope Journal (Sydney, NSW : 1857)",New South Wales,18388450,1857-01-03,1857-12-19
 163,482,"The Band of Hope Journal and Australian Home Companion (Sydney, NSW : 1858)",New South Wales,18388469,1858-01-02,1858-12-18
 164,1670,"The Australian Home Companion and Band of Hope Journal (Sydney, NSW : 1859 - 1861)",New South Wales,18388477,1859-01-01,1861-08-24
 165,57,Canberra Illustrated: A Quarterly Magazine (ACT : 1925),ACT,18388663,1925-11-01,1925-11-01
@@ -195,7 +195,7 @@ title_id,total,title,state,issn,start_date,end_date
 199,32,"The Elsternwick Leader (Brighton, Vic. : 1888)",Victoria,18384765,1888-02-11,1888-02-11
 200,47,"The Elsternwick Leader and Caulfield and Balaclava Guardian (Brighton, Vic. : 1887)",Victoria,18384749,1887-07-23,1887-07-30
 201,17,"Elsternwick Leader and East Brighton, ... (Vic. : 1887)",Victoria,18384730,1887-07-16,1887-07-16
-202,12226,The Sunbury News (Vic. : 1900 - 1927),Victoria,18384862,1900-07-07,1910-12-24
+202,12226,The Sunbury News (Vic. : 1900 - 1910,Victoria,18384862,1900-07-07,1910-12-24
 203,7915,The Sunbury News and Bulla and Melton Advertiser (Vic. : 1892 - 1900),Victoria,18384854,1892-11-26,1900-06-30
 204,141634,Wodonga and Towong Sentinel (Vic. : 1885 - 1954),Victoria,18387705,1885-09-05,1954-12-24
 205,38293,Mornington Standard (Vic. : 1889 - 1908),Victoria,18384781,1889-10-05,1908-07-04
@@ -361,7 +361,7 @@ title_id,total,title,state,issn,start_date,end_date
 367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
-370,241519,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,1992-12-30
+370,263567,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,1995-06-29
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -1715,7 +1715,8 @@ title_id,total,title,state,issn,start_date,end_date
 1799,35096,Coonabarabran Times (NSW : 1950-1954),New South Wales,NDP00298,1950-03-16,1954-12-30
 1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
 1801,34847,Australian Army (National : 1959 -1980),National,NDP00300,1959-09-10,1980-09-25
-1802,17641,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,2010-12-09
+1802,37734,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,2010-12-09
+1804,8363,Royal Australian Navy News (National : 1958 - 2021),National,NDP00303,1982-01-29,2006-12-14
 1805,145,The Maylands & Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
 1807,18983,"The Groper (Perth, WA : 1930 - 1937)",Western Australia,NDP00306,1930-10-04,1937-07-31
