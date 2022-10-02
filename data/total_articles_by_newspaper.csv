@@ -361,7 +361,7 @@ title_id,total,title,state,issn,start_date,end_date
 367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
-370,263567,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,1995-06-29
+370,270234,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,1995-12-28
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -1509,8 +1509,8 @@ title_id,total,title,state,issn,start_date,end_date
 1574,254,"Progress (North Fitzroy, Vic. : 1889 - 1890)",Victoria,NDP00074,1889-10-01,1890-08-01
 1575,17871,Box Hill Reporter (Vic. : 1925 - 1930),Victoria,NDP00075,1925-04-03,1930-12-26
 1576,339,"Die Deutsche Post für die Australischen Colonien = The German Australian Post (Adelaide, SA : 1848 - 1851)",South Australia,NDP00076,1848-07-20,1850-09-12
-1577,14,"Deutsche Zeitung für Sud-Australien = German Times for South Australia (Tanunda, SA : 1851)",South Australia,NDP00077,1851-03-14,1851-03-21
-1578,142646,"The Catholic Advocate (Brisbane, Qld. : 1911 - 1934; 1936 - 1938)",Queensland,NDP00078,1911-06-17,1938-03-31
+1577,14,"Deutsche Zeitung fur Sud-Australien = German Times for South Australia (Tanunda, SA : 1851)",South Australia,NDP00077,1851-03-14,1851-03-21
+1578,146559,"The Catholic Advocate (Brisbane, Qld. : 1911 - 1934; 1936 - 1938)",Queensland,NDP00078,1911-06-17,1938-03-31
 1579,1432,The Mildura and Merbein Sun (Vic. : 1921),Victoria,NDP00079,1921-01-08,1921-10-29
 1580,1419,The Merbein Irrigationist and Murray Valley Soldiers' Gazette (Vic. : 1919 - 1920),Victoria,NDP00080,1919-11-12,1920-09-29
 1581,521,The Mildura Irrigationist and Murray River Agricultural Times (Vic. : 1888),Victoria,NDP00081,1888-02-08,1888-05-23
@@ -1587,7 +1587,7 @@ title_id,total,title,state,issn,start_date,end_date
 1655,5207,"Nor'West Times and Northern Advocate (Roebourne, WA : 1891 - 1894)",Western Australia,NDP00156,1891-08-08,1894-10-31
 1656,11346,The Nungarin Standard (WA : 1934 - 1939),Western Australia,NDP00157,1934-05-10,1939-01-26
 1657,52777,The Pemberton Post (WA : 1937 - 1950),Western Australia,NDP00158,1937-10-01,1950-06-01
-1658,73745,"The Preston Mail and District Advocate (Collie, WA : 1932 - 1954)",Western Australia,NDP00160,1932-03-19,1953-12-30
+1658,73745,"The Preston Mail and District Advocate (Collie, WA : 1932 - 1953)",Western Australia,NDP00160,1932-03-19,1953-12-30
 1659,14689,"The Reliance Weekly (Narrogin, WA : 1952 - 1954)",Western Australia,NDP00161,1952-01-10,1954-12-23
 1660,59,"The Southern Cross (Perth, WA : 1893)",Western Australia,NDP00162,1893-01-04,1893-01-11
 1661,85249,The Southern Cross News (WA : 1935 - 1957),Western Australia,NDP00163,1935-11-08,1957-06-27
@@ -1685,9 +1685,10 @@ title_id,total,title,state,issn,start_date,end_date
 1768,9004,The Tarrangower Times and Maldon District Advertiser (Vic. : 1858 - 1862),Victoria,NDP00269,1858-06-15,1862-07-18
 1769,23686,The Tarrangower Times and Maldon and Newstead Advertiser (Vic. : 1862 - 1873),Victoria,NDP00270,1862-07-22,1873-06-11
 1770,51332,"The Tarrangower Times and Maldon, Newstead, Baringhup, Laancoorie and Muckleford Advertiser (Vic. : 1873 - 1894)",Victoria,NDP00271,1873-06-14,1894-08-04
-1771,23520,The Tarrangower Times and Maldon Advertiser (Vic. : 1894 - 19110),Victoria,NDP00272,1894-08-08,1900-12-29
+1771,23520,The Tarrangower Times and Maldon Advertiser (Vic. : 1894 - 1911),Victoria,NDP00272,1894-08-08,1900-12-29
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
+1774,2563,"The Australian (Brisbane, Qld. : 1878 - 1889)",Queensland,NDP00275,1878-11-02,1882-12-30
 1775,63774,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1954)",New South Wales,NDP00232,1891-10-23,1931-12-23
 1776,55983,"The Jewish Post (Melbourne, Vic. : 1949 - 1966)",Victoria,NDP00276,1949-01-27,1966-05-06
 1777,5065,"The Australian Jewish Post (St. Kilda, Vic. : 1966 - 1968)",Victoria,NDP00277,1966-05-13,1968-08-02
