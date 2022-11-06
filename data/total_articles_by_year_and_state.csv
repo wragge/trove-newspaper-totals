@@ -284,21 +284,21 @@ National,1985,3636
 National,1986,3626
 National,1987,3731
 National,1988,3617
-National,1989,3668
-National,1990,2147
-National,1991,3526
-National,1992,3508
+National,1989,3794
+National,1990,3691
+National,1991,3794
+National,1992,3788
 National,1993,3808
-National,1994,3707
-National,1995,4074
-National,1996,2671
-National,1997,4411
-National,1998,4779
-National,1999,5591
-National,2000,5619
-National,2001,5993
-National,2002,6752
-National,2003,4063
+National,1994,3969
+National,1995,4283
+National,1996,4211
+National,1997,4591
+National,1998,4960
+National,1999,5774
+National,2000,5788
+National,2001,6160
+National,2002,6800
+National,2003,6340
 National,2004,1751
 National,2005,5586
 National,2006,5180
@@ -306,15 +306,15 @@ National,2007,5671
 National,2008,5601
 National,2009,5352
 National,2010,5597
-National,2011,3526
+National,2011,5865
 National,2012,4790
-National,2013,3295
+National,2013,4907
 National,2014,4945
 National,2015,5032
 National,2016,4665
-National,2017,2512
-National,2018,2236
-National,2019,2061
+National,2017,4184
+National,2018,3506
+National,2019,3314
 New South Wales,1803,526
 New South Wales,1804,619
 New South Wales,1805,430
@@ -415,8 +415,8 @@ New South Wales,1899,868158
 New South Wales,1900,938855
 New South Wales,1901,975468
 New South Wales,1902,1011366
-New South Wales,1903,1010075
-New South Wales,1904,1055762
+New South Wales,1903,1009996
+New South Wales,1904,1055841
 New South Wales,1905,1083482
 New South Wales,1906,1127354
 New South Wales,1907,1183344
@@ -945,8 +945,8 @@ South Australia,1996,22040
 South Australia,1997,23019
 South Australia,1998,24117
 South Australia,1999,24549
-South Australia,2000,11271
-South Australia,2001,0
+South Australia,2000,14806
+South Australia,2001,15667
 South Australia,2002,15969
 Tasmania,1810,5
 Tasmania,1811,0

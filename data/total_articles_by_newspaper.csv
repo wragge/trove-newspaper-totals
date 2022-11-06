@@ -195,7 +195,7 @@ title_id,total,title,state,issn,start_date,end_date
 199,32,"The Elsternwick Leader (Brighton, Vic. : 1888)",Victoria,18384765,1888-02-11,1888-02-11
 200,47,"The Elsternwick Leader and Caulfield and Balaclava Guardian (Brighton, Vic. : 1887)",Victoria,18384749,1887-07-23,1887-07-30
 201,17,"Elsternwick Leader and East Brighton, ... (Vic. : 1887)",Victoria,18384730,1887-07-16,1887-07-16
-202,12226,The Sunbury News (Vic. : 1900 - 1910,Victoria,18384862,1900-07-07,1910-12-24
+202,12226,The Sunbury News (Vic. : 1900 - 1927,Victoria,18384862,1900-07-07,1910-12-24
 203,7915,The Sunbury News and Bulla and Melton Advertiser (Vic. : 1892 - 1900),Victoria,18384854,1892-11-26,1900-06-30
 204,141634,Wodonga and Towong Sentinel (Vic. : 1885 - 1954),Victoria,18387705,1885-09-05,1954-12-24
 205,38293,Mornington Standard (Vic. : 1889 - 1908),Victoria,18384781,1889-10-05,1908-07-04
@@ -361,7 +361,7 @@ title_id,total,title,state,issn,start_date,end_date
 367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
-370,376088,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
+370,395290,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -554,7 +554,7 @@ title_id,total,title,state,issn,start_date,end_date
 562,10288,Gisborne Gazette (Vic. : 1914 - 1918),Victoria,22017771,1914-01-09,1918-12-27
 563,2986,"Glengarry, Toongabbie and Cowwarr Journal and Central Gippsland Reporter (Vic. : 1914)",Victoria,22018093,1914-01-06,1914-12-31
 564,18440,"Gordon, Egerton and Ballan Advertiser (Vic. : 1914 - 1918)",Victoria,22019480,1913-05-23,1918-12-20
-565,120062,"Great Southern Advocate (Korumburra, Vic. : 1889 - 1906, 1914 - 1919, 1921 - 1940)",Victoria,22019022,1889-09-13,1940-12-19
+565,120062,"Great Southern Advocate (Korumburra, Vic. : 1889 - 1906, 1914 - 1940)",Victoria,22019022,1889-09-13,1940-12-19
 566,8145,Grenville Standard (Vic. : 1915 - 1918),Victoria,22019987,1915-01-09,1918-12-21
 567,518019,Hamilton Spectator (Vic. : 1870 - 1918),Victoria,22019545,1870-01-08,1918-12-31
 568,5843,Heyfield Herald (Vic. : 1914 - 1918),Victoria,2201859X,1914-01-08,1918-12-26
@@ -703,7 +703,7 @@ title_id,total,title,state,issn,start_date,end_date
 714,272491,The Mount Barker Courier and Onkaparinga and Gumeracha Advertiser (SA : 1880 - 1954),South Australia,22029133,1880-10-01,1954-12-22
 715,337678,The Narracoorte Herald (SA : 1875 - 1954),South Australia,22029036,1875-12-14,1954-12-23
 716,97338,The Yackandandah Times (Vic. : 1890 - 1931),Victoria,22030646,1890-08-16,1931-05-29
-717,194395,Benalla Standard (Vic. : 1901 - 1931),Victoria,22030549,1901-01-04,1931-12-25
+717,194395,Benalla Standard (Vic. : 1901 - 1940),Victoria,22030549,1901-01-04,1931-12-25
 718,1173,The Port Adelaide Gazette (SA : 1930),South Australia,22030433,1930-01-10,1930-05-02
 719,18,"The Port Adelaide Post Shipping Gazette, Farmers and Commercial Register (Port Adelaide, SA : 1876)",South Australia,22030417,1876-07-22,1876-07-22
 720,3827,"The Bega Standard and Candelo, Merimbula, Pambula, Eden, Wolumla, and General Advertiser (NSW : 1876 - 1884)",New South Wales,2203045X,1876-01-01,1884-10-15
@@ -1716,9 +1716,9 @@ title_id,total,title,state,issn,start_date,end_date
 1799,35096,Coonabarabran Times (NSW : 1950-1954),New South Wales,NDP00298,1950-03-16,1954-12-30
 1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
 1801,34847,Australian Army (National : 1959 -1980),National,NDP00300,1959-09-10,1980-09-25
-1802,64594,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,2016-12-15
-1803,270,Army Magazine (National : 1989 - 2002),National,NDP00302,1993-03-01,1993-12-01
-1804,71604,Royal Australian Navy News (National : 1958 - 2021),National,NDP00303,1958-07-18,2021-12-09
+1802,74970,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,2021-12-09
+1803,2796,Army Magazine (National : 1989 - 2002),National,NDP00302,1989-08-01,2002-08-01
+1804,76841,Royal Australian Navy News (National : 1958 - 2021),National,NDP00303,1958-07-18,2021-12-09
 1805,145,The Maylands & Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
 1807,18983,"The Groper (Perth, WA : 1930 - 1937)",Western Australia,NDP00306,1930-10-04,1937-07-31
