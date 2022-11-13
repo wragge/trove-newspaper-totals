@@ -38,7 +38,7 @@ title_id,total,title,state,issn,start_date,end_date
 40,1065,"South Australian Gazette and Colonial Register (Adelaide, SA : 1836 - 1839)",South Australia,18367666,1836-06-18,1839-06-15
 41,1284842,"South Australian Register (Adelaide, SA : 1839 - 1900)",South Australia,18367674,1839-06-22,1901-02-28
 42,730943,"The Queenslander (Brisbane, Qld. : 1866 - 1939)",Queensland,18368190,1866-02-03,1939-02-22
-43,469331,Camperdown Chronicle (Vic. : 1875 - 1954),Victoria,14447541,1877-01-01,1954-12-31
+43,472145,Camperdown Chronicle (Vic. : 1875 - 1954),Victoria,14447541,1875-01-21,1954-12-31
 44,1766005,"The Advertiser (Adelaide, SA : 1931 - 1954)",South Australia,10394192,1931-10-01,1954-12-31
 45,46874,"Advertiser and Register (Adelaide, SA : 1931)",South Australia,18367682,1931-01-08,1931-09-30
 46,2092252,"Advocate (Burnie, Tas. : 1890 - 1954)",Tasmania,13210823,1919-01-03,1954-12-30
@@ -241,7 +241,7 @@ title_id,total,title,state,issn,start_date,end_date
 247,167067,The Prahran Telegraph (Vic. : 1889 - 1930),Victoria,18391028,1889-01-05,1930-08-30
 248,181468,"Record (Emerald Hill, Vic. : 1881 - 1954)",Victoria,18389694,1881-04-01,1954-12-22
 249,18113,The Casterton News and the Merino and Sandford Record (Vic. : 1914 - 1918),Victoria,18389198,1914-01-05,1918-12-30
-250,44447,The Lilydale Express (Vic. : 1886 - 1897; 1914 - 1955),Victoria,10362894,1886-06-30,1926-12-24
+250,61105,The Lilydale Express (Vic. : 1886 - 1897; 1914 - 1955),Victoria,10362894,1886-06-30,1956-01-13
 251,73987,Sunshine Advocate (Vic. : 1924 - 1954),Victoria,10364439,1924-03-01,1954-12-23
 252,10711,"The Dawn (Sydney, NSW : 1888 - 1905)",New South Wales,18397468,1888-05-15,1905-07-01
 253,347482,"Mirror (Perth, WA : 1921 - 1956)",Western Australia,18396305,1921-04-17,1956-08-11
@@ -1716,9 +1716,9 @@ title_id,total,title,state,issn,start_date,end_date
 1799,35096,Coonabarabran Times (NSW : 1950-1954),New South Wales,NDP00298,1950-03-16,1954-12-30
 1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
 1801,34847,Australian Army (National : 1959 -1980),National,NDP00300,1959-09-10,1980-09-25
-1802,74970,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,2021-12-09
+1802,76489,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,2021-12-09
 1803,2796,Army Magazine (National : 1989 - 2002),National,NDP00302,1989-08-01,2002-08-01
-1804,76841,Royal Australian Navy News (National : 1958 - 2021),National,NDP00303,1958-07-18,2021-12-09
+1804,95727,Royal Australian Navy News (National : 1958 - 2021),National,NDP00303,1958-07-18,2021-12-09
 1805,145,The Maylands & Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
 1807,18983,"The Groper (Perth, WA : 1930 - 1937)",Western Australia,NDP00306,1930-10-04,1937-07-31
@@ -1728,3 +1728,4 @@ title_id,total,title,state,issn,start_date,end_date
 1817,2655,"The Western Chronicle (Perth, WA. : 1923)",Western Australia,NDP00318,1923-02-24,1923-12-29
 1818,9688,The Mittagong Express (NSW. : 1899 ; 1901 - 1902),New South Wales,NDP00319,1899-01-03,1902-03-28
 1819,3241,The Mittagong Argus (NSW. : 1902 - 1904),New South Wales,NDP00320,1902-01-04,1904-06-11
+1820,9667,"Live Wire (Yallourn, Vic. : 1935 - 1955)",Victoria,NDP00321,1938-05-18,1947-12-24
