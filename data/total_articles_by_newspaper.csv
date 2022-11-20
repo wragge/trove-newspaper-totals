@@ -301,7 +301,7 @@ title_id,total,title,state,issn,start_date,end_date
 307,34055,Port Fairy Gazette (Vic. : 1914 - 1918 ; 1946),Victoria,22002529,1914-01-02,1946-12-28
 308,12222,Port Melbourne Standard (Vic. : 1914 - 1920),Victoria,22001298,1914-05-30,1920-02-28
 309,35956,Prahran Chronicle (Vic. : 1894 - 1906; 1914 - 1918),Victoria,22001735,1894-01-06,1918-12-21
-310,90279,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1895; 1902 - 1928),Victoria,22001573,1884-01-05,1924-12-20
+310,90279,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1897; 1900 - 1930),Victoria,22001573,1884-01-05,1924-12-20
 311,963548,"The Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954; 1998 - 2002)",Victoria,2200159X,1869-01-09,2002-12-30
 312,15153,"Dandenong Advertiser and Cranbourne, Berwick and Oakleigh Advocate (Vic. : 1914 - 1918)",Victoria,22001751,1914-01-01,1918-12-24
 313,8299,"Queenscliff Sentinel, Drysdale, Portarlington, Sorrento Advertiser (Vic. : 1914 - 1918)",Victoria,22002499,1914-01-03,1918-12-21
@@ -1434,7 +1434,7 @@ title_id,total,title,state,issn,start_date,end_date
 1489,171389,"Torres News (Thursday Island, Qld. : 1957-2015)",Queensland,26518678,1957-03-19,2015-12-21
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,554607,"Border Morning Mail (Albury, NSW : 1938 - 1951)",New South Wales,26519291,1938-01-01,1949-12-31
+1492,554607,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1951)",New South Wales,26519291,1938-01-01,1949-12-31
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -1728,4 +1728,4 @@ title_id,total,title,state,issn,start_date,end_date
 1817,2655,"The Western Chronicle (Perth, WA. : 1923)",Western Australia,NDP00318,1923-02-24,1923-12-29
 1818,9688,The Mittagong Express (NSW. : 1899 ; 1901 - 1902),New South Wales,NDP00319,1899-01-03,1902-03-28
 1819,3241,The Mittagong Argus (NSW. : 1902 - 1904),New South Wales,NDP00320,1902-01-04,1904-06-11
-1820,9667,"Live Wire (Yallourn, Vic. : 1935 - 1955)",Victoria,NDP00321,1938-05-18,1947-12-24
+1820,25150,"Live Wire (Yallourn, Vic. : 1935 - 1955)",Victoria,NDP00321,1938-05-18,1954-12-15
