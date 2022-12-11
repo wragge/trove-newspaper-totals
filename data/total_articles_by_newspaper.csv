@@ -30,7 +30,7 @@ title_id,total,title,state,issn,start_date,end_date
 32,3196,The Hobart Town Mercury (Tas. : 1857),Tasmania,18356737,1857-02-02,1857-12-28
 33,18730,The Hobart Town Daily Mercury (Tas. : 1858 - 1860),Tasmania,18356729,1858-01-01,1860-06-30
 34,2222751,"The Advertiser (Adelaide, SA : 1889 - 1931)",South Australia,18356753,1889-04-01,1931-02-20
-35,5797514,The Sydney Morning Herald (NSW : 1842 - 1954),New South Wales,03126315,1842-08-01,1954-12-31
+35,5799634,The Sydney Morning Herald (NSW : 1842 - 1954),New South Wales,03126315,1842-08-01,1954-12-31
 36,22775,"Northern Territory Times (Darwin, NT : 1927 - 1932)",Northern Territory,18358667,1927-06-07,1932-06-28
 37,36814,The Sydney Herald (NSW : 1831 - 1842),New South Wales,18360807,1831-04-18,1842-07-30
 38,64194,"The Sunday Herald (Sydney, NSW : 1949 - 1953)",New South Wales,18360793,1949-01-23,1953-10-04
@@ -223,7 +223,7 @@ title_id,total,title,state,issn,start_date,end_date
 229,45146,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1901-05-10,1918-12-31
 230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
 231,63627,"Independent (Footscray, Vic. : 1883 - 1922)",Victoria,18389201,1883-03-31,1922-12-23
-232,427514,The Ballarat Courier (Vic. : 1869 - 1885; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
+232,440520,The Ballarat Courier (Vic. : 1869 - 1885; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
 233,1997,"Frankston Standard (Frankston, Vic. : 1949)",Victoria,18388205,1949-08-04,1949-12-21
 234,2108,"Queenscliff Sentinel, Drysdale, ... (Vic. : 1882 - 1884)",Victoria,18387160,1882-12-02,1884-12-20
 235,1155,The Queenscliff Sentinel (Vic. : 1884 - 1885),Victoria,18387179,1884-12-27,1885-06-13
@@ -266,7 +266,7 @@ title_id,total,title,state,issn,start_date,end_date
 272,17139,Launceston Advertiser (Tas. : 1829 - 1846),Tasmania,18397166,1829-02-09,1846-12-31
 273,193,"Tasmanian and Port Dalrymple Advertiser (Launceston, Tas. : 1825)",Tasmania,18397174,1825-01-05,1825-05-18
 274,108047,"The Charleville Times (Brisbane, Qld. : 1896 - 1954)",Queensland,18397824,1896-05-16,1954-12-30
-275,3268967,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1955-12-31
+275,3267556,"The Daily News (Perth, WA : 1882 - 1955)",Western Australia,18398138,1882-07-26,1955-12-31
 276,733101,"Border Watch (Mount Gambier, SA : 1861 - 1954)",South Australia,13295195,1861-04-26,1954-12-30
 277,3155,Adelaider Deutsche Zeitung (SA : 1851 - 1862),South Australia,1839812X,1851-04-02,1862-12-26
 278,20996,"Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)",South Australia,18398197,1860-12-15,1874-12-29
@@ -297,7 +297,7 @@ title_id,total,title,state,issn,start_date,end_date
 303,19303,Flemington Spectator (Vic. : 1914 - 1918),Victoria,22001115,1914-01-01,1918-12-19
 304,6004,Oakleigh and Caulfield Times Mulgrave and Ferntree Gully Guardian (Vic. : 1914 - 1918),Victoria,22001158,1914-01-10,1918-12-21
 305,55125,"Ouyen Mail (Vic. : 1915 - 1918, 1931 - 1941)",Victoria,22001468,1915-08-04,1941-12-24
-306,1546,Ouyen Mail and Central Mallee Advertiser (Vic. : 1914 - 1915),Victoria,22001441,1914-01-02,1915-07-28
+306,1546,The Ouyen Mail and Central Mallee Advertiser (Vic. : 1911 - 1915),Victoria,22001441,1914-01-02,1915-07-28
 307,34055,Port Fairy Gazette (Vic. : 1914 - 1918 ; 1946),Victoria,22002529,1914-01-02,1946-12-28
 308,12222,Port Melbourne Standard (Vic. : 1914 - 1920),Victoria,22001298,1914-05-30,1920-02-28
 309,35956,Prahran Chronicle (Vic. : 1894 - 1906; 1914 - 1918),Victoria,22001735,1894-01-06,1918-12-21
@@ -1517,7 +1517,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,740493,"Sunraysia Daily (Mildura, Vic. : 1920 - 1937)",Victoria,NDP00085,1920-10-02,1937-10-30
+1585,740493,"Sunraysia Daily (Mildura, Vic. : 1920 - 1942)",Victoria,NDP00085,1920-10-02,1937-10-30
 1586,17152,The Nowra Colonist (NSW : 1899 - 1904),New South Wales,NDP00086,1899-01-04,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
@@ -1685,7 +1685,7 @@ title_id,total,title,state,issn,start_date,end_date
 1768,9004,The Tarrangower Times and Maldon District Advertiser (Vic. : 1858 - 1862),Victoria,NDP00269,1858-06-15,1862-07-18
 1769,23686,The Tarrangower Times and Maldon and Newstead Advertiser (Vic. : 1862 - 1873),Victoria,NDP00270,1862-07-22,1873-06-11
 1770,51332,"The Tarrangower Times and Maldon, Newstead, Baringhup, Laancoorie and Muckleford Advertiser (Vic. : 1873 - 1894)",Victoria,NDP00271,1873-06-14,1894-08-04
-1771,62632,The Tarrangower Times and Maldon Advertiser (Vic. : 1894 - 1911),Victoria,NDP00272,1894-08-08,1908-07-29
+1771,69085,The Tarrangower Times and Maldon Advertiser (Vic. : 1894 - 1911),Victoria,NDP00272,1894-08-08,1910-02-26
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
 1774,26119,"The Australian (Brisbane, Qld. : 1878 - 1889)",Queensland,NDP00275,1878-11-02,1888-12-29
@@ -1706,7 +1706,7 @@ title_id,total,title,state,issn,start_date,end_date
 1789,47818,"The Farmers' Weekly (Perth, WA : 1947 - 1954)",Western Australia,NDP00288,1947-07-17,1954-12-30
 1790,56960,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1946)",Western Australia,NDP00289,1931-05-01,1946-04-25
 1791,322,"The Western Suburban News (Subiaco, WA : 1913)",Western Australia,NDP00290,1913-08-29,1913-12-12
-1792,269,"The Elswood Observer (Cottesloe, WA : 1931)",Western Australia,NDP00291,1931-06-18,1931-08-06
+1792,1680,"The Elswood Observer (Cottesloe, WA : 1931)",Western Australia,NDP00291,1931-06-18,1931-08-06
 1793,5138,"The Weekly Guardian (Subiaco, WA : 1933 - 1934)",Western Australia,NDP00292,1933-04-29,1934-12-21
 1794,435,Claremont-Cottesloe Herald (WA. : 1922 - 1923),Western Australia,NDP00293,1922-12-15,1923-02-17
 1795,4042,"The W.A. Family Sphere (Perth, WA : 1919 - 1920)",Western Australia,NDP00294,1919-08-15,1920-12-31
@@ -1717,7 +1717,7 @@ title_id,total,title,state,issn,start_date,end_date
 1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
 1801,34847,Australian Army (National : 1959 -1980),National,NDP00300,1959-09-10,1980-09-25
 1802,76489,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,2021-12-09
-1803,2793,Army Magazine (National : 1989 - 2002),National,NDP00302,1989-08-01,2002-08-01
+1803,2794,Army Magazine (National : 1989 - 2002),National,NDP00302,1989-08-01,2002-08-01
 1804,95727,Royal Australian Navy News (National : 1958 - 2021),National,NDP00303,1958-07-18,2021-12-09
 1805,145,The Maylands & Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
@@ -1730,5 +1730,5 @@ title_id,total,title,state,issn,start_date,end_date
 1817,2655,"The Western Chronicle (Perth, WA. : 1923)",Western Australia,NDP00318,1923-02-24,1923-12-29
 1818,9688,The Mittagong Express (NSW. : 1899 ; 1901 - 1902),New South Wales,NDP00319,1899-01-03,1902-03-28
 1819,3241,The Mittagong Argus (NSW. : 1902 - 1904),New South Wales,NDP00320,1902-01-04,1904-06-11
-1820,30586,"Live Wire (Yallourn, Vic. : 1935 - 1955)",Victoria,NDP00321,1938-05-18,1954-12-15
+1820,36705,"Live Wire (Yallourn, Vic. : 1935 - 1955)",Victoria,NDP00321,1938-05-18,1954-12-15
 1821,4405,"Narracan Shire Advocate (Moe, Vic.: 1944 - 1955)",Victoria,NDP00322,1944-01-14,1946-12-27
