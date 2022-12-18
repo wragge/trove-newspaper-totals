@@ -220,7 +220,7 @@ title_id,total,title,state,issn,start_date,end_date
 225,636732,The Horsham Times (Vic. : 1882 - 1954),Victoria,18388175,1882-01-17,1954-12-31
 227,151683,The Warrnambool Standard (Vic. : 1914 - 1918),Victoria,08129762,1914-01-02,1918-12-31
 228,95536,The Mildura Cultivator (Vic. : 1888 - 1920),Victoria,18387691,1888-05-19,1920-09-29
-229,45146,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1901-05-10,1918-12-31
+229,58168,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1901-05-10,1918-12-31
 230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
 231,63627,"Independent (Footscray, Vic. : 1883 - 1922)",Victoria,18389201,1883-03-31,1922-12-23
 232,440520,The Ballarat Courier (Vic. : 1869 - 1885; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
@@ -241,7 +241,7 @@ title_id,total,title,state,issn,start_date,end_date
 247,167067,The Prahran Telegraph (Vic. : 1889 - 1930),Victoria,18391028,1889-01-05,1930-08-30
 248,181468,"Record (Emerald Hill, Vic. : 1881 - 1954)",Victoria,18389694,1881-04-01,1954-12-22
 249,18113,The Casterton News and the Merino and Sandford Record (Vic. : 1914 - 1918),Victoria,18389198,1914-01-05,1918-12-30
-250,79992,The Lilydale Express (Vic. : 1886 - 1897; 1914 - 1955),Victoria,10362894,1886-06-30,1956-01-13
+250,107094,The Lilydale Express (Vic. : 1886 - 1897; 1914 - 1955),Victoria,10362894,1886-06-30,1956-01-13
 251,73987,Sunshine Advocate (Vic. : 1924 - 1954),Victoria,10364439,1924-03-01,1954-12-23
 252,10711,"The Dawn (Sydney, NSW : 1888 - 1905)",New South Wales,18397468,1888-05-15,1905-07-01
 253,347482,"Mirror (Perth, WA : 1921 - 1956)",Western Australia,18396305,1921-04-17,1956-08-11
@@ -301,7 +301,7 @@ title_id,total,title,state,issn,start_date,end_date
 307,34055,Port Fairy Gazette (Vic. : 1914 - 1918 ; 1946),Victoria,22002529,1914-01-02,1946-12-28
 308,12222,Port Melbourne Standard (Vic. : 1914 - 1920),Victoria,22001298,1914-05-30,1920-02-28
 309,35956,Prahran Chronicle (Vic. : 1894 - 1906; 1914 - 1918),Victoria,22001735,1894-01-06,1918-12-21
-310,102004,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1897; 1900 - 1930),Victoria,22001573,1884-01-05,1928-12-22
+310,115263,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1897; 1900 - 1930),Victoria,22001573,1884-01-05,1928-12-22
 311,963548,"The Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954; 1998 - 2002)",Victoria,2200159X,1869-01-09,2002-12-30
 312,15153,"Dandenong Advertiser and Cranbourne, Berwick and Oakleigh Advocate (Vic. : 1914 - 1918)",Victoria,22001751,1914-01-01,1918-12-24
 313,8299,"Queenscliff Sentinel, Drysdale, Portarlington, Sorrento Advertiser (Vic. : 1914 - 1918)",Victoria,22002499,1914-01-03,1918-12-21
@@ -1689,7 +1689,7 @@ title_id,total,title,state,issn,start_date,end_date
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
 1774,26119,"The Australian (Brisbane, Qld. : 1878 - 1889)",Queensland,NDP00275,1878-11-02,1888-12-29
-1775,63774,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1954)",New South Wales,NDP00232,1891-10-23,1931-12-23
+1775,80514,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1954)",New South Wales,NDP00232,1891-10-23,1942-12-23
 1776,55983,"The Jewish Post (Melbourne, Vic. : 1949 - 1966)",Victoria,NDP00276,1949-01-27,1966-05-06
 1777,5065,"The Australian Jewish Post (St. Kilda, Vic. : 1966 - 1968)",Victoria,NDP00277,1966-05-13,1968-08-02
 1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22
@@ -1725,10 +1725,12 @@ title_id,total,title,state,issn,start_date,end_date
 1808,7675,"The Spectator (Perth, WA : 1900 - 1905)",Western Australia,NDP00307,1900-10-21,1905-02-04
 1809,1586,Bassendean Magnet (WA : 1923 - 1925),Western Australia,NDP00308,1923-09-05,1925-04-09
 1810,621,"The Trader (West Leederville, WA : 1953)",Western Australia,NDP00309,1953-05-01,1953-12-11
+1811,7950,,,,,
 1814,1906,"The Manning and Hastings Advocate (Wingham, NSW : 1881 - 1882)",New South Wales,NDP00314,1881-11-11,1882-11-29
 1816,1257,"The Manning River Independent and Advocate of Native Industries (Taree, NSW : 1892 - 1893)",New South Wales,NDP00316,1892-01-26,1893-05-19
 1817,2655,"The Western Chronicle (Perth, WA. : 1923)",Western Australia,NDP00318,1923-02-24,1923-12-29
 1818,9688,The Mittagong Express (NSW. : 1899 ; 1901 - 1902),New South Wales,NDP00319,1899-01-03,1902-03-28
 1819,3241,The Mittagong Argus (NSW. : 1902 - 1904),New South Wales,NDP00320,1902-01-04,1904-06-11
 1820,36705,"Live Wire (Yallourn, Vic. : 1935 - 1955)",Victoria,NDP00321,1938-05-18,1954-12-15
-1821,4405,"Narracan Shire Advocate (Moe, Vic.: 1944 - 1955)",Victoria,NDP00322,1944-01-14,1946-12-27
+1821,18015,"Narracan Shire Advocate (Moe, Vic.: 1944 - 1955)",Victoria,NDP00322,1944-01-14,1953-12-24
+1822,4565,,,,,
