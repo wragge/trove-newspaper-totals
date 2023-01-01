@@ -220,7 +220,7 @@ title_id,total,title,state,issn,start_date,end_date
 225,636732,The Horsham Times (Vic. : 1882 - 1954),Victoria,18388175,1882-01-17,1954-12-31
 227,151683,The Warrnambool Standard (Vic. : 1914 - 1918),Victoria,08129762,1914-01-02,1918-12-31
 228,95536,The Mildura Cultivator (Vic. : 1888 - 1920),Victoria,18387691,1888-05-19,1920-09-29
-229,58168,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1901-05-10,1918-12-31
+229,82056,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1901-05-10,1918-12-31
 230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
 231,63627,"Independent (Footscray, Vic. : 1883 - 1922)",Victoria,18389201,1883-03-31,1922-12-23
 232,440520,The Ballarat Courier (Vic. : 1869 - 1885; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
@@ -241,7 +241,7 @@ title_id,total,title,state,issn,start_date,end_date
 247,167067,The Prahran Telegraph (Vic. : 1889 - 1930),Victoria,18391028,1889-01-05,1930-08-30
 248,181468,"Record (Emerald Hill, Vic. : 1881 - 1954)",Victoria,18389694,1881-04-01,1954-12-22
 249,18113,The Casterton News and the Merino and Sandford Record (Vic. : 1914 - 1918),Victoria,18389198,1914-01-05,1918-12-30
-250,107094,The Lilydale Express (Vic. : 1886 - 1897; 1914 - 1955),Victoria,10362894,1886-06-30,1956-01-13
+250,118958,The Lilydale Express (Vic. : 1886 - 1897; 1914 - 1955),Victoria,10362894,1886-06-30,1956-01-13
 251,73987,Sunshine Advocate (Vic. : 1924 - 1954),Victoria,10364439,1924-03-01,1954-12-23
 252,10711,"The Dawn (Sydney, NSW : 1888 - 1905)",New South Wales,18397468,1888-05-15,1905-07-01
 253,347482,"Mirror (Perth, WA : 1921 - 1956)",Western Australia,18396305,1921-04-17,1956-08-11
@@ -1434,7 +1434,7 @@ title_id,total,title,state,issn,start_date,end_date
 1489,171389,"Torres News (Thursday Island, Qld. : 1957-2015)",Queensland,26518678,1957-03-19,2015-12-21
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,554607,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1951)",New South Wales,26519291,1938-01-01,1949-12-31
+1492,568120,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1951)",New South Wales,26519291,1938-01-01,1950-06-30
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -1689,7 +1689,7 @@ title_id,total,title,state,issn,start_date,end_date
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
 1774,26119,"The Australian (Brisbane, Qld. : 1878 - 1889)",Queensland,NDP00275,1878-11-02,1888-12-29
-1775,80514,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1954)",New South Wales,NDP00232,1891-10-23,1942-12-23
+1775,89917,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1954)",New South Wales,NDP00232,1891-10-23,1949-12-21
 1776,55983,"The Jewish Post (Melbourne, Vic. : 1949 - 1966)",Victoria,NDP00276,1949-01-27,1966-05-06
 1777,5065,"The Australian Jewish Post (St. Kilda, Vic. : 1966 - 1968)",Victoria,NDP00277,1966-05-13,1968-08-02
 1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22
@@ -1732,5 +1732,5 @@ title_id,total,title,state,issn,start_date,end_date
 1818,9688,The Mittagong Express (NSW. : 1899 ; 1901 - 1902),New South Wales,NDP00319,1899-01-03,1902-03-28
 1819,3241,The Mittagong Argus (NSW. : 1902 - 1904),New South Wales,NDP00320,1902-01-04,1904-06-11
 1820,36705,"Live Wire (Yallourn, Vic. : 1935 - 1955)",Victoria,NDP00321,1938-05-18,1954-12-15
-1821,18015,"Narracan Shire Advocate (Moe, Vic.: 1944 - 1955)",Victoria,NDP00322,1944-01-14,1953-12-24
+1821,24134,"Narracan Shire Advocate (Moe, Vic.: 1944 - 1955)",Victoria,NDP00322,1944-01-14,1953-12-24
 1822,4565,Orange Star (NSW : 1926 - 1927),New South Wales,NDP00310,1926-05-21,1927-01-25
