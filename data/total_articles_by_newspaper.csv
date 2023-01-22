@@ -81,7 +81,7 @@ title_id,total,title,state,issn,start_date,end_date
 84,66687,Queanbeyan Age (NSW : 1867 - 1904),New South Wales,1837428X,1867-07-05,1903-12-29
 86,31152,Queanbeyan Age (NSW : 1907 - 1915),New South Wales,18374298,1908-01-07,1914-12-25
 87,47464,The Queanbeyan Age and Queanbeyan Observer (NSW : 1915 - 1927),New South Wales,18374336,1915-01-05,1927-04-01
-88,164999,Queanbeyan Age (NSW : 1927 - 1954),New South Wales,13208381,1927-07-26,1951-12-21
+88,175315,Queanbeyan Age (NSW : 1927 - 1954),New South Wales,13208381,1927-07-26,1953-12-30
 89,1947469,"The Register (Adelaide, SA : 1901 - 1929)",South Australia,18373860,1901-03-01,1928-12-31
 90,153465,"The Register News-Pictorial (Adelaide, SA : 1929 - 1931)",South Australia,18373887,1929-01-01,1931-02-20
 91,38493,Rockhampton Bulletin (Qld. : 1871 - 1878),Queensland,1837378X,1872-01-02,1878-01-01
@@ -220,7 +220,7 @@ title_id,total,title,state,issn,start_date,end_date
 225,636732,The Horsham Times (Vic. : 1882 - 1954),Victoria,18388175,1882-01-17,1954-12-31
 227,151683,The Warrnambool Standard (Vic. : 1914 - 1918),Victoria,08129762,1914-01-02,1918-12-31
 228,95536,The Mildura Cultivator (Vic. : 1888 - 1920),Victoria,18387691,1888-05-19,1920-09-29
-229,118422,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1899-05-05,1918-12-31
+229,132765,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1899-05-05,1918-12-31
 230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
 231,63627,"Independent (Footscray, Vic. : 1883 - 1922)",Victoria,18389201,1883-03-31,1922-12-23
 232,440520,The Ballarat Courier (Vic. : 1869 - 1885; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
@@ -1434,7 +1434,7 @@ title_id,total,title,state,issn,start_date,end_date
 1489,171389,"Torres News (Thursday Island, Qld. : 1957-2015)",Queensland,26518678,1957-03-19,2015-12-21
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,594915,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1951)",New South Wales,26519291,1938-01-01,1950-09-30
+1492,620461,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1951)",New South Wales,26519291,1938-01-01,1951-03-31
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -1726,10 +1726,10 @@ title_id,total,title,state,issn,start_date,end_date
 1809,1586,Bassendean Magnet (WA : 1923 - 1925),Western Australia,NDP00308,1923-09-05,1925-04-09
 1810,621,"The Trader (West Leederville, WA : 1953)",Western Australia,NDP00309,1953-05-01,1953-12-11
 1811,7950,"The St Georges Advocate (Rockdale, NSW : 1899 - 1903)",New South Wales,NDP00311,1899-02-04,1903-09-26
-1812,3609,"Pastoral Times and Echuca and Moama Chronicle (Deniliquin, NSW : 1863 - 1866)",New South Wales,NDP00312,1863-07-04,1865-12-30
+1812,4194,"Pastoral Times and Echuca and Moama Chronicle (Deniliquin, NSW : 1863 - 1866)",New South Wales,NDP00312,1863-07-04,1866-05-12
 1813,7237,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1895",New South Wales,NDP00313,1866-05-19,1870-12-31
 1814,1906,"The Manning and Hastings Advocate (Wingham, NSW : 1881 - 1882)",New South Wales,NDP00314,1881-11-11,1882-11-29
-1815,1581,"The Manning River Chronicle (Wingham, NSW : 1886 - 1888) ",New South Wales,NDP00315,1887-01-06,1887-12-08
+1815,2392,"The Manning River Chronicle (Wingham, NSW : 1886 - 1888) ",New South Wales,NDP00315,1886-09-06,1888-02-27
 1816,1257,"The Manning River Independent and Advocate of Native Industries (Taree, NSW : 1892 - 1893)",New South Wales,NDP00316,1892-01-26,1893-05-19
 1817,2655,"The Western Chronicle (Perth, WA. : 1923)",Western Australia,NDP00318,1923-02-24,1923-12-29
 1818,9688,The Mittagong Express (NSW. : 1899 ; 1901 - 1902),New South Wales,NDP00319,1899-01-03,1902-03-28
