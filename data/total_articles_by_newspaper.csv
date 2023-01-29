@@ -38,7 +38,7 @@ title_id,total,title,state,issn,start_date,end_date
 40,1065,"South Australian Gazette and Colonial Register (Adelaide, SA : 1836 - 1839)",South Australia,18367666,1836-06-18,1839-06-15
 41,1284842,"South Australian Register (Adelaide, SA : 1839 - 1900)",South Australia,18367674,1839-06-22,1901-02-28
 42,730943,"The Queenslander (Brisbane, Qld. : 1866 - 1939)",Queensland,18368190,1866-02-03,1939-02-22
-43,472145,Camperdown Chronicle (Vic. : 1875 - 1954),Victoria,14447541,1875-01-21,1954-12-31
+43,474206,Camperdown Chronicle (Vic. : 1875 - 1954),Victoria,14447541,1875-01-21,1954-12-31
 44,1766005,"The Advertiser (Adelaide, SA : 1931 - 1954)",South Australia,10394192,1931-10-01,1954-12-31
 45,46874,"Advertiser and Register (Adelaide, SA : 1931)",South Australia,18367682,1931-01-08,1931-09-30
 46,2092252,"Advocate (Burnie, Tas. : 1890 - 1954)",Tasmania,13210823,1919-01-03,1954-12-30
@@ -233,7 +233,7 @@ title_id,total,title,state,issn,start_date,end_date
 239,109184,"The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)",Victoria,18390986,1863-05-14,1918-12-26
 240,223490,Bairnsdale Advertiser and Tambo and Omeo Chronicle (Vic. : 1882 - 1946),Victoria,18389139,1882-02-14,1918-12-25
 241,218117,The Colac Herald (Vic. : 1875 - 1918),Victoria,18337325,1869-12-31,1918-12-30
-242,19138,"The Essendon Gazette and Keilor, Bulla and Broadmeadows Reporter (Moonee Ponds, Vic. : 1914 - 1918)",Victoria,18390978,1914-01-01,1918-12-19
+242,19138,"The Essendon Gazette and Keilor, Bulla and Broadmeadows Reporter (Moonee Ponds, Vic. : 1905 - 1918)",Victoria,18390978,1914-01-01,1918-12-19
 243,27942,"The Lilydale Express and Yarra Glen, Wandin Yallock, Upper Yarra, Healesville and Ringwood Chronicle (Vic. : 1898 - 1914)",Victoria,1839101X,1898-01-07,1914-06-19
 244,72673,"The Reporter (Box Hill, Vic. : 1889 - 1925)",Victoria,1839096X,1889-06-26,1925-03-27
 245,54235,Brighton Southern Cross (Vic. : 1896 - 1918),Victoria,18390943,1896-01-04,1918-12-21
@@ -296,7 +296,7 @@ title_id,total,title,state,issn,start_date,end_date
 302,8731,Williamstown Advertiser (Vic. : 1875 - 1954),Victoria,22002502,1914-01-03,1918-12-21
 303,19303,Flemington Spectator (Vic. : 1914 - 1918),Victoria,22001115,1914-01-01,1918-12-19
 304,6004,Oakleigh and Caulfield Times Mulgrave and Ferntree Gully Guardian (Vic. : 1914 - 1918),Victoria,22001158,1914-01-10,1918-12-21
-305,55125,"Ouyen Mail (Vic. : 1915 - 1918, 1931 - 1941)",Victoria,22001468,1915-08-04,1941-12-24
+305,55125,Ouyen Mail (Vic. : 1915 - 1941),Victoria,22001468,1915-08-04,1941-12-24
 306,1546,The Ouyen Mail and Central Mallee Advertiser (Vic. : 1911 - 1915),Victoria,22001441,1914-01-02,1915-07-28
 307,34055,Port Fairy Gazette (Vic. : 1914 - 1918 ; 1946),Victoria,22002529,1914-01-02,1946-12-28
 308,12222,Port Melbourne Standard (Vic. : 1914 - 1920),Victoria,22001298,1914-05-30,1920-02-28
@@ -307,7 +307,7 @@ title_id,total,title,state,issn,start_date,end_date
 313,8299,"Queenscliff Sentinel, Drysdale, Portarlington, Sorrento Advertiser (Vic. : 1914 - 1918)",Victoria,22002499,1914-01-03,1918-12-21
 314,47,"Suedaustralische Zeitung (Adelaide, SA : 1850 - 1851)",South Australia,22002545,1850-05-02,1851-04-14
 315,64055,"Bendigonian (Bendigo, Vic. : 1914 - 1918)",Victoria,18346448,1914-01-06,1918-12-27
-316,32839,"Gippsland Mercury (Sale, Vic. : 1914 - 1918)",Victoria,22001611,1914-01-06,1918-12-31
+316,32839,"Gippsland Mercury (Sale, Vic. : 1871 - 1894; 1914 - 1918)",Victoria,22001611,1914-01-06,1918-12-31
 317,66436,Maryborough and Dunolly Advertiser (Vic. : 1857 - 1867 ; 1914 - 1918),Victoria,22001557,1857-08-04,1918-12-30
 318,9302,Sandringham Southern Cross (Vic. : 1914 - 1918),Victoria,22001638,1914-01-03,1918-12-21
 319,738095,"Leader (Melbourne, Vic. : 1862 - 1918, 1935)",Victoria,22002219,1862-01-04,1935-06-29
@@ -1307,7 +1307,7 @@ title_id,total,title,state,issn,start_date,end_date
 1340,4205,Illustrated Adelaide Post (SA : 1867 - 1874),South Australia,22089594,1867-03-23,1874-12-01
 1341,18084,Northern Suburbs Weekly (SA : 1952 - 1961),South Australia,22090711,1952-10-02,1961-12-20
 1342,71000,"Daily Pictorial (Sydney, NSW : 1930 - 1931)",New South Wales,22089985,1930-02-01,1931-02-15
-1346,9418,Sawtell Guardian (NSW : 1970 - 1976),New South Wales,22087508,1970-12-03,1976-03-26
+1346,9452,Sawtell Guardian (NSW : 1970 - 1976),New South Wales,22087508,1970-05-14,1976-03-26
 1347,1603281,"The Daily Telegraph (Sydney, NSW : 1931 - 1954)",New South Wales,22090002,1931-02-16,1954-12-31
 1348,12066,The Mosman Mail (NSW : 1898 - 1906),New South Wales,22086668,1898-09-01,1906-12-29
 1349,191998,The Yass Courier (NSW : 1857 - 1929),New South Wales,22087257,1857-06-20,1929-03-28
@@ -1434,7 +1434,7 @@ title_id,total,title,state,issn,start_date,end_date
 1489,171389,"Torres News (Thursday Island, Qld. : 1957-2015)",Queensland,26518678,1957-03-19,2015-12-21
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,620461,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1951)",New South Wales,26519291,1938-01-01,1951-03-31
+1492,647342,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1951)",New South Wales,26519291,1938-01-01,1951-09-29
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -1727,7 +1727,7 @@ title_id,total,title,state,issn,start_date,end_date
 1810,621,"The Trader (West Leederville, WA : 1953)",Western Australia,NDP00309,1953-05-01,1953-12-11
 1811,7950,"The St Georges Advocate (Rockdale, NSW : 1899 - 1903)",New South Wales,NDP00311,1899-02-04,1903-09-26
 1812,4194,"Pastoral Times and Echuca and Moama Chronicle (Deniliquin, NSW : 1863 - 1866)",New South Wales,NDP00312,1863-07-04,1866-05-12
-1813,7237,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1895",New South Wales,NDP00313,1866-05-19,1870-12-31
+1813,12706,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1895",New South Wales,NDP00313,1866-05-19,1875-12-25
 1814,1906,"The Manning and Hastings Advocate (Wingham, NSW : 1881 - 1882)",New South Wales,NDP00314,1881-11-11,1882-11-29
 1815,2392,"The Manning River Chronicle (Wingham, NSW : 1886 - 1888) ",New South Wales,NDP00315,1886-09-06,1888-02-27
 1816,1257,"The Manning River Independent and Advocate of Native Industries (Taree, NSW : 1892 - 1893)",New South Wales,NDP00316,1892-01-26,1893-05-19
