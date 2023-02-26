@@ -1109,7 +1109,7 @@ title_id,total,title,state,issn,start_date,end_date
 1121,27055,"New Call and Bailey's Weekly (Perth, WA : 1934 - 1940)",Western Australia,22053557,1934-05-17,1940-12-12
 1122,15776,"New Call (Perth, WA : 1931 - 1934)",Western Australia,22053530,1931-09-10,1934-05-10
 1123,7625,Nungarin Trayning Mail and Kununoppin Advertiser (WA : 1917 - 1922),Western Australia,22053727,1917-07-10,1922-03-10
-1124,5567,"Primary Producer (Perth, WA : 1916 - 1921)",Western Australia,22053417,1916-09-29,1921-07-29
+1124,5567,"Primary Producer (Perth, WA : 1916 - 1947)",Western Australia,22053417,1916-09-29,1921-07-29
 1125,3953,"The Reformer (Perth, WA : 1906 - 1919)",Western Australia,22053379,1906-08-31,1919-04-01
 1126,97546,"South Western Times (Bunbury, WA : 1917 - 1929)",Western Australia,22053395,1917-01-04,1929-12-31
 1127,51292,Tambellup Times (WA : 1912 - 1924),Western Australia,22054170,1912-10-12,1924-08-09
@@ -1689,7 +1689,7 @@ title_id,total,title,state,issn,start_date,end_date
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
 1774,26119,"The Australian (Brisbane, Qld. : 1878 - 1889)",Queensland,NDP00275,1878-11-02,1888-12-29
-1775,91680,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1954)",New South Wales,NDP00232,1891-10-23,1949-12-21
+1775,91680,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1969)",New South Wales,NDP00232,1891-10-23,1949-12-21
 1776,55983,"The Jewish Post (Melbourne, Vic. : 1949 - 1966)",Victoria,NDP00276,1949-01-27,1966-05-06
 1777,5065,"The Australian Jewish Post (St. Kilda, Vic. : 1966 - 1968)",Victoria,NDP00277,1966-05-13,1968-08-02
 1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22
@@ -1727,7 +1727,7 @@ title_id,total,title,state,issn,start_date,end_date
 1810,621,"The Trader (West Leederville, WA : 1953)",Western Australia,NDP00309,1953-05-01,1953-12-11
 1811,7950,"The St Georges Advocate (Rockdale, NSW : 1899 - 1903)",New South Wales,NDP00311,1899-02-04,1903-09-26
 1812,4194,"Pastoral Times and Echuca and Moama Chronicle (Deniliquin, NSW : 1863 - 1866)",New South Wales,NDP00312,1863-07-04,1866-05-12
-1813,40909,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1895",New South Wales,NDP00313,1866-05-19,1888-12-29
+1813,40909,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1895)",New South Wales,NDP00313,1866-05-19,1888-12-29
 1814,1906,"The Manning and Hastings Advocate (Wingham, NSW : 1881 - 1882)",New South Wales,NDP00314,1881-11-11,1882-11-29
 1815,2392,"The Manning River Chronicle (Wingham, NSW : 1886 - 1888) ",New South Wales,NDP00315,1886-09-06,1888-02-27
 1816,1257,"The Manning River Independent and Advocate of Native Industries (Taree, NSW : 1892 - 1893)",New South Wales,NDP00316,1892-01-26,1893-05-19
