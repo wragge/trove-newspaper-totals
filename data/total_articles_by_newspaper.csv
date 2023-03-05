@@ -307,7 +307,7 @@ title_id,total,title,state,issn,start_date,end_date
 313,8299,"Queenscliff Sentinel, Drysdale, Portarlington, Sorrento Advertiser (Vic. : 1914 - 1918)",Victoria,22002499,1914-01-03,1918-12-21
 314,47,"Suedaustralische Zeitung (Adelaide, SA : 1850 - 1851)",South Australia,22002545,1850-05-02,1851-04-14
 315,64055,"Bendigonian (Bendigo, Vic. : 1914 - 1918)",Victoria,18346448,1914-01-06,1918-12-27
-316,32839,"Gippsland Mercury (Sale, Vic. : 1871 - 1894; 1914 - 1918)",Victoria,22001611,1914-01-06,1918-12-31
+316,69698,"Gippsland Mercury (Sale, Vic. : 1871 - 1894; 1914 - 1918)",Victoria,22001611,1871-01-02,1918-12-31
 317,66436,Maryborough and Dunolly Advertiser (Vic. : 1857 - 1867 ; 1914 - 1918),Victoria,22001557,1857-08-04,1918-12-30
 318,9302,Sandringham Southern Cross (Vic. : 1914 - 1918),Victoria,22001638,1914-01-03,1918-12-21
 319,738095,"Leader (Melbourne, Vic. : 1862 - 1918, 1935)",Victoria,22002219,1862-01-04,1935-06-29
@@ -1739,3 +1739,4 @@ title_id,total,title,state,issn,start_date,end_date
 1822,4565,Orange Star (NSW : 1926 - 1927),New South Wales,NDP00310,1926-05-21,1927-01-25
 1823,1481,The Wingham Chronicle and Manning Advertiser (NSW : 1888),New South Wales,NDP00323,1888-03-05,1888-12-13
 1824,10365,Coolamon Echo (NSW : 1898 - 1905),New South Wales,NDP00317,1898-09-08,1905-12-22
+1840,961,,,,,
