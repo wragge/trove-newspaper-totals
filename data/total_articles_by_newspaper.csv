@@ -317,7 +317,7 @@ title_id,total,title,state,issn,start_date,end_date
 323,7963,"Hawthorn, Kew, Camberwell Citizen (Vic. : 1914 - 1918)",Victoria,22001506,1914-05-01,1918-12-20
 324,4015,Heidelberg News and Greensborough and Diamond Creek Chronicle (Vic. : 1914 - 1916),Victoria,22001212,1914-01-03,1916-07-01
 325,3221,"Heidelberg News and Greensborough, Eltham and Diamond Creek Chronicle (Vic. : 1916 - 1918)",Victoria,22001255,1916-07-08,1918-12-21
-326,412836,"Ovens and Murray Advertiser (Beechworth, Vic. : 1855 - 1955)",Victoria,22001352,1855-01-13,1918-12-28
+326,414249,"Ovens and Murray Advertiser (Beechworth, Vic. : 1855 - 1955)",Victoria,22001352,1855-01-13,1920-12-29
 327,4559,"Pakenham Gazette and Berwick Shire News (Pakenham East, Vic. : 1917 - 1918)",Victoria,22001336,1917-05-10,1918-12-20
 328,15084,Preston Leader (Vic. : 1914 - 1918),Victoria,22001190,1914-01-10,1918-12-21
 329,7733,Ringwood and Croydon Chronicle (Vic. : 1914 - 1918),Victoria,22001778,1914-08-07,1918-12-20
@@ -1739,4 +1739,5 @@ title_id,total,title,state,issn,start_date,end_date
 1822,4565,Orange Star (NSW : 1926 - 1927),New South Wales,NDP00310,1926-05-21,1927-01-25
 1823,1481,The Wingham Chronicle and Manning Advertiser (NSW : 1888),New South Wales,NDP00323,1888-03-05,1888-12-13
 1824,10365,Coolamon Echo (NSW : 1898 - 1905),New South Wales,NDP00317,1898-09-08,1905-12-22
+1828,28513,Myrtleford Times and Ovens Valley Advertiser (Vic. : 1930 - 1955),Victoria,NDP00328,1935-01-02,1950-12-20
 1840,961,,,,,
