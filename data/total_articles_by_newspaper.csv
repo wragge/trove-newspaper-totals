@@ -593,7 +593,7 @@ title_id,total,title,state,issn,start_date,end_date
 601,21504,Rochester Express (Vic. : 1914 - 1918),Victoria,22018751,1914-01-06,1918-12-21
 602,7303,Rosedale Courier (Vic. : 1914 - 1918),Victoria,2201862X,1914-01-01,1918-12-19
 603,10195,"Rupanyup Spectator and Lubeck, Banyena, Rich Avon and Lallat Advertiser (Vic. : 1914 - 1918)",Victoria,22019294,1914-01-15,1918-12-19
-604,166037,Rutherglen Sun and Chiltern Valley Advertiser (Vic. : 1886 - 1957),Victoria,22018328,1890-09-05,1931-05-29
+604,217731,Rutherglen Sun and Chiltern Valley Advertiser (Vic. : 1886 - 1957),Victoria,22018328,1886-07-02,1954-09-28
 605,22752,Shepparton News (Vic. : 1914 - 1918),Victoria,22020187,1914-01-05,1918-12-30
 606,28405,Stawell News and Pleasant Creek Chronicle (Vic. : 1914 - 1918),Victoria,22019324,1914-01-01,1918-12-28
 607,10319,Stratford Sentinel and Briagolong Express (Vic. : 1911 - 1916),Victoria,22018646,1911-10-20,1916-06-16
@@ -605,7 +605,7 @@ title_id,total,title,state,issn,start_date,end_date
 613,29266,Truth (Melbourne ed.) (Vic. : 1914 - 1918),Victoria,22018174,1914-01-03,1918-12-28
 614,21878,Tungamah and Lake Rowan Express and St. James Gazette (Vic. : 1883 - 1920),Victoria,22017992,1914-01-08,1918-12-19
 615,9439,Ultima and Chillingollah Star (Vic. : 1914 - 1918),Victoria,22018247,1914-01-09,1918-12-27
-616,27455,Upper Murray and Mitta Herald (Vic. : 1885 - 1955),Victoria,22018573,1903-01-08,1918-12-19
+616,64558,Upper Murray and Mitta Herald (Vic. : 1885 - 1955),Victoria,22018573,1903-01-08,1955-12-22
 617,49658,The Violet Town Sentinel (Vic. : 1894 - 1946),Victoria,22018018,1894-07-06,1946-12-24
 618,35191,Warracknabeal Herald (Vic. : 1914 - 1918),Victoria,22020217,1914-01-02,1918-12-24
 619,9456,Wedderburn Express and Korongshire Advertiser (Vic. : 1914 - 1918),Victoria,22017860,1914-01-09,1918-12-20
@@ -1744,5 +1744,5 @@ title_id,total,title,state,issn,start_date,end_date
 1825,33776,The Yarrawonga Mercury and Southern Riverina Advertiser (Vic. : 1913 - 1920),Victoria,NDP00325,1913-01-03,1920-09-28
 1828,52420,Myrtleford Times and Ovens Valley Advertiser (Vic. : 1930 - 1955),Victoria,NDP00328,1935-01-02,1955-12-21
 1829,24700,Rutherglen Miner and Howlong and Wahgunyah Times (Vic. : 1903 - 1912),Victoria,NDP00329,1903-11-04,1910-09-28
-1830,15357,,,,,
+1830,27488,,,,,
 1840,961,"The Irishman (Melbourne, Vic. : 1872 - 1873)",Victoria,NDP00340,1872-11-28,1873-03-28
