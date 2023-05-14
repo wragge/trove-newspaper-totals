@@ -195,7 +195,7 @@ title_id,total,title,state,issn,start_date,end_date
 199,32,"The Elsternwick Leader (Brighton, Vic. : 1888)",Victoria,18384765,1888-02-11,1888-02-11
 200,47,"The Elsternwick Leader and Caulfield and Balaclava Guardian (Brighton, Vic. : 1887)",Victoria,18384749,1887-07-23,1887-07-30
 201,17,"Elsternwick Leader and East Brighton, ... (Vic. : 1887)",Victoria,18384730,1887-07-16,1887-07-16
-202,12226,The Sunbury News (Vic. : 1900 - 1927,Victoria,18384862,1900-07-07,1910-12-24
+202,24054,The Sunbury News (Vic. : 1900 - 1927,Victoria,18384862,1900-07-07,1927-12-24
 203,7915,The Sunbury News and Bulla and Melton Advertiser (Vic. : 1892 - 1900),Victoria,18384854,1892-11-26,1900-06-30
 204,141634,Wodonga and Towong Sentinel (Vic. : 1885 - 1954),Victoria,18387705,1885-09-05,1954-12-24
 205,38293,Mornington Standard (Vic. : 1889 - 1908),Victoria,18384781,1889-10-05,1908-07-04
@@ -223,7 +223,7 @@ title_id,total,title,state,issn,start_date,end_date
 229,132884,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1899-05-05,1918-12-31
 230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
 231,63627,"Independent (Footscray, Vic. : 1883 - 1922)",Victoria,18389201,1883-03-31,1922-12-23
-232,440520,The Ballarat Courier (Vic. : 1869 - 1885; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
+232,440520,The Ballarat Courier (Vic. : 1869 - 1886; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
 233,1997,"Frankston Standard (Frankston, Vic. : 1949)",Victoria,18388205,1949-08-04,1949-12-21
 234,2108,"Queenscliff Sentinel, Drysdale, ... (Vic. : 1882 - 1884)",Victoria,18387160,1882-12-02,1884-12-20
 235,1155,The Queenscliff Sentinel (Vic. : 1884 - 1885),Victoria,18387179,1884-12-27,1885-06-13
@@ -231,7 +231,7 @@ title_id,total,title,state,issn,start_date,end_date
 237,37167,"Standard (Frankston, Vic. : 1939 - 1949)",Victoria,18388191,1939-05-12,1949-07-28
 238,63389,Werribee Shire Banner (Vic. : 1911 - 1952),Victoria,1838966X,1911-09-07,1952-12-25
 239,109184,"The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)",Victoria,18390986,1863-05-14,1918-12-26
-240,254927,Bairnsdale Advertiser and Tambo and Omeo Chronicle (Vic. : 1882 - 1946),Victoria,18389139,1882-02-14,1946-06-07
+240,294856,Bairnsdale Advertiser and Tambo and Omeo Chronicle (Vic. : 1882 - 1946),Victoria,18389139,1882-02-14,1946-06-07
 241,218117,The Colac Herald (Vic. : 1875 - 1918),Victoria,18337325,1869-12-31,1918-12-30
 242,25491,"The Essendon Gazette and Keilor, Bulla and Broadmeadows Reporter (Moonee Ponds, Vic. : 1905 - 1918)",Victoria,18390978,1906-12-06,1918-12-19
 243,27942,"The Lilydale Express and Yarra Glen, Wandin Yallock, Upper Yarra, Healesville and Ringwood Chronicle (Vic. : 1898 - 1914)",Victoria,1839101X,1898-01-07,1914-06-19
@@ -322,7 +322,7 @@ title_id,total,title,state,issn,start_date,end_date
 328,15084,Preston Leader (Vic. : 1914 - 1918),Victoria,22001190,1914-01-10,1918-12-21
 329,7733,Ringwood and Croydon Chronicle (Vic. : 1914 - 1918),Victoria,22001778,1914-08-07,1918-12-20
 330,20886,"Snowy River Mail (Orbost, Vic. : 1911 - 1918)",Victoria,22000739,1911-09-07,1918-12-20
-331,315953,Shepparton Advertiser (Vic. : 1887 - 1953),Victoria,22000658,1887-01-18,1953-06-26
+331,323185,Shepparton Advertiser (Vic. : 1887 - 1953),Victoria,22000658,1887-01-18,1953-06-26
 332,63597,Melton Express (Vic. : 1915 - 1943),Victoria,22000755,1915-01-09,1943-08-21
 333,10393,Moorabbin News (Vic. : 1914 - 1918),Victoria,22000690,1914-01-10,1918-12-21
 334,28411,"Seymour Express and Goulburn Valley, Avenel, Graytown, Nagambie, Tallarook and Yea Advertiser (Vic. : 1882 - 1891; 1914 - 1918)",Victoria,22000712,1882-01-06,1918-12-20
@@ -361,7 +361,7 @@ title_id,total,title,state,issn,start_date,end_date
 367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
-370,395290,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
+370,399660,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -537,7 +537,7 @@ title_id,total,title,state,issn,start_date,end_date
 545,170308,Cobram Courier (Vic. : 1888 - 1954),Victoria,22017887,1888-09-12,1954-12-23
 546,6333,Cohuna Farmer's Weekly (Vic. : 1914 - 1918),Victoria,22019847,1914-01-02,1918-12-20
 547,19616,Coleraine Albion and Western Advertiser (Vic. : 1902; 1914 - 1918),Victoria,22019421,1902-04-18,1918-12-24
-548,34906,Corryong Courier (Vic. : 1894 - 1945),Victoria,22018301,1901-11-07,1937-12-23
+548,86872,Corryong Courier (Vic. : 1894 - 1945),Victoria,22018301,1896-01-01,1945-12-20
 549,7009,Cressy and Lismore Pioneer and Western Plains Representative (Vic. : 1915 - 1918),Victoria,22019669,1915-01-07,1918-12-25
 550,16528,Creswick Advertiser (Vic. : 1914 - 1918),Victoria,22019448,1914-01-03,1918-12-31
 551,20070,"Daylesford Advocate, Yandoit, Glenlyon and Eganstown Chronicle (Vic. : 1914 - 1918)",Victoria,22019464,1914-01-03,1918-12-31
@@ -605,7 +605,7 @@ title_id,total,title,state,issn,start_date,end_date
 613,29266,Truth (Melbourne ed.) (Vic. : 1914 - 1918),Victoria,22018174,1914-01-03,1918-12-28
 614,21878,Tungamah and Lake Rowan Express and St. James Gazette (Vic. : 1883 - 1920),Victoria,22017992,1914-01-08,1918-12-19
 615,9439,Ultima and Chillingollah Star (Vic. : 1914 - 1918),Victoria,22018247,1914-01-09,1918-12-27
-616,121513,Upper Murray and Mitta Herald (Vic. : 1885 - 1955),Victoria,22018573,1887-06-23,1955-12-22
+616,131918,Upper Murray and Mitta Herald (Vic. : 1885 - 1955),Victoria,22018573,1885-08-15,1955-12-22
 617,49658,The Violet Town Sentinel (Vic. : 1894 - 1946),Victoria,22018018,1894-07-06,1946-12-24
 618,35191,Warracknabeal Herald (Vic. : 1914 - 1918),Victoria,22020217,1914-01-02,1918-12-24
 619,9456,Wedderburn Express and Korongshire Advertiser (Vic. : 1914 - 1918),Victoria,22017860,1914-01-09,1918-12-20
@@ -1264,6 +1264,7 @@ title_id,total,title,state,issn,start_date,end_date
 1284,928143,"The Labor Daily (Sydney, NSW : 1924 - 1938)",New South Wales,22074821,1924-01-23,1938-12-01
 1285,91686,"Daily News (Sydney, NSW : 1938 - 1940)",New South Wales,22074848,1938-12-02,1940-07-26
 1287,5745,The San Remo Times and Phillip Island and Bass Valley Advertiser (Vic. : 1896 - 1898),Victoria,NDP00058,1896-02-07,1898-11-18
+1293,13436,,,,,
 1296,73615,The Sydney Daily Telegraph (NSW : 1879 -1883),New South Wales,22074880,1879-07-01,1883-12-29
 1297,3154966,"The Daily Telegraph (Sydney, NSW : 1883 - 1930)",New South Wales,22074902,1883-12-31,1930-01-31
 1298,26053,"Moreton Mail (Qld. : 1886 - 1899, 1930 - 1935)",Queensland,22075496,1886-01-09,1935-10-18
@@ -1448,6 +1449,8 @@ title_id,total,title,state,issn,start_date,end_date
 1504,4010,"The Arena-Sun (Melbourne, Vic. : 1903 - 1904)",Victoria,NDP00002,1903-02-12,1904-03-03
 1505,13813,"The Wheatbelt Wheatsheaf and Dampier Advocate (Merredin, WA : 1930 - 1939)",Western Australia,22096094,1930-09-02,1939-10-31
 1506,44,"The Yellow Flag and Torrens Island Terror (Adelaide, SA : 1901)",South Australia,NDP00050,1901-05-30,1901-06-07
+1511,19597,,,,,
+1512,13246,,,,,
 1513,38196,"Blackwood-Warren Sentinel (Bridgetown, WA : 1950 - 1954)",Western Australia,NDP00005,1950-06-08,1954-12-30
 1514,7176,"Cathedral Chronicle (Geraldton, WA : 1931 - 1954)",Western Australia,NDP00006,1931-02-01,1954-11-01
 1515,5853,"Clare's Weekly (Perth, WA : 1897 - 1899)",Western Australia,NDP00007,1897-08-27,1899-07-15
@@ -1517,7 +1520,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,858139,"Sunraysia Daily (Mildura, Vic. : 1920 - 1942)",Victoria,NDP00085,1920-10-02,1942-08-31
+1585,875083,"Sunraysia Daily (Mildura, Vic. : 1920 - 1942)",Victoria,NDP00085,1920-10-02,1942-08-31
 1586,17152,The Nowra Colonist (NSW : 1899 - 1904),New South Wales,NDP00086,1899-01-04,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
@@ -1741,11 +1744,15 @@ title_id,total,title,state,issn,start_date,end_date
 1822,4565,Orange Star (NSW : 1926 - 1927),New South Wales,NDP00310,1926-05-21,1927-01-25
 1823,1481,The Wingham Chronicle and Manning Advertiser (NSW : 1888),New South Wales,NDP00323,1888-03-05,1888-12-13
 1824,10365,Coolamon Echo (NSW : 1898 - 1905),New South Wales,NDP00317,1898-09-08,1905-12-22
-1825,33776,The Yarrawonga Mercury and Southern Riverina Advertiser (Vic. : 1897 - 1905; 1913 - 1920)1913 - 1920),Victoria,NDP00325,1913-01-03,1920-09-28
+1825,33776,The Yarrawonga Mercury and Southern Riverina Advertiser (Vic. : 1897 - 1905; 1913 - 1920),Victoria,NDP00325,1913-01-03,1920-09-28
+1826,2097,Essendon and Flemington Chronicle (Vic. : 1882 - 1894),Victoria,NDP00324,1882-03-03,1884-12-26
+1827,8024,,,,,
 1828,60713,Myrtleford Times and Ovens Valley Advertiser (Vic. : 1930 - 1955),Victoria,NDP00328,1930-04-30,1955-12-21
 1829,28041,Rutherglen Miner and Howlong and Wahgunyah Times (Vic. : 1903 - 1912),Victoria,NDP00329,1903-11-04,1912-01-10
 1830,39582,"The North Eastern Despatch (Wangaratta, Vic. : 1907 - 1913)",Victoria,NDP00330,1907-10-01,1913-12-31
-1835,1111,,,,,
+1832,20720,,,,,
+1835,1111,Omeo Standard (Vic. : 1928),Victoria,NDP00335,1928-09-05,1928-12-19
 1840,961,"The Irishman (Melbourne, Vic. : 1872 - 1873)",Victoria,NDP00340,1872-11-28,1873-03-28
-1841,2217,,,,,
-1848,2031,"The Hampden Guardian and Western Province Advertiser (Camperdown, Vic. : 1871 - 1872 ; 1874 - 1877)",Victoria,NDP00347,1874-01-02,1874-12-25
+1841,2217,"Essendon Gazette (Moonee Ponds, Vic. : 1900 - 1905)",Victoria,NDP00327,1900-08-16,1901-07-25
+1847,1902,,,,,
+1848,7098,"The Hampden Guardian and Western Province Advertiser (Camperdown, Vic. : 1871 - 1872 ; 1874 - 1877)",Victoria,NDP00347,1871-01-06,1877-03-08
