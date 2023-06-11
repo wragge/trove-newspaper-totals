@@ -918,15 +918,15 @@ South Australia,1969,13238
 South Australia,1970,4835
 South Australia,1971,9116
 South Australia,1972,13293
-South Australia,1973,4761
-South Australia,1974,4370
-South Australia,1975,4450
+South Australia,1973,13442
+South Australia,1974,12757
+South Australia,1975,12875
 South Australia,1976,3933
 South Australia,1977,3873
-South Australia,1978,4114
-South Australia,1979,6222
-South Australia,1980,7151
-South Australia,1981,12291
+South Australia,1978,9510
+South Australia,1979,12070
+South Australia,1980,11735
+South Australia,1981,14975
 South Australia,1982,7109
 South Australia,1983,7302
 South Australia,1984,8246
@@ -1188,36 +1188,36 @@ Victoria,1879,195053
 Victoria,1880,199329
 Victoria,1881,206378
 Victoria,1882,269798
-Victoria,1883,277219
-Victoria,1884,292392
-Victoria,1885,276989
-Victoria,1886,300357
-Victoria,1887,333600
-Victoria,1888,346126
-Victoria,1889,351991
-Victoria,1890,382561
-Victoria,1891,407667
-Victoria,1892,401042
-Victoria,1893,409338
-Victoria,1894,420637
-Victoria,1895,432658
-Victoria,1896,431171
-Victoria,1897,433965
-Victoria,1898,466519
-Victoria,1899,497659
-Victoria,1900,524731
-Victoria,1901,570401
-Victoria,1902,594916
-Victoria,1903,609313
-Victoria,1904,630650
+Victoria,1883,278061
+Victoria,1884,293647
+Victoria,1885,278247
+Victoria,1886,301760
+Victoria,1887,334871
+Victoria,1888,348598
+Victoria,1889,352426
+Victoria,1890,382694
+Victoria,1891,410119
+Victoria,1892,405676
+Victoria,1893,412149
+Victoria,1894,426075
+Victoria,1895,436409
+Victoria,1896,434873
+Victoria,1897,437187
+Victoria,1898,469452
+Victoria,1899,501162
+Victoria,1900,533389
+Victoria,1901,574196
+Victoria,1902,599130
+Victoria,1903,611714
+Victoria,1904,630896
 Victoria,1905,641961
 Victoria,1906,649568
-Victoria,1907,677867
-Victoria,1908,696586
-Victoria,1909,707284
+Victoria,1907,681129
+Victoria,1908,699120
+Victoria,1909,707472
 Victoria,1910,750767
-Victoria,1911,712786
-Victoria,1912,760307
+Victoria,1911,715550
+Victoria,1912,763460
 Victoria,1913,752619
 Victoria,1914,1277904
 Victoria,1915,1344068
@@ -1226,33 +1226,33 @@ Victoria,1917,1127219
 Victoria,1918,1072827
 Victoria,1919,499304
 Victoria,1920,474654
-Victoria,1921,484285
-Victoria,1922,516689
+Victoria,1921,486932
+Victoria,1922,519815
 Victoria,1923,539071
 Victoria,1924,577389
 Victoria,1925,572364
 Victoria,1926,568263
 Victoria,1927,590171
 Victoria,1928,615111
-Victoria,1929,587185
-Victoria,1930,571940
-Victoria,1931,524502
-Victoria,1932,534759
-Victoria,1933,570770
+Victoria,1929,590756
+Victoria,1930,575915
+Victoria,1931,528796
+Victoria,1932,539357
+Victoria,1933,575633
 Victoria,1934,629845
 Victoria,1935,643896
 Victoria,1936,648971
 Victoria,1937,644904
 Victoria,1938,633655
-Victoria,1939,604708
-Victoria,1940,507293
-Victoria,1941,437252
-Victoria,1942,331023
-Victoria,1943,275259
+Victoria,1939,606731
+Victoria,1940,509294
+Victoria,1941,439443
+Victoria,1942,335013
+Victoria,1943,277963
 Victoria,1944,294739
 Victoria,1945,310646
-Victoria,1946,388546
-Victoria,1947,394185
+Victoria,1946,391935
+Victoria,1947,397829
 Victoria,1948,329943
 Victoria,1949,403662
 Victoria,1950,411324
@@ -1383,8 +1383,8 @@ Western Australia,1899,298060
 Western Australia,1900,325136
 Western Australia,1901,280632
 Western Australia,1902,280686
-Western Australia,1903,326609
-Western Australia,1904,356832
+Western Australia,1903,326643
+Western Australia,1904,357284
 Western Australia,1905,405295
 Western Australia,1906,406204
 Western Australia,1907,405442
@@ -1407,14 +1407,14 @@ Western Australia,1923,375013
 Western Australia,1924,397281
 Western Australia,1925,411930
 Western Australia,1926,415348
-Western Australia,1927,450184
+Western Australia,1927,455301
 Western Australia,1928,502661
-Western Australia,1929,548285
-Western Australia,1930,539058
-Western Australia,1931,507592
-Western Australia,1932,533276
-Western Australia,1933,549347
-Western Australia,1934,572565
+Western Australia,1929,553563
+Western Australia,1930,549912
+Western Australia,1931,512388
+Western Australia,1932,538106
+Western Australia,1933,554571
+Western Australia,1934,582224
 Western Australia,1935,629069
 Western Australia,1936,630742
 Western Australia,1937,642583
