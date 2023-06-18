@@ -738,8 +738,8 @@ title_id,total,title,state,issn,start_date,end_date
 749,646,Sandringham News (Vic. : 1918),Victoria,22033173,1918-08-09,1918-12-20
 750,14485,Camberwell and Hawthorn Advertiser (Vic. : 1914 - 1918),Victoria,2203319X,1914-01-03,1918-12-20
 751,55039,Echuca and Moama Advertiser and Farmers' Gazette (Vic. : 1914 - 1918),Victoria,22033211,1914-01-01,1918-12-31
-752,125745,Kyabram Free Press and Rodney and Deakin Shire Advocate (Vic. : 1894 - 1954),Victoria,22033238,1894-12-21,1947-12-23
-753,20823,Kyabram Guardian (Vic. : 1907 - 1930),Victoria,22033254,1914-01-06,1918-12-24
+752,195113,Kyabram Free Press and Rodney and Deakin Shire Advocate (Vic. : 1894 - 1954),Victoria,22033238,1894-12-21,1955-12-22
+753,27600,Kyabram Guardian (Vic. : 1907 - 1930),Victoria,22033254,1907-07-16,1918-12-24
 754,42998,Ararat Chronicle and Willaura and Lake Bolac Districts Recorder (Vic. : 1914 - 1918),Victoria,22033270,1914-01-03,1918-12-28
 755,12138,Avoca Free Press and Farmers' and Miners' Journal (Vic. : 1900; 1914 - 1918),Victoria,22033297,1900-09-01,1918-12-28
 756,66135,The Avoca Mail (Vic. : 1863 - 1900; 1915 - 1918),Victoria,22033300,1863-12-11,1918-12-31
@@ -755,7 +755,7 @@ title_id,total,title,state,issn,start_date,end_date
 766,15002,Kerang Observer (Vic. : 1914 - 1918),Victoria,22033475,1914-01-07,1918-12-25
 767,13452,Casterton Free Press and Glenelg Shire Advertiser (Vic. : 1915 - 1918),Victoria,22033491,1915-01-11,1918-12-30
 768,9157,The Romsey Examiner (Vic. : 1914 - 1918),Victoria,22033505,1914-01-02,1918-12-20
-769,19268,The Woodend Star (Vic. : 1888 - 1942),Victoria,22033521,1892-03-02,1941-12-27
+769,62906,The Woodend Star (Vic. : 1888 - 1942),Victoria,22033521,1892-03-02,1942-03-28
 770,13387,Euroa Gazette (Vic. : 1915 - 1918),Victoria,2203353X,1915-01-05,1918-12-24
 771,13645,"Numurkah Standard and Wunghnu, Cobram, Yarroweyah and Strathmerton Advocate (Vic. : 1914 - 1918)",Victoria,22033556,1914-01-07,1918-03-27
 772,8381,"Seaside News (Cheltenham, Vic. : 1915 - 1918)",Victoria,22033572,1915-01-09,1918-12-21
@@ -1757,11 +1757,12 @@ title_id,total,title,state,issn,start_date,end_date
 1835,1111,Omeo Standard (Vic. : 1928),Victoria,NDP00335,1928-09-05,1928-12-19
 1836,1209,,,,,
 1837,962,Tungamah and Lake Rowan Express (Vic. : 1882 - 1883),Victoria,NDP00337,1882-10-13,1883-05-18
-1838,4780,,,,,
+1838,4780,Kyabram Free Press (Vic. : 1892 - 1894),Victoria,NDP00338,1892-02-19,1894-12-14
+1839,4064,,,,,
 1840,961,"The Irishman (Melbourne, Vic. : 1872 - 1873)",Victoria,NDP00340,1872-11-28,1873-03-28
 1841,11196,"Essendon Gazette (Moonee Ponds, Vic. : 1900 - 1905)",Victoria,NDP00327,1900-08-16,1905-04-27
 1842,34,"Sportsman (Perth, WA : 1903)",Western Australia,NDP00341,1903-09-23,1903-09-23
 1843,452,"The Sportsman (Perth, WA : 1904)",Western Australia,NDP00342,1904-08-05,1904-09-23
-1846,45758,"Daily Commercial News and Shipping List (Perth, WA : 1927 - 1934)",Western Australia,NDP00345,1927-05-09,1934-12-29
+1846,81230,"Daily Commercial News and Shipping List (Perth, WA : 1927 - 1934)",Western Australia,NDP00345,1927-05-09,1934-12-29
 1847,1902,"Western Press and Camperdown, Colac, Mortlake and Terang Representative (Vic. : 1866-1867 ; 1870)",Victoria,NDP00346,1866-06-30,1870-12-31
 1848,11506,"The Hampden Guardian and Western Province Advertiser (Camperdown, Vic. : 1871 - 1872 ; 1874 - 1877)",Victoria,NDP00347,1871-01-06,1877-03-08
