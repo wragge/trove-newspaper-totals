@@ -81,7 +81,7 @@ title_id,total,title,state,issn,start_date,end_date
 84,66687,Queanbeyan Age (NSW : 1867 - 1904),New South Wales,1837428X,1867-07-05,1903-12-29
 86,31152,Queanbeyan Age (NSW : 1907 - 1915),New South Wales,18374298,1908-01-07,1914-12-25
 87,47464,The Queanbeyan Age and Queanbeyan Observer (NSW : 1915 - 1927),New South Wales,18374336,1915-01-05,1927-04-01
-88,230136,Queanbeyan Age (NSW : 1927 - 1971),New South Wales,13208381,1927-07-26,1961-06-30
+88,268186,Queanbeyan Age (NSW : 1927 - 1971),New South Wales,13208381,1927-07-26,1971-12-23
 89,1947469,"The Register (Adelaide, SA : 1901 - 1929)",South Australia,18373860,1901-03-01,1928-12-31
 90,153465,"The Register News-Pictorial (Adelaide, SA : 1929 - 1931)",South Australia,18373887,1929-01-01,1931-02-20
 91,38493,Rockhampton Bulletin (Qld. : 1871 - 1878),Queensland,1837378X,1872-01-02,1878-01-01
@@ -361,7 +361,7 @@ title_id,total,title,state,issn,start_date,end_date
 367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
-370,511607,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
+370,537375,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -373,7 +373,7 @@ title_id,total,title,state,issn,start_date,end_date
 379,185996,Queensland Country Life (Qld. : 1900 - 1954),Queensland,1321165X,1900-03-28,1954-12-30
 380,1051,Kiama Examiner (NSW : 1858 - 1859),New South Wales,22007792,1858-12-18,1859-12-10
 381,6683,"Examiner (Kiama, NSW : 1859 - 1862)",New South Wales,22007814,1859-12-17,1862-12-30
-382,12744,Wagga Wagga Express and Murrumbidgee District Advertiser (NSW : 1858 - 1859; 1866; 1872 - 1875),New South Wales,22007962,1858-10-30,1874-12-30
+382,14833,Wagga Wagga Express and Murrumbidgee District Advertiser (NSW : 1858 - 1859; 1866; 1872 - 1875),New South Wales,22007962,1858-10-30,1875-08-21
 383,31743,"The Telegraph, St Kilda, Prahran and South Yarra Guardian (Vic. : 1864 - 1888)",Victoria,22008055,1864-03-19,1888-12-29
 384,14015,North Melbourne Gazette (Vic. : 1894 - 1901),Victoria,2200808X,1894-06-08,1901-01-25
 385,36116,North Melbourne Courier and West Melbourne Advertiser (Vic. : 1895 - 1913),Victoria,22008101,1895-11-08,1913-10-31
@@ -537,7 +537,7 @@ title_id,total,title,state,issn,start_date,end_date
 545,170308,Cobram Courier (Vic. : 1888 - 1954),Victoria,22017887,1888-09-12,1954-12-23
 546,6333,Cohuna Farmer's Weekly (Vic. : 1914 - 1918),Victoria,22019847,1914-01-02,1918-12-20
 547,19616,Coleraine Albion and Western Advertiser (Vic. : 1902; 1914 - 1918),Victoria,22019421,1902-04-18,1918-12-24
-548,98487,Corryong Courier (Vic. : 1894 - 1945),Victoria,22018301,1896-01-01,1945-12-20
+548,110302,Corryong Courier (Vic. : 1894 - 1945),Victoria,22018301,1894-01-25,1945-12-20
 549,7009,Cressy and Lismore Pioneer and Western Plains Representative (Vic. : 1915 - 1918),Victoria,22019669,1915-01-07,1918-12-25
 550,16528,Creswick Advertiser (Vic. : 1914 - 1918),Victoria,22019448,1914-01-03,1918-12-31
 551,20070,"Daylesford Advocate, Yandoit, Glenlyon and Eganstown Chronicle (Vic. : 1914 - 1918)",Victoria,22019464,1914-01-03,1918-12-31
@@ -605,7 +605,7 @@ title_id,total,title,state,issn,start_date,end_date
 613,29266,Truth (Melbourne ed.) (Vic. : 1914 - 1918),Victoria,22018174,1914-01-03,1918-12-28
 614,108052,Tungamah and Lake Rowan Express and St. James Gazette (Vic. : 1883 - 1920),Victoria,22017992,1883-05-25,1920-12-23
 615,9439,Ultima and Chillingollah Star (Vic. : 1914 - 1918),Victoria,22018247,1914-01-09,1918-12-27
-616,164136,Upper Murray and Mitta Herald (Vic. : 1885 - 1955),Victoria,22018573,1885-08-15,1955-12-22
+616,191082,Upper Murray and Mitta Herald (Vic. : 1885 - 1955),Victoria,22018573,1885-08-15,1955-12-22
 617,49658,The Violet Town Sentinel (Vic. : 1894 - 1946),Victoria,22018018,1894-07-06,1946-12-24
 618,35191,Warracknabeal Herald (Vic. : 1914 - 1918),Victoria,22020217,1914-01-02,1918-12-24
 619,9456,Wedderburn Express and Korongshire Advertiser (Vic. : 1914 - 1918),Victoria,22017860,1914-01-09,1918-12-20
@@ -1758,7 +1758,7 @@ title_id,total,title,state,issn,start_date,end_date
 1836,1209,The Shepparton Advertiser and Moira & Rodney Farmers' Chronicle (Vic. : 1886 - 1887),Victoria,NDP00336,1886-07-08,1887-01-14
 1837,962,Tungamah and Lake Rowan Express (Vic. : 1882 - 1883),Victoria,NDP00337,1882-10-13,1883-05-18
 1838,4780,Kyabram Free Press (Vic. : 1892 - 1894),Victoria,NDP00338,1892-02-19,1894-12-14
-1839,13343, Woodend Star and Macedon Advocate (Vic. : 1942 - 1955),Victoria,NDP00339,1942-04-11,1955-12-23
+1839,13348, Woodend Star and Macedon Advocate (Vic. : 1942 - 1955),Victoria,NDP00339,1942-04-11,1955-12-23
 1840,961,"The Irishman (Melbourne, Vic. : 1872 - 1873)",Victoria,NDP00340,1872-11-28,1873-03-28
 1841,11196,"Essendon Gazette (Moonee Ponds, Vic. : 1900 - 1905)",Victoria,NDP00327,1900-08-16,1905-04-27
 1842,34,"Sportsman (Perth, WA : 1903)",Western Australia,NDP00341,1903-09-23,1903-09-23
@@ -1767,13 +1767,14 @@ title_id,total,title,state,issn,start_date,end_date
 1847,1902,"Western Press and Camperdown, Colac, Mortlake and Terang Representative (Vic. : 1866-1867 ; 1870)",Victoria,NDP00346,1866-06-30,1870-12-31
 1848,11506,"The Hampden Guardian and Western Province Advertiser (Camperdown, Vic. : 1871 - 1872 ; 1874 - 1877)",Victoria,NDP00347,1871-01-06,1877-03-08
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
-1850,27450,,,,,
+1850,39205,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1905-12-29
 1851,31086,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,21547,,,,,
-1853,5040,,,,,
+1852,83835,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1941-08-12
+1853,10718,,,,,
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
-1857,372,"The Pastoral Times and Deniliquin Telegraph (Deniliquin, NSW : 1859 - 1861)",New South Wales,NDP00357,1861-07-05,1861-10-18
+1857,2796,"The Pastoral Times and Deniliquin Telegraph (Deniliquin, NSW : 1859 - 1861)",New South Wales,NDP00357,1859-05-26,1861-10-18
 1858,131,"The Pastoral Times : incorporated with the Southern Courier (South Deniliquin, NSW : 1861)",New South Wales,NDP00358,1861-10-25,1861-11-22
 1859,1277,"The Pastoral Times and Southern Courier (Deniliquin, N.S.W : 1861 - 1862)",New South Wales,NDP00359,1861-11-29,1862-07-18
 1860,595,Pastoral Times and Deniliquin and Echuca Chronicle (NSW : 1862),New South Wales,NDP00360,1862-07-26,1862-12-27
+1861,657,The Pastoral Times and Deniliquin and Moama Reporter (NSW : 1863),New South Wales,NDP00361,1863-01-03,1863-06-20
 1865,508,The Araluen Star and Miners' Right (NSW : 1863 - 1864),New South Wales,NDP00349,1863-09-05,1864-07-02
