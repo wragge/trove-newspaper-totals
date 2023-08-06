@@ -51,7 +51,7 @@ title_id,total,title,state,issn,start_date,end_date
 53,2109351,"Barrier Miner (Broken Hill, NSW : 1888 - 1954)",New South Wales,18373100,1889-03-01,1954-12-31
 54,1572,Bathurst Advocate (NSW : 1848 - 1849),New South Wales,18374026,1848-02-05,1849-09-22
 55,2079,Bathurst Free Press (NSW : 1849 - 1851),New South Wales,18374034,1849-10-06,1851-05-24
-56,223075,Bathurst Free Press and Mining Journal (NSW : 1851 - 1904),New South Wales,18374042,1851-05-28,1904-03-31
+56,223075,Bathurst Free Press and Mining Journal (NSW : 1851 - 1862; 1872; 1882; 1885 - 1897; 1899 - 1904),New South Wales,18374042,1851-05-28,1904-03-31
 57,18524,Bell's Life in Sydney and Sporting Chronicle (NSW : 1860 - 1870),New South Wales,1837364X,1860-10-13,1870-12-31
 58,27045,Bell's Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860),New South Wales,18373631,1845-01-04,1860-10-06
 59,155782,Burra Record (SA : 1878 - 1954),South Australia,18373437,1878-07-05,1954-12-21
@@ -1435,7 +1435,7 @@ title_id,total,title,state,issn,start_date,end_date
 1489,171389,"Torres News (Thursday Island, Qld. : 1957-2015)",Queensland,26518678,1957-03-19,2015-12-21
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,671977,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1951)",New South Wales,26519291,1935-07-01,1951-12-31
+1492,716029,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1951)",New South Wales,26519291,1934-07-02,1951-12-31
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -1694,7 +1694,7 @@ title_id,total,title,state,issn,start_date,end_date
 1772,29,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",Western Australia,NDP00273,1950-02-01,1952-04-01
 1773,40,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",Western Australia,NDP00274,1952-05-01,1954-12-01
 1774,26119,"The Australian (Brisbane, Qld. : 1878 - 1888)",Queensland,NDP00275,1878-11-02,1888-12-29
-1775,123908,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1969)",New South Wales,NDP00232,1891-10-23,1970-02-24
+1775,133206,"The Berrigan Advocate (Cobram, NSW. : 1891 - 1969)",New South Wales,NDP00232,1891-10-23,1970-02-24
 1776,55983,"The Jewish Post (Melbourne, Vic. : 1949 - 1966)",Victoria,NDP00276,1949-01-27,1966-05-06
 1777,5065,"The Australian Jewish Post (St. Kilda, Vic. : 1966 - 1968)",Victoria,NDP00277,1966-05-13,1968-08-02
 1778,2288,The Queanbeyan Age Canberra Advocate (NSW : 1927),New South Wales,18374387,1927-04-05,1927-07-22
@@ -1768,8 +1768,8 @@ title_id,total,title,state,issn,start_date,end_date
 1848,11506,"The Hampden Guardian and Western Province Advertiser (Camperdown, Vic. : 1871 - 1872 ; 1874 - 1877)",Victoria,NDP00347,1871-01-06,1877-03-08
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
 1850,52305,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1907-12-24
-1851,31086,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,293604,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1942-03-24
+1851,39420,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
+1852,413674,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1942-09-02
 1853,10717,South Sydney Sentinel (NSW : 1932 - 1935),New South Wales,NDP00353,1932-02-19,1935-09-26
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
 1856,2949,"Northern Planter (Ingham, Qld. : 1907 - 1908)",Queensland,NDP00356,1907-01-10,1908-12-24
@@ -1779,4 +1779,4 @@ title_id,total,title,state,issn,start_date,end_date
 1860,595,Pastoral Times and Deniliquin and Echuca Chronicle (NSW : 1862),New South Wales,NDP00360,1862-07-26,1862-12-27
 1861,657,The Pastoral Times and Deniliquin and Moama Reporter (NSW : 1863),New South Wales,NDP00361,1863-01-03,1863-06-20
 1865,508,The Araluen Star and Miners' Right (NSW : 1863 - 1864),New South Wales,NDP00349,1863-09-05,1864-07-02
-1869,495,"Direct Action (Adelaide, NSW : 1928 - 1930)",South Australia,NDP00369,1928-05-13,1930-11-29
+1869,495,"Direct Action (Adelaide, SA : 1928 - 1930)",South Australia,NDP00369,1928-05-13,1930-11-29
