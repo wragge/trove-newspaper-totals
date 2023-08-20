@@ -361,7 +361,7 @@ title_id,total,title,state,issn,start_date,end_date
 367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
-370,537375,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
+370,552855,Port Lincoln Times (SA : 1927 - 1965; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -738,7 +738,7 @@ title_id,total,title,state,issn,start_date,end_date
 749,646,Sandringham News (Vic. : 1918),Victoria,22033173,1918-08-09,1918-12-20
 750,14485,Camberwell and Hawthorn Advertiser (Vic. : 1914 - 1918),Victoria,2203319X,1914-01-03,1918-12-20
 751,55039,Echuca and Moama Advertiser and Farmers' Gazette (Vic. : 1914 - 1918),Victoria,22033211,1914-01-01,1918-12-31
-752,232911,Kyabram Free Press and Rodney and Deakin Shire Advocate (Vic. : 1894 - 1954),Victoria,22033238,1894-12-21,1955-12-22
+752,232911,Kyabram Free Press and Rodney and Deakin Shire Advocate (Vic. : 1894 - 1955),Victoria,22033238,1894-12-21,1955-12-22
 753,77282,Kyabram Guardian (Vic. : 1907 - 1930),Victoria,22033254,1907-07-16,1930-12-23
 754,42998,Ararat Chronicle and Willaura and Lake Bolac Districts Recorder (Vic. : 1914 - 1918),Victoria,22033270,1914-01-03,1918-12-28
 755,12138,Avoca Free Press and Farmers' and Miners' Journal (Vic. : 1900; 1914 - 1918),Victoria,22033297,1900-09-01,1918-12-28
@@ -1681,7 +1681,7 @@ title_id,total,title,state,issn,start_date,end_date
 1759,1273,"W.A. Amateur Sports (Perth, WA : 1931 - 1932)",Western Australia,NDP00260,1931-07-03,1932-07-22
 1760,65171,"Dalgety's Review (Perth, WA : 1926 - 1948)",Western Australia,NDP00261,1926-09-16,1948-05-27
 1761,1815,"The Standard (Perth, WA : 1882 - 1886)",Western Australia,NDP00262,1882-01-05,1886-03-18
-1762,14698,Kyneton Guardian and Woodend and Malmsbury Chronicle (Vic. : 1863 - 1870),Victoria,NDP00263,1863-01-03,1870-11-12
+1762,14677,Kyneton Guardian and Woodend and Malmsbury Chronicle (Vic. : 1863 - 1870),Victoria,NDP00263,1863-01-03,1870-11-12
 1763,4344,"The Ballan Times and Gordon, Egerton, Wallace, Millbrook and Blackwood Advertiser (Vic. : 1890 - 1893)",Victoria,NDP00264,1890-05-03,1893-08-18
 1764,2687,"The Ballan Times and Blackwood, Blakeville and Myrniong Standard (Vic. : 1893 - 1895)",Victoria,NDP00265,1893-08-24,1895-01-31
 1765,5057,"The Ballan Times and Egerton, Gordon, Blakeville and Myrniong Standard (Vic. : 1895 - 1899)",Victoria,NDP00266,1895-02-07,1899-02-02
@@ -1763,13 +1763,13 @@ title_id,total,title,state,issn,start_date,end_date
 1841,11196,"Essendon Gazette (Moonee Ponds, Vic. : 1900 - 1905)",Victoria,NDP00327,1900-08-16,1905-04-27
 1842,34,"Sportsman (Perth, WA : 1903)",Western Australia,NDP00341,1903-09-23,1903-09-23
 1843,452,"The Sportsman (Perth, WA : 1904)",Western Australia,NDP00342,1904-08-05,1904-09-23
-1846,116573,"Daily Commercial News and Shipping List (Perth, WA : 1927 - 1934)",Western Australia,NDP00345,1927-05-09,1934-12-29
+1846,122062,"Daily Commercial News and Shipping List (Perth, WA : 1927 - 1934)",Western Australia,NDP00345,1927-05-09,1934-12-29
 1847,1902,"Western Press and Camperdown, Colac, Mortlake and Terang Representative (Vic. : 1866-1867 ; 1870)",Victoria,NDP00346,1866-06-30,1870-12-31
 1848,11506,"The Hampden Guardian and Western Province Advertiser (Camperdown, Vic. : 1871 - 1872 ; 1874 - 1877)",Victoria,NDP00347,1871-01-06,1877-03-08
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
 1850,52305,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1907-12-24
 1851,39420,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,494890,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1943-02-02
+1852,613500,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1944-01-19
 1853,10717,South Sydney Sentinel (NSW : 1932 - 1935),New South Wales,NDP00353,1932-02-19,1935-09-26
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
 1856,2949,"Northern Planter (Ingham, Qld. : 1907 - 1908)",Queensland,NDP00356,1907-01-10,1908-12-24
