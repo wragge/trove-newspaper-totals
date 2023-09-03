@@ -287,7 +287,7 @@ title_id,total,title,state,issn,start_date,end_date
 293,28620,The Brunswick and Coburg Leader (Vic. : 1914 - 1926),Victoria,22002480,1914-01-02,1926-12-17
 294,58,Broadmeadows Camp Sentry (Vic. : 1917),Victoria,22000879,1917-07-27,1917-08-03
 295,10277,"Advertiser (Footscray, Vic. : 1914 - 1918)",Victoria,22000941,1914-01-10,1918-12-21
-296,93623,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1922",Victoria,22000615,1893-10-03,1922-12-21
+296,93623,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1905; 1914 - 1922",Victoria,22000615,1893-10-03,1922-12-21
 297,96547,Kerang New Times (Vic. : 1901 - 1918),Victoria,22002510,1901-03-29,1918-12-24
 298,9721,Portland Observer and Normanby Advertiser (Vic. : 1914 - 1918),Victoria,22000925,1914-01-05,1918-12-23
 299,25612,St Arnaud Mercury (Vic. : 1914 - 1918),Victoria,22000771,1914-01-07,1918-12-28
@@ -1119,7 +1119,7 @@ title_id,total,title,state,issn,start_date,end_date
 1131,241,York Advocate (WA : 1915),Western Australia,2205331X,1915-10-02,1915-11-06
 1132,26178,Western Tiers (Tas. : 1980 - 2004),Tasmania,22054316,1980-04-01,2004-01-20
 1133,47380,Goulburn Valley Stock and Property Journal (Vic. : 1916 - 1942),Victoria,22054332,1916-01-05,1942-12-23
-1134,180075,"The Daily Express (Wagga Wagga, NSW : 1919 - 1930)",New South Wales,22056882,1919-11-01,1930-08-30
+1134,180075,"The Daily Express (Wagga Wagga, NSW : 1919 - 1927; 1929 -1930)",New South Wales,22056882,1919-11-01,1930-08-30
 1137,11959,Port Phillip Gazette (Vic. : 1838 - 1845),Victoria,22054472,1838-10-27,1845-08-23
 1138,12127,Port Phillip Gazette and Settler's Journal (Vic. : 1845 - 1850),Victoria,22054499,1845-08-27,1850-12-21
 1139,491,Port Phillip Gazette (Vic. : 1851),Victoria,22054545,1851-01-04,1851-03-15
@@ -1290,7 +1290,7 @@ title_id,total,title,state,issn,start_date,end_date
 1319,745,The Auburn and Lidcombe Advance (NSW : 1925 - 1939),New South Wales,22082883,1925-12-10,1939-12-14
 1320,25,Auburn and District News (NSW : 1929),New South Wales,22082905,1929-11-28,1929-11-28
 1321,121,"Express (Granville, NSW : 1933 - 1935)",New South Wales,22082921,1933-06-22,1935-05-02
-1322,24422,"The Socialist (Melbourne, Vic. : 1906 - 1923)",Victoria,22083375,1906-04-02,1923-05-01
+1322,24422,"The Socialist (Melbourne, Vic. : 1906 - 1908; 1912 - 1923)",Victoria,22083375,1906-04-02,1923-05-01
 1323,2324,"Nasza droga (Adelaide, SA : 1952 - 1954)",South Australia,22081313,1952-12-24,1954-12-24
 1324,185430,The Kyneton Observer (Vic. : 1856 - 1900),Victoria,22083340,1857-08-11,1900-12-29
 1325,154334,"The Evening Echo (Ballarat, Vic. : 1914 - 1918)",Victoria,22081550,1914-01-02,1918-12-31
@@ -1769,7 +1769,7 @@ title_id,total,title,state,issn,start_date,end_date
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
 1850,52305,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1907-12-24
 1851,39420,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,744600,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1944-04-21
+1852,868165,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1945-02-17
 1853,10717,South Sydney Sentinel (NSW : 1932 - 1935),New South Wales,NDP00353,1932-02-19,1935-09-26
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
 1856,2949,"Northern Planter (Ingham, Qld. : 1907 - 1908)",Queensland,NDP00356,1907-01-10,1908-12-24
