@@ -287,7 +287,7 @@ title_id,total,title,state,issn,start_date,end_date
 293,28620,The Brunswick and Coburg Leader (Vic. : 1914 - 1926),Victoria,22002480,1914-01-02,1926-12-17
 294,58,Broadmeadows Camp Sentry (Vic. : 1917),Victoria,22000879,1917-07-27,1917-08-03
 295,10277,"Advertiser (Footscray, Vic. : 1914 - 1918)",Victoria,22000941,1914-01-10,1918-12-21
-296,93623,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1905; 1914 - 1922",Victoria,22000615,1893-10-03,1922-12-21
+296,93623,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1905; 1914 - 1922)",Victoria,22000615,1893-10-03,1922-12-21
 297,96547,Kerang New Times (Vic. : 1901 - 1918),Victoria,22002510,1901-03-29,1918-12-24
 298,9721,Portland Observer and Normanby Advertiser (Vic. : 1914 - 1918),Victoria,22000925,1914-01-05,1918-12-23
 299,25612,St Arnaud Mercury (Vic. : 1914 - 1918),Victoria,22000771,1914-01-07,1918-12-28
@@ -427,7 +427,7 @@ title_id,total,title,state,issn,start_date,end_date
 433,11150,"The Northern Daily Leader (Tamworth, NSW : 1921)",New South Wales,10395059,1921-01-01,1921-05-26
 434,39921,Adelong and Tumut Express and Tumbarumba Post (NSW : 1900 - 1925),New South Wales,2201408X,1900-04-06,1925-12-24
 435,4345,"Adelong Argus, Tumut and Gundagai Advertiser (NSW : 1925)",New South Wales,22014101,1925-01-06,1925-10-01
-436,774658,The Albury Banner and Wodonga Express (NSW : 1860 - 1938),New South Wales,22014128,1860-07-07,1938-12-30
+436,774658,The Albury Banner and Wodonga Express (NSW : 1860 - 1927; 1929 - 1931; 1933 - 1938),New South Wales,22014128,1860-07-07,1938-12-30
 437,71350,"The Newsletter: an Australian Paper for Australian People (Sydney, NSW : 1900 - 1919)",New South Wales,22014063,1900-09-15,1919-12-30
 438,8982,"The Mirror of Australia (Sydney, NSW : 1915 - 1917)",New South Wales,22014039,1915-07-30,1917-05-19
 439,88017,"Arrow (Sydney, NSW : 1916 - 1933)",New South Wales,22014144,1916-07-15,1933-03-10
@@ -606,7 +606,7 @@ title_id,total,title,state,issn,start_date,end_date
 614,108052,Tungamah and Lake Rowan Express and St. James Gazette (Vic. : 1883 - 1920),Victoria,22017992,1883-05-25,1920-12-23
 615,9439,Ultima and Chillingollah Star (Vic. : 1914 - 1918),Victoria,22018247,1914-01-09,1918-12-27
 616,250579,Upper Murray and Mitta Herald (Vic. : 1885 - 1955),Victoria,22018573,1885-08-15,1955-12-22
-617,49658,The Violet Town Sentinel (Vic. : 1894 - 1946),Victoria,22018018,1894-07-06,1946-12-24
+617,49658,The Violet Town Sentinel (Vic. : 1894 - 1904; 1914 - 1920; 1939 - 1946),Victoria,22018018,1894-07-06,1946-12-24
 618,35191,Warracknabeal Herald (Vic. : 1914 - 1918),Victoria,22020217,1914-01-02,1918-12-24
 619,9456,Wedderburn Express and Korongshire Advertiser (Vic. : 1914 - 1918),Victoria,22017860,1914-01-09,1918-12-20
 620,10056,Weekly News (Yarraville) (Vic. : 1914 - 1918),Victoria,22018131,1914-04-04,1918-12-21
@@ -738,7 +738,7 @@ title_id,total,title,state,issn,start_date,end_date
 749,646,Sandringham News (Vic. : 1918),Victoria,22033173,1918-08-09,1918-12-20
 750,14485,Camberwell and Hawthorn Advertiser (Vic. : 1914 - 1918),Victoria,2203319X,1914-01-03,1918-12-20
 751,55039,Echuca and Moama Advertiser and Farmers' Gazette (Vic. : 1914 - 1918),Victoria,22033211,1914-01-01,1918-12-31
-752,232911,Kyabram Free Press and Rodney and Deakin Shire Advocate (Vic. : 1894 - 1955),Victoria,22033238,1894-12-21,1955-12-22
+752,239392,Kyabram Free Press and Rodney and Deakin Shire Advocate (Vic. : 1894 - 1955),Victoria,22033238,1894-12-21,1955-12-22
 753,77282,Kyabram Guardian (Vic. : 1907 - 1930),Victoria,22033254,1907-07-16,1930-12-23
 754,42998,Ararat Chronicle and Willaura and Lake Bolac Districts Recorder (Vic. : 1914 - 1918),Victoria,22033270,1914-01-03,1918-12-28
 755,12138,Avoca Free Press and Farmers' and Miners' Journal (Vic. : 1900; 1914 - 1918),Victoria,22033297,1900-09-01,1918-12-28
@@ -1568,7 +1568,7 @@ title_id,total,title,state,issn,start_date,end_date
 1631,21747,Kojonup Courier (WA : 1951 - 1958),Western Australia,NDP00132,1951-04-19,1958-05-15
 1632,10856,Kulin Advocate and Dudinin-Jitarning Harrismith Recorder (WA : 1934 - 1940),Western Australia,NDP00133,1934-04-28,1940-02-01
 1633,1678,The Lake Grace and Districts Leader (WA : 1933 - 1934),Western Australia,NDP00134,1933-10-25,1934-08-08
-1634,19718,Leonora News (WA : 1944 - 1950),Western Australia,NDP00135,1946-03-01,1950-12-21
+1634,19718,Leonora News (WA : 1946 - 1950),Western Australia,NDP00135,1946-03-01,1950-12-21
 1635,5837,"Margaret River News (Busselton, WA : 1939 - 1941)",Western Australia,NDP00136,1939-05-04,1941-12-25
 1636,5548,Menzies Weekly Times (WA : 1897 - 1898),Western Australia,NDP00137,1897-10-30,1898-07-23
 1637,8180,"The Miner (Norseman, WA : 1896 - 1897)",Western Australia,NDP00138,1896-05-06,1897-12-31
@@ -1769,7 +1769,7 @@ title_id,total,title,state,issn,start_date,end_date
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
 1850,52305,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1907-12-24
 1851,39420,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,868165,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1945-02-17
+1852,980769,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1945-03-14
 1853,10717,South Sydney Sentinel (NSW : 1932 - 1935),New South Wales,NDP00353,1932-02-19,1935-09-26
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
 1856,2949,"Northern Planter (Ingham, Qld. : 1907 - 1908)",Queensland,NDP00356,1907-01-10,1908-12-24
