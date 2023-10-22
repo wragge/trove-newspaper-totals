@@ -361,7 +361,7 @@ title_id,total,title,state,issn,start_date,end_date
 367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
-370,552855,Port Lincoln Times (SA : 1927 - 1981; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
+370,552855,Port Lincoln Times (SA : 1927 - 1986; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -1435,7 +1435,7 @@ title_id,total,title,state,issn,start_date,end_date
 1489,171389,"Torres News (Thursday Island, Qld. : 1957-2015)",Queensland,26518678,1957-03-19,2015-12-21
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,716029,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1952)",New South Wales,26519291,1934-07-02,1951-12-31
+1492,752204,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1952)",New South Wales,26519291,1934-07-02,1952-11-29
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -1744,7 +1744,7 @@ title_id,total,title,state,issn,start_date,end_date
 1822,4565,Orange Star (NSW : 1926 - 1927),New South Wales,NDP00310,1926-05-21,1927-01-25
 1823,1481,The Wingham Chronicle and Manning Advertiser (NSW : 1888),New South Wales,NDP00323,1888-03-05,1888-12-13
 1824,10365,Coolamon Echo (NSW : 1898 - 1905),New South Wales,NDP00317,1898-09-08,1905-12-22
-1825,33776,The Yarrawonga Mercury and Southern Riverina Advertiser (Vic. : 1897 - 1905; 1913 - 1920),Victoria,NDP00325,1913-01-03,1920-09-28
+1825,41657,The Yarrawonga Mercury and Southern Riverina Advertiser (Vic. : 1897 - 1905; 1913 - 1920),Victoria,NDP00325,1897-03-04,1920-09-28
 1826,17217,Essendon and Flemington Chronicle (Vic. : 1882; 1884 - 1894),Victoria,NDP00324,1882-03-03,1894-03-09
 1827,22960,"The Essendon Gazette and Keilor, Bulla and Broadmeadows Reporter (Moonee Ponds, Vic. : 1888 - 1900)",Victoria,NDP00326,1888-08-23,1900-08-09
 1828,60713,Myrtleford Times and Ovens Valley Advertiser (Vic. : 1930 - 1955),Victoria,NDP00328,1930-04-30,1955-12-21
@@ -1769,7 +1769,7 @@ title_id,total,title,state,issn,start_date,end_date
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
 1850,454,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1899-02-28
 1851,39420,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,1713590,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1947-12-08
+1852,1849325,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1950-02-08
 1853,10717,South Sydney Sentinel (NSW : 1932 - 1935),New South Wales,NDP00353,1932-02-19,1935-09-26
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
 1856,2949,"Northern Planter (Ingham, Qld. : 1907 - 1908)",Queensland,NDP00356,1907-01-10,1908-12-24
@@ -1778,7 +1778,11 @@ title_id,total,title,state,issn,start_date,end_date
 1859,1277,"The Pastoral Times and Southern Courier (Deniliquin, N.S.W : 1861 - 1862)",New South Wales,NDP00359,1861-11-29,1862-07-18
 1860,595,Pastoral Times and Deniliquin and Echuca Chronicle (NSW : 1862),New South Wales,NDP00360,1862-07-26,1862-12-27
 1861,657,The Pastoral Times and Deniliquin and Moama Reporter (NSW : 1863),New South Wales,NDP00361,1863-01-03,1863-06-20
+1862,748,,,,,
+1863,7997,,,,,
+1864,4814,,,,,
 1865,508,The Araluen Star and Miners' Right (NSW : 1863 - 1864),New South Wales,NDP00349,1863-09-05,1864-07-02
 1869,495,"Direct Action (Adelaide, SA : 1928 - 1930)",South Australia,NDP00369,1928-05-13,1930-11-29
+1870,1707,,,,,
 1877,29422,The Braidwood and Araluen Express and People's Advocate (NSW : 1899 - 1904),New South Wales,NDP00376,1899-03-03,1904-05-27
 1878,22429,The Braidwood Express and People's Advocate (NSW : 1904 - 1907),New South Wales,NDP00377,1904-05-31,1907-12-24
