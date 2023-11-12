@@ -223,7 +223,7 @@ title_id,total,title,state,issn,start_date,end_date
 229,132884,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1899-05-05,1918-12-31
 230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
 231,63627,"Independent (Footscray, Vic. : 1883 - 1922)",Victoria,18389201,1883-03-31,1922-12-23
-232,452512,The Ballarat Courier (Vic. : 1869 - 1886; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
+232,463412,The Ballarat Courier (Vic. : 1869 - 1886; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
 233,1997,"Frankston Standard (Frankston, Vic. : 1949)",Victoria,18388205,1949-08-04,1949-12-21
 234,2108,"Queenscliff Sentinel, Drysdale, ... (Vic. : 1882 - 1884)",Victoria,18387160,1882-12-02,1884-12-20
 235,1155,The Queenscliff Sentinel (Vic. : 1884 - 1885),Victoria,18387179,1884-12-27,1885-06-13
@@ -576,7 +576,7 @@ title_id,total,title,state,issn,start_date,end_date
 584,15305,Myrtleford Mail and Whorouly Witness (Vic. : 1914 - 1918),Victoria,22018077,1914-01-08,1918-12-19
 585,70910,Nagambie Times (Vic. : 1882 - 1920),Victoria,22017925,1882-02-10,1920-12-24
 586,81678,The Narracan Shire Advocate (Vic. : 1889 - 1923),Victoria,22018115,1889-04-06,1923-06-15
-587,9719,"Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1914 - 1918)",Victoria,22017941,1914-01-06,1918-12-24
+587,9719,"The Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1884 - 1918)",Victoria,22017941,1914-01-06,1918-12-24
 588,24013,Nhill Free Press (Vic. : 1914 - 1918),Victoria,2201926X,1914-01-06,1918-12-31
 589,17274,Northcote Leader (Vic. : 1914 - 1918),Victoria,22020144,1914-01-10,1918-12-21
 590,1874,Northern District Standard (Vic. : 1915 - 1916),Victoria,22017720,1915-08-05,1916-03-30
@@ -1744,7 +1744,7 @@ title_id,total,title,state,issn,start_date,end_date
 1822,4565,Orange Star (NSW : 1926 - 1927),New South Wales,NDP00310,1926-05-21,1927-01-25
 1823,1481,The Wingham Chronicle and Manning Advertiser (NSW : 1888),New South Wales,NDP00323,1888-03-05,1888-12-13
 1824,10365,Coolamon Echo (NSW : 1898 - 1905),New South Wales,NDP00317,1898-09-08,1905-12-22
-1825,41657,The Yarrawonga Mercury and Southern Riverina Advertiser (Vic. : 1897 - 1905; 1913 - 1920),Victoria,NDP00325,1897-03-04,1920-09-28
+1825,57333,The Yarrawonga Mercury and Southern Riverina Advertiser (Vic. : 1897 - 1905; 1913 - 1920),Victoria,NDP00325,1897-03-04,1920-09-28
 1826,17217,Essendon and Flemington Chronicle (Vic. : 1882; 1884 - 1894),Victoria,NDP00324,1882-03-03,1894-03-09
 1827,22960,"The Essendon Gazette and Keilor, Bulla and Broadmeadows Reporter (Moonee Ponds, Vic. : 1888 - 1900)",Victoria,NDP00326,1888-08-23,1900-08-09
 1828,60713,Myrtleford Times and Ovens Valley Advertiser (Vic. : 1930 - 1955),Victoria,NDP00328,1930-04-30,1955-12-21
@@ -1769,7 +1769,7 @@ title_id,total,title,state,issn,start_date,end_date
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
 1850,454,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1899-02-28
 1851,39420,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,2057860,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1950-03-23
+1852,2208338,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1950-03-30
 1853,10717,South Sydney Sentinel (NSW : 1932 - 1935),New South Wales,NDP00353,1932-02-19,1935-09-26
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
 1856,2949,"Northern Planter (Ingham, Qld. : 1907 - 1908)",Queensland,NDP00356,1907-01-10,1908-12-24
@@ -1782,8 +1782,10 @@ title_id,total,title,state,issn,start_date,end_date
 1863,31452,,,,,
 1864,12773,Cessnock Express and Mining and Farming Representative (NSW : 1905 - 1910; 1925 - 1928),New South Wales,NDP00364,1905-06-10,1928-06-29
 1865,508,The Araluen Star and Miners' Right (NSW : 1863 - 1864),New South Wales,NDP00349,1863-09-05,1864-07-02
+1866,5351,,,,,
 1869,495,"Direct Action (Adelaide, SA : 1928 - 1930)",South Australia,NDP00369,1928-05-13,1930-11-29
 1870,1707,"The Gippsland Farmers' and Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1922 - 1923)",Victoria,NDP00370,1923-01-02,1923-04-16
 1871,4196,,,,,
+1873,4005,,,,,
 1877,29422,The Braidwood and Araluen Express and People's Advocate (NSW : 1899 - 1904),New South Wales,NDP00376,1899-03-03,1904-05-27
 1878,22429,The Braidwood Express and People's Advocate (NSW : 1904 - 1907),New South Wales,NDP00377,1904-05-31,1907-12-24
