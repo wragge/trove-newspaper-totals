@@ -284,7 +284,7 @@ title_id,total,title,state,issn,start_date,end_date
 290,122001,"South Australian Chronicle (Adelaide, SA : 1889 - 1895)",South Australia,22001093,1889-03-16,1895-09-28
 291,1214105,"Chronicle (Adelaide, SA : 1895 - 1954)",South Australia,22001131,1895-10-05,1954-12-30
 292,7442,Geelong Advertiser (Vic. : 1840 - 1845),Victoria,14401398,1840-11-21,1845-05-24
-293,28620,The Brunswick and Coburg Leader (Vic. : 1914 - 1926),Victoria,22002480,1914-01-02,1926-12-17
+293,28620,The Brunswick and Coburg Leader (Vic. : 1914 - 1929),Victoria,22002480,1914-01-02,1926-12-17
 294,58,Broadmeadows Camp Sentry (Vic. : 1917),Victoria,22000879,1917-07-27,1917-08-03
 295,10277,"Advertiser (Footscray, Vic. : 1914 - 1918)",Victoria,22000941,1914-01-10,1918-12-21
 296,93623,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1905; 1914 - 1922)",Victoria,22000615,1893-10-03,1922-12-21
@@ -1173,7 +1173,7 @@ title_id,total,title,state,issn,start_date,end_date
 1188,52794,"Construction (Sydney, NSW : 1938 - 1954)",New South Wales,22062475,1938-05-18,1954-12-29
 1189,2652,"Jamboree Daily (Frankston, Vic. : 1934; 1949; 1955; 1964; 1976; 1992; 2007)",Victoria,22062688,1934-12-28,2007-01-13
 1190,4234162,"The Herald (Melbourne, Vic. : 1861 - 1954)",Victoria,22062459,1861-01-01,1954-12-31
-1191,141724,"The Sun News-Pictorial (Melbourne, Vic. : 1922 - 1954; 1956)",Victoria,22062351,1922-09-11,1956-01-07
+1191,255896,"The Sun News-Pictorial (Melbourne, Vic. : 1922 - 1954; 1956)",Victoria,22062351,1922-09-11,1956-01-07
 1192,287,"The Echo (Fremantle, WA : 1905)",Western Australia,2206219X,1905-08-19,1905-09-30
 1193,3753,"The Empire (Fremantle, WA : 1907 - 1908)",Western Australia,22062211,1907-05-18,1908-09-05
 1194,4303,The Fremantle Mail (WA : 1903 - 1904),Western Australia,22062238,1903-09-16,1904-04-02
@@ -1435,7 +1435,7 @@ title_id,total,title,state,issn,start_date,end_date
 1489,171389,"Torres News (Thursday Island, Qld. : 1957-2015)",Queensland,26518678,1957-03-19,2015-12-21
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,765288,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1952)",New South Wales,26519291,1934-07-02,1952-11-29
+1492,769793,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1952)",New South Wales,26519291,1934-07-02,1952-12-31
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -1724,7 +1724,7 @@ title_id,total,title,state,issn,start_date,end_date
 1802,76489,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,2021-12-09
 1803,2794,Army Magazine (National : 1989 - 2002),National,NDP00302,1989-08-01,2002-08-01
 1804,95727,Royal Australian Navy News (National : 1958 - 2021),National,NDP00303,1958-07-18,2021-12-09
-1805,145,The Maylands & Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
+1805,145,The Maylands and Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
 1807,18983,"The Groper (Perth, WA : 1930 - 1937)",Western Australia,NDP00306,1930-10-04,1937-07-31
 1808,7675,"The Spectator (Perth, WA : 1900 - 1905)",Western Australia,NDP00307,1900-10-21,1905-02-04
@@ -1755,7 +1755,7 @@ title_id,total,title,state,issn,start_date,end_date
 1833,1316,The Bairnsdale Liberal News and North Gippsland District Advertiser (Vic. : 1879 - 1880),Victoria,NDP00333,1879-05-10,1880-02-04
 1834,23359,"The Gippsland Daily News (Bairnsdale, Vic. : 1890 - 1894)",Victoria,NDP00334,1890-03-31,1894-12-28
 1835,1111,Omeo Standard (Vic. : 1928),Victoria,NDP00335,1928-09-05,1928-12-19
-1836,1209,The Shepparton Advertiser and Moira & Rodney Farmers' Chronicle (Vic. : 1886 - 1887),Victoria,NDP00336,1886-07-08,1887-01-14
+1836,1209,The Shepparton Advertiser and Moira and Rodney Farmers' Chronicle (Vic. : 1886 - 1887),Victoria,NDP00336,1886-07-08,1887-01-14
 1837,962,Tungamah and Lake Rowan Express (Vic. : 1882 - 1883),Victoria,NDP00337,1882-10-13,1883-05-18
 1838,4780,Kyabram Free Press (Vic. : 1892 - 1894),Victoria,NDP00338,1892-02-19,1894-12-14
 1839,13346,Woodend Star and Macedon Advocate (Vic. : 1942 - 1955),Victoria,NDP00339,1942-04-11,1955-12-23
@@ -1769,7 +1769,7 @@ title_id,total,title,state,issn,start_date,end_date
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
 1850,454,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1899-02-28
 1851,39420,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,2679196,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1950-09-27
+1852,2832206,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1950-12-16
 1853,10717,South Sydney Sentinel (NSW : 1932 - 1935),New South Wales,NDP00353,1932-02-19,1935-09-26
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
 1856,2949,"Northern Planter (Ingham, Qld. : 1907 - 1908)",Queensland,NDP00356,1907-01-10,1908-12-24
@@ -1783,7 +1783,7 @@ title_id,total,title,state,issn,start_date,end_date
 1864,12773,Cessnock Express and Mining and Farming Representative (NSW : 1905 - 1910; 1925 - 1928),New South Wales,NDP00364,1905-06-10,1928-06-29
 1865,508,The Araluen Star and Miners' Right (NSW : 1863 - 1864),New South Wales,NDP00349,1863-09-05,1864-07-02
 1866,12877,Coolamon-Ganmain Farmers' Review (NSW : 1906 - 1910),New South Wales,NDP00366,1906-11-23,1910-11-25
-1867,7391,,,,,
+1867,7391,Coolamon Farmers' Review (NSW : 1910 - 1917),New South Wales,NDP00367,1910-09-09,1913-10-24
 1869,495,"Direct Action (Adelaide, SA : 1928 - 1930)",South Australia,NDP00369,1928-05-13,1930-11-29
 1870,1707,"The Gippsland Farmers' and Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1922 - 1923)",Victoria,NDP00370,1923-01-02,1923-04-16
 1871,36951,"The Journal : Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1923 - 1929)",Victoria,NDP00371,1923-04-19,1929-12-23
