@@ -426,10 +426,10 @@ New South Wales,1910,1235888
 New South Wales,1911,1376204
 New South Wales,1912,1439360
 New South Wales,1913,1466049
-New South Wales,1914,1525649
-New South Wales,1915,1538526
-New South Wales,1916,1395565
-New South Wales,1917,1310093
+New South Wales,1914,1527783
+New South Wales,1915,1542399
+New South Wales,1916,1397279
+New South Wales,1917,1310819
 New South Wales,1918,1233792
 New South Wales,1919,1277207
 New South Wales,1920,1172608
@@ -461,9 +461,9 @@ New South Wales,1945,1098830
 New South Wales,1946,1376217
 New South Wales,1947,1425257
 New South Wales,1948,1252767
-New South Wales,1949,1421251
-New South Wales,1950,1508856
-New South Wales,1951,1022854
+New South Wales,1949,1430406
+New South Wales,1950,1528907
+New South Wales,1951,1118343
 New South Wales,1952,1033343
 New South Wales,1953,1038944
 New South Wales,1954,1069532
@@ -835,27 +835,27 @@ South Australia,1886,179057
 South Australia,1887,179546
 South Australia,1888,177053
 South Australia,1889,194574
-South Australia,1890,201191
-South Australia,1891,203198
-South Australia,1892,204945
-South Australia,1893,207806
-South Australia,1894,206543
-South Australia,1895,212797
-South Australia,1896,216135
-South Australia,1897,214765
-South Australia,1898,231885
-South Australia,1899,239904
-South Australia,1900,244602
-South Australia,1901,260594
-South Australia,1902,261808
-South Australia,1903,276589
-South Australia,1904,263991
-South Australia,1905,273985
-South Australia,1906,293241
-South Australia,1907,302857
-South Australia,1908,319700
-South Australia,1909,326504
-South Australia,1910,399550
+South Australia,1890,202360
+South Australia,1891,204531
+South Australia,1892,206036
+South Australia,1893,208946
+South Australia,1894,207840
+South Australia,1895,214144
+South Australia,1896,217591
+South Australia,1897,216182
+South Australia,1898,233246
+South Australia,1899,241132
+South Australia,1900,245957
+South Australia,1901,262057
+South Australia,1902,263522
+South Australia,1903,278351
+South Australia,1904,265930
+South Australia,1905,276094
+South Australia,1906,295329
+South Australia,1907,305128
+South Australia,1908,322207
+South Australia,1909,328615
+South Australia,1910,402052
 South Australia,1911,407806
 South Australia,1912,436566
 South Australia,1913,434596
@@ -865,12 +865,12 @@ South Australia,1916,446190
 South Australia,1917,425089
 South Australia,1918,395350
 South Australia,1919,388512
-South Australia,1920,376007
-South Australia,1921,400974
-South Australia,1922,434017
-South Australia,1923,472780
-South Australia,1924,467672
-South Australia,1925,468747
+South Australia,1920,378286
+South Australia,1921,403224
+South Australia,1922,436200
+South Australia,1923,474887
+South Australia,1924,469741
+South Australia,1925,470833
 South Australia,1926,449429
 South Australia,1927,457781
 South Australia,1928,499720
@@ -906,11 +906,11 @@ South Australia,1957,13160
 South Australia,1958,13575
 South Australia,1959,15918
 South Australia,1960,19471
-South Australia,1961,16307
-South Australia,1962,14690
-South Australia,1963,13585
+South Australia,1961,19998
+South Australia,1962,18939
+South Australia,1963,16201
 South Australia,1964,14727
-South Australia,1965,14357
+South Australia,1965,16981
 South Australia,1966,12107
 South Australia,1967,12596
 South Australia,1968,12669
@@ -1231,9 +1231,9 @@ Victoria,1922,550611
 Victoria,1923,617241
 Victoria,1924,666429
 Victoria,1925,657977
-Victoria,1926,639166
-Victoria,1927,622438
-Victoria,1928,634868
+Victoria,1926,674465
+Victoria,1927,660786
+Victoria,1928,649072
 Victoria,1929,603601
 Victoria,1930,586106
 Victoria,1931,535808
