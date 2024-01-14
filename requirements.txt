@@ -24,7 +24,9 @@ babel==2.10.3
 backcall==0.2.0
     # via ipython
 beautifulsoup4==4.11.1
-    # via nbconvert
+    # via
+    #   -r requirements.in
+    #   nbconvert
 bleach==5.0.1
     # via nbconvert
 certifi==2021.10.8

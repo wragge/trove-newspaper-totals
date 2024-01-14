@@ -6,3 +6,4 @@ altair
 GitPython
 voila
 voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git
+beautifulsoup4

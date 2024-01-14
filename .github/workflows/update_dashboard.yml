@@ -23,6 +23,8 @@ jobs:
       uses: py-actions/py-dependency-install@v2
       with:
         path: 'requirements.txt'
+    - name: Update archive
+      run: python update_archive.py
     - name: Update dashboard
       run: jupyter nbconvert --no-input --execute trove_newspapers_dashboard.ipynb --to html --template=material --output=docs/index.html
     - name: Commit and push if it changed
