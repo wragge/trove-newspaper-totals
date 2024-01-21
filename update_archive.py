@@ -1,10 +1,10 @@
 from pathlib import Path
 from bs4 import BeautifulSoup
 import shutil
-from datetime import datetime
+import datetime
 
 # Copy past week to archive
-date = datetime.now()
+date = datetime.datetime.now() - datetime.timedelta(days=7)
 from_file = Path("docs/index.html")
 to_file = Path(f"docs/archive/{date.strftime('%Y-%m-%d')}.html")
 shutil.copy(from_file, to_file)
