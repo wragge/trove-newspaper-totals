@@ -1,6 +1,7 @@
 from pathlib import Path
 from bs4 import BeautifulSoup
 import shutil
+from datetime import datetime
 
 # Copy past week to archive
 date = datetime.now()
