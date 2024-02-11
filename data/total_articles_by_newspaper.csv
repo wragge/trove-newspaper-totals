@@ -618,7 +618,7 @@ title_id,total,title,state,issn,start_date,end_date
 626,45,Clear Hills Standard and Daysdale and Saverneke Times (NSW : 1914),New South Wales,22022147,1914-06-20,1914-06-20
 627,8660,Albury Banner Wodonga Express and Riverina Stock Journal (NSW : 1941),New South Wales,22023372,1941-01-03,1941-09-12
 628,8627,"Daily Witness (Young, NSW : 1923 - 1924)",New South Wales,22023380,1923-11-05,1924-06-20
-629,853,Maitland Mercury (NSW : 1939 - 1954),New South Wales,22023410,1939-12-26,1939-12-30
+629,853,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1939-12-30
 630,23611,"Construction and Real Estate Journal (Sydney, NSW : 1930 - 1938)",New South Wales,22020470,1930-07-30,1938-05-11
 631,4509,The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881),New South Wales,22023828,1879-02-27,1881-10-13
 632,224436,The West Wyalong Advocate (NSW : 1928 - 1954),New South Wales,22023402,1928-03-02,1954-12-30
@@ -1173,7 +1173,7 @@ title_id,total,title,state,issn,start_date,end_date
 1188,52794,"Construction (Sydney, NSW : 1938 - 1954)",New South Wales,22062475,1938-05-18,1954-12-29
 1189,2652,"Jamboree Daily (Frankston, Vic. : 1934; 1949; 1955; 1964; 1976; 1992; 2007)",Victoria,22062688,1934-12-28,2007-01-13
 1190,4234162,"The Herald (Melbourne, Vic. : 1861 - 1954)",Victoria,22062459,1861-01-01,1954-12-31
-1191,1240654,"The Sun News-Pictorial (Melbourne, Vic. : 1922 - 1954; 1956)",Victoria,22062351,1922-09-11,1956-01-07
+1191,1333907,"The Sun News-Pictorial (Melbourne, Vic. : 1922 - 1954; 1956)",Victoria,22062351,1922-09-11,1956-01-07
 1192,287,"The Echo (Fremantle, WA : 1905)",Western Australia,2206219X,1905-08-19,1905-09-30
 1193,3753,"The Empire (Fremantle, WA : 1907 - 1908)",Western Australia,22062211,1907-05-18,1908-09-05
 1194,4303,The Fremantle Mail (WA : 1903 - 1904),Western Australia,22062238,1903-09-16,1904-04-02
@@ -1563,7 +1563,7 @@ title_id,total,title,state,issn,start_date,end_date
 1626,64470,"The Goldfields Observer (Kalgoorlie, WA : 1930 - 1939)",Western Australia,NDP00127,1930-09-21,1939-01-01
 1627,29221,Goomalling Gazette (WA : 1946 - 1954),Western Australia,NDP00128,1946-02-15,1954-08-19
 1628,30770,Greenough Sun (WA : 1947 - 1954),Western Australia,NDP00129,1947-12-19,1954-12-30
-1629,31867,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1956)",Western Australia,NDP00130,1946-05-03,1956-03-23
+1629,88827,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1956)",Western Australia,NDP00130,1931-05-01,1956-03-23
 1630,28725,"The Inland Watch (Leonora, WA : 1937 - 1943)",Western Australia,NDP00131,1937-05-15,1943-10-23
 1631,21747,Kojonup Courier (WA : 1951 - 1958),Western Australia,NDP00132,1951-04-19,1958-05-15
 1632,10856,Kulin Advocate and Dudinin-Jitarning Harrismith Recorder (WA : 1934 - 1940),Western Australia,NDP00133,1934-04-28,1940-02-01
@@ -1709,7 +1709,6 @@ title_id,total,title,state,issn,start_date,end_date
 1787,3496,"The Daily Guardian (Perth, WA : 1937)",Western Australia,NDP00286,1937-08-04,1937-09-04
 1788,48793,"The Guardian (Perth, WA : 1937 - 1954)",Western Australia,NDP00287,1937-09-11,1954-12-18
 1789,47818,"The Farmers' Weekly (Perth, WA : 1947 - 1954)",Western Australia,NDP00288,1947-07-17,1954-12-30
-1790,56960,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1946)",Western Australia,NDP00289,1931-05-01,1946-04-25
 1791,322,"The Western Suburban News (Subiaco, WA : 1913)",Western Australia,NDP00290,1913-08-29,1913-12-12
 1792,269,"The Elswood Observer (Cottesloe, WA : 1931)",Western Australia,NDP00291,1931-06-18,1931-08-06
 1793,5138,"The Weekly Guardian (Subiaco, WA : 1933 - 1934)",Western Australia,NDP00292,1933-04-29,1934-12-21
@@ -1769,7 +1768,7 @@ title_id,total,title,state,issn,start_date,end_date
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
 1850,454,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1899-02-28
 1851,39420,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,3926784,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1953-04-22
+1852,4094627,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1953-08-29
 1853,10717,South Sydney Sentinel (NSW : 1932 - 1935),New South Wales,NDP00353,1932-02-19,1935-09-26
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
 1856,2949,"Northern Planter (Ingham, Qld. : 1907 - 1908)",Queensland,NDP00356,1907-01-10,1908-12-24
@@ -1790,7 +1789,7 @@ title_id,total,title,state,issn,start_date,end_date
 1871,36951,"The Journal : Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1923 - 1929)",Victoria,NDP00371,1923-04-19,1929-12-23
 1873,27970,"The Standard (Port Adelaide, SA : 1959 - 1965)",South Australia,NDP00365,1959-08-06,1965-12-22
 1874,81234,"The People's Weekly (Moonta, SA: 1890 - 1926)",South Australia,NDP00373,1890-05-17,1928-12-22
-1875,9901,,,,,
+1875,9901,"The Seasider (Christies Beach, SA : 1956 - 1963)",South Australia,NDP00374,1956-08-01,1963-09-19
 1877,29422,The Braidwood and Araluen Express and People's Advocate (NSW : 1899 - 1904),New South Wales,NDP00376,1899-03-03,1904-05-27
 1878,22429,The Braidwood Express and People's Advocate (NSW : 1904 - 1907),New South Wales,NDP00377,1904-05-31,1907-12-24
-1879,37668,,,,,
+1879,37668,The South-East Kingston Leader (SA : 1962 - 1976),South Australia,NDP00378,1962-09-19,1976-12-21
