@@ -1173,7 +1173,7 @@ title_id,total,title,state,issn,start_date,end_date
 1188,52794,"Construction (Sydney, NSW : 1938 - 1954)",New South Wales,22062475,1938-05-18,1954-12-29
 1189,2652,"Jamboree Daily (Frankston, Vic. : 1934; 1949; 1955; 1964; 1976; 1992; 2007)",Victoria,22062688,1934-12-28,2007-01-13
 1190,4234162,"The Herald (Melbourne, Vic. : 1861 - 1954)",Victoria,22062459,1861-01-01,1954-12-31
-1191,1764344,"The Sun News-Pictorial (Melbourne, Vic. : 1922 - 1954; 1956)",Victoria,22062351,1922-09-11,1956-01-07
+1191,1899296,"The Sun News-Pictorial (Melbourne, Vic. : 1922 - 1954; 1956)",Victoria,22062351,1922-09-11,1956-01-07
 1192,287,"The Echo (Fremantle, WA : 1905)",Western Australia,2206219X,1905-08-19,1905-09-30
 1193,3753,"The Empire (Fremantle, WA : 1907 - 1908)",Western Australia,22062211,1907-05-18,1908-09-05
 1194,4303,The Fremantle Mail (WA : 1903 - 1904),Western Australia,22062238,1903-09-16,1904-04-02
@@ -1521,7 +1521,7 @@ title_id,total,title,state,issn,start_date,end_date
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
 1585,903827,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1942-08-31
-1586,17152,The Nowra Colonist (NSW : 1899 - 1904),New South Wales,NDP00086,1899-01-04,1904-12-29
+1586,17152,The Nowra Colonist (NSW : 1892; 1899 - 1904),New South Wales,NDP00086,1899-01-04,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
 1589,3338,"The Shoalhaven News, Ulladulla and Southern Coast Districts Advertiser (NSW : 1871 - 1873)",New South Wales,NDP00089,1871-06-24,1873-10-11
@@ -1731,7 +1731,7 @@ title_id,total,title,state,issn,start_date,end_date
 1810,621,"The Trader (West Leederville, WA : 1953)",Western Australia,NDP00309,1953-05-01,1953-12-11
 1811,7950,"The St Georges Advocate (Rockdale, NSW : 1899 - 1903)",New South Wales,NDP00311,1899-02-04,1903-09-26
 1812,4226,"Pastoral Times and Echuca and Moama Chronicle (Deniliquin, NSW : 1863 - 1866)",New South Wales,NDP00312,1863-06-27,1866-05-12
-1813,58369,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1950",New South Wales,NDP00313,1866-05-19,1895-09-28
+1813,135566,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1950",New South Wales,NDP00313,1866-05-19,1950-03-31
 1814,1906,"The Manning and Hastings Advocate (Wingham, NSW : 1881 - 1882)",New South Wales,NDP00314,1881-11-11,1882-11-29
 1815,2392,"The Manning River Chronicle (Wingham, NSW : 1886 - 1888) ",New South Wales,NDP00315,1886-09-06,1888-02-27
 1816,1257,"The Manning River Independent and Advocate of Native Industries (Taree, NSW : 1892 - 1893)",New South Wales,NDP00316,1892-01-26,1893-05-19
@@ -1768,7 +1768,7 @@ title_id,total,title,state,issn,start_date,end_date
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
 1850,454,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1899-02-28
 1851,39420,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,4634548,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1954-09-08
+1852,4766482,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1955-01-06
 1853,10717,South Sydney Sentinel (NSW : 1932 - 1935),New South Wales,NDP00353,1932-02-19,1935-09-26
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
 1856,2949,"Northern Planter (Ingham, Qld. : 1907 - 1908)",Queensland,NDP00356,1907-01-10,1908-12-24
