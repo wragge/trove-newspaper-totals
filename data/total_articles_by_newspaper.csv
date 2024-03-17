@@ -361,7 +361,7 @@ title_id,total,title,state,issn,start_date,end_date
 367,189068,Goulburn Herald (NSW : 1881 - 1907),New South Wales,22007318,1881-04-02,1907-12-30
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
-370,636871,Port Lincoln Times (SA : 1927 - 1986; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
+370,639837,Port Lincoln Times (SA : 1927 - 1986; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -476,7 +476,7 @@ title_id,total,title,state,issn,start_date,end_date
 482,328988,The Bathurst Times (NSW : 1909 - 1925),New South Wales,22014195,1909-09-01,1925-12-31
 483,19736,The Campbelltown Herald (NSW : 1880 - 1919),New South Wales,22015256,1880-02-14,1919-10-11
 484,13877,Gippsland Guardian (Vic. : 1855 - 1868),Victoria,22013539,1855-10-05,1868-12-31
-485,86791,The Braidwood Review and District Advocate (NSW : 1914 - 1954),New South Wales,22016813,1915-11-30,1954-12-21
+485,86821,The Braidwood Review and District Advocate (NSW : 1914 - 1954),New South Wales,22016813,1914-11-06,1954-12-21
 486,118866,"The Gundagai Independent and Pastoral, Agricultural and Mining Advocate (NSW : 1898 - 1928)",New South Wales,22015736,1898-09-07,1928-08-16
 487,216786,"The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)",New South Wales,22015752,1868-01-18,1931-12-25
 488,142400,"The Hebrew Standard of Australasia (Sydney, NSW : 1895 - 1953)",New South Wales,22015779,1895-11-01,1953-10-09
@@ -715,7 +715,7 @@ title_id,total,title,state,issn,start_date,end_date
 726,7955,"Riverina Times, Hay Standard and Journal of Water Conservation (Hay, NSW : 1900 - 1902)",New South Wales,22030565,1900-11-29,1902-09-29
 727,59,The Temora Advertiser (NSW : 1939),New South Wales,22030603,1939-09-22,1939-09-22
 728,1253,Temora Herald and Mining Journal (NSW : 1882 - 1883),New South Wales,22030484,1882-04-21,1883-04-06
-729,3,The Temora Telegraph and Mining Advocate (NSW : 1880),New South Wales,2203062X,,
+729,6,The Temora Telegraph and Mining Advocate (NSW : 1880),New South Wales,2203062X,1880-07-29,1880-07-29
 730,34298,"The Wyalong Star and Temora and Barmedman Advertiser (West Wyalong, NSW : 1894 - 1895; 1899 - 1906)",New South Wales,22030662,1894-04-20,1906-06-05
 731,1846519,"Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)",Queensland,22029052,1860-11-21,1947-04-24
 732,269044,Maryborough Chronicle (Qld. : 1947 - 1954),Queensland,22029141,1947-04-25,1954-12-31
@@ -1173,7 +1173,7 @@ title_id,total,title,state,issn,start_date,end_date
 1188,52794,"Construction (Sydney, NSW : 1938 - 1954)",New South Wales,22062475,1938-05-18,1954-12-29
 1189,2652,"Jamboree Daily (Frankston, Vic. : 1934; 1949; 1955; 1964; 1976; 1992; 2007)",Victoria,22062688,1934-12-28,2007-01-13
 1190,4234162,"The Herald (Melbourne, Vic. : 1861 - 1954)",Victoria,22062459,1861-01-01,1954-12-31
-1191,1899296,"The Sun News-Pictorial (Melbourne, Vic. : 1922 - 1954; 1956)",Victoria,22062351,1922-09-11,1956-01-07
+1191,2225779,"The Sun News-Pictorial (Melbourne, Vic. : 1922 - 1954; 1956)",Victoria,22062351,1922-09-11,1956-01-07
 1192,287,"The Echo (Fremantle, WA : 1905)",Western Australia,2206219X,1905-08-19,1905-09-30
 1193,3753,"The Empire (Fremantle, WA : 1907 - 1908)",Western Australia,22062211,1907-05-18,1908-09-05
 1194,4303,The Fremantle Mail (WA : 1903 - 1904),Western Australia,22062238,1903-09-16,1904-04-02
@@ -1731,7 +1731,7 @@ title_id,total,title,state,issn,start_date,end_date
 1810,621,"The Trader (West Leederville, WA : 1953)",Western Australia,NDP00309,1953-05-01,1953-12-11
 1811,7950,"The St Georges Advocate (Rockdale, NSW : 1899 - 1903)",New South Wales,NDP00311,1899-02-04,1903-09-26
 1812,4226,"Pastoral Times and Echuca and Moama Chronicle (Deniliquin, NSW : 1863 - 1866)",New South Wales,NDP00312,1863-06-27,1866-05-12
-1813,135566,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1950",New South Wales,NDP00313,1866-05-19,1950-03-31
+1813,181277,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1950)",New South Wales,NDP00313,1866-05-19,1950-12-29
 1814,1906,"The Manning and Hastings Advocate (Wingham, NSW : 1881 - 1882)",New South Wales,NDP00314,1881-11-11,1882-11-29
 1815,2392,"The Manning River Chronicle (Wingham, NSW : 1886 - 1888) ",New South Wales,NDP00315,1886-09-06,1888-02-27
 1816,1257,"The Manning River Independent and Advocate of Native Industries (Taree, NSW : 1892 - 1893)",New South Wales,NDP00316,1892-01-26,1893-05-19
@@ -1768,7 +1768,7 @@ title_id,total,title,state,issn,start_date,end_date
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
 1850,454,The Braidwood and Araluen Express (NSW : 1899 - 1907),New South Wales,NDP00350,1899-01-03,1899-02-28
 1851,39420,"Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,NDP00351,1973-03-21,1984-05-30
-1852,4766482,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1955-01-06
+1852,4791318,"Daily Mirror (Sydney, NSW : 1941 - 1955)",New South Wales,NDP00352,1941-05-12,1955-01-06
 1853,10717,South Sydney Sentinel (NSW : 1932 - 1935),New South Wales,NDP00353,1932-02-19,1935-09-26
 1854,40,South Sydney News (NSW : 1940),New South Wales,NDP00354,1940-05-17,1940-05-17
 1856,2949,"Northern Planter (Ingham, Qld. : 1907 - 1908)",Queensland,NDP00356,1907-01-10,1908-12-24
@@ -1787,9 +1787,16 @@ title_id,total,title,state,issn,start_date,end_date
 1869,495,"Direct Action (Adelaide, SA : 1928 - 1930)",South Australia,NDP00369,1928-05-13,1930-11-29
 1870,1707,"The Gippsland Farmers' and Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1922 - 1923)",Victoria,NDP00370,1923-01-02,1923-04-16
 1871,36951,"The Journal : Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1923 - 1929)",Victoria,NDP00371,1923-04-19,1929-12-23
+1872,698,Braidwood News and Goldfields General Advertiser (NSW : 1862),New South Wales,NDP00372,1862-03-29,1862-09-02
 1873,27970,"The Standard (Port Adelaide, SA : 1959 - 1965)",South Australia,NDP00365,1959-08-06,1965-12-22
-1874,81234,"The People's Weekly (Moonta, SA: 1890 - 1926)",South Australia,NDP00373,1890-05-17,1928-12-22
+1874,81234,"The People's Weekly (Moonta, SA: 1890 - 1928)",South Australia,NDP00373,1890-05-17,1928-12-22
 1875,9901,"The Seasider (Christies Beach, SA : 1956 - 1963)",South Australia,NDP00374,1956-08-01,1963-09-19
 1877,29422,The Braidwood and Araluen Express and People's Advocate (NSW : 1899 - 1904),New South Wales,NDP00376,1899-03-03,1904-05-27
 1878,22429,The Braidwood Express and People's Advocate (NSW : 1904 - 1907),New South Wales,NDP00377,1904-05-31,1907-12-24
 1879,37668,The South-East Kingston Leader (SA : 1962 - 1976),South Australia,NDP00378,1962-09-19,1976-12-21
+1881,26,Braidwood Observer and Miner's Advocate (NSW : 1859 - 1862),New South Wales,NDP00380,1859-08-27,1859-09-10
+1882,4142,,,,,
+1891,8542,,,,,
+1892,42,"The Sunny Corner Silver Press and Miners' Advocate (Mitchell, NSW :  1886)",New South Wales,NDP00391,1886-03-20,1886-03-27
+1893,999,The Captain's Flat Mining Record (NSW : 1898),New South Wales,NDP00392,1898-01-15,1898-06-25
+1894,99,Hill End and Tambaroora Times and Miners' Advocate (NSW : 1871 - 1875),New South Wales,NDP00393,1871-09-23,1875-10-30
