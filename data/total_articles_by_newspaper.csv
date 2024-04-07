@@ -124,7 +124,7 @@ title_id,total,title,state,issn,start_date,end_date
 128,1811,"The Broadford Courier and Reedy Creek Times (Broadford, Vic. : 1891)",Victoria,18379516,1891-02-28,1891-12-04
 129,3522,"The Broadford Courier (Broadford, Vic. : 1891 - 1893)",Victoria,18379524,1891-12-11,1893-08-24
 130,43761,"The Broadford Courier and Reedy Creek Times (Broadford, Vic. : 1893 - 1916)",Victoria,18379532,1893-09-01,1916-02-11
-131,5376,"The Broadford Courier (Broadford, Vic. : 1916 - 1920)",Victoria,18379540,1916-02-18,1920-12-24
+131,5376,"The Broadford Courier (Broadford, Vic. : 1916 - 1920 ; 1951 - 1966)",Victoria,18379540,1916-02-18,1920-12-24
 132,1851,"Morwell Advertiser and Weekly Chronicle (Morwell, Vic. : 1887 - 1888)",Victoria,18379621,1887-01-29,1888-06-30
 133,130880,"Morwell Advertiser (Morwell, Vic. : 1888 - 1954)",Victoria,1837963X,1888-07-07,1954-12-20
 134,3139,"Traralgon Record and Morwell, Mirboo,Toongabbie, Heyfield,Tyers and Callignee Advertiser (Traralgon, Vic. : 1883 - 1886)",Victoria,18379583,1883-12-14,1886-01-15
@@ -218,7 +218,7 @@ title_id,total,title,state,issn,start_date,end_date
 223,3229,The Benalla Ensign and Farmer's and Squatter's Journal (Vic. : 1869 - 1872),Victoria,18387659,1869-07-23,1872-03-30
 224,7631,"The Castlereagh (Gilgandra, NSW : 1905 - 1907)",New South Wales,18394841,1905-01-13,1907-12-20
 225,636732,The Horsham Times (Vic. : 1882 - 1954),Victoria,18388175,1882-01-17,1954-12-31
-227,151683,The Warrnambool Standard (Vic. : 1914 - 1918),Victoria,08129762,1914-01-02,1918-12-31
+227,151683,The Warrnambool Standard (Vic. : 1872 - 1879 ; 1914 - 1918),Victoria,08129762,1914-01-02,1918-12-31
 228,95536,The Mildura Cultivator (Vic. : 1888 - 1920),Victoria,18387691,1888-05-19,1920-09-29
 229,132884,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1899-05-05,1918-12-31
 230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
@@ -1731,7 +1731,7 @@ title_id,total,title,state,issn,start_date,end_date
 1810,621,"The Trader (West Leederville, WA : 1953)",Western Australia,NDP00309,1953-05-01,1953-12-11
 1811,7950,"The St Georges Advocate (Rockdale, NSW : 1899 - 1903)",New South Wales,NDP00311,1899-02-04,1903-09-26
 1812,4226,"Pastoral Times and Echuca and Moama Chronicle (Deniliquin, NSW : 1863 - 1866)",New South Wales,NDP00312,1863-06-27,1866-05-12
-1813,208182,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1950)",New South Wales,NDP00313,1866-05-19,1950-12-29
+1813,208182,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1912; 1921 - 1923; 1926 - 1931; 1941 - 1950)",New South Wales,NDP00313,1866-05-19,1950-12-29
 1814,1906,"The Manning and Hastings Advocate (Wingham, NSW : 1881 - 1882)",New South Wales,NDP00314,1881-11-11,1882-11-29
 1815,2392,"The Manning River Chronicle (Wingham, NSW : 1886 - 1888) ",New South Wales,NDP00315,1886-09-06,1888-02-27
 1816,1257,"The Manning River Independent and Advocate of Native Industries (Taree, NSW : 1892 - 1893)",New South Wales,NDP00316,1892-01-26,1893-05-19
