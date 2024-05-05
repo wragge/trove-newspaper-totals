@@ -555,7 +555,7 @@ title_id,total,title,state,issn,start_date,end_date
 563,2986,"Glengarry, Toongabbie and Cowwarr Journal and Central Gippsland Reporter (Vic. : 1914)",Victoria,22018093,1914-01-06,1914-12-31
 564,18440,"Gordon, Egerton and Ballan Advertiser (Vic. : 1914 - 1918)",Victoria,22019480,1913-05-23,1918-12-20
 565,120062,"Great Southern Advocate (Korumburra, Vic. : 1889 - 1906, 1914 - 1940)",Victoria,22019022,1889-09-13,1940-12-19
-566,13330,"The Grenville Standard (Linton, Vic. : 1897 - 1908; 1910 - 1918)",Victoria,22019987,1897-01-01,1918-12-21
+566,16476,"The Grenville Standard (Linton, Vic. : 1897 - 1908; 1910 - 1918)",Victoria,22019987,1897-01-01,1918-12-21
 567,518019,Hamilton Spectator (Vic. : 1870 - 1918),Victoria,22019545,1870-01-08,1918-12-31
 568,5843,Heyfield Herald (Vic. : 1914 - 1918),Victoria,2201859X,1914-01-08,1918-12-26
 569,6602,Hopetoun Courier and Mallee Pioneer (Vic. : 1914 - 1918),Victoria,22019170,1914-01-09,1918-12-20
@@ -1731,7 +1731,7 @@ title_id,total,title,state,issn,start_date,end_date
 1810,621,"The Trader (West Leederville, WA : 1953)",Western Australia,NDP00309,1953-05-01,1953-12-11
 1811,7950,"The St Georges Advocate (Rockdale, NSW : 1899 - 1903)",New South Wales,NDP00311,1899-02-04,1903-09-26
 1812,4226,"Pastoral Times and Echuca and Moama Chronicle (Deniliquin, NSW : 1863 - 1866)",New South Wales,NDP00312,1863-06-27,1866-05-12
-1813,262532,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1912; 1921 - 1923; 1926 - 1931; 1941 - 1950)",New South Wales,NDP00313,1866-05-19,1950-12-29
+1813,266270,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1912; 1921 - 1923; 1926 - 1931; 1941 - 1950)",New South Wales,NDP00313,1866-05-19,1950-12-29
 1814,1906,"The Manning and Hastings Advocate (Wingham, NSW : 1881 - 1882)",New South Wales,NDP00314,1881-11-11,1882-11-29
 1815,2392,"The Manning River Chronicle (Wingham, NSW : 1886 - 1888) ",New South Wales,NDP00315,1886-09-06,1888-02-27
 1816,1257,"The Manning River Independent and Advocate of Native Industries (Taree, NSW : 1892 - 1893)",New South Wales,NDP00316,1892-01-26,1893-05-19
@@ -1798,9 +1798,9 @@ title_id,total,title,state,issn,start_date,end_date
 1881,3660,Braidwood Observer and Miner's Advocate (NSW : 1859 - 1862),New South Wales,NDP00380,1859-08-27,1862-12-31
 1882,22987,Moruya Examiner (NSW : 1881 - 1896),New South Wales,NDP00381,1881-02-26,1902-12-30
 1883,17,The Mount Ararat Advertiser (Vic. : 1857),Victoria,NDP00382,,
-1884,5401,The Mount Ararat Advertiser and Chronicle for the District of the Wimmera (Vic. : 1857 - 1861),Victoria,NDP00383,1857-10-06,1861-05-17
-1885,15887,The Ararat and Mount Pleasant Creek Advertiser and Chronicle for the District of the Wimmera (Vic. : 1861 - 1873),Victoria,NDP00384,1861-05-21,1871-06-09
-1891,69718,"Hills and Valley Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,NDP00390,1984-06-06,2003-12-22
+1884,8814,The Mount Ararat Advertiser and Chronicle for the District of the Wimmera (Vic. : 1857 - 1861),Victoria,NDP00383,1857-10-06,1861-05-17
+1885,31285,The Ararat and Mount Pleasant Creek Advertiser and Chronicle for the District of the Wimmera (Vic. : 1861 - 1873),Victoria,NDP00384,1861-05-21,1873-09-09
+1891,76538,"Hills and Valley Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,NDP00390,1984-06-06,2004-06-30
 1892,42,"The Sunny Corner Silver Press and Miners' Advocate (Mitchell, NSW :  1886)",New South Wales,NDP00391,1886-03-20,1886-03-27
 1893,999,The Captain's Flat Mining Record (NSW : 1898),New South Wales,NDP00392,1898-01-15,1898-06-25
 1894,99,Hill End and Tambaroora Times and Miners' Advocate (NSW : 1871 - 1875),New South Wales,NDP00393,1871-09-23,1875-10-30
