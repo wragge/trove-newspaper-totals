@@ -555,7 +555,7 @@ title_id,total,title,state,issn,start_date,end_date
 563,2986,"Glengarry, Toongabbie and Cowwarr Journal and Central Gippsland Reporter (Vic. : 1914)",Victoria,22018093,1914-01-06,1914-12-31
 564,18440,"Gordon, Egerton and Ballan Advertiser (Vic. : 1914 - 1918)",Victoria,22019480,1913-05-23,1918-12-20
 565,120062,"Great Southern Advocate (Korumburra, Vic. : 1889 - 1906, 1914 - 1940)",Victoria,22019022,1889-09-13,1940-12-19
-566,16476,"The Grenville Standard (Linton, Vic. : 1897 - 1908; 1910 - 1918)",Victoria,22019987,1897-01-01,1918-12-21
+566,22845,"The Grenville Standard (Linton, Vic. : 1897 - 1908; 1910 - 1918)",Victoria,22019987,1897-01-01,1918-12-21
 567,518019,Hamilton Spectator (Vic. : 1870 - 1918),Victoria,22019545,1870-01-08,1918-12-31
 568,5843,Heyfield Herald (Vic. : 1914 - 1918),Victoria,2201859X,1914-01-08,1918-12-26
 569,6602,Hopetoun Courier and Mallee Pioneer (Vic. : 1914 - 1918),Victoria,22019170,1914-01-09,1918-12-20
@@ -576,7 +576,7 @@ title_id,total,title,state,issn,start_date,end_date
 584,15305,Myrtleford Mail and Whorouly Witness (Vic. : 1914 - 1918),Victoria,22018077,1914-01-08,1918-12-19
 585,70910,Nagambie Times (Vic. : 1882 - 1920),Victoria,22017925,1882-02-10,1920-12-24
 586,81678,The Narracan Shire Advocate (Vic. : 1889 - 1923),Victoria,22018115,1889-04-06,1923-06-15
-587,17532,"The Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1884 - 1918)",Victoria,22017941,1889-12-05,1918-12-24
+587,23067,"The Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1884 - 1918)",Victoria,22017941,1889-12-05,1918-12-24
 588,24013,Nhill Free Press (Vic. : 1914 - 1918),Victoria,2201926X,1914-01-06,1918-12-31
 589,17274,Northcote Leader (Vic. : 1914 - 1918),Victoria,22020144,1914-01-10,1918-12-21
 590,1874,Northern District Standard (Vic. : 1915 - 1916),Victoria,22017720,1915-08-05,1916-03-30
@@ -1800,7 +1800,8 @@ title_id,total,title,state,issn,start_date,end_date
 1883,17,The Mount Ararat Advertiser (Vic. : 1857),Victoria,NDP00382,,
 1884,8814,The Mount Ararat Advertiser and Chronicle for the District of the Wimmera (Vic. : 1857 - 1861),Victoria,NDP00383,1857-10-06,1861-05-17
 1885,31285,The Ararat and Mount Pleasant Creek Advertiser and Chronicle for the District of the Wimmera (Vic. : 1861 - 1873),Victoria,NDP00384,1861-05-21,1873-09-09
-1891,76538,"Hills and Valley Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,NDP00390,1984-06-06,2004-06-30
+1890,42653,The Bega District News (NSW : 1923 - 1955),New South Wales,NDP00389,1928-01-05,1950-12-29
+1891,86096,"Hills and Valley Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,NDP00390,1984-06-06,2007-12-19
 1892,42,"The Sunny Corner Silver Press and Miners' Advocate (Mitchell, NSW :  1886)",New South Wales,NDP00391,1886-03-20,1886-03-27
 1893,999,The Captain's Flat Mining Record (NSW : 1898),New South Wales,NDP00392,1898-01-15,1898-06-25
 1894,99,Hill End and Tambaroora Times and Miners' Advocate (NSW : 1871 - 1875),New South Wales,NDP00393,1871-09-23,1875-10-30
