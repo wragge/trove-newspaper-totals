@@ -315,6 +315,8 @@ National,2016,4665
 National,2017,4184
 National,2018,3506
 National,2019,3314
+National,2020,3201
+National,2021,3469
 New South Wales,1803,526
 New South Wales,1804,619
 New South Wales,1805,430
@@ -404,7 +406,7 @@ New South Wales,1888,359081
 New South Wales,1889,408827
 New South Wales,1890,461068
 New South Wales,1891,484861
-New South Wales,1892,507023
+New South Wales,1892,507052
 New South Wales,1893,519868
 New South Wales,1894,554208
 New South Wales,1895,600960
@@ -448,13 +450,13 @@ New South Wales,1932,1442818
 New South Wales,1933,1501470
 New South Wales,1934,1575183
 New South Wales,1935,1641369
-New South Wales,1936,1631140
-New South Wales,1937,1608647
-New South Wales,1938,1648355
-New South Wales,1939,1542831
-New South Wales,1940,1334791
-New South Wales,1941,1459707
-New South Wales,1942,1228415
+New South Wales,1936,1636019
+New South Wales,1937,1613733
+New South Wales,1938,1653689
+New South Wales,1939,1548734
+New South Wales,1940,1340557
+New South Wales,1941,1464953
+New South Wales,1942,1228777
 New South Wales,1943,1105738
 New South Wales,1944,1120342
 New South Wales,1945,1102911
@@ -945,14 +947,15 @@ South Australia,1996,27041
 South Australia,1997,28297
 South Australia,1998,29123
 South Australia,1999,29060
-South Australia,2000,17102
+South Australia,2000,19609
 South Australia,2001,20102
 South Australia,2002,20640
 South Australia,2003,4713
-South Australia,2004,2370
+South Australia,2004,4834
 South Australia,2005,0
-South Australia,2006,0
+South Australia,2006,2264
 South Australia,2007,2439
+South Australia,2008,2513
 Tasmania,1810,5
 Tasmania,1811,0
 Tasmania,1812,7
@@ -1213,8 +1216,8 @@ Victoria,1899,510519
 Victoria,1900,542909
 Victoria,1901,589603
 Victoria,1902,615774
-Victoria,1903,620475
-Victoria,1904,642246
+Victoria,1903,624557
+Victoria,1904,646238
 Victoria,1905,654408
 Victoria,1906,660779
 Victoria,1907,692492
@@ -1237,9 +1240,9 @@ Victoria,1923,617241
 Victoria,1924,666429
 Victoria,1925,670817
 Victoria,1926,674465
-Victoria,1927,705886
-Victoria,1928,736683
-Victoria,1929,708748
+Victoria,1927,708489
+Victoria,1928,738117
+Victoria,1929,708870
 Victoria,1930,684730
 Victoria,1931,629161
 Victoria,1932,641297
