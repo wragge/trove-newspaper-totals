@@ -38,17 +38,18 @@ def get_results(params):
     Returns:
         JSON formatted response data from Trove API
     """
+    headers = {"X-API-KEY": API_KEY}
     response = s.get(
-        "https://api.trove.nla.gov.au/v2/result", params=params, timeout=30
+        "https://api.trove.nla.gov.au/v3/result", params=params, headers=headers, timeout=30
     )
     response.raise_for_status()
-    # print(response.url) # This shows us the url that's sent to the API
+    print(response.url) # This shows us the url that's sent to the API
     data = response.json()
     return data
 
 def get_total_results(params):
     data = get_results(params)
-    total = data['response']['zone'][0]['records']['total']
+    total = data['category'][0]['records']['total']
     return total
 
 def get_facets(data):
@@ -63,11 +64,10 @@ def get_facets(data):
     try:
         # The facets are buried a fair way down in the results
         # Note that if you ask for more than one facet, you'll have use the facet['name'] param to find the one you want
-        # In this case there's only one facet, so we can just grab the list of terms (which are in fact the results by year)
-        for term in data["response"]["zone"][0]["facets"]["facet"]["term"]:
-
-            # Get the year and the number of results, and convert them to integers, before adding to our results
-            facets.append({"term": term["search"], "total": int(term["count"])})
+        for facet in data["category"][0]["facets"].get("facet", []):
+            for term in facet["term"]:
+                # Get the year and the number of results, and convert them to integers, before adding to our results
+                facets.append({"term": term["search"], "total": int(term["count"])})
 
         # Sort facets by year
         facets.sort(key=itemgetter("term"))
@@ -76,7 +76,7 @@ def get_facets(data):
     return facets
 
 
-def get_year_totals(start_decade=180, end_decade=201, state=None):
+def get_year_totals(start_decade=180, end_decade=202, state=None):
     """
     Loop throught the decades from 'start_decade' to 'end_decade',
     getting the number of search results for each year from the year facet.
@@ -93,10 +93,8 @@ def get_year_totals(start_decade=180, end_decade=201, state=None):
     facet_data = []
     
     params = {
-        "zone": "newspaper",
-        "key": API_KEY,
+        "category": "newspaper",
         "encoding": "json",
-        "q": " ",
         "facet": "year",
         "n": 0  # We don't need any records, just the facets!
     }
@@ -115,9 +113,6 @@ def get_year_totals(start_decade=180, end_decade=201, state=None):
 
         # Get the facets from the data and add to facets_data
         facet_data += get_facets(data)
-
-        # Try to avoid hitting the API rate limit - increase this if you get 403 errors
-        time.sleep(0.2)
 
     df = pd.DataFrame(facet_data)
     df.columns = ['year', 'total']
@@ -140,23 +135,20 @@ def get_state_totals(start_decade=180, end_decade=202):
 
 def get_newspaper_titles():
     params = {
-        "key": API_KEY,
         "encoding": "json"
     }
-    response = s.get('https://api.trove.nla.gov.au/v2/newspaper/titles', params=params)
+    response = s.get('https://api.trove.nla.gov.au/v3/newspaper/titles', params=params, headers={"X-API-KEY": API_KEY})
     response.raise_for_status()
     data = response.json()
-    df = pd.DataFrame(data['response']['records']['newspaper'])[['id', 'title', 'state', 'issn', 'startDate', 'endDate']]
-    df['id'] = df['id'].astype('Int64')
+    df = pd.DataFrame(data['newspaper'])[['id', 'title', 'state', 'issn', 'startDate', 'endDate']]
+    #df['id'] = df['id'].astype('Int64')
     df.columns = ['title_id', 'title', 'state', 'issn', 'start_date', 'end_date']
     return df
 
 def get_newspaper_totals():
     params = {
-        "zone": "newspaper",
-        "key": API_KEY,
+        "category": "newspaper",
         "encoding": "json",
-        "q": " ",
         "facet": "title",
         "n": 0  # We don't need any records, just the facets!
     }
@@ -174,10 +166,8 @@ def get_newspaper_totals():
 
 def get_category_totals():
     params = {
-        "zone": "newspaper",
-        "key": API_KEY,
+        "category": "newspaper",
         "encoding": "json",
-        "q": " ",
         "facet": "category",
         "n": 0  # We don't need any records, just the facets!
     }
@@ -191,10 +181,8 @@ def get_category_totals():
 
 def get_total_articles():
     params = {
-        "zone": "newspaper",
-        "key": API_KEY,
+        "category": "newspaper",
         "encoding": "json",
-        "q": " ",
         "n": 0  # We don't need any records, just the facets!
     }
     return get_total_results(params)
@@ -203,8 +191,7 @@ def get_overall_totals():
     totals = []
     totals.append({'harvest_type': 'all', 'total': get_total_articles()})
     params = {
-        "zone": "newspaper",
-        "key": API_KEY,
+        "category": "newspaper",
         "encoding": "json",
         "n": 0  # We don't need any records, just the facets!
     }
@@ -216,11 +203,12 @@ def get_overall_totals():
     return df
 
 def fill_missing_years(df):
+    df['year']= df['year'].astype('Int64')
+    df['total']= df['total'].astype('Int64')
     df = df.set_index('year')
     df = df.reindex(range(df.index.min(), df.index.max() +1)).reset_index()
     df.fillna(0, inplace=True)
-    df['year']= df['year'].astype('Int64')
-    df['total']= df['total'].astype('Int64')
+    
     return df
 
 def main():
