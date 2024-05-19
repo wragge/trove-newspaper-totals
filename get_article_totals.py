@@ -94,6 +94,7 @@ def get_year_totals(start_decade=180, end_decade=202, state=None):
     
     params = {
         "category": "newspaper",
+        "l-artType": "newspaper",
         "encoding": "json",
         "facet": "year",
         "n": 0  # We don't need any records, just the facets!
@@ -148,6 +149,7 @@ def get_newspaper_titles():
 def get_newspaper_totals():
     params = {
         "category": "newspaper",
+        "l-artType": "newspaper",
         "encoding": "json",
         "facet": "title",
         "n": 0  # We don't need any records, just the facets!
@@ -167,6 +169,7 @@ def get_newspaper_totals():
 def get_category_totals():
     params = {
         "category": "newspaper",
+        "l-artType": "newspaper",
         "encoding": "json",
         "facet": "category",
         "n": 0  # We don't need any records, just the facets!
@@ -182,6 +185,7 @@ def get_category_totals():
 def get_total_articles():
     params = {
         "category": "newspaper",
+        "l-artType": "newspaper",
         "encoding": "json",
         "n": 0  # We don't need any records, just the facets!
     }
@@ -192,6 +196,7 @@ def get_overall_totals():
     totals.append({'harvest_type': 'all', 'total': get_total_articles()})
     params = {
         "category": "newspaper",
+        "l-artType": "newspaper",
         "encoding": "json",
         "n": 0  # We don't need any records, just the facets!
     }
