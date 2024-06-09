@@ -394,8 +394,8 @@ New South Wales,1876,134607
 New South Wales,1877,132986
 New South Wales,1878,148430
 New South Wales,1879,176122
-New South Wales,1880,182881
-New South Wales,1881,193624
+New South Wales,1880,183563
+New South Wales,1881,194528
 New South Wales,1882,200060
 New South Wales,1883,206604
 New South Wales,1884,245699
@@ -412,10 +412,10 @@ New South Wales,1894,555409
 New South Wales,1895,600960
 New South Wales,1896,624084
 New South Wales,1897,616845
-New South Wales,1898,722849
-New South Wales,1899,879497
-New South Wales,1900,951048
-New South Wales,1901,990267
+New South Wales,1898,726243
+New South Wales,1899,883171
+New South Wales,1900,952818
+New South Wales,1901,992097
 New South Wales,1902,1026449
 New South Wales,1903,1023482
 New South Wales,1904,1067249
@@ -440,8 +440,8 @@ New South Wales,1922,1242761
 New South Wales,1923,1326247
 New South Wales,1924,1414024
 New South Wales,1925,1430796
-New South Wales,1926,1472937
-New South Wales,1927,1538268
+New South Wales,1926,1476018
+New South Wales,1927,1541439
 New South Wales,1928,1545331
 New South Wales,1929,1651042
 New South Wales,1930,1600395
@@ -461,13 +461,13 @@ New South Wales,1943,1109342
 New South Wales,1944,1123768
 New South Wales,1945,1106398
 New South Wales,1946,1383112
-New South Wales,1947,1430429
-New South Wales,1948,1257776
-New South Wales,1949,1445308
+New South Wales,1947,1430895
+New South Wales,1948,1264315
+New South Wales,1949,1451414
 New South Wales,1950,1541080
 New South Wales,1951,1457796
-New South Wales,1952,1501938
-New South Wales,1953,1562956
+New South Wales,1952,1506611
+New South Wales,1953,1582404
 New South Wales,1954,1557255
 New South Wales,1955,98102
 New South Wales,1956,56200
@@ -895,15 +895,15 @@ South Australia,1944,182898
 South Australia,1945,196479
 South Australia,1946,227083
 South Australia,1947,242651
-South Australia,1948,225417
-South Australia,1949,252210
-South Australia,1950,278572
-South Australia,1951,238586
-South Australia,1952,251222
-South Australia,1953,271802
-South Australia,1954,281563
-South Australia,1955,16272
-South Australia,1956,13698
+South Australia,1948,225776
+South Australia,1949,253534
+South Australia,1950,279924
+South Australia,1951,239574
+South Australia,1952,252674
+South Australia,1953,273719
+South Australia,1954,283161
+South Australia,1955,17806
+South Australia,1956,14361
 South Australia,1957,13995
 South Australia,1958,14356
 South Australia,1959,16744
@@ -953,9 +953,12 @@ South Australia,2002,20640
 South Australia,2003,4713
 South Australia,2004,4834
 South Australia,2005,2446
-South Australia,2006,2264
+South Australia,2006,4681
 South Australia,2007,4799
 South Australia,2008,4953
+South Australia,2009,4761
+South Australia,2010,0
+South Australia,2011,5718
 Tasmania,1810,5
 Tasmania,1811,0
 Tasmania,1812,7
@@ -1197,35 +1200,35 @@ Victoria,1880,200369
 Victoria,1881,207418
 Victoria,1882,272607
 Victoria,1883,280673
-Victoria,1884,296646
-Victoria,1885,294065
-Victoria,1886,313265
-Victoria,1887,338132
-Victoria,1888,353206
-Victoria,1889,358473
-Victoria,1890,391833
+Victoria,1884,298073
+Victoria,1885,295458
+Victoria,1886,314865
+Victoria,1887,339666
+Victoria,1888,354750
+Victoria,1889,360708
+Victoria,1890,391839
 Victoria,1891,417755
-Victoria,1892,411287
-Victoria,1893,417218
-Victoria,1894,436510
-Victoria,1895,447681
-Victoria,1896,443191
-Victoria,1897,446789
-Victoria,1898,479668
-Victoria,1899,510519
+Victoria,1892,411293
+Victoria,1893,417220
+Victoria,1894,436516
+Victoria,1895,447690
+Victoria,1896,443204
+Victoria,1897,446798
+Victoria,1898,479738
+Victoria,1899,510629
 Victoria,1900,542909
-Victoria,1901,589603
-Victoria,1902,615774
-Victoria,1903,624557
+Victoria,1901,590387
+Victoria,1902,618444
+Victoria,1903,626377
 Victoria,1904,646238
-Victoria,1905,654408
-Victoria,1906,660779
+Victoria,1905,658423
+Victoria,1906,664539
 Victoria,1907,692492
 Victoria,1908,715043
 Victoria,1909,722579
 Victoria,1910,766072
-Victoria,1911,730040
-Victoria,1912,772654
+Victoria,1911,733241
+Victoria,1912,775690
 Victoria,1913,760012
 Victoria,1914,1279469
 Victoria,1915,1344068

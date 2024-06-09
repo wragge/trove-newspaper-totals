@@ -368,7 +368,7 @@ title_id,total,title,state,issn,start_date,end_date
 135,169074,"Traralgon Record (Traralgon, Vic. : 1886 - 1932)",Victoria,18379591,1886-01-22,1932-12-22
 1354,111375,The Burrangong Argus (NSW : 1865 - 1913),New South Wales,22087524,1865-04-01,1913-02-08
 136,130445,"West Gippsland Gazette (Warragul, Vic. : 1898 - 1930)",Victoria,18379575,1898-07-05,1930-12-23
-1365,12684,"The Western Port Times and Phillip Island and Bass Valley Advertiser (Grantville, Vic. : 1898 - 1904)",Victoria,NDP00059,1898-12-09,1904-06-24
+1365,12684,"The Western Port Times and Phillip Island and Bass Valley Advertiser (Grantville, Vic. : 1898 - 1910)",Victoria,NDP00059,1898-12-09,1904-06-24
 1366,190880,Yass Tribune-Courier (NSW : 1929 - 1954),New South Wales,22087273,1929-04-04,1955-12-29
 1367,34052,Yass Evening Tribune (NSW : 1899 - 1928),New South Wales,22086978,1899-01-05,1928-09-10
 1368,69260,"The Cumberland Mercury (Parramatta, NSW : 1875 - 1895)",New South Wales,2209086X,1875-01-09,1895-04-27
@@ -504,7 +504,7 @@ title_id,total,title,state,issn,start_date,end_date
 149,6499,Eltham and Whittlesea Shires Advertiser (Vic. : 1940 - 1942),Victoria,18380352,1940-01-12,1942-08-28
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,780314,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1953)",New South Wales,26519291,1934-07-02,1952-12-31
+1492,797129,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1953)",New South Wales,26519291,1934-07-02,1953-04-30
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -901,6 +901,7 @@ title_id,total,title,state,issn,start_date,end_date
 1873,27970,"The Standard (Port Adelaide, SA : 1959 - 1965)",South Australia,NDP00365,1959-08-06,1965-12-22
 1874,81234,"The People's Weekly (Moonta, SA: 1890 - 1928)",South Australia,NDP00373,1890-05-17,1928-12-22
 1875,9901,"The Seasider (Christies Beach, SA : 1956 - 1963)",South Australia,NDP00374,1956-08-01,1963-09-19
+1876,11187,,,,,
 1877,29422,The Braidwood and Araluen Express and People's Advocate (NSW : 1899 - 1904),New South Wales,NDP00376,1899-03-03,1904-05-27
 1878,22429,The Braidwood Express and People's Advocate (NSW : 1904 - 1907),New South Wales,NDP00377,1904-05-31,1907-12-24
 1879,37668,The South-East Kingston Leader (SA : 1962 - 1976),South Australia,NDP00378,1962-09-19,1976-12-21
@@ -911,19 +912,20 @@ title_id,total,title,state,issn,start_date,end_date
 1883,17,The Mount Ararat Advertiser (Vic. : 1857),Victoria,NDP00382,,
 1884,8814,The Mount Ararat Advertiser and Chronicle for the District of the Wimmera (Vic. : 1857 - 1861),Victoria,NDP00383,1857-10-06,1861-05-17
 1885,31285,The Ararat and Mount Pleasant Creek Advertiser and Chronicle for the District of the Wimmera (Vic. : 1861 - 1873),Victoria,NDP00384,1861-05-21,1873-09-09
-1887,140,"Broughton Creek Mail  (Berry, NSW : 1880 - 1881; 1891 - 1893; 1899 - 1907)",New South Wales,NDP00386,1891-06-18,1893-12-21
+1886,3764,The Kangaroo Valley Times (NSW : 1898 - 1904),New South Wales,NDP00385,1898-01-04,1899-12-26
+1887,1726,"Broughton Creek Mail  (Berry, NSW : 1880 - 1881; 1891 - 1893; 1899 - 1907)",New South Wales,NDP00386,1880-05-06,1893-12-21
 1888,40,"The Broughton Creek Register, and Kangaroo Valley and South Coast Farmer (Berry, NSW : 1896 - 1890)",New South Wales,NDP00387,1888-12-29,1888-12-29
-1889,1201,The Berry Register and Kangaroo Valley and South Coast Farmer (NSW : 1892; 1894; 1898 - 1905),New South Wales,NDP00388,1894-02-10,1894-07-28
+1889,8105,The Berry Register and Kangaroo Valley and South Coast Farmer (NSW : 1892; 1894; 1898 - 1905),New South Wales,NDP00388,1894-02-10,1901-12-28
 189,63017,"The Star (Ballarat, Vic. : 1855 - 1864)",Victoria,18389856,1855-09-22,1864-12-31
-1890,98084,The Bega District News (NSW : 1923 - 1955),New South Wales,NDP00389,1923-10-01,1950-12-29
-1891,103090,"Hills and Valley Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,NDP00390,1984-06-06,2011-12-21
+1890,124753,The Bega District News (NSW : 1923 - 1955),New South Wales,NDP00389,1923-10-01,1953-05-29
+1891,115986,"Hills and Valley Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,NDP00390,1984-06-06,2011-12-21
 1892,42,"The Sunny Corner Silver Press and Miners' Advocate (Mitchell, NSW :  1886)",New South Wales,NDP00391,1886-03-20,1886-03-27
 1893,999,The Captain's Flat Mining Record (NSW : 1898),New South Wales,NDP00392,1898-01-15,1898-06-25
 1894,99,Hill End and Tambaroora Times and Miners' Advocate (NSW : 1871 - 1875),New South Wales,NDP00393,1871-09-23,1875-10-30
 19,6072,The Hobart Town Courier (Tas. : 1827 - 1839),Tasmania,18354742,1827-10-20,1839-06-28
 190,159,Windsor Express and Richmond Advertiser (NSW : 1843 - 1844),New South Wales,18389384,1843-05-17,1844-05-09
 191,284473,"Worker (Brisbane, Qld. : 1890 - 1955)",Queensland,00438065,1890-03-01,1955-12-26
-192,253359,Windsor and Richmond Gazette (NSW : 1888 - 1965),New South Wales,08121885,1888-07-21,1965-12-22
+192,253359,Windsor and Richmond Gazette (NSW : 1888 - 1971),New South Wales,08121885,1888-07-21,1965-12-22
 193,152694,Williamstown Chronicle (Vic. : 1856 - 1954),Victoria,18387144,1856-09-13,1954-12-23
 194,24474,"The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)",Victoria,18384773,1888-02-18,1902-01-04
 195,30949,Kerang Times and Swan Hill Gazette (Vic. : 1877 - 1889),Victoria,18384838,1877-09-14,1894-11-09
@@ -1333,7 +1335,7 @@ title_id,total,title,state,issn,start_date,end_date
 563,2986,"Glengarry, Toongabbie and Cowwarr Journal and Central Gippsland Reporter (Vic. : 1914)",Victoria,22018093,1914-01-06,1914-12-31
 564,18440,"Gordon, Egerton and Ballan Advertiser (Vic. : 1914 - 1918)",Victoria,22019480,1913-05-23,1918-12-20
 565,120062,"Great Southern Advocate (Korumburra, Vic. : 1889 - 1906, 1914 - 1940)",Victoria,22019022,1889-09-13,1940-12-19
-566,30919,"The Grenville Standard (Linton, Vic. : 1897 - 1908; 1910 - 1918)",Victoria,22019987,1897-01-01,1918-12-21
+566,44931,"The Grenville Standard (Linton, Vic. : 1897 - 1908; 1910 - 1918)",Victoria,22019987,1897-01-01,1918-12-21
 567,518019,Hamilton Spectator (Vic. : 1870 - 1918),Victoria,22019545,1870-01-08,1918-12-31
 568,5843,Heyfield Herald (Vic. : 1914 - 1918),Victoria,2201859X,1914-01-08,1918-12-26
 569,6602,Hopetoun Courier and Mallee Pioneer (Vic. : 1914 - 1918),Victoria,22019170,1914-01-09,1918-12-20
@@ -1356,7 +1358,7 @@ title_id,total,title,state,issn,start_date,end_date
 584,15305,Myrtleford Mail and Whorouly Witness (Vic. : 1914 - 1918),Victoria,22018077,1914-01-08,1918-12-19
 585,70910,Nagambie Times (Vic. : 1882 - 1920),Victoria,22017925,1882-02-10,1920-12-24
 586,81678,The Narracan Shire Advocate (Vic. : 1889 - 1923),Victoria,22018115,1889-04-06,1923-06-15
-587,23067,"The Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1884 - 1918)",Victoria,22017941,1884-02-08,1918-12-24
+587,38305,"The Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1884 - 1918)",Victoria,22017941,1884-02-08,1918-12-24
 588,24013,Nhill Free Press (Vic. : 1914 - 1918),Victoria,2201926X,1914-01-06,1918-12-31
 589,17274,Northcote Leader (Vic. : 1914 - 1918),Victoria,22020144,1914-01-10,1918-12-21
 59,155782,Burra Record (SA : 1878 - 1954),South Australia,18373437,1878-07-05,1954-12-21
