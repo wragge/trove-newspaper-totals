@@ -504,7 +504,7 @@ title_id,total,title,state,issn,start_date,end_date
 149,6499,Eltham and Whittlesea Shires Advertiser (Vic. : 1940 - 1942),Victoria,18380352,1940-01-12,1942-08-28
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,816560,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1953)",New South Wales,26519291,1934-07-02,1953-08-31
+1492,835570,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1953)",New South Wales,26519291,1934-07-02,1953-12-31
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -599,7 +599,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,903827,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1942-08-31
+1585,911167,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1948-03-31
 1586,17181,The Nowra Colonist (NSW : 1892; 1899 - 1904),New South Wales,NDP00086,1892-01-13,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
@@ -901,7 +901,7 @@ title_id,total,title,state,issn,start_date,end_date
 1873,27970,"The Standard (Port Adelaide, SA : 1959 - 1965)",South Australia,NDP00365,1959-08-06,1965-12-22
 1874,81234,"The People's Weekly (Moonta, SA: 1890 - 1928)",South Australia,NDP00373,1890-05-17,1928-12-22
 1875,9901,"The Seasider (Christies Beach, SA : 1956 - 1963)",South Australia,NDP00374,1956-08-01,1963-09-19
-1876,11187,,,,,
+1876,11187,Australijos Lietuvis = The Australian Lithuanian (SA : 1948 - 1956),South Australia,NDP00375,1948-09-12,1956-05-14
 1877,29422,The Braidwood and Araluen Express and People's Advocate (NSW : 1899 - 1904),New South Wales,NDP00376,1899-03-03,1904-05-27
 1878,22429,The Braidwood Express and People's Advocate (NSW : 1904 - 1907),New South Wales,NDP00377,1904-05-31,1907-12-24
 1879,37668,The South-East Kingston Leader (SA : 1962 - 1976),South Australia,NDP00378,1962-09-19,1976-12-21
@@ -914,11 +914,11 @@ title_id,total,title,state,issn,start_date,end_date
 1885,31285,The Ararat and Mount Pleasant Creek Advertiser and Chronicle for the District of the Wimmera (Vic. : 1861 - 1873),Victoria,NDP00384,1861-05-21,1873-09-09
 1886,3764,The Kangaroo Valley Times (NSW : 1898 - 1904),New South Wales,NDP00385,1898-01-04,1899-12-26
 1887,10017,"Broughton Creek Mail  (Berry, NSW : 1880 - 1881; 1891 - 1893; 1899 - 1907)",New South Wales,NDP00386,1880-05-06,1907-12-26
-1888,40,"The Broughton Creek Register, and Kangaroo Valley and South Coast Farmer (Berry, NSW : 1896 - 1890)",New South Wales,NDP00387,1888-12-29,1888-12-29
-1889,9099,The Berry Register and Kangaroo Valley and South Coast Farmer (NSW : 1892; 1894; 1898 - 1905),New South Wales,NDP00388,1894-01-06,1901-12-28
+1888,7057,"The Broughton Creek Register, and Kangaroo Valley and South Coast Farmer (Berry, NSW : 1896 - 1890)",New South Wales,NDP00387,1886-04-03,1890-12-27
+1889,16407,The Berry Register and Kangaroo Valley and South Coast Farmer (NSW : 1892; 1894; 1898 - 1905),New South Wales,NDP00388,1894-01-06,1905-12-30
 189,63017,"The Star (Ballarat, Vic. : 1855 - 1864)",Victoria,18389856,1855-09-22,1864-12-31
-1890,147889,The Bega District News (NSW : 1923 - 1955),New South Wales,NDP00389,1923-10-01,1955-04-29
-1891,118573,"Hills and Valley Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,NDP00390,1984-06-06,2011-12-21
+1890,155447,The Bega District News (NSW : 1923 - 1955),New South Wales,NDP00389,1923-10-01,1955-04-29
+1891,123264,"Hills and Valley Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,NDP00390,1984-06-06,2011-12-21
 1892,42,"The Sunny Corner Silver Press and Miners' Advocate (Mitchell, NSW :  1886)",New South Wales,NDP00391,1886-03-20,1886-03-27
 1893,999,The Captain's Flat Mining Record (NSW : 1898),New South Wales,NDP00392,1898-01-15,1898-06-25
 1894,99,Hill End and Tambaroora Times and Miners' Advocate (NSW : 1871 - 1875),New South Wales,NDP00393,1871-09-23,1875-10-30
@@ -1335,7 +1335,7 @@ title_id,total,title,state,issn,start_date,end_date
 563,2986,"Glengarry, Toongabbie and Cowwarr Journal and Central Gippsland Reporter (Vic. : 1914)",Victoria,22018093,1914-01-06,1914-12-31
 564,18440,"Gordon, Egerton and Ballan Advertiser (Vic. : 1914 - 1918)",Victoria,22019480,1913-05-23,1918-12-20
 565,120062,"Great Southern Advocate (Korumburra, Vic. : 1889 - 1906, 1914 - 1940)",Victoria,22019022,1889-09-13,1940-12-19
-566,48400,"The Grenville Standard (Linton, Vic. : 1897 - 1908; 1910 - 1918)",Victoria,22019987,1897-01-01,1918-12-21
+566,55330,"The Grenville Standard (Linton, Vic. : 1897 - 1908; 1910 - 1918)",Victoria,22019987,1897-01-01,1918-12-21
 567,518019,Hamilton Spectator (Vic. : 1870 - 1918),Victoria,22019545,1870-01-08,1918-12-31
 568,5843,Heyfield Herald (Vic. : 1914 - 1918),Victoria,2201859X,1914-01-08,1918-12-26
 569,6602,Hopetoun Courier and Mallee Pioneer (Vic. : 1914 - 1918),Victoria,22019170,1914-01-09,1918-12-20
@@ -1358,7 +1358,7 @@ title_id,total,title,state,issn,start_date,end_date
 584,15305,Myrtleford Mail and Whorouly Witness (Vic. : 1914 - 1918),Victoria,22018077,1914-01-08,1918-12-19
 585,70910,Nagambie Times (Vic. : 1882 - 1920),Victoria,22017925,1882-02-10,1920-12-24
 586,81678,The Narracan Shire Advocate (Vic. : 1889 - 1923),Victoria,22018115,1889-04-06,1923-06-15
-587,52340,"The Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1884 - 1918)",Victoria,22017941,1884-02-08,1918-12-24
+587,63934,"The Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1884 - 1918)",Victoria,22017941,1884-02-08,1918-12-24
 588,24013,Nhill Free Press (Vic. : 1914 - 1918),Victoria,2201926X,1914-01-06,1918-12-31
 589,17274,Northcote Leader (Vic. : 1914 - 1918),Victoria,22020144,1914-01-10,1918-12-21
 59,155782,Burra Record (SA : 1878 - 1954),South Australia,18373437,1878-07-05,1954-12-21
