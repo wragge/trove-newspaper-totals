@@ -599,7 +599,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,926878,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1948-06-30
+1585,988347,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1949-06-30
 1586,17181,The Nowra Colonist (NSW : 1892; 1899 - 1904),New South Wales,NDP00086,1892-01-13,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
@@ -835,7 +835,7 @@ title_id,total,title,state,issn,start_date,end_date
 1810,621,"The Trader (West Leederville, WA : 1953)",Western Australia,NDP00309,1953-05-01,1953-12-11
 1811,7950,"The St Georges Advocate (Rockdale, NSW : 1899 - 1903)",New South Wales,NDP00311,1899-02-04,1903-09-26
 1812,4226,"Pastoral Times and Echuca and Moama Chronicle (Deniliquin, NSW : 1863 - 1866)",New South Wales,NDP00312,1863-06-27,1866-05-12
-1813,280351,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1912; 1921 - 1923; 1926 - 1931; 1941 - 1950)",New South Wales,NDP00313,1866-05-19,1950-12-29
+1813,280351,"The Pastoral Times (South Deniliquin, NSW : 1866 - 1950)",New South Wales,NDP00313,1866-05-19,1950-12-29
 1814,1906,"The Manning and Hastings Advocate (Wingham, NSW : 1881 - 1882)",New South Wales,NDP00314,1881-11-11,1882-11-29
 1815,2392,"The Manning River Chronicle (Wingham, NSW : 1886 - 1888) ",New South Wales,NDP00315,1886-09-06,1888-02-27
 1816,1257,"The Manning River Independent and Advocate of Native Industries (Taree, NSW : 1892 - 1893)",New South Wales,NDP00316,1892-01-26,1893-05-19
@@ -915,7 +915,7 @@ title_id,total,title,state,issn,start_date,end_date
 1886,11155,The Kangaroo Valley Times (NSW : 1898 - 1904),New South Wales,NDP00385,1898-01-04,1904-12-27
 1887,22024,"Broughton Creek Mail  (Berry, NSW : 1880 - 1881; 1891 - 1893; 1899 - 1907)",New South Wales,NDP00386,1880-05-06,1907-12-26
 1888,7057,"The Broughton Creek Register, and Kangaroo Valley and South Coast Farmer (Berry, NSW : 1896 - 1890)",New South Wales,NDP00387,1886-04-03,1890-12-27
-1889,16407,The Berry Register and Kangaroo Valley and South Coast Farmer (NSW : 1892; 1894; 1898 - 1905),New South Wales,NDP00388,1894-01-06,1905-12-30
+1889,16407,The Berry Register and Kangaroo Valley and South Coast Farmer (NSW : 1894; 1898 - 1905),New South Wales,NDP00388,1894-01-06,1905-12-30
 189,63017,"The Star (Ballarat, Vic. : 1855 - 1864)",Victoria,18389856,1855-09-22,1864-12-31
 1890,155447,The Bega District News (NSW : 1923 - 1955),New South Wales,NDP00389,1923-10-01,1955-04-29
 1891,123264,"Hills and Valley Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,NDP00390,1984-06-06,2011-12-21
@@ -1192,7 +1192,7 @@ title_id,total,title,state,issn,start_date,end_date
 432,113973,"Daily Observer (Tamworth, NSW : 1917 - 1920)",New South Wales,22013989,1917-01-01,1920-12-31
 433,11150,"The Northern Daily Leader (Tamworth, NSW : 1921)",New South Wales,10395059,1921-01-01,1921-05-26
 434,39921,Adelong and Tumut Express and Tumbarumba Post (NSW : 1900 - 1925),New South Wales,2201408X,1900-04-06,1925-12-24
-435,4345,"Adelong Argus, Tumut and Gundagai Advertiser (NSW : 1925)",New South Wales,22014101,1925-01-06,1925-10-01
+435,4345,"Adelong Argus, Tumut and Gundagai Advertiser (NSW : 1889 - 1905; 1925)",New South Wales,22014101,1925-01-06,1925-10-01
 436,774658,The Albury Banner and Wodonga Express (NSW : 1860 - 1927; 1929 - 1931; 1933 - 1938),New South Wales,22014128,1860-07-07,1938-12-30
 437,71350,"The Newsletter: an Australian Paper for Australian People (Sydney, NSW : 1900 - 1919)",New South Wales,22014063,1900-09-15,1919-12-30
 438,8982,"The Mirror of Australia (Sydney, NSW : 1915 - 1917)",New South Wales,22014039,1915-07-30,1917-05-19
@@ -1401,11 +1401,11 @@ title_id,total,title,state,issn,start_date,end_date
 622,11037,The West Wimmera Mail and Natimuk Advertiser (Vic. : 1914 - 1918),Victoria,22019243,1914-01-09,1918-12-27
 623,1837,"Sunday News (Sydney, NSW : 1919)",New South Wales,22022007,1919-04-27,1919-06-29
 624,119,"Intelligence (Bowral, NSW : 1884)",New South Wales,22022937,1884-10-08,1884-10-29
-625,757,Adelong and Tumut Express (NSW : 1925),New South Wales,22021345,1925-10-09,1925-12-24
+625,757,Adelong and Tumut Express (NSW : 1925 - 1949),New South Wales,22021345,1925-10-09,1925-12-24
 626,45,Clear Hills Standard and Daysdale and Saverneke Times (NSW : 1914),New South Wales,22022147,1914-06-20,1914-06-20
 627,8660,Albury Banner Wodonga Express and Riverina Stock Journal (NSW : 1941),New South Wales,22023372,1941-01-03,1941-09-12
 628,8627,"Daily Witness (Young, NSW : 1923 - 1924)",New South Wales,22023380,1923-11-05,1924-06-20
-629,27883,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1940-06-29
+629,126790,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
 63,29493,"Centralian Advocate (Alice Springs, NT : 1947 - 1954)",Northern Territory,14471647,1947-05-24,1954-12-24
 630,23611,"Construction and Real Estate Journal (Sydney, NSW : 1930 - 1938)",New South Wales,22020470,1930-07-30,1938-05-11
 631,4509,The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881),New South Wales,22023828,1879-02-27,1881-10-13
