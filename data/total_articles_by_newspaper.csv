@@ -599,7 +599,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,988347,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1949-06-30
+1585,989592,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1949-06-30
 1586,17181,The Nowra Colonist (NSW : 1892; 1899 - 1904),New South Wales,NDP00086,1892-01-13,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
@@ -895,7 +895,7 @@ title_id,total,title,state,issn,start_date,end_date
 1868,2847,Coolamon-Ganmain Farmers' Review (NSW : 1917 - 1937),New South Wales,NDP00368,1917-05-25,1918-12-13
 1869,495,"Direct Action (Adelaide, SA : 1928 - 1930)",South Australia,NDP00369,1928-05-13,1930-11-29
 187,431304,"The Central Queensland Herald (Rockhampton, Qld. : 1930 - 1956)",Queensland,18389783,1930-01-02,1956-11-29
-1870,1707,"The Gippsland Farmers' and Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1922 - 1923)",Victoria,NDP00370,1923-01-02,1923-04-16
+1870,1982,"The Gippsland Farmers' and Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1922 - 1923)",Victoria,NDP00370,1922-12-11,1923-04-16
 1871,36951,"The Journal : Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1923 - 1929)",Victoria,NDP00371,1923-04-19,1929-12-23
 1872,698,Braidwood News and Goldfields General Advertiser (NSW : 1862),New South Wales,NDP00372,1862-03-29,1862-09-02
 1873,27970,"The Standard (Port Adelaide, SA : 1959 - 1965)",South Australia,NDP00365,1959-08-06,1965-12-22
@@ -1037,7 +1037,7 @@ title_id,total,title,state,issn,start_date,end_date
 293,32779,The Brunswick and Coburg Leader (Vic. : 1914 - 1929),Victoria,22002480,1914-01-02,1929-03-15
 294,58,Broadmeadows Camp Sentry (Vic. : 1917),Victoria,22000879,1917-07-27,1917-08-03
 295,10277,"The Advertiser (Footscray, Vic. : 1884 - 1918)",Victoria,22000941,1914-01-10,1918-12-21
-296,93623,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1905; 1914 - 1922)",Victoria,22000615,1893-10-03,1922-12-21
+296,93348,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1905; 1914 - 1922)",Victoria,22000615,1893-10-03,1922-12-07
 297,96547,Kerang New Times (Vic. : 1901 - 1918),Victoria,22002510,1901-03-29,1918-12-24
 298,9721,Portland Observer and Normanby Advertiser (Vic. : 1914 - 1918),Victoria,22000925,1914-01-05,1918-12-23
 299,25612,St Arnaud Mercury (Vic. : 1914 - 1918),Victoria,22000771,1914-01-07,1918-12-28
