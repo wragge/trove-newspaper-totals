@@ -599,7 +599,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,1032073,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1950-03-31
+1585,1069414,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1950-06-30
 1586,17181,The Nowra Colonist (NSW : 1892; 1899 - 1904),New South Wales,NDP00086,1892-01-13,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
@@ -898,13 +898,13 @@ title_id,total,title,state,issn,start_date,end_date
 1870,1982,"The Gippsland Farmers' and Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1922 - 1923)",Victoria,NDP00370,1922-12-11,1923-04-16
 1871,36951,"The Journal : Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1923 - 1929)",Victoria,NDP00371,1923-04-19,1929-12-23
 1872,698,Braidwood News and Goldfields General Advertiser (NSW : 1862),New South Wales,NDP00372,1862-03-29,1862-09-02
-1873,27970,"The Standard (Port Adelaide, SA : 1959 - 1965)",South Australia,NDP00365,1959-08-06,1965-12-22
+1873,27970,"The Standard (Port Adelaide, SA : 1959 - 1967)",South Australia,NDP00365,1959-08-06,1965-12-22
 1874,81234,"The People's Weekly (Moonta, SA: 1890 - 1928)",South Australia,NDP00373,1890-05-17,1928-12-22
 1875,9901,"The Seasider (Christies Beach, SA : 1956 - 1963)",South Australia,NDP00374,1956-08-01,1963-09-19
 1876,11187,Australijos Lietuvis = The Australian Lithuanian (SA : 1948 - 1956),South Australia,NDP00375,1948-09-12,1956-05-14
 1877,29422,The Braidwood and Araluen Express and People's Advocate (NSW : 1899 - 1904),New South Wales,NDP00376,1899-03-03,1904-05-27
 1878,22429,The Braidwood Express and People's Advocate (NSW : 1904 - 1907),New South Wales,NDP00377,1904-05-31,1907-12-24
-1879,37668,The South-East Kingston Leader (SA : 1962 - 1976),South Australia,NDP00378,1962-09-19,1976-12-21
+1879,37668,The South-East Kingston Leader (SA : 1962 - 1987),South Australia,NDP00378,1962-09-19,1976-12-21
 188,546610,The Dubbo Liberal and Macquarie Advocate (NSW : 1894 - 1954),New South Wales,18389805,1894-01-03,1954-12-31
 1880,1772,The Braidwood News and Southern Goldfields General Advertiser (NSW : 1864),New South Wales,NDP00379,1864-01-01,1864-12-17
 1881,3660,Braidwood Observer and Miner's Advocate (NSW : 1859 - 1862),New South Wales,NDP00380,1859-08-27,1862-12-31
@@ -1120,7 +1120,7 @@ title_id,total,title,state,issn,start_date,end_date
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
 37,36814,The Sydney Herald (NSW : 1831 - 1842),New South Wales,18360807,1831-04-18,1842-07-30
-370,635467,Port Lincoln Times (SA : 1927 - 1986; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
+370,635467,Port Lincoln Times (SA : 1927 - 1988; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
@@ -1405,7 +1405,7 @@ title_id,total,title,state,issn,start_date,end_date
 626,45,Clear Hills Standard and Daysdale and Saverneke Times (NSW : 1914),New South Wales,22022147,1914-06-20,1914-06-20
 627,8660,Albury Banner Wodonga Express and Riverina Stock Journal (NSW : 1941),New South Wales,22023372,1941-01-03,1941-09-12
 628,8627,"Daily Witness (Young, NSW : 1923 - 1924)",New South Wales,22023380,1923-11-05,1924-06-20
-629,225997,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
+629,250434,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
 63,29493,"Centralian Advocate (Alice Springs, NT : 1947 - 1954)",Northern Territory,14471647,1947-05-24,1954-12-24
 630,23611,"Construction and Real Estate Journal (Sydney, NSW : 1930 - 1938)",New South Wales,22020470,1930-07-30,1938-05-11
 631,4509,The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881),New South Wales,22023828,1879-02-27,1881-10-13
