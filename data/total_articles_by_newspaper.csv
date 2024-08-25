@@ -63,7 +63,7 @@ title_id,total,title,state,issn,start_date,end_date
 1054,1232,"The Colonial Mining Journal, Railway and Share Gazette and Illustrated Record (Melbourne, Vic. : 1859 - 1861)",Victoria,22052879,1859-09-01,1861-08-08
 1055,456544,Brisbane Telegraph (Qld. : 1948 - 1954),Queensland,22051449,1948-01-01,1954-12-31
 1056,17775,The Toowoomba Chronicle and Queensland Advertiser (Qld. : 1861 - 1875),Queensland,22051473,1861-07-11,1875-11-20
-1057,174637,Toowoomba Chronicle and Darling Downs General Advertiser (Qld. : 1875 - 1902),Queensland,22052038,1875-11-23,1902-06-28
+1057,174637,Toowoomba Chronicle and Darling Downs General Advertiser (Qld. : 1875 - 1879; 1881 - 1902),Queensland,22052038,1875-11-23,1902-06-28
 1058,712601,"The Daily Mail (Brisbane, Qld. : 1903; 1916 - 1926)",Queensland,22051619,1903-10-03,1926-10-31
 1059,2242,"Johnstone River Advocate (Geraldton, Qld. : 1906 - 1908)",Queensland,22051511,1906-12-06,1908-08-19
 106,216938,Nambour Chronicle and North Coast Advertiser (Qld. : 1922 - 1954),Queensland,18397077,1922-12-22,1954-12-31
@@ -914,7 +914,7 @@ title_id,total,title,state,issn,start_date,end_date
 1885,31285,The Ararat and Mount Pleasant Creek Advertiser and Chronicle for the District of the Wimmera (Vic. : 1861 - 1873),Victoria,NDP00384,1861-05-21,1873-09-09
 1886,11155,The Kangaroo Valley Times (NSW : 1898 - 1904),New South Wales,NDP00385,1898-01-04,1904-12-27
 1887,22024,"Broughton Creek Mail  (Berry, NSW : 1880 - 1881; 1891 - 1893; 1899 - 1907)",New South Wales,NDP00386,1880-05-06,1907-12-26
-1888,7057,"The Broughton Creek Register, and Kangaroo Valley and South Coast Farmer (Berry, NSW : 1896 - 1890)",New South Wales,NDP00387,1886-04-03,1890-12-27
+1888,7057,"The Broughton Creek Register, and Kangaroo Valley and South Coast Farmer (Berry, NSW : 1886 - 1890)",New South Wales,NDP00387,1886-04-03,1890-12-27
 1889,16407,The Berry Register and Kangaroo Valley and South Coast Farmer (NSW : 1894; 1898 - 1905),New South Wales,NDP00388,1894-01-06,1905-12-30
 189,63017,"The Star (Ballarat, Vic. : 1855 - 1864)",Victoria,18389856,1855-09-22,1864-12-31
 1890,155447,The Bega District News (NSW : 1923 - 1955),New South Wales,NDP00389,1923-10-01,1955-04-29
@@ -1129,7 +1129,7 @@ title_id,total,title,state,issn,start_date,end_date
 376,845,Ipswich Herald and General Advertiser (Qld. : 1861),Queensland,22007458,1861-03-29,1861-08-30
 377,516978,"Queensland Times, Ipswich Herald and General Advertiser (Qld. : 1861 - 1908)",Queensland,22007474,1861-10-08,1908-12-31
 378,1862661,"Queensland Times (Ipswich, Qld. : 1909 - 1954)",Queensland,13295950,1909-01-01,1954-12-31
-379,185996,Queensland Country Life (Qld. : 1900 1905; 1907; 1909 - 1910; 1935 - 1954),Queensland,1321165X,1900-03-28,1954-12-30
+379,185996,Queensland Country Life (Qld. : 1900 - 1905; 1907; 1909 - 1910; 1935 - 1954),Queensland,1321165X,1900-03-28,1954-12-30
 38,64194,"The Sunday Herald (Sydney, NSW : 1949 - 1953)",New South Wales,18360793,1949-01-23,1953-10-04
 380,1051,Kiama Examiner (NSW : 1858 - 1859),New South Wales,22007792,1858-12-18,1859-12-10
 381,6683,"Examiner (Kiama, NSW : 1859 - 1862)",New South Wales,22007814,1859-12-17,1862-12-30
@@ -1405,7 +1405,7 @@ title_id,total,title,state,issn,start_date,end_date
 626,45,Clear Hills Standard and Daysdale and Saverneke Times (NSW : 1914),New South Wales,22022147,1914-06-20,1914-06-20
 627,8660,Albury Banner Wodonga Express and Riverina Stock Journal (NSW : 1941),New South Wales,22023372,1941-01-03,1941-09-12
 628,8627,"Daily Witness (Young, NSW : 1923 - 1924)",New South Wales,22023380,1923-11-05,1924-06-20
-629,361993,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
+629,469154,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
 63,29493,"Centralian Advocate (Alice Springs, NT : 1947 - 1954)",Northern Territory,14471647,1947-05-24,1954-12-24
 630,23611,"Construction and Real Estate Journal (Sydney, NSW : 1930 - 1938)",New South Wales,22020470,1930-07-30,1938-05-11
 631,4509,The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881),New South Wales,22023828,1879-02-27,1881-10-13
