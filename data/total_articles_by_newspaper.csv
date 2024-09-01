@@ -504,7 +504,7 @@ title_id,total,title,state,issn,start_date,end_date
 149,6499,Eltham and Whittlesea Shires Advertiser (Vic. : 1940 - 1942),Victoria,18380352,1940-01-12,1942-08-28
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,835570,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1953)",New South Wales,26519291,1934-07-02,1953-12-31
+1492,835570,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1954)",New South Wales,26519291,1934-07-02,1953-12-31
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -692,7 +692,7 @@ title_id,total,title,state,issn,start_date,end_date
 1669,2102,Air Force News (National : 1941),National,NDP00170,1941-03-22,1941-12-20
 167,422,"The Federal Capital Pioneer Magazine (Canberra, ACT : 1926 - 1927)",ACT,1838868X,1926-10-15,1927-08-20
 1671,22376,RAAF News (National : 1960 - 1997),National,NDP00172,1941-03-22,1997-09-01
-1672,34531,Air Force News (National : 1997 - 2020),National,NDP00173,1997-10-01,2021-12-09
+1672,34531,Air Force News (National : 1997 - 2023),National,NDP00173,1997-10-01,2021-12-09
 1673,1999,Noosa Advocate (Qld. : 1911 - 1929),Queensland,NDP00174,1911-03-03,1929-06-07
 1674,13323,Noosa Advocate and Cooroora Advertiser (Qld. : 1929 - 1934),Queensland,NDP00175,1929-06-14,1934-01-31
 1675,28941,Noosa News (Qld. : 1968 - 1974),Queensland,NDP00176,1968-12-05,1974-12-26
@@ -823,9 +823,9 @@ title_id,total,title,state,issn,start_date,end_date
 180,228445,"The Inquirer and Commercial News (Perth, WA : 1855 - 1901)",Western Australia,18389767,1855-07-04,1901-06-28
 1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
 1801,34847,Australian Army (National : 1959 -1980),National,NDP00300,1959-09-10,1980-09-25
-1802,76489,Army (National : 1980 - 2021),National,NDP00301,1980-10-09,2021-12-09
+1802,76489,Army (National : 1980 - 2023),National,NDP00301,1980-10-09,2021-12-09
 1803,2794,Army Magazine (National : 1989 - 2002),National,NDP00302,1989-08-01,2002-08-01
-1804,95727,Royal Australian Navy News (National : 1958 - 2021),National,NDP00303,1958-07-18,2021-12-09
+1804,95727,Royal Australian Navy News (National : 1958 - 2023),National,NDP00303,1958-07-18,2021-12-09
 1805,145,The Maylands and Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
 1807,18983,"The Groper (Perth, WA : 1930 - 1937)",Western Australia,NDP00306,1930-10-04,1937-07-31
@@ -1384,7 +1384,7 @@ title_id,total,title,state,issn,start_date,end_date
 607,10319,Stratford Sentinel and Briagolong Express (Vic. : 1911 - 1916),Victoria,22018646,1911-10-20,1916-06-16
 608,9305,Talbot Leader (Vic. : 1914 - 1918),Victoria,2201960X,1914-01-03,1918-12-28
 609,29825,Terang Express (Vic. : 1914 - 1918),Victoria,22019782,1914-01-06,1918-12-31
-61,1918132,Cairns Post (Qld. : 1909 - 1954),Queensland,13228587,1909-07-05,1954-12-31
+61,1918132,The Cairns Post (Qld. : 1909 - 1954),Queensland,13228587,1909-07-05,1954-12-31
 610,7842,The Independent (Benalla) (Vic. : 1914 - 1918),Victoria,22020209,1914-07-14,1918-12-20
 611,8937,Toora and Welshpool Ensign and South Gippsland Observer (Vic. : 1914 - 1918),Victoria,22019049,1914-01-09,1918-12-24
 612,10270,Trafalgar and Yarragon Times (Vic. : 1914 - 1918),Victoria,22019065,1914-01-16,1918-12-27
@@ -1405,7 +1405,7 @@ title_id,total,title,state,issn,start_date,end_date
 626,45,Clear Hills Standard and Daysdale and Saverneke Times (NSW : 1914),New South Wales,22022147,1914-06-20,1914-06-20
 627,8660,Albury Banner Wodonga Express and Riverina Stock Journal (NSW : 1941),New South Wales,22023372,1941-01-03,1941-09-12
 628,8627,"Daily Witness (Young, NSW : 1923 - 1924)",New South Wales,22023380,1923-11-05,1924-06-20
-629,469154,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
+629,575819,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
 63,29493,"Centralian Advocate (Alice Springs, NT : 1947 - 1954)",Northern Territory,14471647,1947-05-24,1954-12-24
 630,23611,"Construction and Real Estate Journal (Sydney, NSW : 1930 - 1938)",New South Wales,22020470,1930-07-30,1938-05-11
 631,4509,The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881),New South Wales,22023828,1879-02-27,1881-10-13
