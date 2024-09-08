@@ -839,7 +839,7 @@ title_id,total,title,state,issn,start_date,end_date
 1814,1906,"The Manning and Hastings Advocate (Wingham, NSW : 1881 - 1882)",New South Wales,NDP00314,1881-11-11,1882-11-29
 1815,2392,"The Manning River Chronicle (Wingham, NSW : 1886 - 1888) ",New South Wales,NDP00315,1886-09-06,1888-02-27
 1816,1257,"The Manning River Independent and Advocate of Native Industries (Taree, NSW : 1892 - 1893)",New South Wales,NDP00316,1892-01-26,1893-05-19
-1817,2655,"The Western Chronicle (Perth, WA. : 1923)",Western Australia,NDP00318,1923-02-24,1923-12-29
+1817,2655,"The Western Chronicle (Perth, WA. : 1923 - 1925)",Western Australia,NDP00318,1923-02-24,1923-12-29
 1818,9688,The Mittagong Express (NSW. : 1899 ; 1901 - 1902),New South Wales,NDP00319,1899-01-03,1902-03-28
 1819,3241,The Mittagong Argus (NSW. : 1902 - 1904),New South Wales,NDP00320,1902-01-04,1904-06-11
 182,3230,"The Leader (Liverpool, NSW : 1946 - 1949)",New South Wales,18387578,1946-08-15,1949-03-10
@@ -869,7 +869,7 @@ title_id,total,title,state,issn,start_date,end_date
 1841,11196,"Essendon Gazette (Moonee Ponds, Vic. : 1900 - 1905)",Victoria,NDP00327,1900-08-16,1905-04-27
 1842,34,"Sportsman (Perth, WA : 1903)",Western Australia,NDP00341,1903-09-23,1903-09-23
 1843,452,"The Sportsman (Perth, WA : 1904)",Western Australia,NDP00342,1904-08-05,1904-09-23
-1846,122062,"Daily Commercial News and Shipping List (Perth, WA : 1927 - 1934)",Western Australia,NDP00345,1927-05-09,1934-12-29
+1846,122062,"Daily Commercial News and Shipping List (Perth, WA : 1927 - 1934; 1935 - 1937)",Western Australia,NDP00345,1927-05-09,1934-12-29
 1847,1902,"Western Press and Camperdown, Colac, Mortlake and Terang Representative (Vic. : 1866-1867 ; 1870)",Victoria,NDP00346,1866-06-30,1870-12-31
 1848,11506,"The Hampden Guardian and Western Province Advertiser (Camperdown, Vic. : 1871 - 1872 ; 1874 - 1877)",Victoria,NDP00347,1871-01-06,1877-03-08
 1849,10426,Dubbo Dispatch (NSW : 1942),New South Wales,NDP00348,1942-01-02,1942-12-25
@@ -925,6 +925,7 @@ title_id,total,title,state,issn,start_date,end_date
 19,6072,The Hobart Town Courier (Tas. : 1827 - 1839),Tasmania,18354742,1827-10-20,1839-06-28
 190,159,Windsor Express and Richmond Advertiser (NSW : 1843 - 1844),New South Wales,18389384,1843-05-17,1844-05-09
 191,284473,"Worker (Brisbane, Qld. : 1890 - 1955)",Queensland,00438065,1890-03-01,1955-12-26
+1915,136701,"The Queenslander Illustrated Weekly (Brisbane, Qld. : 1927 - 1939)",Queensland,NDP00415,1927-04-14,1939-02-22
 192,253359,Windsor and Richmond Gazette (NSW : 1888 - 1971),New South Wales,08121885,1888-07-21,1965-12-22
 193,152694,Williamstown Chronicle (Vic. : 1856 - 1954),Victoria,18387144,1856-09-13,1954-12-23
 194,24474,"The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)",Victoria,18384773,1888-02-18,1902-01-04
@@ -1175,7 +1176,7 @@ title_id,total,title,state,issn,start_date,end_date
 417,3391,Taralga Echo (NSW : 1924 - 1927),New South Wales,22013288,1924-11-01,1927-11-04
 418,14765,"Southern Morning Herald (Goulburn, NSW : 1920 - 1923)",New South Wales,2201330X,1920-10-18,1923-12-31
 419,2643,Werriwa Times and Goulburn District News (NSW : 1901),New South Wales,22013326,1901-08-02,1901-12-23
-42,730943,"The Queenslander (Brisbane, Qld. : 1866 - 1939)",Queensland,18368190,1866-02-03,1939-02-22
+42,594242,"The Queenslander (Brisbane, Qld. : 1866 - 1939)",Queensland,18368190,1866-02-03,1927-04-09
 420,149234,Cowra Free Press (NSW : 1911 - 1937),New South Wales,22013385,1911-01-07,1937-05-31
 421,317252,The Forbes Advocate (NSW : 1911 - 1954),New South Wales,13289632,1911-12-08,1954-12-24
 422,68258,Forbes Times (NSW : 1899 - 1902; 1912 - 1920),New South Wales,22013415,1899-01-07,1920-03-31
@@ -1405,7 +1406,7 @@ title_id,total,title,state,issn,start_date,end_date
 626,45,Clear Hills Standard and Daysdale and Saverneke Times (NSW : 1914),New South Wales,22022147,1914-06-20,1914-06-20
 627,8660,Albury Banner Wodonga Express and Riverina Stock Journal (NSW : 1941),New South Wales,22023372,1941-01-03,1941-09-12
 628,8627,"Daily Witness (Young, NSW : 1923 - 1924)",New South Wales,22023380,1923-11-05,1924-06-20
-629,575819,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
+629,659172,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
 63,29493,"Centralian Advocate (Alice Springs, NT : 1947 - 1954)",Northern Territory,14471647,1947-05-24,1954-12-24
 630,23611,"Construction and Real Estate Journal (Sydney, NSW : 1930 - 1938)",New South Wales,22020470,1930-07-30,1938-05-11
 631,4509,The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881),New South Wales,22023828,1879-02-27,1881-10-13
