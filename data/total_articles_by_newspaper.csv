@@ -63,7 +63,7 @@ title_id,total,title,state,issn,start_date,end_date
 1054,1232,"The Colonial Mining Journal, Railway and Share Gazette and Illustrated Record (Melbourne, Vic. : 1859 - 1861)",Victoria,22052879,1859-09-01,1861-08-08
 1055,456544,Brisbane Telegraph (Qld. : 1948 - 1954),Queensland,22051449,1948-01-01,1954-12-31
 1056,17775,The Toowoomba Chronicle and Queensland Advertiser (Qld. : 1861 - 1875),Queensland,22051473,1861-07-11,1875-11-20
-1057,174637,The Toowoomba Chronicle and Darling Downs General Advertiser (Qld. : 1875 - 1879; 1881 - 1916),Queensland,22052038,1875-11-23,1902-06-28
+1057,174637,The Toowoomba Chronicle and Darling Downs General Advertiser (Qld. : 1875 - 1879; 1881 - 1902),Queensland,22052038,1875-11-23,1902-06-28
 1058,712601,"The Daily Mail (Brisbane, Qld. : 1903; 1916 - 1926)",Queensland,22051619,1903-10-03,1926-10-31
 1059,2242,"Johnstone River Advocate (Geraldton, Qld. : 1906 - 1908)",Queensland,22051511,1906-12-06,1908-08-19
 106,216938,Nambour Chronicle and North Coast Advertiser (Qld. : 1922 - 1954),Queensland,18397077,1922-12-22,1954-12-31
@@ -493,7 +493,7 @@ title_id,total,title,state,issn,start_date,end_date
 148,43916,"Advertiser (Hurstbridge, Vic. : 1922 - 1939)",Victoria,18380344,1922-06-23,1939-12-22
 1480,11334,"Mosman, Neutral and Middle Harbour Resident (NSW : 1904 - 1907, 1916 - 1919)",New South Wales,22096914,1904-07-30,1919-02-01
 1481,611636,The Toowoomba Chronicle and Darling Downs Gazette (Qld. : 1922 - 1965),Queensland,22090835,1922-11-01,1933-12-30
-1482,303980,Toowoomba Chronicle (Qld. : 1917 - 1922),Queensland,22090819,1917-01-02,1922-10-31
+1482,303980,Toowoomba Chronicle (Qld. : 1902 - 1922),Queensland,22090819,1917-01-02,1922-10-31
 1483,108165,The Elmore Standard (Vic. : 1882 - 1920,Victoria,2209668X,1882-01-06,1920-12-31
 1484,63,"The Egotist (Adelaide, SA : 1839)",South Australia,22099352,1839-05-14,1839-06-25
 1485,41,Port Lincoln Herald (SA : 1839 - 1840),South Australia,22099379,1839-04-10,1840-05-19
@@ -892,7 +892,7 @@ title_id,total,title,state,issn,start_date,end_date
 1865,508,The Araluen Star and Miners' Right (NSW : 1863 - 1864),New South Wales,NDP00349,1863-09-05,1864-07-02
 1866,12877,Coolamon-Ganmain Farmers' Review (NSW : 1906 - 1910),New South Wales,NDP00366,1906-11-23,1910-11-25
 1867,15838,Coolamon Farmers' Review (NSW : 1910 - 1917),New South Wales,NDP00367,1910-09-09,1917-05-18
-1868,55803,Coolamon-Ganmain Farmers' Review (NSW : 1917 - 1942),New South Wales,NDP00368,1917-05-25,1937-12-17
+1868,55942,Coolamon-Ganmain Farmers' Review (NSW : 1917 - 1942),New South Wales,NDP00368,1917-05-25,1937-12-17
 1869,495,"Direct Action (Adelaide, SA : 1928 - 1930)",South Australia,NDP00369,1928-05-13,1930-11-29
 187,431304,"The Central Queensland Herald (Rockhampton, Qld. : 1930 - 1956)",Queensland,18389783,1930-01-02,1956-11-29
 1870,1982,"The Gippsland Farmers' and Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1922 - 1923)",Victoria,NDP00370,1922-12-11,1923-04-16
@@ -923,16 +923,16 @@ title_id,total,title,state,issn,start_date,end_date
 1893,999,The Captain's Flat Mining Record (NSW : 1898),New South Wales,NDP00392,1898-01-15,1898-06-25
 1894,99,Hill End and Tambaroora Times and Miners' Advocate (NSW : 1871 - 1872; 1875),New South Wales,NDP00393,1871-09-23,1875-10-30
 1895,3887,The Banner of Belfast (Vic. : 1855; 1857 - 1876),Victoria,NDP00394,1855-12-15,1871-12-26
-1897,1255,,,,,
-1898,3719,The Footscray Advertiser (Vic.  : 1884 - 1887),Victoria,NDP00398,1884-03-14,1887-02-11
-1899,756,,,,,
+1897,1255,The Belfast Gazette and Portland and Warnambool Advertiser (Vic. 1849 - 1876),Victoria,NDP00397,1849-04-06,1855-12-01
+1898,3723,The Footscray Advertiser (Vic.  : 1884 - 1887),Victoria,NDP00398,1884-03-14,1887-02-11
+1899,756,The Portland Mercury and Normanby Advertiser (Vic. : 1842 - 1843),Victoria,NDP00399,1842-08-31,1843-07-19
 19,6072,The Hobart Town Courier (Tas. : 1827 - 1839),Tasmania,18354742,1827-10-20,1839-06-28
 190,159,Windsor Express and Richmond Advertiser (NSW : 1843 - 1844),New South Wales,18389384,1843-05-17,1844-05-09
 1900,617,The Portland Mercury and Port Fairy Register (Vic. : 1843 - 1844),Victoria,NDP00400,1843-07-28,1844-06-26
 1902,28,The Warrnambool Examiner and Western and Western District Advertiser (Vic. :  1856),Victoria,NDP00402,1854-10-07,1856-03-14
 191,284473,"Worker (Brisbane, Qld. : 1890 - 1955)",Queensland,00438065,1890-03-01,1955-12-26
 1915,136701,"The Queenslander Illustrated Weekly (Brisbane, Qld. : 1927 - 1939)",Queensland,NDP00415,1927-04-14,1939-02-22
-192,253359,Windsor and Richmond Gazette (NSW : 1888 - 1971),New South Wales,08121885,1888-07-21,1965-12-22
+192,279460,Windsor and Richmond Gazette (NSW : 1888 - 1971),New South Wales,08121885,1888-07-21,1970-12-23
 193,152694,Williamstown Chronicle (Vic. : 1856 - 1954),Victoria,18387144,1856-09-13,1954-12-23
 194,24474,"The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)",Victoria,18384773,1888-02-18,1902-01-04
 195,30949,Kerang Times and Swan Hill Gazette (Vic. : 1877 - 1889),Victoria,18384838,1877-09-14,1894-11-09
@@ -968,13 +968,13 @@ title_id,total,title,state,issn,start_date,end_date
 223,3229,The Benalla Ensign and Farmer's and Squatter's Journal (Vic. : 1869 - 1872),Victoria,18387659,1869-07-23,1872-03-30
 224,7631,"The Castlereagh (Gilgandra, NSW : 1905 - 1907)",New South Wales,18394841,1905-01-13,1907-12-20
 225,636732,The Horsham Times (Vic. : 1882 - 1954),Victoria,18388175,1882-01-17,1954-12-31
-227,157471,The Warrnambool Standard (Vic. : 1872 - 1879 ; 1914 - 1918),Victoria,08129762,1872-10-01,1918-12-31
+227,174970,The Warrnambool Standard (Vic. : 1872 - 1879 ; 1914 - 1918),Victoria,08129762,1872-10-01,1918-12-31
 228,95536,The Mildura Cultivator (Vic. : 1888 - 1920),Victoria,18387691,1888-05-19,1920-09-29
 229,132884,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1899-05-05,1918-12-31
 23,1271,"Colonial Times and Tasmanian Advertiser (Hobart, Tas. : 1825 - 1827)",Tasmania,18354718,1825-08-19,1827-12-28
 230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
 231,63627,"Independent (Footscray, Vic. : 1883 - 1922)",Victoria,18389201,1883-03-31,1922-12-23
-232,463412,The Ballarat Courier (Vic. : 1869 - 1886; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
+232,463412,The Ballarat Courier (Vic. : 1869 - 1896; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
 233,1997,"Frankston Standard (Frankston, Vic. : 1949)",Victoria,18388205,1949-08-04,1949-12-21
 234,2108,"Queenscliff Sentinel, Drysdale, ... (Vic. : 1882 - 1884)",Victoria,18387160,1882-12-02,1884-12-20
 235,1155,The Queenscliff Sentinel (Vic. : 1884 - 1885),Victoria,18387179,1884-12-27,1885-06-13
@@ -1043,7 +1043,7 @@ title_id,total,title,state,issn,start_date,end_date
 292,7442,Geelong Advertiser (Vic. : 1840 - 1845),Victoria,14401398,1840-11-21,1845-05-24
 293,32779,The Brunswick and Coburg Leader (Vic. : 1914 - 1929),Victoria,22002480,1914-01-02,1929-03-15
 294,58,Broadmeadows Camp Sentry (Vic. : 1917),Victoria,22000879,1917-07-27,1917-08-03
-295,30986,"The Advertiser (Footscray, Vic. : 1884 - 1918)",Victoria,22000941,1887-02-18,1918-12-21
+295,61571,"The Advertiser (Footscray, Vic. : 1884 - 1918)",Victoria,22000941,1887-02-18,1918-12-21
 296,93348,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1905; 1914 - 1922)",Victoria,22000615,1893-10-03,1922-12-07
 297,96547,Kerang New Times (Vic. : 1901 - 1918),Victoria,22002510,1901-03-29,1918-12-24
 298,9721,Portland Observer and Normanby Advertiser (Vic. : 1914 - 1918),Victoria,22000925,1914-01-05,1918-12-23
