@@ -899,7 +899,7 @@ title_id,total,title,state,issn,start_date,end_date
 1870,1982,"The Gippsland Farmers' and Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1922 - 1923)",Victoria,NDP00370,1922-12-11,1923-04-16
 1871,36951,"The Journal : Glengarry, Toongabbie and Cowwarr Journal (Traralgon, Vic. : 1923 - 1929)",Victoria,NDP00371,1923-04-19,1929-12-23
 1872,698,Braidwood News and Goldfields General Advertiser (NSW : 1862),New South Wales,NDP00372,1862-03-29,1862-09-02
-1873,35542,"The Standard (Port Adelaide, SA : 1959 - 1967)",South Australia,NDP00365,1959-08-06,1967-06-28
+1873,38598,"The Standard (Port Adelaide, SA : 1959 - 1967)",South Australia,NDP00365,1959-08-06,1967-12-27
 1874,81234,"The People's Weekly (Moonta, SA: 1890 - 1928)",South Australia,NDP00373,1890-05-17,1928-12-22
 1875,9901,"The Seasider (Christies Beach, SA : 1956 - 1963)",South Australia,NDP00374,1956-08-01,1963-09-19
 1876,11187,Australijos Lietuvis = The Australian Lithuanian (SA : 1948 - 1956),South Australia,NDP00375,1948-09-12,1956-05-14
@@ -923,8 +923,8 @@ title_id,total,title,state,issn,start_date,end_date
 1892,42,"The Sunny Corner Silver Press and Miners' Advocate (Mitchell, NSW :  1886)",New South Wales,NDP00391,1886-03-20,1886-03-27
 1893,999,The Captain's Flat Mining Record (NSW : 1898),New South Wales,NDP00392,1898-01-15,1898-06-25
 1894,99,Hill End and Tambaroora Times and Miners' Advocate (NSW : 1871 - 1872; 1875),New South Wales,NDP00393,1871-09-23,1875-10-30
-1895,7987,The Banner of Belfast (Vic. : 1855; 1857 - 1876),Victoria,NDP00394,1855-12-15,1876-12-06
-1897,1255,The Belfast Gazette and Portland and Warnambool Advertiser (Vic. 1849 - 1876),Victoria,NDP00397,1849-04-06,1855-12-01
+1895,12304,The Banner of Belfast (Vic. : 1855; 1857 - 1876),Victoria,NDP00394,1855-12-15,1876-12-06
+1897,16620,The Belfast Gazette and Portland and Warnambool Advertiser (Vic. 1849 - 1876),Victoria,NDP00397,1849-04-06,1876-12-08
 1898,3723,The Footscray Advertiser (Vic.  : 1884 - 1887),Victoria,NDP00398,1884-03-14,1887-02-11
 1899,756,The Portland Mercury and Normanby Advertiser (Vic. : 1842 - 1843),Victoria,NDP00399,1842-08-31,1843-07-19
 19,6072,The Hobart Town Courier (Tas. : 1827 - 1839),Tasmania,18354742,1827-10-20,1839-06-28
@@ -933,9 +933,9 @@ title_id,total,title,state,issn,start_date,end_date
 1901,2155,Portland Gazette and Belfast Advertiser (Vic. : 1844 - 1849),Victoria,NDP00401,1844-07-03,1849-03-23
 1902,28,The Warrnambool Examiner and Western and Western District Advertiser (Vic. :  1856),Victoria,NDP00402,1854-10-07,1856-03-14
 191,284473,"Worker (Brisbane, Qld. : 1890 - 1955)",Queensland,00438065,1890-03-01,1955-12-26
-1914,3183,,,,,
+1914,3183,"Belfast Gazette (Port Fairy, Vic. : 1876 - 1890)",Victoria,NDP00403,1876-12-12,1878-07-02
 1915,136701,"The Queenslander Illustrated Weekly (Brisbane, Qld. : 1927 - 1939)",Queensland,NDP00415,1927-04-14,1939-02-22
-192,286219,Windsor and Richmond Gazette (NSW : 1888 - 1971),New South Wales,08121885,1888-07-21,1970-12-23
+192,293533,Windsor and Richmond Gazette (NSW : 1888 - 1971),New South Wales,08121885,1888-07-21,1971-12-22
 193,152694,Williamstown Chronicle (Vic. : 1856 - 1954),Victoria,18387144,1856-09-13,1954-12-23
 194,24474,"The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)",Victoria,18384773,1888-02-18,1902-01-04
 195,30949,Kerang Times and Swan Hill Gazette (Vic. : 1877 - 1889),Victoria,18384838,1877-09-14,1894-11-09
@@ -1130,7 +1130,7 @@ title_id,total,title,state,issn,start_date,end_date
 368,787538,Goulburn Evening Penny Post (NSW : 1881 - 1940),New South Wales,22007342,1881-01-04,1940-05-03
 369,295414,Goulburn Evening Post (NSW : 1940 - 1954),New South Wales,22007369,1940-05-06,1954-12-31
 37,36814,The Sydney Herald (NSW : 1831 - 1842),New South Wales,18360807,1831-04-18,1842-07-30
-370,635467,Port Lincoln Times (SA : 1927 - 1988; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
+370,668767,Port Lincoln Times (SA : 1927 - 1988; 1992 - 2002),South Australia,13215272,1927-08-05,2002-12-31
 371,233707,"Bunyip (Gawler, SA : 1863 - 1954)",South Australia,22007199,1863-09-05,1954-12-24
 372,239264,"Northern Argus (Clare, SA : 1869 - 1954)",South Australia,13282999,1869-02-19,1954-12-22
 373,182259,"Southern Argus (Port Elliot, SA : 1866 - 1954)",South Australia,18343902,1866-03-17,1954-12-23
