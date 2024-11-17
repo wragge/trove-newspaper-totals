@@ -327,7 +327,7 @@ title_id,total,title,state,issn,start_date,end_date
 1306,563,Seaport News Review (SA : 1954),South Australia,22072314,1954-01-21,1954-04-29
 1307,1446,"The Progressive Times (Largs North, SA : 1949 - 1951)",South Australia,22072276,1949-05-16,1951-02-01
 1309,125,"The Western Weekly News (Port Lincoln, SA : 1902-1904)",South Australia,2208133X,1902-04-19,1904-03-23
-131,5376,"The Broadford Courier (Broadford, Vic. : 1916 - 1920 ; 1951 - 1966)",Victoria,18379540,1916-02-18,1920-12-24
+131,23179,"The Broadford Courier (Broadford, Vic. : 1916 - 1920 ; 1951 - 1966)",Victoria,18379540,1916-02-18,1963-12-20
 1310,3063,"The Red Star (Perth, WA : 1932 - 1936)",Western Australia,22082557,1932-04-08,1936-04-17
 1311,29652,"The Workers Star (Perth, WA : 1936 - 1951)",Western Australia,22082581,1936-04-24,1950-12-19
 1312,168752,"Mount Barker and Denmark Record (Albany, WA : 1929 - 1949)",Western Australia,22082484,1929-12-10,1949-06-13
@@ -511,7 +511,7 @@ title_id,total,title,state,issn,start_date,end_date
 1496,290,"Weekly Free Press, and Port Phillip Commercial Advertiser (Vic. : 1841)",Victoria,26520354,1841-07-03,1841-09-25
 1497,8841,"Northern Times (Carnarvon, WA : 1952 - 1954)",Western Australia,22008330,1952-06-12,1954-12-30
 1498,2830,"A Voz de Timor (Dili, East Timor : 1970 - 1975)",International,2652080X,1970-06-11,1975-08-09
-1499,14024,,,,,
+1499,91630,"Central Western Daily (Orange, NSW : 1945 - 1954)",New South Wales,NDP00396,1948-05-01,1953-12-31
 15,20322,"The Courier (Brisbane, Qld. : 1861 - 1864)",Queensland,18335578,1861-05-14,1864-04-09
 150,9443,South Bourke Standard (Vic. : 1861 - 1873),Victoria,18384021,1861-05-31,1873-12-26
 1500,29322,"The Bananacoast Opinion (Coffs Harbour, NSW : 1973 - 1978)",New South Wales,26520370,1973-06-19,1978-10-25
