@@ -317,6 +317,8 @@ National,2018,3506
 National,2019,3314
 National,2020,3201
 National,2021,3469
+National,2022,1102
+National,2023,2140
 New South Wales,1803,526
 New South Wales,1804,619
 New South Wales,1805,430
@@ -462,13 +464,13 @@ New South Wales,1944,1165486
 New South Wales,1945,1147876
 New South Wales,1946,1434515
 New South Wales,1947,1483799
-New South Wales,1948,1325588
+New South Wales,1948,1329876
 New South Wales,1949,1507882
-New South Wales,1950,1594323
-New South Wales,1951,1508624
-New South Wales,1952,1552735
+New South Wales,1950,1612158
+New South Wales,1951,1526449
+New South Wales,1952,1561140
 New South Wales,1953,1688909
-New South Wales,1954,1597705
+New South Wales,1954,1616495
 New South Wales,1955,109566
 New South Wales,1956,56200
 New South Wales,1957,60968
@@ -924,8 +926,8 @@ South Australia,1973,19068
 South Australia,1974,18668
 South Australia,1975,18268
 South Australia,1976,18551
-South Australia,1977,17565
-South Australia,1978,17725
+South Australia,1977,19933
+South Australia,1978,20006
 South Australia,1979,20999
 South Australia,1980,24279
 South Australia,1981,25720
@@ -1173,7 +1175,7 @@ Victoria,1853,17646
 Victoria,1854,25480
 Victoria,1855,40121
 Victoria,1856,42903
-Victoria,1857,55549
+Victoria,1857,55546
 Victoria,1858,61359
 Victoria,1859,74842
 Victoria,1860,76410
