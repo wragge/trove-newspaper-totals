@@ -317,8 +317,8 @@ National,2018,3506
 National,2019,3314
 National,2020,3201
 National,2021,3469
-National,2022,1102
-National,2023,2140
+National,2022,3202
+National,2023,3242
 New South Wales,1803,526
 New South Wales,1804,619
 New South Wales,1805,430
@@ -465,12 +465,12 @@ New South Wales,1945,1147876
 New South Wales,1946,1434515
 New South Wales,1947,1483799
 New South Wales,1948,1329876
-New South Wales,1949,1507882
+New South Wales,1949,1521613
 New South Wales,1950,1612158
 New South Wales,1951,1526449
-New South Wales,1952,1561140
+New South Wales,1952,1570724
 New South Wales,1953,1688909
-New South Wales,1954,1616495
+New South Wales,1954,1626257
 New South Wales,1955,109566
 New South Wales,1956,56200
 New South Wales,1957,60968
@@ -841,19 +841,19 @@ South Australia,1888,177053
 South Australia,1889,194574
 South Australia,1890,202360
 South Australia,1891,204531
-South Australia,1892,206036
-South Australia,1893,208946
-South Australia,1894,207840
-South Australia,1895,214144
-South Australia,1896,217591
-South Australia,1897,216182
-South Australia,1898,233246
-South Australia,1899,241132
-South Australia,1900,245957
-South Australia,1901,262057
-South Australia,1902,263522
-South Australia,1903,278351
-South Australia,1904,265930
+South Australia,1892,207601
+South Australia,1893,210558
+South Australia,1894,209576
+South Australia,1895,215862
+South Australia,1896,219450
+South Australia,1897,217776
+South Australia,1898,234744
+South Australia,1899,242603
+South Australia,1900,247540
+South Australia,1901,263563
+South Australia,1902,264921
+South Australia,1903,279727
+South Australia,1904,267175
 South Australia,1905,276094
 South Australia,1906,295329
 South Australia,1907,305128
@@ -928,10 +928,10 @@ South Australia,1975,18268
 South Australia,1976,18551
 South Australia,1977,19933
 South Australia,1978,20006
-South Australia,1979,20999
-South Australia,1980,24279
-South Australia,1981,25720
-South Australia,1982,27202
+South Australia,1979,23412
+South Australia,1980,26379
+South Australia,1981,27789
+South Australia,1982,29479
 South Australia,1983,28474
 South Australia,1984,29939
 South Australia,1985,31191
@@ -1257,12 +1257,12 @@ Victoria,1935,767255
 Victoria,1936,779092
 Victoria,1937,767736
 Victoria,1938,767364
-Victoria,1939,731338
-Victoria,1940,616983
+Victoria,1939,733096
+Victoria,1940,618575
 Victoria,1941,533439
 Victoria,1942,413831
-Victoria,1943,357764
-Victoria,1944,379377
+Victoria,1943,358900
+Victoria,1944,380478
 Victoria,1945,413126
 Victoria,1946,519959
 Victoria,1947,508891

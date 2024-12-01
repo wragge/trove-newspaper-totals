@@ -511,7 +511,7 @@ title_id,total,title,state,issn,start_date,end_date
 1496,290,"Weekly Free Press, and Port Phillip Commercial Advertiser (Vic. : 1841)",Victoria,26520354,1841-07-03,1841-09-25
 1497,8841,"Northern Times (Carnarvon, WA : 1952 - 1954)",Western Australia,22008330,1952-06-12,1954-12-30
 1498,2830,"A Voz de Timor (Dili, East Timor : 1970 - 1975)",International,2652080X,1970-06-11,1975-08-09
-1499,158773,"Central Western Daily (Orange, NSW : 1945 - 1954)",New South Wales,NDP00396,1948-03-01,1954-08-31
+1499,191850,"Central Western Daily (Orange, NSW : 1945 - 1954)",New South Wales,NDP00396,1948-03-01,1954-12-31
 15,20322,"The Courier (Brisbane, Qld. : 1861 - 1864)",Queensland,18335578,1861-05-14,1864-04-09
 150,9443,South Bourke Standard (Vic. : 1861 - 1873),Victoria,18384021,1861-05-31,1873-12-26
 1500,29322,"The Bananacoast Opinion (Coffs Harbour, NSW : 1973 - 1978)",New South Wales,26520370,1973-06-19,1978-10-25
@@ -693,7 +693,7 @@ title_id,total,title,state,issn,start_date,end_date
 1669,2102,Air Force News (National : 1941),National,NDP00170,1941-03-22,1941-12-20
 167,422,"The Federal Capital Pioneer Magazine (Canberra, ACT : 1926 - 1927)",ACT,1838868X,1926-10-15,1927-08-20
 1671,22376,RAAF News (National : 1960 - 1997),National,NDP00172,1941-03-22,1997-09-01
-1672,34531,Air Force News (National : 1997 - 2023),National,NDP00173,1997-10-01,2021-12-09
+1672,36686,Air Force News (National : 1997 - 2023),National,NDP00173,1997-10-01,2023-12-07
 1673,1999,Noosa Advocate (Qld. : 1911 - 1929),Queensland,NDP00174,1911-03-03,1929-06-07
 1674,13323,Noosa Advocate and Cooroora Advertiser (Qld. : 1929 - 1934),Queensland,NDP00175,1929-06-14,1934-01-31
 1675,28941,Noosa News (Qld. : 1968 - 1974),Queensland,NDP00176,1968-12-05,1974-12-26
@@ -826,7 +826,7 @@ title_id,total,title,state,issn,start_date,end_date
 1801,34847,Australian Army (National : 1959 -1980),National,NDP00300,1959-09-10,1980-09-25
 1802,78715,Army (National : 1980 - 2023),National,NDP00301,1980-10-09,2023-12-07
 1803,2794,Army Magazine (National : 1989 - 2002),National,NDP00302,1989-08-01,2002-08-01
-1804,96743,Royal Australian Navy News (National : 1958 - 2023),National,NDP00303,1958-07-18,2023-12-07
+1804,97790,Royal Australian Navy News (National : 1958 - 2023),National,NDP00303,1958-07-18,2023-12-07
 1805,145,The Maylands and Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
 1807,18983,"The Groper (Perth, WA : 1930 - 1937)",Western Australia,NDP00306,1930-10-04,1937-07-31
@@ -905,7 +905,7 @@ title_id,total,title,state,issn,start_date,end_date
 1876,11187,Australijos Lietuvis = The Australian Lithuanian (SA : 1948 - 1956),South Australia,NDP00375,1948-09-12,1956-05-14
 1877,29422,The Braidwood and Araluen Express and People's Advocate (NSW : 1899 - 1904),New South Wales,NDP00376,1899-03-03,1904-05-27
 1878,22429,The Braidwood Express and People's Advocate (NSW : 1904 - 1907),New South Wales,NDP00377,1904-05-31,1907-12-24
-1879,42317,The South-East Kingston Leader (SA : 1962 - 1987),South Australia,NDP00378,1962-09-19,1978-12-20
+1879,51176,The South-East Kingston Leader (SA : 1962 - 1987),South Australia,NDP00378,1962-09-19,1982-12-22
 188,546610,The Dubbo Liberal and Macquarie Advocate (NSW : 1894 - 1954),New South Wales,18389805,1894-01-03,1954-12-31
 1880,1772,The Braidwood News and Southern Goldfields General Advertiser (NSW : 1864),New South Wales,NDP00379,1864-01-01,1864-12-17
 1881,3660,Braidwood Observer and Miner's Advocate (NSW : 1859 - 1862),New South Wales,NDP00380,1859-08-27,1862-12-31
@@ -924,6 +924,7 @@ title_id,total,title,state,issn,start_date,end_date
 1893,999,The Captain's Flat Mining Record (NSW : 1898),New South Wales,NDP00392,1898-01-15,1898-06-25
 1894,99,Hill End and Tambaroora Times and Miners' Advocate (NSW : 1871 - 1872; 1875),New South Wales,NDP00393,1871-09-23,1875-10-30
 1895,12301,The Banner of Belfast (Vic. : 1855; 1857 - 1876),Victoria,NDP00394,1855-12-15,1876-12-06
+1896,5587,,,,,
 1897,16620,The Belfast Gazette and Portland and Warnambool Advertiser (Vic. 1849 - 1876),Victoria,NDP00397,1849-04-06,1876-12-08
 1898,3723,The Footscray Advertiser (Vic.  : 1884 - 1887),Victoria,NDP00398,1884-03-14,1887-02-11
 1899,756,The Portland Mercury and Normanby Advertiser (Vic. : 1842 - 1843),Victoria,NDP00399,1842-08-31,1843-07-19
@@ -933,6 +934,7 @@ title_id,total,title,state,issn,start_date,end_date
 1901,2155,Portland Gazette and Belfast Advertiser (Vic. : 1844 - 1849),Victoria,NDP00401,1844-07-03,1849-03-23
 1902,28,The Warrnambool Examiner and Western and Western District Advertiser (Vic. :  1856),Victoria,NDP00402,1854-10-07,1856-03-14
 191,284473,"Worker (Brisbane, Qld. : 1890 - 1955)",Queensland,00438065,1890-03-01,1955-12-26
+1913,20162,The Orroroo Enterprise and Great Northern Advertiser (SA : 1892 - 1906),South Australia,NDP00414,1892-01-15,1904-12-23
 1914,3183,"Belfast Gazette (Port Fairy, Vic. : 1876 - 1890)",Victoria,NDP00403,1876-12-12,1878-07-02
 1915,136701,"The Queenslander Illustrated Weekly (Brisbane, Qld. : 1927 - 1939)",Queensland,NDP00415,1927-04-14,1939-02-22
 192,293533,Windsor and Richmond Gazette (NSW : 1888 - 1971),New South Wales,08121885,1888-07-21,1971-12-22
