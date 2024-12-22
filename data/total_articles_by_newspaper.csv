@@ -504,7 +504,7 @@ title_id,total,title,state,issn,start_date,end_date
 149,6499,Eltham and Whittlesea Shires Advertiser (Vic. : 1940 - 1942),Victoria,18380352,1940-01-12,1942-08-28
 1490,13,"Weekly Observer (Sydney, NSW : 1833)",New South Wales,26519062,1833-01-04,1833-01-04
 1491,42323,Fremantle Advocate (WA : 1926 - 1942),Western Australia,26519275,1926-08-27,1942-01-14
-1492,856108,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1954)",New South Wales,26519291,1934-07-02,1954-12-31
+1492,874393,"Border Morning Mail (Albury, NSW : 1934 - 1935; 1938 - 1954)",New South Wales,26519291,1934-07-02,1954-12-31
 1493,881,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",New South Wales,26519321,1888-12-07,1889-11-15
 1494,38979,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",Victoria,26519364,1946-10-18,1954-12-23
 1495,3864,Chiltern Leader (Vic. : 1896 - 1898),Victoria,26520346,1896-09-11,1898-03-08
@@ -589,7 +589,7 @@ title_id,total,title,state,issn,start_date,end_date
 157,5385,"Alexandra Standard and Yarck, Gobur, Thornton, Taggerty and Acheron Express (Vic. : 1949 - 1954)",Victoria,13252496,1949-07-01,1954-12-24
 1570,1885,The Moe Register and Narracan Shire Advocate (Vic. : 1888 - 1889),Victoria,NDP00070,1888-07-14,1889-03-30
 1574,254,"Progress (North Fitzroy, Vic. : 1889 - 1890)",Victoria,NDP00074,1889-10-01,1890-08-01
-1575,27102,Box Hill Reporter (Vic. : 1925 - 1950),Victoria,NDP00075,1925-04-03,1950-12-22
+1575,44102,Box Hill Reporter (Vic. : 1925 - 1950),Victoria,NDP00075,1925-04-03,1950-12-22
 1576,339,"Die Deutsche Post für die Australischen Colonien = The German Australian Post (Adelaide, SA : 1848 - 1851)",South Australia,NDP00076,1848-07-20,1850-09-12
 1577,14,"Deutsche Zeitung fur Sud-Australien = German Times for South Australia (Tanunda, SA : 1851)",South Australia,NDP00077,1851-03-14,1851-03-21
 1578,146559,"The Catholic Advocate (Brisbane, Qld. : 1911 - 1934; 1936 - 1938)",Queensland,NDP00078,1911-06-17,1938-03-31
@@ -705,7 +705,7 @@ title_id,total,title,state,issn,start_date,end_date
 1681,9900,"The Coromandel Times (Blackwood, SA : 1970 - 1976)",South Australia,NDP00181,1970-08-20,1976-03-18
 1683,1919,"The Prospecter (Fitzroy, SA : 1978 - 1984)",South Australia,NDP00183,1978-12-01,1984-12-01
 1684,23798,"The Australian Jewish Herald (Melbourne, Vic. : 1920 - 1933)",Victoria,NDP00186,1920-10-15,1933-10-12
-1685,723788,"The Australian Jewish News (Melbourne, Vic. : 1935 - 1999)",Victoria,NDP00187,1935-05-24,1999-12-24
+1685,724240,"The Australian Jewish News (Melbourne, Vic. : 1935 - 1999)",Victoria,NDP00187,1935-05-24,1999-12-24
 1686,3816,"Australier Leben = Australian Life (Melbourne, Vic. : 1931 - 1933)",Victoria,NDP00188,1931-01-16,1933-10-20
 1687,19725,"The Westralian Judean (Perth, WA : 1924 - 1925; 1929 - 1955)",Western Australia,NDP00189,1924-11-01,1955-09-01
 1688,59,"The Australian Hebrew Times (Sydney, NSW : 1894)",New South Wales,NDP00190,1894-01-05,1894-02-09
@@ -826,7 +826,7 @@ title_id,total,title,state,issn,start_date,end_date
 1801,34847,Australian Army (National : 1959 -1980),National,NDP00300,1959-09-10,1980-09-25
 1802,78715,Army (National : 1980 - 2023),National,NDP00301,1980-10-09,2023-12-07
 1803,2794,Army Magazine (National : 1989 - 2002),National,NDP00302,1989-08-01,2002-08-01
-1804,97790,Royal Australian Navy News (National : 1958 - 2023),National,NDP00303,1958-07-18,2023-12-07
+1804,97775,Royal Australian Navy News (National : 1958 - 2023),National,NDP00303,1958-07-18,2023-12-07
 1805,145,The Maylands and Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
 1806,48,"Common Wealth (Perth, WA : 1933)",Western Australia,NDP00305,1933-09-15,1933-10-13
 1807,18983,"The Groper (Perth, WA : 1930 - 1937)",Western Australia,NDP00306,1930-10-04,1937-07-31
@@ -923,8 +923,8 @@ title_id,total,title,state,issn,start_date,end_date
 1892,42,"The Sunny Corner Silver Press and Miners' Advocate (Mitchell, NSW :  1886)",New South Wales,NDP00391,1886-03-20,1886-03-27
 1893,999,The Captain's Flat Mining Record (NSW : 1898),New South Wales,NDP00392,1898-01-15,1898-06-25
 1894,99,Hill End and Tambaroora Times and Miners' Advocate (NSW : 1871 - 1872; 1875),New South Wales,NDP00393,1871-09-23,1875-10-30
-1895,12296,The Banner of Belfast (Vic. : 1855; 1857 - 1876),Victoria,NDP00394,1855-12-15,1876-12-06
-1896,5587,"Bunyip and Garfield Express : Nar-Nar-Goon, Tynong, Pakenham and Bunyip South representative (Vic. : 1938 - 1948)",Victoria,NDP00395,1939-01-06,1944-12-22
+1895,12304,The Banner of Belfast (Vic. : 1855; 1857 - 1876),Victoria,NDP00394,1855-12-15,1876-12-06
+1896,18102,"Bunyip and Garfield Express : Nar-Nar-Goon, Tynong, Pakenham and Bunyip South representative (Vic. : 1938 - 1948)",Victoria,NDP00395,1938-01-07,1948-12-24
 1897,16620,The Belfast Gazette and Portland and Warnambool Advertiser (Vic. 1849 - 1876),Victoria,NDP00397,1849-04-06,1876-12-08
 1898,3723,The Footscray Advertiser (Vic.  : 1884 - 1887),Victoria,NDP00398,1884-03-14,1887-02-11
 1899,756,The Portland Mercury and Normanby Advertiser (Vic. : 1842 - 1843),Victoria,NDP00399,1842-08-31,1843-07-19
@@ -937,12 +937,15 @@ title_id,total,title,state,issn,start_date,end_date
 1913,20162,The Orroroo Enterprise and Great Northern Advertiser (SA : 1892 - 1906),South Australia,NDP00414,1892-01-15,1904-12-23
 1914,3183,"Belfast Gazette (Port Fairy, Vic. : 1876 - 1890)",Victoria,NDP00403,1876-12-12,1878-07-02
 1915,136701,"The Queenslander Illustrated Weekly (Brisbane, Qld. : 1927 - 1939)",Queensland,NDP00415,1927-04-14,1939-02-22
-1919,6893,,,,,
+1919,15137,,,,,
 192,293533,Windsor and Richmond Gazette (NSW : 1888 - 1971),New South Wales,08121885,1888-07-21,1971-12-22
-1922,611,,,,,
+1920,4147,,,,,
+1921,7316,,,,,
+1922,1781,,,,,
 193,152694,Williamstown Chronicle (Vic. : 1856 - 1954),Victoria,18387144,1856-09-13,1954-12-23
 1932,10514,"Hanho Tʻaimzŭ = Hanho Times (Sydney, NSW : 1985 - 1995)",New South Wales,NDP00435,1985-01-11,1995-01-20
 1933,84,,,,,
+1934,4222,,,,,
 194,24474,"The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)",Victoria,18384773,1888-02-18,1902-01-04
 195,30949,Kerang Times and Swan Hill Gazette (Vic. : 1877 - 1889),Victoria,18384838,1877-09-14,1894-11-09
 196,14113,Kyabram Union (Vic. : 1886 - 1894),Victoria,18384811,1886-05-28,1894-03-09
@@ -1421,7 +1424,7 @@ title_id,total,title,state,issn,start_date,end_date
 626,45,Clear Hills Standard and Daysdale and Saverneke Times (NSW : 1914),New South Wales,22022147,1914-06-20,1914-06-20
 627,8660,Albury Banner Wodonga Express and Riverina Stock Journal (NSW : 1941),New South Wales,22023372,1941-01-03,1941-09-12
 628,8627,"Daily Witness (Young, NSW : 1923 - 1924)",New South Wales,22023380,1923-11-05,1924-06-20
-629,659172,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
+629,659184,Maitland Mercury (NSW : 1939 - 1955),New South Wales,22023410,1939-12-26,1955-05-05
 63,29493,"Centralian Advocate (Alice Springs, NT : 1947 - 1954)",Northern Territory,14471647,1947-05-24,1954-12-24
 630,23611,"Construction and Real Estate Journal (Sydney, NSW : 1930 - 1938)",New South Wales,22020470,1930-07-30,1938-05-11
 631,4509,The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881),New South Wales,22023828,1879-02-27,1881-10-13
