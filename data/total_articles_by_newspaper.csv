@@ -934,7 +934,7 @@ title_id,total,title,state,issn,start_date,end_date
 1901,2155,Portland Gazette and Belfast Advertiser (Vic. : 1844 - 1849),Victoria,NDP00401,1844-07-03,1849-03-23
 1902,28,The Warrnambool Examiner and Western and Western District Advertiser (Vic. :  1856),Victoria,NDP00402,1854-10-07,1856-03-14
 191,284473,"Worker (Brisbane, Qld. : 1890 - 1955)",Queensland,00438065,1890-03-01,1955-12-26
-1913,20162,The Orroroo Enterprise and Great Northern Advertiser (SA : 1892 - 1906),South Australia,NDP00414,1892-01-15,1904-12-23
+1913,20162,The Orroroo Enterprise and Great Northern Advertiser (SA : 1892 - 1904),South Australia,NDP00414,1892-01-15,1904-12-23
 1914,3183,"Belfast Gazette (Port Fairy, Vic. : 1876 - 1890)",Victoria,NDP00403,1876-12-12,1878-07-02
 1915,136701,"The Queenslander Illustrated Weekly (Brisbane, Qld. : 1927 - 1939)",Queensland,NDP00415,1927-04-14,1939-02-22
 1919,15137,"The Brunswick and Coburg Gazette (Moonee Ponds, Vic. 1928 - 1933)",Victoria,NDP00419,1928-11-30,1932-12-23
@@ -944,7 +944,7 @@ title_id,total,title,state,issn,start_date,end_date
 1922,1781,"The Ardlethan-Beckom Times (Temora, NSW : 1924; 1936 - 1937)",New South Wales,NDP00422,1924-08-07,1957-04-17
 193,152694,Williamstown Chronicle (Vic. : 1856 - 1954),Victoria,18387144,1856-09-13,1954-12-23
 1932,10514,"Hanho Tʻaimzŭ = Hanho Times (Sydney, NSW : 1985 - 1995)",New South Wales,NDP00435,1985-01-11,1995-01-20
-1933,84,Coburg and Moreland Courier (Vic. : 1932),Victoria,NDP00434,1932-01-15,1932-01-22
+1933,84,Coburg and Moreland Courier (Vic. : 1932),Victoria,NDP00434,1932-01-15,1932-01-22
 1934,4222,"The Courier (Moreland, Vic. : 1932 - 1933)",Victoria,NDP00436,1932-01-29,1933-03-31
 194,24474,"The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)",Victoria,18384773,1888-02-18,1902-01-04
 195,30949,Kerang Times and Swan Hill Gazette (Vic. : 1877 - 1889),Victoria,18384838,1877-09-14,1894-11-09
