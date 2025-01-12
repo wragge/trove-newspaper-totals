@@ -589,7 +589,7 @@ title_id,total,title,state,issn,start_date,end_date
 157,5385,"Alexandra Standard and Yarck, Gobur, Thornton, Taggerty and Acheron Express (Vic. : 1949 - 1954)",Victoria,13252496,1949-07-01,1954-12-24
 1570,1885,The Moe Register and Narracan Shire Advocate (Vic. : 1888 - 1889),Victoria,NDP00070,1888-07-14,1889-03-30
 1574,254,"Progress (North Fitzroy, Vic. : 1889 - 1890)",Victoria,NDP00074,1889-10-01,1890-08-01
-1575,55184,Box Hill Reporter (Vic. : 1925 - 1950),Victoria,NDP00075,1925-04-03,1950-12-22
+1575,60363,Box Hill Reporter (Vic. : 1925 - 1950),Victoria,NDP00075,1925-04-03,1950-12-22
 1576,339,"Die Deutsche Post für die Australischen Colonien = The German Australian Post (Adelaide, SA : 1848 - 1851)",South Australia,NDP00076,1848-07-20,1850-09-12
 1577,14,"Deutsche Zeitung fur Sud-Australien = German Times for South Australia (Tanunda, SA : 1851)",South Australia,NDP00077,1851-03-14,1851-03-21
 1578,146559,"The Catholic Advocate (Brisbane, Qld. : 1911 - 1934; 1936 - 1938)",Queensland,NDP00078,1911-06-17,1938-03-31
@@ -600,7 +600,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,1114586,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1950-06-30
+1585,1188976,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1953-12-31
 1586,17181,The Nowra Colonist (NSW : 1892; 1899 - 1904),New South Wales,NDP00086,1892-01-13,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
@@ -693,7 +693,7 @@ title_id,total,title,state,issn,start_date,end_date
 1669,2102,Air Force News (National : 1941),National,NDP00170,1941-03-22,1941-12-20
 167,422,"The Federal Capital Pioneer Magazine (Canberra, ACT : 1926 - 1927)",ACT,1838868X,1926-10-15,1927-08-20
 1671,22376,RAAF News (National : 1960 - 1997),National,NDP00172,1941-03-22,1997-09-01
-1672,36686,Air Force News (National : 1997 - 2023),National,NDP00173,1997-10-01,2023-12-07
+1672,36668,Air Force News (National : 1997 - 2023),National,NDP00173,1997-10-01,2023-12-07
 1673,1999,Noosa Advocate (Qld. : 1911 - 1929),Queensland,NDP00174,1911-03-03,1929-06-07
 1674,13323,Noosa Advocate and Cooroora Advertiser (Qld. : 1929 - 1934),Queensland,NDP00175,1929-06-14,1934-01-31
 1675,28941,Noosa News (Qld. : 1968 - 1974),Queensland,NDP00176,1968-12-05,1974-12-26
@@ -824,7 +824,7 @@ title_id,total,title,state,issn,start_date,end_date
 180,228445,"The Inquirer and Commercial News (Perth, WA : 1855 - 1901)",Western Australia,18389767,1855-07-04,1901-06-28
 1800,8616,The Nanango News (Qld. : 1912 - 1913; 1920; 1922),Queensland,NDP00299,1912-01-06,1922-12-15
 1801,34847,Australian Army (National : 1959 -1980),National,NDP00300,1959-09-10,1980-09-25
-1802,78715,Army (National : 1980 - 2023),National,NDP00301,1980-10-09,2023-12-07
+1802,77605,Army (National : 1980 - 2023),National,NDP00301,1980-10-09,2023-12-07
 1803,2794,Army Magazine (National : 1989 - 2002),National,NDP00302,1989-08-01,2002-08-01
 1804,97775,Royal Australian Navy News (National : 1958 - 2023),National,NDP00303,1958-07-18,2023-12-07
 1805,145,The Maylands and Bayswater Chronicle (WA : 1905),Western Australia,NDP00304,1905-08-26,1905-10-14
@@ -912,7 +912,7 @@ title_id,total,title,state,issn,start_date,end_date
 1882,22987,Moruya Examiner (NSW : 1881 - 1902),New South Wales,NDP00381,1881-02-26,1902-12-30
 1883,17,The Mount Ararat Advertiser (Vic. : 1857),Victoria,NDP00382,,
 1884,8814,The Mount Ararat Advertiser and Chronicle for the District of the Wimmera (Vic. : 1857 - 1861),Victoria,NDP00383,1857-10-06,1861-05-17
-1885,31285,The Ararat and Mount Pleasant Creek Advertiser and Chronicle for the District of the Wimmera (Vic. : 1861 - 1873),Victoria,NDP00384,1861-05-21,1873-09-09
+1885,31285,The Ararat and Mount Pleasant Creek Advertiser and Chronicle for the District of the Wimmera (Vic. : 1861 - 1884),Victoria,NDP00384,1861-05-21,1873-09-09
 1886,11155,The Kangaroo Valley Times (NSW : 1898 - 1904),New South Wales,NDP00385,1898-01-04,1904-12-27
 1887,22024,"Broughton Creek Mail  (Berry, NSW : 1880 - 1881; 1891 - 1893; 1899 - 1907)",New South Wales,NDP00386,1880-05-06,1907-12-26
 1888,7057,"The Broughton Creek Register, and Kangaroo Valley and South Coast Farmer (Berry, NSW : 1886 - 1890)",New South Wales,NDP00387,1886-04-03,1890-12-27
@@ -982,7 +982,7 @@ title_id,total,title,state,issn,start_date,end_date
 225,636732,The Horsham Times (Vic. : 1882 - 1954),Victoria,18388175,1882-01-17,1954-12-31
 227,174970,The Warrnambool Standard (Vic. : 1872 - 1879 ; 1914 - 1918),Victoria,08129762,1872-10-01,1918-12-31
 228,95536,The Mildura Cultivator (Vic. : 1888 - 1920),Victoria,18387691,1888-05-19,1920-09-29
-229,132884,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1899 - 1918),Victoria,18389120,1899-05-05,1918-12-31
+229,132884,The Ararat Advertiser and Chronicle for the Stawell and Wimmera Districts (Vic. : 1885 - 1918),Victoria,18389120,1899-05-05,1918-12-31
 23,1271,"Colonial Times and Tasmanian Advertiser (Hobart, Tas. : 1825 - 1827)",Tasmania,18354718,1825-08-19,1827-12-28
 230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
 231,63627,"Independent (Footscray, Vic. : 1883 - 1922)",Victoria,18389201,1883-03-31,1922-12-23
@@ -997,7 +997,7 @@ title_id,total,title,state,issn,start_date,end_date
 24,47942,"Colonial Times (Hobart, Tas. : 1828 - 1857)",Tasmania,18354734,1828-01-04,1857-08-22
 240,375034,Bairnsdale Advertiser and Tambo and Omeo Chronicle (Vic. : 1882 - 1946),Victoria,18389139,1882-02-14,1946-06-07
 241,218117,The Colac Herald (Vic. : 1875 - 1918),Victoria,18337325,1869-12-31,1918-12-30
-242,43616,"The Essendon Gazette and Keilor, Bulla and Broadmeadows Reporter (Moonee Ponds, Vic. : 1905 - 1918)",Victoria,18390978,1905-05-04,1918-12-19
+242,43616,"The Essendon Gazette and Keilor, Bulla and Broadmeadows Reporter (Moonee Ponds, Vic. : 1905 - 1924)",Victoria,18390978,1905-05-04,1918-12-19
 243,27942,"The Lilydale Express and Yarra Glen, Wandin Yallock, Upper Yarra, Healesville and Ringwood Chronicle (Vic. : 1898 - 1914)",Victoria,1839101X,1898-01-07,1914-06-19
 244,72673,"The Reporter (Box Hill, Vic. : 1889 - 1925)",Victoria,1839096X,1889-06-26,1925-03-27
 245,54235,Brighton Southern Cross (Vic. : 1896 - 1918),Victoria,18390943,1896-01-04,1918-12-21
@@ -1696,7 +1696,7 @@ title_id,total,title,state,issn,start_date,end_date
 877,287390,"The Manning River Times and Advocate for the Northern Coast Districts of New South Wales (Taree, NSW : 1898 - 1907; 1913; 1921; 1925 - 1930; 1932 - 1954)",New South Wales,22042822,1898-01-01,1954-12-22
 878,111814,"North West Champion (Moree, NSW : 1915 - 1954)",New South Wales,22042849,1915-06-08,1954-12-30
 879,143063,The Don Dorrigo Gazette and Guy Fawkes Advocate (NSW : 1910 - 1954),New South Wales,22043322,1910-01-08,1954-12-22
-88,369696,Queanbeyan Age (NSW : 1927 - 1974),New South Wales,13208381,1927-07-26,1973-12-21
+88,387754,Queanbeyan Age (NSW : 1927 - 1974),New South Wales,13208381,1927-07-26,1974-12-20
 880,13755,The Inverell Argus (NSW : 1885; 1894; 1899; 1902 - 1904; 1910; 1914; 1921-1922; 1924),New South Wales,22043004,1885-12-19,1924-03-07
 881,195950,"The Macleay Chronicle (Kempsey, NSW : 1899 - 1952)",New South Wales,22043047,1899-01-05,1952-07-30
 882,22258,Tingha Advocate and North-Western Journal (NSW : 1916 - 1932),New South Wales,22043063,1916-01-07,1932-06-24
