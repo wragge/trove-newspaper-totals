@@ -600,7 +600,7 @@ title_id,total,title,state,issn,start_date,end_date
 1582,1027,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),Victoria,NDP00082,1891-06-06,1892-03-05
 1583,2654,The Mildura Irrigationist (Vic. : 1892 - 1893),Victoria,NDP00083,1892-03-12,1893-12-23
 1584,4026,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1895 - 1896),Victoria,NDP00084,1895-01-05,1896-06-06
-1585,1307686,"Sunraysia Daily (Mildura, Vic. : 1920 - 1950)",Victoria,NDP00085,1920-10-02,1956-12-31
+1585,1307686,"Sunraysia Daily (Mildura, Vic. : 1920 - 1956)",Victoria,NDP00085,1920-10-02,1956-12-31
 1586,17181,The Nowra Colonist (NSW : 1892; 1899 - 1904),New South Wales,NDP00086,1892-01-13,1904-12-29
 1587,53,"The News (Shoalhaven, NSW : 1867)",New South Wales,NDP00087,1867-05-11,1867-05-18
 1588,5495,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",New South Wales,NDP00088,1867-05-29,1871-06-10
@@ -924,7 +924,7 @@ title_id,total,title,state,issn,start_date,end_date
 1893,999,The Captain's Flat Mining Record (NSW : 1898),New South Wales,NDP00392,1898-01-15,1898-06-25
 1894,99,Hill End and Tambaroora Times and Miners' Advocate (NSW : 1871 - 1872; 1875),New South Wales,NDP00393,1871-09-23,1875-10-30
 1895,12304,The Banner of Belfast (Vic. : 1855; 1857 - 1876),Victoria,NDP00394,1855-12-15,1876-12-06
-1896,18102,"Bunyip and Garfield Express : Nar-Nar-Goon, Tynong, Pakenham and Bunyip South representative (Vic. : 1938 - 1948)",Victoria,NDP00395,1938-01-07,1948-12-24
+1896,18102,"Bunyip and Garfield Express : Nar-Nar-Goon, Tynong, Pakenham and Bunyip South Representative (Vic. : 1938 - 1948)",Victoria,NDP00395,1938-01-07,1948-12-24
 1897,16620,The Belfast Gazette and Portland and Warnambool Advertiser (Vic. 1849 - 1876),Victoria,NDP00397,1849-04-06,1876-12-08
 1898,3723,The Footscray Advertiser (Vic.  : 1884 - 1887),Victoria,NDP00398,1884-03-14,1887-02-11
 1899,756,The Portland Mercury and Normanby Advertiser (Vic. : 1842 - 1843),Victoria,NDP00399,1842-08-31,1843-07-19
@@ -933,8 +933,9 @@ title_id,total,title,state,issn,start_date,end_date
 1900,617,The Portland Mercury and Port Fairy Register (Vic. : 1843 - 1844),Victoria,NDP00400,1843-07-28,1844-06-26
 1901,2155,Portland Gazette and Belfast Advertiser (Vic. : 1844 - 1849),Victoria,NDP00401,1844-07-03,1849-03-23
 1902,28,The Warrnambool Examiner and Western and Western District Advertiser (Vic. :  1856),Victoria,NDP00402,1854-10-07,1856-03-14
+1903,21746,The Moree News (NSW : 1899; 1902 - 1907),New South Wales,NDP00404,1902-01-03,1907-12-31
 191,284473,"Worker (Brisbane, Qld. : 1890 - 1955)",Queensland,00438065,1890-03-01,1955-12-26
-1912,6495,,,,,
+1912,20986,The Yarrawonga Mercury and Tungamah and Lake Rowan Express and St. James Gazette (Vic. : 1927 - 1936),Victoria,NDP00413,1927-10-07,1934-07-27
 1913,20162,The Orroroo Enterprise and Great Northern Advertiser (SA : 1892 - 1904),South Australia,NDP00414,1892-01-15,1904-12-23
 1914,3183,"Belfast Gazette (Port Fairy, Vic. : 1876 - 1890)",Victoria,NDP00403,1876-12-12,1878-07-02
 1915,136701,"The Queenslander Illustrated Weekly (Brisbane, Qld. : 1927 - 1939)",Queensland,NDP00415,1927-04-14,1939-02-22
@@ -987,7 +988,7 @@ title_id,total,title,state,issn,start_date,end_date
 23,1271,"Colonial Times and Tasmanian Advertiser (Hobart, Tas. : 1825 - 1827)",Tasmania,18354718,1825-08-19,1827-12-28
 230,14952,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",Victoria,18387187,1885-06-20,1894-09-29
 231,63627,"Independent (Footscray, Vic. : 1883 - 1922)",Victoria,18389201,1883-03-31,1922-12-23
-232,463412,The Ballarat Courier (Vic. : 1869 - 1896; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
+232,477747,The Ballarat Courier (Vic. : 1869 - 1896; 1914 - 1918),Victoria,08196818,1869-12-01,1918-12-31
 233,1997,"Frankston Standard (Frankston, Vic. : 1949)",Victoria,18388205,1949-08-04,1949-12-21
 234,2108,"Queenscliff Sentinel, Drysdale, ... (Vic. : 1882 - 1884)",Victoria,18387160,1882-12-02,1884-12-20
 235,1155,The Queenscliff Sentinel (Vic. : 1884 - 1885),Victoria,18387179,1884-12-27,1885-06-13
@@ -1096,7 +1097,7 @@ title_id,total,title,state,issn,start_date,end_date
 328,15084,Preston Leader (Vic. : 1914 - 1918),Victoria,22001190,1914-01-10,1918-12-21
 329,7733,Ringwood and Croydon Chronicle (Vic. : 1914 - 1918),Victoria,22001778,1914-08-07,1918-12-20
 33,18730,The Hobart Town Daily Mercury (Tas. : 1858 - 1860),Tasmania,18356729,1858-01-01,1860-06-30
-330,20886,"Snowy River Mail (Orbost, Vic. : 1911 - 1918)",Victoria,22000739,1911-09-07,1918-12-20
+330,20886,"Snowy River Mail (Orbost, Vic. : 1911 - 1970)",Victoria,22000739,1911-09-07,1918-12-20
 331,395100,Shepparton Advertiser (Vic. : 1887 - 1953),Victoria,22000658,1887-01-18,1953-06-26
 332,63597,Melton Express (Vic. : 1915 - 1943),Victoria,22000755,1915-01-09,1943-08-21
 333,10393,Moorabbin News (Vic. : 1914 - 1918),Victoria,22000690,1914-01-10,1918-12-21
@@ -1378,7 +1379,7 @@ title_id,total,title,state,issn,start_date,end_date
 584,15305,Myrtleford Mail and Whorouly Witness (Vic. : 1914 - 1918),Victoria,22018077,1914-01-08,1918-12-19
 585,70910,Nagambie Times (Vic. : 1882 - 1920),Victoria,22017925,1882-02-10,1920-12-24
 586,81678,The Narracan Shire Advocate (Vic. : 1889 - 1923),Victoria,22018115,1889-04-06,1923-06-15
-587,76447,"The Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1884 - 1918)",Victoria,22017941,1884-02-08,1920-12-21
+587,81221,"The Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1884 - 1918)",Victoria,22017941,1884-02-08,1924-02-05
 588,24013,Nhill Free Press (Vic. : 1914 - 1918),Victoria,2201926X,1914-01-06,1918-12-31
 589,17274,Northcote Leader (Vic. : 1914 - 1918),Victoria,22020144,1914-01-10,1918-12-21
 59,155782,Burra Record (SA : 1878 - 1954),South Australia,18373437,1878-07-05,1954-12-21
@@ -1524,7 +1525,7 @@ title_id,total,title,state,issn,start_date,end_date
 718,1173,The Port Adelaide Gazette (SA : 1930),South Australia,22030433,1930-01-10,1930-05-02
 719,18,"The Port Adelaide Post Shipping Gazette, Farmers and Commercial Register (Port Adelaide, SA : 1876)",South Australia,22030417,1876-07-22,1876-07-22
 72,5704,"Illustrated Australian News for Home Readers (Melbourne, Vic. : 1867 - 1875)",Victoria,18373577,1867-07-20,1875-12-29
-720,3827,"The Bega Standard and Candelo, Merimbula, Pambula, Eden, Wolumla, and General Advertiser (NSW : 1876 - 1884)",New South Wales,2203045X,1876-01-01,1884-10-15
+720,3827,"The Bega Standard and Candelo, Merimbula, Pambula, Eden, Wolumla, and General Advertiser (NSW : 1876; 1879; 1882 - 1884)",New South Wales,2203045X,1876-01-01,1884-10-15
 721,12497,The Blayney Advocate and Carcoar Herald (NSW : 1898 - 1904),New South Wales,22030476,1898-01-01,1904-12-31
 722,86736,"The Broadcaster (Fairfield, NSW : 1935 - 1978)",New South Wales,22030395,1935-01-31,1978-05-23
 723,3768,The Canowindra Star (NSW : 1900 - 1902),New South Wales,22030506,1900-04-06,1902-03-28
